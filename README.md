@@ -3,6 +3,7 @@ A curated text corpus of writings by Pyotr Kropotkin, prepared for computational
 This repository contains cleaned and compiled text from public-domain works by Kropotkin, organized as a machine-readable dataset.
 
 ## Contents
+```
 /
 ├── data/
 │   ├── raw/                  # Source text files
@@ -10,7 +11,7 @@ This repository contains cleaned and compiled text from public-domain works by K
 ├── compileCorpus.R           # Script used to build the corpus
 ├── krobotkin.Rproj
 └── README.md
-
+```
 
 **data/raw** – Original source texts (public domain)
 
