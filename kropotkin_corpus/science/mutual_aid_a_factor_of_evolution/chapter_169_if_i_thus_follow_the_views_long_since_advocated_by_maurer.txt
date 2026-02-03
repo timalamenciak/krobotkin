@@ -1,0 +1,32 @@
+TITLE: Mutual Aid: A Factor of Evolution
+AUTHOR: Peter Kropotkin
+YEAR: 1902
+SOURCE_ID: pg_4341
+SOURCE_PATH: data/raw/4341.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/4341
+RETRIEVED_UTC: 2026-02-03T19:50:46Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+14. If I thus follow the views long since advocated by Maurer
+(Geschichte der Stadteverfassung in Deutschland, Erlangen, 1869), it is
+because he has fully proved the uninterrupted evolution from the village
+community to the mediaeval city, and that his views alone can explain
+the universality of the communal movement. Savigny and Eichhorn and
+their followers have certainly proved that the traditions of the Roman
+municipia had never totally disappeared. But they took no account of the
+village community period which the barbarians lived through before they
+had any cities. The fact is, that whenever mankind made a new start in
+civilization, in Greece, Rome, or middle Europe, it passed through the
+same stages--the tribe, the village community, the free city, the
+state--each one naturally evolving out of the preceding stage. Of
+course, the experience of each preceding civilization was never lost.
+Greece (itself influenced by Eastern civilizations) influenced Rome, and
+Rome influenced our civilization; but each of them begin from the same
+beginning--the tribe. And just as we cannot say that our states are
+continuations of the Roman state, so also can we not say that the
+mediaeval cities of Europe (including Scandinavia and Russia) were a
+continuation of the Roman cities. They were a continuation of the
+barbarian village community, influenced to a certain extent by the
+traditions of the Roman towns.
+

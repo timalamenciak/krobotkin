@@ -1,0 +1,121 @@
+TITLE: Fields, Factories and Workshops
+AUTHOR: Peter Kropotkin
+YEAR: 1899
+SOURCE_ID: pg_64353
+SOURCE_PATH: data/raw/64353-0.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/64353
+RETRIEVED_UTC: 2026-02-03T19:51:13Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+1906. He considers the cost quite small, in comparison with the
+increased value of the crops. With £100 per _Morgen_, spent for the
+installation, and £10 every spring for heating, the author estimates
+the increase in the value of crops (earlier vegetables) at £100 every
+year. (Report to the German _Landwirthschafts Gesellschaft_, 1906.)
+
+[60] “Portable soil” is not the latest departure in agriculture. The
+last one is the watering of the soil with special liquids containing
+special microbes. It is a fact that chemical manures, without organic
+manure, seldom prove to be sufficient. On the other hand, it was
+discovered lately that certain microbes in the soil are a necessary
+condition for the growth of plants. Hence the idea of _sowing_ the
+beneficent microbes, which rapidly develop in the soil and fertilise
+it. We certainly shall soon hear more of this new method, which is
+experimented upon on a large scale in Germany, in order to transform
+peat-bogs and heavy soils into rich meadows and fields.
+
+[61] Ponce, _La culture maraîchère_, 1869; Gressent, _Le potager
+moderne_, 7th edition in 1886; Courtois-Gérard, _Manuel pratique
+de culture maraîchère_, 1863; L. G. Gillekens, _Cours pratique
+de culture maraîchère_, Bruxelles, 1895; Vilmorin, _Le bon
+jardinier_ (almanac). The general reader who cares to know about
+the productivity of the soil will find plenty of examples, well
+classified, in the most interesting work _La Répartition métrique des
+impôts_, by A. Toubeau, 2 vols., 1880. I do not quote many excellent
+English manuals, but I must remark that the market-gardening culture
+in this country has also obtained results very highly prized by the
+Continental gardeners, and that the chief reproach to be addressed
+to it is its relatively small extension. French market-gardening
+having been lately introduced into England, several manuals have been
+published for that purpose. The little work, _French Gardening_, by
+Thomas Smith, London (Utopia Press), 1909, deserves special mention,
+as it contains the results of one year’s observation of the work
+of a French gardener, specially invited to England by Mr. Joseph
+Fels, and gives (with illustrations) a mass of practical indications
+and numerical data as to the cost and the value of the produce.
+A subsequent work of the same author, _The Profitable Culture of
+Vegetables for Market Gardeners, Small Holders, and Others_, London
+(Longmans, Green), 1911, deals in detail with the ordinary culture of
+vegetables and the intensive culture of the French gardeners.
+
+[62] _Manuel pratique de culture maraîchère_, by Courtois-Gérard, 4th
+edit., 1868.
+
+[63] Already it is partly removed in France and Belgium, owing to the
+public laboratories where analyses of seeds and manure are made free.
+The falsifications discovered by these laboratories exceed all that
+could have been imagined. Manures, containing only one-fifth part of
+the nutritious elements they were supposed to contain, were found to
+be quite common; while manures containing injurious matters, and no
+nutritious parts whatever, were not unfrequently supplied by firms of
+“respectable” repute. With seeds, things stand even worse. Samples
+of grass seeds which contained 20 per cent. of injurious grasses, or
+20 per cent. of grains of sand, so coloured as to deceive the buyer,
+or even 10 per cent. of a deadly poisonous grass, passed through the
+Ghent laboratory.
+
+[64] During the winter of 1890 a friend of mine, who lived in a
+London suburb, used to get his butter from Bavaria _per parcel post_.
+It cost him 10s. the eleven pounds in Bavaria, parcel post inclusive
+(2s. 2d.), 6d. for the money order, and 2½d. the letter; total, less
+than 11s. Butter of an inferior quality (out of comparison), with 10
+to 15 per cent. of water inclusive, was sold in London at 1s. 6d. the
+lb. at the same time.
+
+[65] The data for the calculation of the cost of production of wheat
+in this country are those given by the _Mark Lane Express_; they
+will be found in a digestible form in an article on wheat-growing in
+the _Quarterly Review_ for April, 1887, and in W. E. Bear’s book,
+_The British Farmer and his Competitors_, London (Cassell), 1888.
+Although they are a little above the average, the crop taken for
+the calculations is also above the average. A similar inquiry has
+been made on a large scale by the Russian Provincial Assemblies,
+and the whole was summed up in an elaborate paper, in the _Vyestnik
+Promyshlennosti_, No. 49, 1887. To compare the paper kopecks with
+pence I took the rouble at 63/100 of its nominal value: such was its
+average quotation during the year 1886. I took 475 English lb. in the
+quarter of wheat.
+
+[66] The rents have declined since 1887, but the prices of wheat also
+went down. It must not be forgotten that as the best acres only are
+selected for wheat-growing, the rent for each acre upon which wheat
+is grown must be taken higher than the average rent per acre in a
+farm of from 200 to 300 acres.
+
+[67] L. de Lavergne pointed out as far back as fifty years ago that
+the States were at that time the chief importers of guano. Already in
+1854 they imported it almost to the same amount as this country, and
+they had, moreover, sixty-two manufactories of guano which supplied
+it to the amount of sixteen times the imports. Compare also Ronna’s
+_L’agriculture aux Etats Unis_, 1881; Lecouteux, _Le blé_; and J. R.
+Dodge’s _Annual Report of the American Department of Agriculture_ for
+1885 and 1886. Schaeffle’s work was also summed up in Schmoller’s
+_Jahrbuch_.
+
+[68] See also J. R. Dodge’s _Farm and Factory_, New York, 1884.
+
+[69] Some additional information on this subject will be found in the
+articles of mine: “Some Resources of Canada,” and “Recent Science,”
+in the _Nineteenth Century_, January, 1898, and October, 1897. I see
+from the _Experimented Farms’ Reports_ for 1909 that on the average
+38,000 samples of seeds are sent in this way to the farmers every
+year; in 1909 more than 38,000 farmers united in experiments as to
+the relative merits of the different sorts of wheat, oats, and barley
+under trial. I think that my friend, Dr. William Saunders, is quite
+right in saying that this system of supplying a great number of
+farmers with small quantities of choice seeds has contributed notably
+to increase the yield of corn in Canada.
+
+[70] _L’Horticulture dans les cinq Parties du Monde._ Paris, 1895.
+

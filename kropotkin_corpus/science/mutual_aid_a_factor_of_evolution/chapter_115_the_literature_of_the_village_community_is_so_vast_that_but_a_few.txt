@@ -1,0 +1,37 @@
+TITLE: Mutual Aid: A Factor of Evolution
+AUTHOR: Peter Kropotkin
+YEAR: 1902
+SOURCE_ID: pg_4341
+SOURCE_PATH: data/raw/4341.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/4341
+RETRIEVED_UTC: 2026-02-03T19:50:45Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+4. The literature of the village community is so vast that but a few
+works can be named. Those of Sir Henry Maine, Mr. Seebohm, and Walter's
+Das alte Wallis (Bonn, 1859), are well-known popular sources of
+information about Scotland, Ireland, and Wales. For France, P. Viollet,
+Precis de l'histoire du droit francais. Droit prive, 1886, and several
+of his monographs in Bibl. de l'Ecole des Chartes; Babeau, Le Village
+sous l'ancien regime (the mir in the eighteenth century), third edition,
+1887; Bonnemere, Doniol, etc. For Italy and Scandinavia, the chief works
+are named in Laveleye's Primitive Property, German version by K. Bucher.
+For the Finns, Rein's Forelasningar, i. 16; Koskinen, Finnische
+Geschichte, 1874, and various monographs. For the Lives and Coures,
+Prof. Lutchitzky in Severnyi Vestnil, 1891. For the Teutons, besides the
+well-known works of Maurer, Sohm (Altdeutsche Reichs-und
+Gerichts-Verfassung), also Dahn (Urzeit, Volkerwanderung, Langobardische
+Studien), Janssen, Wilh. Arnold, etc. For India, besides H. Maine and
+the works he names, Sir John Phear's Aryan Village. For Russia and South
+Slavonians, see Kavelin, Posnikoff, Sokolovsky, Kovalevsky, Efimenko,
+Ivanisheff, Klaus, etc. (copious bibliographical index up to 1880 in the
+Sbornik svedeniy ob obschinye of the Russ. Geog. Soc.). For general
+conclusions, besides Laveleye's Propriete, Morgan's Ancient Society,
+Lippert's Kulturgeschichte, Post, Dargun, etc., also the lectures of M.
+Kovalevsky (Tableau des origines et de l'evolution de la famille et de
+la propriete, Stockholm, 1890). Many special monographs ought to be
+mentioned; their titles may be found in the excellent lists given by P.
+Viollet in Droit prive and Droit public. For other races, see subsequent
+notes.
+

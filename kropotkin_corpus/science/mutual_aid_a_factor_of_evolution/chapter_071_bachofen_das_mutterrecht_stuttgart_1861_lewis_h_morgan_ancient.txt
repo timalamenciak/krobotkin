@@ -1,0 +1,36 @@
+TITLE: Mutual Aid: A Factor of Evolution
+AUTHOR: Peter Kropotkin
+YEAR: 1902
+SOURCE_ID: pg_4341
+SOURCE_PATH: data/raw/4341.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/4341
+RETRIEVED_UTC: 2026-02-03T19:50:44Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+7. Bachofen, Das Mutterrecht, Stuttgart, 1861; Lewis H. Morgan, Ancient
+Society, or Researches in the Lines of Human Progress from Savagery
+through Barbarism to Civilization, New York, 1877; J.F. MacLennan,
+Studies in Ancient History, 1st series, new edition, 1886; 2nd series,
+1896; L. Fison and A.W. Howitt, Kamilaroi and Kurnai, Melbourne. These
+four writers--as has been very truly remarked by Giraud
+Teulon,--starting from different facts and different general ideas, and
+following different methods, have come to the same conclusion. To
+Bachofen we owe the notion of the maternal family and the maternal
+succession; to Morgan--the system of kinship, Malayan and Turanian, and
+a highly gifted sketch of the main phases of human evolution; to
+MacLennan--the law of exogeny; and to Fison and Howitt--the cuadro, or
+scheme, of the conjugal societies in Australia. All four end in
+establishing the same fact of the tribal origin of the family. When
+Bachofen first drew attention to the maternal family, in his
+epoch-making work, and Morgan described the clan-organization,--both
+concurring to the almost general extension of these forms and
+maintaining that the marriage laws lie at the very basis of the
+consecutive steps of human evolution, they were accused of exaggeration.
+However, the most careful researches prosecuted since, by a phalanx of
+students of ancient law, have proved that all races of mankind bear
+traces of having passed through similar stages of development of
+marriage laws, such as we now see in force among certain savages. See
+the works of Post, Dargun, Kovalevsky, Lubbock, and their numerous
+followers: Lippert, Mucke, etc.
+

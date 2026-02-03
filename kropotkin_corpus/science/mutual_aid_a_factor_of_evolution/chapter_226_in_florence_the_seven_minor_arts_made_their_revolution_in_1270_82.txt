@@ -1,0 +1,32 @@
+TITLE: Mutual Aid: A Factor of Evolution
+AUTHOR: Peter Kropotkin
+YEAR: 1902
+SOURCE_ID: pg_4341
+SOURCE_PATH: data/raw/4341.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/4341
+RETRIEVED_UTC: 2026-02-03T19:50:48Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+14. In Florence the seven minor arts made their revolution in 1270-82,
+and its results are fully described by Perrens (Histoire de Florence,
+Paris, 1877, 3 vols.), and especially by Gino Capponi (Storia della
+repubblica di Firenze, 2da edizione, 1876, i. 58-80; translated into
+German). In Lyons, on the contrary, where the movement of the minor
+crafts took place in 1402, the latter were defeated and lost the right
+of themselves nominating their own judges. The two parties came
+apparently to a compromise. In Rostock the same movement took place in
+1313; in Zurich in 1336; in Bern in 1363; in Braunschweig in 1374, and
+next year in Hamburg; in Lubeck in 1376-84; and so on. See Schmoller's
+Strassburg zur Zeit der Zunftkampfe and Strassburg's Bluthe; Brentano's
+Arbeitergilden der Gegenwart, 2 vols., Leipzig, 1871-72; Eb. Bain's
+Merchant and Craft Guilds, Aberdeen, 1887, pp. 26-47, 75, etc. As to Mr.
+Gross's opinion relative to the same struggles in England, see Mrs.
+Green's remarks in her Town Life in the Fifteenth Century, ii. 190-217;
+also the chapter on the Labour Question, and, in fact, the whole of this
+extremely interesting volume. Brentano's views on the crafts' struggles,
+expressed especially in iii. and iv. of his essay "On the History and
+Development of Guilds," in Toulmin Smith's English Guilds remain
+classical for the subject, and may be said to have been again and again
+confirmed by subsequent research.
+

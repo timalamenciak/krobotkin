@@ -1,0 +1,30 @@
+TITLE: Mutual Aid: A Factor of Evolution
+AUTHOR: Peter Kropotkin
+YEAR: 1902
+SOURCE_ID: pg_4341
+SOURCE_PATH: data/raw/4341.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/4341
+RETRIEVED_UTC: 2026-02-03T19:50:50Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+19. Many rich people cannot understand how the very poor can help each
+other, because they do not realize upon what infinitesimal amounts of
+food or money often hangs the life of one of the poorest classes. Lord
+Shaftesbury had understood this terrible truth when he started his
+Flowers and Watercress Girls' Fund, out of which loans of one pound, and
+only occasionally two pounds, were granted, to enable the girls to buy a
+basket and flowers when the winter sets in and they are in dire
+distress. The loans were given to girls who had "not a sixpence," but
+never failed to find some other poor to go bail for them. "Of all the
+movements I have ever been connected with," Lord Shaftesbury wrote, "I
+look upon this Watercress Girls' movement as the most successful.... It
+was begun in 1872, and we have had out 800 to 1,000 loans, and have not
+lost 50l. during the whole period.... What has been lost--and it has
+been very little, under the circumstances--has been by reason of death
+or sickness, not by fraud" (The Life and Work of the Seventh Earl of
+Shaftesbury, by Edwin Hodder, vol. iii. p. 322. London, 1885-86).
+Several more facts in point in Ch. Booth's Life and Labour in London,
+vol. i; in Miss Beatrice Potter's "Pages from a Work Girl's Diary"
+(Nineteenth Century, September 1888, p. 310); and so on.
+

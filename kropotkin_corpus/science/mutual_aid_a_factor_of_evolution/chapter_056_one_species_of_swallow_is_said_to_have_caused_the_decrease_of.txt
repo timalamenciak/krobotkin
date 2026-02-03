@@ -1,0 +1,41 @@
+TITLE: Mutual Aid: A Factor of Evolution
+AUTHOR: Peter Kropotkin
+YEAR: 1902
+SOURCE_ID: pg_4341
+SOURCE_PATH: data/raw/4341.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/4341
+RETRIEVED_UTC: 2026-02-03T19:50:43Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+32. One species of swallow is said to have caused the decrease of
+another swallow species in North America; the recent increase of the
+missel-thrush in Scotland has caused the decrease of the song-thrush;
+the brown rat has taken the place of the black rat in Europe; in Russia
+the small cockroach has everywhere driven before it its greater
+congener; and in Australia the imported hive-bee is rapidly
+exterminating the small stingless bee. Two other cases, but relative to
+domesticated animals, are mentioned in the preceding paragraph. While
+recalling these same facts, A.R. Wallace remarks in a footnote relative
+to the Scottish thrushes: "Prof. A. Newton, however, informs me that
+these species do not interfere in the way here stated" (Darwinism, p.
+34). As to the brown rat, it is known that, owing to its amphibian
+habits, it usually stays in the lower parts of human dwellings (low
+cellars, sewers, etc.), as also on the banks of canals and rivers; it
+also undertakes distant migrations in numberless bands. The black rat,
+on the contrary, prefers staying in our dwellings themselves, under the
+floor, as well as in our stables and barns. It thus is much more exposed
+to be exterminated by man; and we cannot maintain, with any approach to
+certainty, that the black rat is being either exterminated or starved
+out by the brown rat and not by man.
+
+33. "But it may be urged that when several closely-allied species
+inhabit the same territory, we surely ought to find at the present time
+many transitional forms.... By my theory these allied species are
+descended from a common parent; and during the process of modification,
+each has become adapted to the conditions of life of its own region, and
+has supplanted and exterminated its original parent-form and all the
+transitional varieties between its past and present states" (Origin of
+Species, 6th ed. p. 134); also p. 137, 296 (all paragraph "On
+Extinction").
+

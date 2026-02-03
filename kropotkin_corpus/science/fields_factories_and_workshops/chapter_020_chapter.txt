@@ -1,0 +1,1694 @@
+TITLE: Fields, Factories and Workshops
+AUTHOR: Peter Kropotkin
+YEAR: 1899
+SOURCE_ID: pg_64353
+SOURCE_PATH: data/raw/64353-0.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/64353
+RETRIEVED_UTC: 2026-02-03T19:51:10Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+CHAPTER III.
+
+THE POSSIBILITIES OF AGRICULTURE.
+
+  The development of agriculture--Over-population prejudice--Can
+  the soil of Great Britain feed its inhabitants?--British
+  agriculture--Compared with agriculture in France; in Belgium; in
+  Denmark--Market-gardening; its achievements--Is it profitable to
+  grow wheat in Great Britain?--American agriculture: intensive
+  culture in the States.
+
+The industrial and commercial history of the world during the last
+fifty years has been a history of decentralisation of industry.
+It was not a mere shifting of the centre of gravity of commerce,
+such as Europe witnessed in the past, when the commercial hegemony
+migrated from Italy to Spain, to Holland, and finally to Britain:
+it had a much deeper meaning, as it excluded the very possibility
+of commercial or industrial hegemony. It has shown the growth of
+quite new conditions, and new conditions require new adaptations. To
+endeavour to revive the past would be useless: a new departure must
+be taken by civilised nations.
+
+Of course, there will be plenty of voices to argue that the former
+supremacy of the pioneers must be maintained at any price: all
+pioneers are in the habit of saying so. It will be suggested that the
+pioneers must attain such a superiority of technical knowledge and
+organisation as to enable them to beat all their younger competitors;
+that force must be resorted to if necessary. But force is reciprocal;
+and if the god of war always sides with the strongest battalions,
+those battalions are strongest which fight for new rights against
+outgrown privileges. As to the honest longing for more technical
+education--surely let us all have as much of it as possible: it
+will be a boon for humanity; for humanity, of course--not for a
+single nation, because knowledge cannot be cultivated for home use
+only. Knowledge and invention, boldness of thought and enterprise,
+conquests of genius and improvements of social organisation have
+become international growths; and no kind of progress--intellectual,
+industrial or social--can be kept within political boundaries;
+it crosses the seas, it pierces the mountains; steppes are no
+obstacle to it. Knowledge and inventive powers are now so thoroughly
+international that if a simple newspaper paragraph announces
+to-morrow that the problem of storing force, of printing without
+inking, or of aerial navigation, has received a practical solution in
+one country of the world, we may feel sure that within a few weeks
+the same problem will be solved, almost in the same way, by several
+inventors of different nationalities.[34] Continually we learn that
+the same scientific discovery, or technical invention, has been made
+within a few days’ distance, in countries a thousand miles apart; as
+if there were a kind of atmosphere which favours the germination of a
+given idea at a given moment. And such an atmosphere exists: steam,
+print and the common stock of knowledge have created it.
+
+Those who dream of monopolising technical genius are therefore
+fifty years behind the times. The world--the wide, wide world--is
+now the true domain of knowledge; and if each nation displays some
+special capacities in some special branch, the various capacities of
+different nations compensate one another, and the advantages which
+could be derived from them would be only temporary. The fine British
+workmanship in mechanical arts, the American boldness for gigantic
+enterprise, the French systematic mind, and the German pedagogy, are
+becoming international capacities. Sir William Armstrong, in his
+works established in Italy and Japan, has already communicated to
+Italians and Japanese those capacities for managing huge iron masses
+which have been nurtured on the Tyne; the uproarious American spirit
+of enterprise pervades the Old World; the French taste for harmony
+becomes European taste; and German pedagogy--improved, I dare say--is
+at home in Russia. So, instead of trying to keep life in the old
+channels, it would be better to see what the new conditions are, what
+duties they impose on our generation.
+
+The characters of the new conditions are plain, and their
+consequences are easy to understand. As the manufacturing nations of
+West Europe are meeting with steadily growing difficulties in selling
+their manufactured goods abroad, and getting food in exchange, they
+will be compelled to grow their food at home; they will be bound to
+rely on home customers for their manufactures, and on home producers
+for their food. And the sooner they do so the better.
+
+Two great objections stand, however, in the way against the general
+acceptance of such conclusions. We have been taught, both by
+economists and politicians, that the territories of the West European
+States are so overcrowded with inhabitants that they cannot grow all
+the food and raw produce which are necessary for the maintenance of
+their steadily increasing populations. Therefore the necessity of
+exporting manufactured goods and of importing food. And we are told,
+moreover, that even if it were possible to grow in Western Europe all
+the food necessary for its inhabitants, there would be no advantage
+in doing so as long as the same food can be got cheaper from abroad.
+Such are the present teachings and the ideas which are current in
+society at large. And yet it is easy to prove that both are totally
+erroneous: plenty of food could be grown on the territories of
+Western Europe for much more than their present populations, and an
+immense benefit would be derived from doing so. These are the two
+points which I have now to discuss.
+
+       *       *       *       *       *
+
+To begin by taking the most disadvantageous case: is it possible that
+the soil of Great Britain, which at present yields food for one-third
+only of its inhabitants, could provide all the necessary amount and
+variety of food for 41,000,000 human beings when it covers only
+56,000,000 acres all told--forests and rocks, marshes and peat-bogs,
+cities, railways and fields--out of which only 33,000,000 acres are
+considered as cultivable?[35] The current opinion is, that it by no
+means can; and that opinion is so inveterate that we even see men
+of science, who are generally cautious when dealing with current
+opinions, endorse that opinion without even taking the trouble of
+verifying it. It is accepted as an axiom. And yet, as soon as we try
+to find out any argument in its favour, we discover that it has not
+the slightest foundation, either in facts or in judgment based upon
+well-known facts.
+
+Let us take, for instance, J. B. Lawes’ estimates of crops which were
+published every year in _The Times_. In his estimate of the year 1887
+he made the remark that during the eight harvest years 1853-1860
+“nearly three-fourths of the aggregate amount of wheat consumed
+in the United Kingdom was of home growth, and little more than
+one-fourth was derived from foreign sources”; but five-and-twenty
+years later the figures were almost reversed--that is, “during the
+eight years 1879-1886, little more than one-third has been provided
+by home crops and nearly two-thirds by imports.” But neither the
+increase of population by 8,000,000 nor the increase of consumption
+of wheat by six-tenths of a bushel per head could account for the
+change. In the years 1853-1860 the soil of Britain nourished one
+inhabitant on every two acres cultivated: why did it require three
+acres in order to nourish the same inhabitant in 1887? The answer is
+plain: merely and simply because agriculture had fallen into neglect.
+
+In fact, the area under wheat had been reduced since 1853-1860 by
+full 1,590,000 acres, and therefore the average crop of the years
+1883-1886 was below the average crop of 1853-1860 by more than
+40,000,000 bushels; and this deficit alone represented the food of
+more than 7,000,000 inhabitants. At the same time the area under
+barley, oats, beans, and other spring crops had also been reduced by
+a further 560,000 acres, which, alone, at the low average of thirty
+bushels per acre, would have represented the cereals necessary to
+complete the above, for the same 7,000,000 inhabitants. It can thus
+be said that if the United Kingdom imported cereals for 17,000,000
+inhabitants in 1887, instead of for 10,000,000 in 1860, it was simply
+because more than 2,000,000 acres had gone out of cultivation.[36]
+
+These facts are well known; but usually they are met with the remark
+that the character of agriculture had been altered: that instead of
+growing wheat, meat and milk were produced in this country. However,
+the figures for 1887, compared with the figures for 1860, show that
+the same downward movement took place under the heads of green crops
+and the like. The area under potatoes was reduced by 280,000 acres;
+under turnips by 180,000 acres; and although there was an increase
+under the heads of mangold, carrots, etc., still the aggregate area
+under all these crops was reduced by a further 330,000 acres. An
+increase of area was found only for permanent pasture (2,800,000
+acres) and grass under rotation (1,600,000 acres); but we should look
+in vain for a corresponding increase of live stock. The increase of
+live stock which took place during those twenty-seven years was not
+sufficient to cover even the area reclaimed from waste land.[37]
+
+Since the year 1887 affairs went, however, from worse to worse. If
+we take Great Britain alone, we see that in 1885 the area under
+all corn crops was 8,392,006 acres; that is very small, indeed, in
+comparison to the area which could have been cultivated; but even
+that little was further reduced to 7,400,227 acres in 1895. The
+area under wheat was 2,478,318 acres in 1885 (as against 3,630,300
+in 1874); but it dwindled away to 1,417,641 acres in 1895, while
+the area under the other cereals increased by a trifle only--from
+5,198,026 acres to 5,462,184--the total loss on all cereals being
+nearly 1,000,000 _acres in ten years_! Another 5,000,000 people were
+thus compelled to get their food from abroad.
+
+Did the area under green crops increase correspondingly, as it would
+have done if it were only the character of agriculture that had
+changed? Not in the least! This area was further reduced by nearly
+500,000 acres (3,521,602 in 1885, 3,225,762 in 1895, and 3,006,000
+in 1909-1911). Or was the area under clover and grasses in rotation
+increased in proportion to all these reductions? Alas no! It also was
+reduced (4,654,173 acres in 1885, 4,729,801 in 1895, and 4,164,000
+acres in 1909-1911). In short, taking all the land that is under
+crops in rotation (17,201,490 acres in 1885, 16,166,950 acres in
+1895, 14,795,570 only in 1905, and 14,682,550 in 1909-1911), we see
+that within the last twenty-six years another 2,500,000 acres went
+out of cultivation, without any compensation whatever. It went to
+increase that already enormous area of more than 17,000,000 acres
+(17,460,000 in 1909-1911)--_more than one-half of the cultivable
+area_--which goes under the head of “permanent pasture,” and hardly
+suffices to feed one cow on each three acres!
+
+Need I say, after that, that quite to the contrary of what we are
+told about the British agriculturists becoming “meat-makers” instead
+of “wheat-growers,” no corresponding increase of live stock took
+place during the last twenty-five years. Far from devoting the land
+freed from cereals to “meat-making,” the country further reduced its
+live stock in 1885-1895, and began to show a slight increase during
+the last few years only. It had 6,597,964 head of horned cattle in
+1885, 6,354,336 in 1895, and 7,057,520 in 1909-1911; 26,534,600 sheep
+in 1885, 25,792,200 in 1895, and from 26,500,000 to 27,610,000 in
+1909-1911. True, the number of horses increased; every butcher and
+greengrocer runs now a horse “to take orders at the gents’ doors” (in
+Sweden and Switzerland, by the way, they do it by telephone). But
+if we take the numbers of horses used in agriculture, unbroken, and
+kept for breeding, we find only small oscillations between 1,408,790
+in 1885 and 1,553,000 in 1909. But numbers of horses are imported, as
+also the oats and a considerable amount of the hay that is required
+for feeding them.[38] And if the consumption of meat has really
+increased in this country, it is due to cheap imported meat, not to
+the meat that would be produced in these islands.[39]
+
+In short, agriculture has not changed its direction, as we are
+often told; it simply went down in all directions. Land is going
+out of culture at a perilous rate, while the latest improvements
+in market-gardening, fruit-growing and poultry-keeping are but a
+mere trifle if we compare them with what has been done in the same
+direction in France, Belgium and America.
+
+It must be said that during the last few years there was a slight
+improvement. The area under all corn crops was slightly increasing,
+and it fluctuated about 7,000,000 acres, the increase being
+especially notable for wheat (1,906,000 acres in 1911 as against
+1,625,450 in 1907), while the areas under barley and oats were
+slightly diminished. But with all that, the surface under corn
+crops is still nearly _one-and-a-half million acres_ below what it
+was in 1885, and nearly _two-and-a-half million acres_ below 1874.
+This represents, let us remember it, the bread-food of _ten million
+people_.
+
+The cause of this general downward movement is self-evident. It is
+the desertion, the abandonment of the land. Each crop requiring
+human labour has had its area reduced; and almost one-half of the
+agricultural labourers have been sent away since 1861 to reinforce
+the ranks of the unemployed in the cities,[40] so that far from being
+over-populated, the fields of Britain are _starved of human labour_,
+as James Caird used to say. The British nation does not work on her
+soil; _she is prevented from doing so_; and the would-be economists
+complain that the soil will not nourish its inhabitants!
+
+I once took a knapsack and went on foot out of London, through
+Sussex. I had read Léonce de Lavergne’s work and expected to find
+a soil busily cultivated; but neither round London nor still less
+further south did I see men in the fields. In the Weald I could walk
+for twenty miles without crossing anything but heath or woodlands,
+rented as pheasant-shooting grounds to “London gentlemen,” as the
+labourers said. “Ungrateful soil” was my first thought; but then I
+would occasionally come to a farm at the crossing of two roads and
+see the same soil bearing a rich crop; and my next thought was _tel
+seigneur, telle terre_, as the French peasants say. Later on I saw
+the rich fields of the midland counties; but even there I was struck
+by not perceiving the same busy human labour which I was accustomed
+to admire on the Belgian and French fields. But I ceased to wonder
+when I learnt that only 1,383,000 men and women in England and
+Wales work in the fields, while more than 16,000,000 belong to the
+“professional, domestic, indefinite, and unproductive class,” as
+these pitiless statisticians say. One million human beings cannot
+productively cultivate an area of 33,000,000 acres, unless they can
+resort to the Bonanza farm’s methods of culture.
+
+Again, taking Harrow as the centre of my excursions, I could walk
+five miles towards London, or turning my back upon it, and I could
+see nothing east or west but meadow land on which they hardly cropped
+two tons of hay per acre--scarcely enough to keep alive one milch
+cow on each two acres. Man is conspicuous by his absence from those
+meadows; he rolls them with a heavy roller in the spring; he spreads
+some manure every two or three years; then he disappears until the
+time has come to make hay. And that--within ten miles from Charing
+Cross, close to a city with 5,000,000 inhabitants, supplied with
+Flemish and Jersey potatoes, French salads and Canadian apples. In
+the hands of the Paris gardeners, each thousand acres situated within
+the same distance from the city would be cultivated by at least 2,000
+human beings, who would get vegetables to the value of from £50 to
+£300 per acre. But here the acres which only need human hands to
+become an inexhaustible source of golden crops lie idle, and they say
+to us, “Heavy clay!” without even knowing that in the hands of man
+there are no unfertile soils; that the most fertile soils are not in
+the prairies of America, nor in the Russian steppes; that they are in
+the peat-bogs of Ireland, on the sand downs of the northern sea-coast
+of France, on the craggy mountains of the Rhine, where they have been
+made by man’s hands.
+
+The most striking fact is, however, that in some undoubtedly fertile
+parts of the country things are even in a worse condition. My heart
+simply ached when I saw the state in which land is kept in South
+Devon, and when I learned to know what “permanent pasture” means.
+Field after field is covered with nothing but grass, three inches
+high, and thistles in profusion. Twenty, thirty such fields can
+be seen at one glance from the top of every hill; and thousands
+of acres are in that state, notwithstanding that the grandfathers
+of the present generation have devoted a formidable amount of
+labour to the clearing of that land from the stones, to fencing it,
+roughly draining it and the like. In every direction I could see
+abandoned cottages and orchards going to ruin. A whole population
+has disappeared, and even its last vestiges must disappear if things
+continue to go on as they have gone. And this takes place in a part
+of the country endowed with a most fertile soil and possessed of a
+climate which is certainly more congenial than the climate of Jersey
+in spring and early summer--a land upon which even the poorest
+cottagers occasionally raise potatoes as early as the first half of
+May. But how can that land be cultivated when there is nobody to
+cultivate it? “We have fields; men go by, but never go in,” an old
+labourer said to me; and so it is in reality.[41]
+
+Such were my impressions of British agriculture twenty years ago.
+Unfortunately, both the official statistical data and the mass
+of private evidence published since tend to show that but little
+improvement took place in the general conditions of agriculture in
+this country within the last twenty years. Some successful attempts
+in various new directions have been made in different parts of the
+country, and I will have the pleasure to mention them further on, the
+more so as they show what a quite average soil in these islands can
+give when it is properly treated. But over large areas, especially
+in the southern counties, the general conditions are even worse than
+they were twenty years ago.
+
+Altogether one cannot read the mass of review and newspaper articles,
+and books dealing with British agriculture that have been published
+lately, without realising that the agricultural depression which
+began in the “seventies” and the “eighties” of the nineteenth century
+had causes much more deeply seated than the fall in the prices of
+wheat in consequence of American competition. However, it would lie
+beyond the scope of this book to enter here into such a discussion.
+Moreover, anyone who will read a few review articles written from
+the points of view of different parties, or consult such books as
+that of Mr. Christopher Turnor,[42] or study the elaborate inquest
+made by Rider Haggard in twenty-six counties of England--paying
+more attention to the _data_ accumulated in this book than to
+the sometimes biassed conclusions of the author--will soon see
+himself what are the causes which hamper the development of British
+agriculture.[43]
+
+In Scotland the conditions are equally bad. The population described
+as “rural” is in a steady decrease: in 1911 it was already less than
+800,000; and as regards the agricultural labourers, their number has
+decreased by 42,370 (from 135,970 to 93,600) in the twenty years,
+1881 to 1901. _The land goes out of culture_, while the area under
+“deer forests”--that is, under hunting grounds established upon what
+formerly was _arable_ land for the amusement of the rich--increases
+at an appalling rate. No need to say that at the same time the Scotch
+population is emigrating, and Scotland is depopulated at an appalling
+speed.
+
+My chief purpose being to show here what _can and ought to be_
+obtained from the land under a proper and intelligent treatment,
+I shall only indicate one of the disadvantages of the systems of
+husbandry in vogue in this country. Both landlords and farmers
+gradually came of late to pursue other aims than that of obtaining
+from the land the greatest amount of produce than can be obtained;
+and when this problem of a maximum productivity of the land arose
+before the European nations, and therefore a complete modification of
+the methods of husbandry was rendered imperative, such a modification
+was _not_ accomplished in this country. While in France, Belgium,
+Germany and Denmark the agriculturists did their best to meet the
+effects of American competition by rendering their culture more
+intensive in all directions, in this country the already antiquated
+method of reducing the area under corn crops and laying land for
+grass continues to prevail, although it ought to be evident that
+mere _grazing_ will pay no more, and that some effort in the right
+direction would increase the returns of the corn crops, as also those
+of the roots and plants cultivated for industrial purposes. The land
+continues to go out of culture, while the problem of the day is to
+render culture more and more intensive.
+
+Many causes have combined to produce that undesirable result. The
+concentration of land-ownership in the hands of big landowners; the
+high profits obtained previously; the development of a class of both
+landlords and farmers who rely chiefly upon other incomes than those
+they draw from the land, and for whom farming has thus become a sort
+of pleasant by-occupation or sport; the rapid development of game
+reserves for sportsmen, both British and foreign; the absence of
+men of initiative who would have shown to the nation the necessity
+of a new departure; the absence of a desire to win the necessary
+knowledge, and the absence of institutions which could widely spread
+practical agricultural knowledge and introduce improved seeds and
+seedlings, as the Experimental Farms of the United States and Canada
+are doing; the dislike of that spirit of agricultural co-operation to
+which the Danish farmers owe their successes, and so on--all these
+stand in the way of the unavoidable change in the methods of farming,
+and produce the results of which the British writers on agriculture
+are complaining.[44] But it is self-evident that in order to compete
+with countries where machinery is largely used and new methods of
+farming are resorted to (including the industrial treatment of farm
+produce in sugar works, starch works, and the drying of vegetables,
+etc., connected with farming), the old methods cannot do; especially
+when the farmer has to pay a rent of twenty, forty, and occasionally
+fifty shillings per acre for wheat-lands.
+
+       *       *       *       *       *
+
+It may be said, of course, that this opinion strangely contrasts with
+the well-known superiority of British agriculture. Do we not know,
+indeed, that British crops average twenty-eight to thirty bushels
+of wheat per acre, while in France they reach only from seventeen
+to twenty bushels? Does it not stand in all almanacs that Britain
+gets every year £200,000,000 sterling worth of animal produce--milk,
+cheese, meat and wool--from her fields? All that is true, and there
+is no doubt that in many respects British agriculture is superior to
+that of many other nations. As regards obtaining the greatest amount
+of produce with the least amount of labour, Britain undoubtedly took
+the lead until she was superseded by America in the Bonanza farms
+(now disappeared or rapidly disappearing). Again, as regards the fine
+breeds of cattle, the splendid state of the meadows and the results
+obtained in separate farms, there is much to be learned from Britain.
+But a closer acquaintance with British agriculture as a whole
+discloses many features of inferiority.
+
+However splendid, a meadow remains a meadow, much inferior in
+productivity to a corn-field; and the fine breeds of cattle appear
+to be poor creatures as long as each ox requires three acres of land
+to be fed upon. As regards the crops, certainly one may indulge in
+some admiration at the average twenty-eight or thirty bushels grown
+in this country; but when we learn that only 1,600,000 to 1,900,000
+acres out of the cultivable 33,000,000 bear such crops, we are quite
+disappointed. Anyone could obtain like results if he were to put all
+his manure into one-twentieth part of the area which he possesses.
+Again, the twenty-eight to thirty bushels no longer appear to us so
+satisfactory when we learn that without any manuring, merely by means
+of a good culture, they have obtained at Rothamstead an average of
+14 bushels per acre from the same plot of land for forty consecutive
+years;[45] while Mr. Prout, in his farm near Sawbridgeworth (Herts),
+on a cold heavy clay, has obtained since 1861 crops of from thirty
+to thirty-eight bushels of wheat, year after year, without any farm
+manure at all, by good steam ploughing and artificial manure only.
+(R. Haggard, I. 528.) Under the allotment system the crops reach
+forty bushels. In some farms they occasionally attain even fifty and
+fifty-seven bushels per acre.
+
+[Illustration: FIG. 1.--Proportion of the cultivated area which is
+given to cereals altogether, and to wheat, in Great Britain and
+Ireland.]
+
+If we intend to have a correct appreciation of British agriculture,
+we must not base it upon what is obtained on a few selected and
+well-manured plots; we must inquire what is done with the territory,
+taken as a whole.[46] Now, out of each 1,000 acres of the aggregate
+territory of England, Wales and Scotland, 435 acres are left under
+wood, coppice, heath, buildings, and so on. We need not find fault
+with that division, because it depends very much upon natural
+causes. In France and Belgium one-third of the territory is in like
+manner also treated as uncultivable, although portions of it are
+continually reclaimed and brought under culture. But, leaving
+aside the “uncultivable” portion, let us see what is done with the
+565 acres out of 1,000 of the “cultivable” part (32,145,930 acres
+in Great Britain in 1910). First of all, it is divided into two
+parts, and one of them, the largest--308 acres out of 1,000--is left
+under “permanent pasture,” that is, in most cases it is entirely
+uncultivated. Very little hay is obtained from it,[47] and some
+cattle are grazed upon it. More than one-half of the cultivable area
+is thus left without cultivation, and only 257 acres out of each
+1,000 acres are under culture. Out of these last, 124 acres are
+under corn crops, twenty-one acres under potatoes, fifty-three acres
+under green crops, and seventy-three acres under clover fields and
+grasses under rotation. And finally, out of the 124 acres given to
+corn crops, the best thirty-three, and some years only twenty-five
+acres (one-fortieth part of the territory, one-twenty-third of the
+cultivable area), are picked out and sown with wheat. They are
+well cultivated, well manured, and upon them an average of from
+twenty-eight to thirty bushels to the acre is obtained; and upon
+these twenty-five or thirty acres out of 1,000 the world superiority
+of British agriculture is based.
+
+The net result of all that is, that on nearly 33,000,000 acres
+of cultivable land the food is grown for one-third part only of
+the population (more than two-thirds of the food it consumes
+is imported), and we may say accordingly that, although nearly
+two-thirds of the territory is cultivable, British agriculture
+provides home-grown food for each 125 or 135 inhabitants only per
+square mile (out of 466). In other words, nearly three acres of the
+_cultivable area_ are required to grow the food for each person. Let
+us then see what is done with the land in France and Belgium.
+
+       *       *       *       *       *
+
+Now, if we simply compare the average thirty bushels per acre of
+wheat in Great Britain with the average nineteen to twenty bushels
+grown in France within the last ten years, the comparison is all
+in favour of these islands; but such averages are of little value
+because the two systems of agriculture are totally different in
+the two countries. The Frenchman also has his picked and heavily
+manured “twenty-five to thirty acres” in the north of France and in
+Ile-de-France, and from these picked acres he obtains average crops
+ranging from thirty to thirty-three bushels.[48] However, he sows
+with wheat, not only the best picked out acres, but also such fields
+on the Central Plateau and in Southern France as hardly yield ten,
+eight and even six bushels to the acre, without irrigation; and these
+low crops reduce the average for the whole country.
+
+The Frenchman cultivates much that is left here under permanent
+pasture--and this is what is described as his “inferiority” in
+agriculture. In fact, although the proportion between what we have
+named the “cultivable area” and the total territory is very much the
+same in France as it is in Great Britain (624 acres out of each 1,000
+acres of the territory), the area under wheat crops is nearly _six
+times_ as great, in proportion, as what it is in Great Britain (182
+acres instead of twenty-five or thirty, out of each 1,000 acres): the
+corn crops altogether cover nearly two-fifths of the cultivable area
+(375 acres out of 1000), and large areas are given besides to green
+crops, industrial crops, vine, fruit and vegetables.
+
+Taking everything into consideration, although the Frenchman keeps
+less cattle, and especially grazes less sheep than the Briton, he
+nevertheless obtains from his soil nearly all the food that he and
+his cattle consume. He imports, in an average year, but one-tenth
+only of what the nation consumes, and he exports to this country
+considerable quantities of food produce (£10,000,000 worth), not only
+from the south, but also, and especially, from the shores of the
+Channel (Brittany butter and vegetables; fruit and vegetables from
+the suburbs of Paris, and so on).[49]
+
+The net result is that, although one-third part of the territory is
+also treated as “uncultivable,” the soil of France yields the food
+for 170 inhabitants per square mile (out of 188), that is, for forty
+persons more, per square mile, than this country.[50]
+
+It is thus apparent that the comparison with France is not so much in
+favour of this country as it is said to be; and it will be still less
+favourable when we come, in our next chapter, to horticulture.
+
+       *       *       *       *       *
+
+The comparison with Belgium is even more striking--the more so
+as the two systems of culture are similar in both countries. To
+begin with, in Belgium we also find an average crop of over thirty
+bushels of wheat to the acre; but the area given to wheat is five
+times as big as in Great Britain, in comparison to the cultivable
+area, and the cereals cover two-fifths of the land available for
+culture.[51] The land is so well cultivated that the average crops
+for the years 1890-1899 (the very bad year of 1891 being left out
+of account) were from twenty-six and a half to twenty-eight and a
+half bushels per acre for winter wheat, and reached an average of
+thirty-three and a half bushels in 1900-1904; over fifty-four bushels
+for oats (thirty-five to forty-one and a half in Great Britain),
+and from forty to forty-three and a half bushels for winter barley
+(twenty-nine to thirty-five in Great Britain); while on no less
+than 475,000 acres catch crops of swedes (3,345,000 tons), carrots
+(155,000 tons), and more than 500,000 of lucerne and other grasses
+were obtained.[52]
+
+As to extraordinarily heavy crops, Mr. Seebohm Rowntree mentions,
+for instance, the wheat crop in the commune of Oirbeck, near Louvain,
+which was, in 1906, on the average, fifty-seven bushels per acre,
+while the average of the whole country was only thirty-four bushels,
+or a yield of 111½ bushels of oats in the commune of Neuve-Eglise,
+while the average for Belgium was fifty-four bushels, and so on,
+the average crops of several communes for some cereals being
+seventy-three per cent. in excess of the average for Belgium, and
+from 106 to 153 per cent. for roots.[53]
+
+All taken, they grow in Belgium more than 76,000,000 bushels of
+cereals--that is, fifteen and seven-tenths bushels per acre of the
+cultivable area--while the corresponding figure for Great Britain is
+only eight and a half bushels; and they keep almost twice as many
+cattle upon each cultivable acre as is kept in Great Britain.[54]
+
+Moreover, they even export cattle and horses. Up to 1890 Belgium
+exported from 36,000 to 94,000 head of cattle, from 42,000 to 70,000
+sheep, and from 60,000 to 108,600 swine. In 1890 these exports
+suddenly came to an end--probably in consequence of a prohibition of
+such imports into Germany. Only horses continue to be exported to the
+amount of about 25,000 horses and foals every year.
+
+Large portions of the land are given besides to the culture of
+industrial plants, potatoes for spirit, beet for sugar, and so on.
+
+However, it must not be believed that the soil of Belgium is more
+fertile than the soil of this country. On the contrary, to use the
+words of Laveleye, “only one half, or less, of the territory offers
+natural conditions which are favourable for agriculture”; the other
+half consists of a gravelly soil, or sands, “the natural sterility of
+which could be overpowered only by heavy manuring.” Man, not nature,
+has given to the Belgium soil its present productivity. With this
+soil and labour, Belgium succeeds in supplying nearly all the food
+of a population which is denser than that of England and Wales, and
+numbers 589 inhabitants to the square mile.
+
+[Illustration: FIG. 2.--Proportion of the cultivated area which is
+given to cereals altogether, and to wheat, in Belgium. The square
+which encloses the wheat square represents the area given to both
+wheat and a mixture of wheat with rye.]
+
+If the exports and imports of agricultural produce from and into
+Belgium be taken into account, we can ask ourselves whether
+Laveleye’s conclusions are not still good, and whether only one
+inhabitant out of each ten to twenty requires imported food. In the
+years 1880-1885 the soil of Belgium supplied with home-grown food
+no less than 490 _inhabitants per square mile_, and there remained
+something for export--no less than £1,000,000 worth of agricultural
+produce being exported every year to Great Britain. But it is not
+possible to say with certitude whether the conditions are the same at
+the present time.
+
+[Illustration: FIG. 3.--Proportion of cultivated and uncultivated
+areas in Great Britain, Belgium, and France. _a_, Wheat; _b_, wheat
+and rye mixed; _c_, other cereals; _d′_, green crops; _d_, permanent
+pasture; _e_, uncultivated.]
+
+Since 1880, when the duties on imported cereals were abolished
+(they were before that sixpence for each 220 lb.), and corn could be
+imported free, “the importers were no more obliged to make special
+declarations for merchandise which had to be re-exported; they
+declared their imports as if they were destined to be used within
+the country.”[55] The result was, that while in the year 1870 the
+imports of cereals were 154 lb. per head of population, the same
+imports rose to 286 lb. in 1880. But no one can say how much of these
+286 lb. is consumed in Belgium itself; and if we deduct from the
+total of the imports the quantities re-exported the same year, we
+obtain figures which cannot be relied upon.[56] It is therefore safer
+to consider the figures of the _annual production_ of cereals in
+Belgium, such as they are given in the official _Annuaire_.
+
+Now, if we take the figures given in the _Annuaire Statistique de la
+Belgique_ for the year 1911, we come to the following results. The
+annual agricultural census, which is being made since 1901, gives for
+the year 1909 that 2,290,300,000 lb. of wheat, rye, and wheat mixed
+with rye were obtained on all the farms of Belgium larger than two
+and a half acres (2,002,000,000 lb. in 1895). Besides, 219,200,000
+lb. of barley, 1,393,000,000 lb. of oats, and a considerable quantity
+of oleaginous grains have been produced.
+
+It is generally accepted that the average consumption of both winter
+and spring cereals attains 502 lb. per head of population; and as the
+population of Belgium was 7,000,000 on January 1, 1907, it appears
+that no less than 3,524,400,000 lb. of cereals would have been
+required to supply the annual food of the population. If we compare
+this figure with that of the annual production just mentioned, we
+see then that, notwithstanding the considerable decrease of the area
+given to wheat since the abolition of the entrance duties, Belgium
+still produces at least _two-thirds_ of the cereal food required for
+its very dense population, which is nearly 600 persons per square
+mile (596 in 1907).
+
+It must be noticed that we should have come to a still higher figure
+if we took into account the other cereals (to say nothing of the
+leguminous plants and vegetables grown and consumed in Belgium),
+and still more so if we took into account what is grown upon the
+small holdings less than two and a half acres each. The number of
+such small holdings was 554,041 in 1895, and the number of people
+living upon them reached nearly 2,000,000. _They are not included in
+the official statistics, and yet upon most of them some cereals are
+grown_, in addition to vegetables and fodder for cattle.
+
+If Belgium produces in cereals the food of more than two-thirds
+of its very dense population, this is already a quite respectable
+figure; but it must also be said that it exports every year
+considerable quantities of products of the soil. Thus, in the year
+1910 she exported 254,730 tons of vegetables (as against 187,000
+imported), 40,000 tons of fruit, 34,000 tons of plants and flowers
+(the whole nearly £3,000,000 worth), 256,000 of oleaginous grains,
+18,500 tons of wool, nearly 60,000 tons of flax, and so on. I do not
+mention the exports of butter, rabbits, skins, an immense quantity
+of sugar (about 180,000 tons), the vegetable oils and the spirits,
+because considerable quantities of beet and potatoes are imported. In
+short, we have here _an export_ of agricultural produce grown in the
+country itself attaining the figure of 48s. per head of population.
+
+All taken, there is thus no possibility of contesting the fact, that
+if the soil of Great Britain were cultivated only as the unfertile
+soil of Belgium is cultivated--notwithstanding all the social
+obstacles which stand in the way of an intensive culture, in Belgium
+as elsewhere--a much greater part of the population of these islands
+would obtain its food from the soil of its own land than is the case
+nowadays.[57]
+
+On the other side it must not be forgotten that Belgium is a
+manufacturing country which exports, moreover, manufactured home-made
+goods to the value of 198s. per head of population, and 150s. worth
+of crude or half-manufactured produce, while the total exports from
+the United Kingdom have only lately attained during the extraordinary
+year of 1911 the value of 201s. per inhabitant. As to separate
+parts of the Belgian territory, the small and naturally unfertile
+province of West Flanders not only grew in 1890 the food of its 580
+inhabitants on the square mile, but exported agricultural produce
+to the value of 25s. per head of its population. And yet no one can
+read Laveleye’s masterly work without coming to the conclusion that
+Flemish agriculture would have realised still better results, were
+it not hampered in its growth by the steady and heavy increase of
+rent. In the face of the rent being increased each nine years, many
+farmers have lately abstained from further improvements.
+
+       *       *       *       *       *
+
+Another example of what could be achieved by means of an effort of
+the nation seconded by its educated classes is given by Denmark.
+After the war of 1864, which ended in the loss of one of their
+provinces, the Danes made an effort widely to spread education
+amongst their peasants, and to develop at the same time an intensive
+culture of the soil. The result of these efforts is now quite
+evident. The rural population of Denmark, instead of flocking to
+the towns, has been increasing: in five years, 1906-1911, it rose
+from 1,565,585 to 1,647,350. Out of a total population of 2,775,100,
+no less than 990,900 find their living in agriculture, dairy work,
+and forestry. With a very poor soil, they have a cultivated area
+a trifle below 7,000,000 acres, out of which 2,773,320 acres are
+under cereals. Their wheat crops are on the average 40-6/10 bushels
+per acre, and the value of the home-grown food-stuffs is estimated
+at £40,000,000, which makes a little less than £6 per acre. As
+to their exports of home-grown produce, they exceed the imports
+by £14,483,000. The chief cause of these successes are: A highly
+developed agricultural education, town markets accessible to all the
+growers, and, above all, co-operation, which again is a result of the
+effort that was made by the educated classes after the unfortunate
+war of 1864.
+
+Everyone knows that it is now Danish butter which rules the prices
+in the London market, and that this butter is of a high quality,
+which can only be attained in co-operative creameries with cold
+storage and certain uniform methods in producing butter. But it is
+not generally known that the Siberian butter, which is now imported
+in immense quantities into this country, is also a creation of the
+Danish co-operators. When they began to export their butter in large
+quantities, they used to import butter for their own use from the
+southern parts of the West Siberian provinces of Tobolsk and Tomsk,
+which are covered with prairies very similar to those of Winnipeg in
+Canada. At the outset this butter was of a most inferior quality,
+as it was made by every peasant household separately. The Danes
+began therefore to teach co-operation to the Russian peasants, and
+they were rapidly understood by the intelligent population of this
+fertile region. The co-operative creameries began to spread with an
+astounding rapidity, without us knowing for some time wherefrom came
+this interesting movement. At the present time a steamer loaded with
+Siberian butter leaves every week one of the Baltic ports and brings
+to London many thousands of casks of Siberian butter. If I am not
+wrong, Finland has also joined lately in the same export.
+
+       *       *       *       *       *
+
+Without going as far as China, I might quote similar examples from
+elsewhere, especially from Lombardy. But the above will be enough to
+caution the reader against hasty conclusions as to the impossibility
+of feeding 46,000,000 people from 78,000,000 acres. They also will
+enable me to draw the following conclusions: (1) If the soil of the
+United Kingdom were cultivated only as it _was_ forty-five years ago,
+24,000,000 people, instead of 17,000,000, could live on home-grown
+food; and this culture, while giving occupation to an additional
+750,000 men, would give nearly 3,000,000 wealthy home customers to
+the British manufactures. (2) If the cultivable area of the United
+Kingdom were cultivated as the soil is cultivated _on the average_ in
+Belgium, the United Kingdom would have food for at least 37,000,000
+inhabitants; and it might export agricultural produce without ceasing
+to manufacture, so as freely to supply all the needs of a wealthy
+population. And finally (3), if the population of this country came
+to be doubled, all that would be required for producing the food
+for 90,000,000 inhabitants would be to cultivate the soil as it is
+cultivated in the best farms of this country, in Lombardy, and in
+Flanders, and to utilise some meadows, which at present lie almost
+unproductive, in the same way as the neighbourhoods of the big cities
+in France are utilised for market-gardening. All these are not fancy
+dreams, but mere realities; nothing but the modest conclusions from
+what we see round about us, without any allusion to the agriculture
+of the future.
+
+       *       *       *       *       *
+
+If we want, however, to know what agriculture _can be_, and what can
+be grown on a given amount of soil, we must apply for information
+to such regions as the district of Saffelare in East Flanders,
+the island of Jersey, or the irrigated meadows of Lombardy, which
+are mentioned in the next chapter. Or else we may apply to the
+market-gardeners in this country, or in the neighbourhoods of Paris,
+or in Holland, or to the “truck farms” in America, and so on.
+
+While science devotes its chief attention to industrial pursuits, a
+limited number of lovers of nature and a legion of workers whose very
+names will remain unknown to posterity have created of late a quite
+new agriculture, as superior to modern farming as modern farming is
+superior to the old three-fields system of our ancestors. Science
+seldom guided them, and sometimes misguided--as was the case with
+Liebig’s theories, developed to the extreme by his followers, who
+induced us to treat plants as glass recipients of chemical drugs, and
+who forgot that the only science capable of dealing with life and
+growth is physiology, not chemistry. Science seldom has guided them:
+they proceeded in the empirical way; but, like the cattle-growers
+who opened new horizons to biology, they have opened a new field
+of experimental research for the physiology of plants. They have
+created a totally new agriculture. They smile when we boast about the
+rotation system, having permitted us to take from the field one crop
+every year, or four crops each three years, because their ambition
+is to have six and nine crops from the very same plot of land during
+the twelve months. They do not understand our talk about good and bad
+soils, because they make the soil themselves, and make it in such
+quantities as to be compelled yearly to sell some of it: otherwise
+it would raise up the level of their gardens by half an inch every
+year. They aim at cropping, not five or six tons of grass on the
+acre, as we do, but from 50 to 100 tons of various vegetables on the
+same space; not £5 worth of hay but £100 worth of vegetables, of the
+plainest description, cabbage and carrots, and more than £200 worth
+under intensive horticultural treatment. This is where agriculture is
+going now.
+
+We know that the dearest of all varieties of our staple food is
+meat; and those who are not vegetarians, either by persuasion or
+by necessity, consume on the average 225 lb. of meat--that is,
+roughly speaking, a little less than the third part of an ox--every
+year. And we have seen that, even in this country, and Belgium, two
+to three acres are wanted for keeping one head of horned cattle;
+so that a community of, say, 1,000,000 inhabitants would have to
+reserve somewhere about 1,000,000 acres of land for supplying it with
+meat. But if we go to the farm of M. Goppart--one of the promoters
+of _ensilage_ in France--we shall see him growing, on a drained
+and well-manured field, no less than an average of 120,000 lb. of
+corn-grass to the acre, which gives 30,000 lb. of dry hay--that is,
+the food of one horned beast per acre. The produce is thus trebled.
+
+As to beetroot, which is used also for feeding cattle, Mr. Champion,
+at Whitby, succeeded, with the help of sewage, in growing 100,000
+lb. of beet on each acre, and occasionally 150,000 and 200,000 lb.
+He thus grew on each acre the food of, at least, two or three head
+of cattle. And such crops are not isolated facts; thus, M. Gros, at
+Autun, succeeds in cropping 600,000 lb. of beet and carrots, which
+crop would permit him to keep four horned cattle on each acre. In
+fact, crops of 100,000 lb. of beet occur in numbers in the French
+competitions, and the success depends entirely upon good culture and
+appropriate manuring. It thus appears that while under ordinary high
+farming we need 2,000,000 acres, or more, to keep 1,000,000 horned
+cattle, double that amount could be kept on one-half of that area;
+and if the density of population required it, the amount of cattle
+could be doubled again, and the area required to keep it might still
+be one-half, or even one-third of what it is now.[58]
+
+_French Gardening._--The above examples are striking enough, and
+yet those afforded by the market-gardening culture are still more
+striking. I mean the culture carried on in the neighbourhood of big
+cities, and more especially the _culture maraîchère_ round Paris. In
+this culture each plant is treated according to its age. The seeds
+germinate and the seedlings develop their first four leaflets in
+especially favourable conditions of soil and temperature; then the
+best seedlings are picked out and transplanted into a bed of fine
+loam, under a frame or in the open air, where they freely develop
+their rootlets, and, gathered on a limited space, receive more than
+the usual care. Only after this preliminary training are they bedded
+in the open ground, where they grow till ripe. In such a culture the
+primitive condition of the soil is of little account, because loam
+is made out of the old forcing beds. The seeds are carefully tried,
+the seedlings receive proper attention, and there is no fear of
+drought, because of the variety of crops, the liberal watering with
+the help of a steam engine, and the stock of plants always kept ready
+to replace the weakest individuals. Almost each plant is treated
+individually.
+
+There prevails, however, with regard to market-gardening, a
+misunderstanding which it would be well to remove. It is generally
+supposed that what chiefly attracts market-gardening to the great
+centres of population is the market. It must have been so; and so it
+may be still, but to some extent only. A great number of the Paris
+_maraîchers_, even of those who have their gardens within the walls
+of the city and whose main crop consists of vegetables in season,
+export the whole of their produce to England. What chiefly attracts
+the gardener to the great cities is stable manure; and this is not
+wanted so much for increasing the richness of the soil--one-tenth
+part of the manure used by the French gardeners would do for that
+purpose--but for keeping the soil at a certain temperature. Early
+vegetables pay best, and in order to obtain early produce not only
+the air but the soil as well must be warmed; and this is done by
+putting great quantities of properly mixed manure into the soil;
+its fermentation heats it. But it is evident that with the present
+development of industrial skill, the heating of the soil could be
+obtained more economically and more easily by hot-water pipes.
+Consequently, the French gardeners begin more and more to make use
+of portable pipes, or _thermosiphons_, provisionally established in
+the cool frames. This new improvement becomes of general use, and
+we have the authority of Barral’s _Dictionnaire d’Agriculture_ to
+affirm that it gives excellent results. Under this system stable
+manure is used mainly for producing loam.[59]
+
+As to the different degrees of fertility of the soil--always the
+stumbling-block of those who write about agriculture--the fact
+is that in market-gardening the soil is always _made_, whatever
+it originally may have been. Consequently--we are told by Prof.
+Dybowski, in the article “Maraîchers” in Barral’s _Dictionnaire
+d’Agriculture_--it is now a usual stipulation of the renting
+contracts of the Paris _maraîchers_ that the gardener may carry
+away his soil, down to a certain depth, when he quits his tenancy.
+He himself makes it, and when he moves to another plot he carts his
+soil away, together with his frames, his water-pipes, and his other
+belongings.[60]
+
+I could not relate here all the marvels achieved in market-gardening;
+so that I must refer the reader to works--most interesting
+works--especially devoted to the subject, and give only a few
+illustrations.[61] Let us take, for instance, the orchard--the
+_marais_--of M. Ponce, the author of a well-known work on the
+_culture maraîchère_. His orchard covered only two and seven-tenths
+acres. The outlay for the establishment, including a steam engine for
+watering purposes, reached £1,136. Eight persons, M. Ponce included,
+cultivated the orchard and carried the vegetables to the market, for
+which purpose one horse was kept; when returning from Paris they
+brought in manure, for which £100 was spent every year. Another
+£100 was spent in rent and taxes. But how to enumerate all that was
+gathered every year on this plot of less than three acres, without
+filling two pages or more with the most wonderful figures? One must
+read them in M. Ponce’s work, but here are the chief items: More
+than 20,000 lb. of carrots; more than 20,000 lb. of onions, radishes
+and other vegetables sold by weight; 6,000 heads of cabbage; 3,000
+of cauliflower; 5,000 baskets of tomatoes; 5,000 dozen of choice
+fruit; and 154,000 heads of salad; in short, a total of 250,000 lb.
+of vegetables. The soil was made to such an amount out of forcing
+beds that every year 250 cubic yards of loam had to be sold. Similar
+examples could be given by the dozen, and the best evidence against
+any possible exaggeration of the results is the very high rent paid
+by the gardeners, which reaches in the suburbs of London from £10 to
+£15 per acre, and in the suburbs of Paris attains as much as £32 per
+acre. No less than 2,125 acres are cultivated round Paris in that
+way by 5,000 persons, and thus not only the 2,000,000 Parisians are
+supplied with vegetables, but the surplus is also sent to London.
+
+The above results are obtained with the help of warm frames,
+thousands of glass bells, and so on. But even without such costly
+things, with only thirty-six yards of frames for seedlings,
+vegetables are grown _in the open air_ to the value of £200 per
+acre.[62] It is obvious, however, that in such cases the high selling
+prices of the crops are not due to the high prices fetched by early
+vegetables in winter; they are entirely due to the high crops of the
+plainest ones.
+
+Let me add also that all this wonderful culture has entirely
+developed in the second half of the nineteenth century. Before that,
+it was quite primitive. But now the Paris gardener not only defies
+the soil--he would grow the same crops on an asphalt pavement--he
+defies climate. His walls, which are built to reflect light and
+to protect the wall-trees from the northern winds, his wall-tree
+shades and glass protectors, his frames and _pépinières_ have made
+a real garden, a rich Southern garden, out of the suburbs of Paris.
+He has given to Paris the “two degrees less of latitude” after
+which a French scientific writer was longing; he supplies his city
+with mountains of grapes and fruit at any season; and in the early
+spring he inundates and perfumes it with flowers. But he does not
+only grow articles of luxury. The culture of plain vegetables on a
+large scale is spreading every year; and the results are so good
+that there are now practical _maraîchers_ who venture to maintain
+that if all the food, animal and vegetable, necessary for 4,500,000
+inhabitants of the departments of Seine and Seine-et-Oise had to be
+grown on their own territory (3,250 square miles), it could be grown
+without resorting to any other methods of culture than those already
+in use--methods already tested on a large scale and proved to be
+successful.
+
+       *       *       *       *       *
+
+And yet the Paris gardener is not our ideal of an agriculturist. In
+the painful work of civilisation he has shown us the way to follow;
+but the ideal of modern civilisation is elsewhere. He toils, with
+but a short interruption, from three in the morning till late in the
+night. He knows no leisure; he has no time to live the life of a
+human being; the commonwealth does not exist for him; his world is
+his garden, more than his family. He cannot be our ideal; neither
+he nor his system of agriculture. Our ambition is, that he should
+produce even _more_ than he does with _less_ labour, and should enjoy
+all the joys of human life. And this is fully possible.
+
+As a matter of fact, if we put aside those gardeners who chiefly
+cultivate the so-called _primeurs_--strawberries ripened in January,
+and the like--if we take only those who grow their crops in the
+open field, and resort to frames exclusively for the earlier days
+of the life of the plant, and if we analyse their system, we see
+that its very essence is, first, to create for the plant a nutritive
+and porous soil, which contains both the necessary decaying organic
+matter and the inorganic compounds; and then to keep that soil and
+the surrounding atmosphere at a temperature and moisture superior
+to those of the open air. The whole system is summed up in these
+few words. If the French _maraîcher_ spends prodigies of labour,
+intelligence, and imagination in combining different kinds of
+manure, so as to make them ferment at a given speed, he does so for
+no purpose but the above: a nourishing soil, and a desired equal
+temperature and moisture of the air and the soil. All his empirical
+art is devoted to the achievement of these two aims. But both can
+also be achieved in another and much easier way. The soil can be
+_improved_ by hand, but it need not be _made_ by hand. Any soil, of
+any desired composition, can be made by machinery. We already have
+manufactures of manure, engines for pulverising the phosphorites, and
+even the granites of the Vosges; and we shall see manufactures of
+loam as soon as there is a demand for them.
+
+It is obvious that at present, when fraud and adulteration are
+exercised on such an immense scale in the manufacture of artificial
+manure, and the manufacture of manure is considered as a chemical
+process, while it ought to be considered as a physiological one,
+the gardener prefers to spend an unimaginable amount of labour
+rather than risk his crop by the use of a pompously labelled and
+unworthy drug. But that is a social obstacle which depends upon a
+want of knowledge and a bad social organisation, not upon physical
+causes.[63]
+
+Of course, the necessity of creating for the earlier life of the
+plant a warm soil and atmosphere will always remain, and sixty years
+ago Léonce de Lavergne foretold that the next step in culture would
+be to warm the soil. But heating pipes give the same results as the
+fermenting manures at a much smaller expense of human labour. And
+already the system works on a large scale, as will be seen from the
+next chapter. Through it the productive powers of a given area of
+land are increased more than a hundred times.
+
+It is obvious that now, when the capitalist system makes us pay for
+everything three or four times its labour value, we often spend
+about £1 for each square yard of a heated conservatory. But how many
+middlemen are making fortunes on the wooden sashes imported from
+Drontheim? If we only could reckon our expenses in labour, we should
+discover to our amazement that, thanks to the use of machinery, the
+square yard of a conservatory does not cost more than half a day of
+human labour; and we will see presently that the Jersey and Guernsey
+average for cultivating one acre under glass is only three men
+working ten hours a day. Therefore the conservatory, which formerly
+was a luxury, is rapidly entering into the domain of high culture.
+And we may foresee the day when the glass conservatory will be
+considered as a necessary appendix to the field, both for the growth
+of those fruits and vegetables which cannot succeed in the open air,
+and for the preliminary training of most cultural plants during the
+earlier stages of their life.
+
+Home-grown fruit is always preferable to the half-ripe produce which
+is imported from abroad, and the additional work required for keeping
+a young plant under glass is largely repaid by the incomparable
+superiority of the crops. As to the question of labour, when we
+remember the incredible amount of labour which has been spent on the
+Rhine and in Switzerland for making the vineyards, their terraces,
+and stone walls, and for carrying the soil up the stony crags, as
+also the amount of labour which is spent every year for the culture
+of those vineyards and fruit gardens, we are inclined to ask, which
+of the two, all taken, requires less of human labour--a vinery (I
+mean the cold vinery) in a London suburb, or a vineyard on the
+Rhine, or on Lake Leman? And when we compare the prices realised by
+the grower of grapes round London (not those which are paid in the
+West-end fruit shops, but those received by the grower for his grapes
+in September and October) with those current in Switzerland or on
+the Rhine during the same months, we are inclined to maintain that
+nowhere in Europe, beyond the forty-fifth degree of latitude, are
+grapes grown at less expense of human labour, both for capital outlay
+and yearly work, than in the vineries of the London and Brussels
+suburbs.
+
+At any rate, let us not overrate the productivity of the exporting
+countries, and let us remember that the vine-growers of Southern
+Europe drink themselves an abominable _piquette_; that Marseilles
+fabricates wine for home use out of dry raisins brought from Asia;
+and that the Normandy peasant who sends his apples to London, drinks
+real cider only on great festivities. Such a state of things will
+not last for ever; and the day is not far when we shall be compelled
+to look to our own resources to provide many of the things which we
+now import. And we shall not be the worse for that. The resources of
+science, both in enlarging the circle of our production and in new
+discoveries, are inexhaustible. And each new branch of activity calls
+into existence more and more new branches, which steadily increase
+the power of man over the forces of nature.
+
+If we take all into consideration; if we realise the progress made
+of late in the gardening culture, and the tendency towards spreading
+its methods to the open field; if we watch the cultural experiments
+which are being made now--experiments to-day and realities
+to-morrow--and ponder over the resources kept in store by science,
+we are bound to say that _it is utterly impossible to foresee at the
+present moment the limits as to the_ maximum _number of human beings
+who could draw their means of subsistence from a given area of land_,
+or as to what a variety of produce they could advantageously grow in
+any latitude. Each day widens former limits, and opens new and wide
+horizons. All we can say now is, that, _even now_, 600 persons could
+easily live on a square mile; and that, with cultural methods already
+used on a large scale, 1,000 human beings--not idlers--living on
+1,000 acres could easily, without any kind of overwork, obtain from
+that area a luxurious vegetable and animal food, as well as the flax,
+wool, silk, and hides necessary for their clothing. As to what may
+be obtained under still more perfect methods--also known but not yet
+tested on a large scale--it is better to abstain from any forecast:
+so unexpected are the recent achievements of intensive culture.
+
+We thus see that the over-population fallacy does not stand the very
+first attempt at submitting it to a closer examination. Those only
+can be horror-stricken at seeing the population of this country
+increase by one individual every 1,000 seconds who think of a human
+being as a mere claimant upon the stock of material wealth of
+mankind, without being at the same time a contributor to that stock.
+But we, who see in each new-born babe a future _worker_ capable of
+producing much more than his own share of the common stock--we greet
+his appearance.
+
+We know that a crowded population is a necessary condition for
+permitting man to increase the productive powers of his labour. We
+know that highly productive labour is impossible so long as men are
+scattered, few in numbers, over wide territories, and are thus unable
+to combine together for the higher achievements of civilisation. We
+know what an amount of labour must be spent to scratch the soil with
+a primitive plough, to spin and weave by hand; and we know also how
+much less labour it costs to grow the same amount of food and weave
+the same cloth with the help of modern machinery.
+
+We also see that it is infinitely easier to grow 200,000 lb. of food
+on one acre than to grow them on ten acres. It is all very well
+to imagine that wheat grows by itself on the Russian steppes; but
+those who have seen how the peasant toils in the “fertile” black
+earth region will have one desire: that the increase of population
+may permit the use of the steam-digger and gardening culture in the
+steppes; that it may permit those who are now the beasts of burden of
+humanity to raise their backs and to become at last men.
+
+       *       *       *       *       *
+
+We must, however, recognise that there are a few economists fully
+aware of the above truths. They gladly admit that Western Europe
+could grow much more food than it does; but they see no necessity nor
+advantage in doing so, as long as there are nations which can supply
+food in exchange for manufactured goods. Let us then examine how far
+this view is correct.
+
+It is obvious that if we are satisfied with merely stating that it is
+cheaper to bring wheat from Riga than to grow it in Lincolnshire, the
+whole question is settled in a moment. But is it so in reality? Is it
+really cheaper to have food from abroad? And, supposing it is, are we
+not yet bound to analyse that compound result which we call price,
+rather than to accept it as a supreme and blind ruler of our actions?
+
+We know, for instance, how French agriculture is burdened by
+taxation. And yet, if we compare the prices of articles of food in
+France, which herself grows most of them, with the prices in this
+country, which imports them, we find no difference in favour of the
+importing country. On the contrary, the balance is rather in favour
+of France, and it decidedly was so for wheat until the new protective
+tariff was introduced. As soon as one goes out of Paris, one finds
+that every _home produce_ is cheaper in France than it is in England,
+and that the prices decrease further when we go farther East on the
+Continent.
+
+There is another feature still more unfavourable for this country:
+namely, the enormous development of the class of middlemen who
+stand between the importer and the home producer on the one side
+and the consumer on the other. We have lately heard a good deal
+about the quite disproportionate part of the prices we pay which
+goes into the middleman’s pockets. We have all heard of the East-end
+clergyman who was compelled to become butcher in order to save his
+parishioners from the greedy middleman. We read in the papers that
+many farmers of the midland counties do not realise more than 9d.
+for a pound of butter, while the customer pays from 1s. 6d. to 1s.
+8d.; and that from 1½d. to 2d. for the quart of milk is all that the
+Cheshire farmers can get, while we pay 4d. for the adulterated, and
+5d. for the unadulterated milk. An analysis of the Covent Garden
+prices and a comparison of the same with retail prices, which is
+being made from time to time in the daily papers, proves that the
+customer pays for vegetables at the rate of 6d. to 1s., and sometimes
+more, for each penny realised by the grower. But in a country of
+imported food it _must_ be so: the grower who himself sells his own
+produce disappears from its markets, and in his place appears the
+middleman.[64] If we move, however, towards the East, and go to
+Belgium, Germany, and Russia, we find that the cost of living is
+more and more reduced, so that finally we find that in Russia, which
+remains still agricultural, wheat costs one-half or two-thirds of its
+London prices, and meat is sold throughout the provinces at about
+ten farthings (kopecks) the pound. And we may therefore hold that it
+is not yet proved at all that it is cheaper to live on imported food
+than to grow it ourselves.
+
+But if we analyse _price_, and make a distinction between its
+different elements, the disadvantage becomes still more apparent.
+If we compare, for instance, the costs of growing wheat in this
+country and in Russia, we are told that in the United Kingdom the
+hundredweight of wheat cannot be grown at less than 8s. 7d.; while
+in Russia the costs of production of the same hundredweight are
+estimated at from 3s. 6d. to 4s. 9d.[65] The difference is enormous,
+and it would still remain very great even if we admit that there is
+some exaggeration in the former figure. But why this difference? Are
+the Russian labourers paid so much less for their work? Their money
+wages surely are much lower, but the difference is equalised as soon
+as we reckon their wages in produce. The twelve shillings a week
+of the British agricultural labourer represents the same amount of
+wheat in Britain as the six shillings a week of the Russian labourer
+represents in Russia. As to the supposed prodigious fertility of
+the soil in the Russian prairies, it is a fallacy. Crops of from
+sixteen to twenty-three bushels per acre are considered good crops
+in Russia, while the average hardly reaches thirteen bushels, even
+in the corn-exporting parts of the empire. Besides, the amount
+of labour which is necessary to grow wheat in Russia with no
+thrashing-machines, with a plough dragged by a horse hardly worth
+the name, with no roads for transport, and so on, is certainly much
+greater than the amount of labour which is necessary to grow the same
+amount of wheat in Western Europe.
+
+When brought to the London market, Russian wheat was sold in 1887
+at 31s. the quarter, while it appeared from the same _Mark Lane
+Express_ figures that the quarter of wheat could not be grown in
+this country at less than 36s. 8d., even if the straw be sold, which
+is not always the case. But the difference of the land rent in both
+countries would alone account for the difference of prices. In the
+wheat belt of Russia, where the average rent stood at about 12s.
+per acre, and the crop was from fifteen to twenty bushels, the rent
+amounted to from 3s. 6d. to 5s. 8d. in the costs of production of
+each quarter of Russian wheat; while in this country, where the rent
+and taxes are valued (in the _Mark Lane Express_ figures) at no less
+than 40s. per each wheat-growing acre, and the crop is taken at
+thirty bushels, the rent amounts to 10s. in the costs of production
+of each quarter.[66] But even if we take only 30s. per acre of rent
+and taxes, and an average crop of twenty-eight bushels, we still have
+8s. 8d. out of the sale price of each quarter of wheat, which goes to
+the landlord and the State. If it costs so much more in money to grow
+wheat in this country, while the amount of labour is so much less in
+this country than in Russia, it is due to the very great height of
+the land rents attained during the years 1860-1880. But this growth
+itself was due to the facilities for realising large profits on the
+sale of manufactured goods abroad. The false condition of British
+rural economy, not the infertility of the soil, is thus the chief
+cause of the Russian competition.
+
+Twenty-five years have passed since I wrote these lines--the
+agricultural crisis provoked by the competition of cheap American
+wheat being at that time at its climax, and, I am sorry to say, I
+must leave these lines such as they were written. I do not mean,
+of course, that no adaptation to the new conditions created by
+the fall in the prices of wheat should have taken place during
+the last quarter of a century, in the sense of a more intensive
+culture and a better utilisation of the land. On the contrary, I
+mention in different parts of this book the progress accomplished
+of late in the development of separate branches of intensive
+culture, such as fruit-culture, market-gardening, culture under
+glass, French gardening, and poultry farming, and I also indicate
+the different steps taken to promote further improvements, such as
+better conditions of transport, co-operation among the farmers, and
+especially the development of small holdings.
+
+However, after having taken into account all these improvements,
+one cannot but see with regret that the same regressive movement in
+British agriculture, which began in the ’seventies, continues still;
+and while more and more of the land that was once under the plough
+goes out of culture, no corresponding increase in the quantities of
+live stock is to be seen. And if we consult the mass of books and
+review articles which have been dealing lately with this subject, we
+see that all the writers recognise that British agriculture _must_
+adapt itself to the new conditions by a thorough reform of its
+general character; and yet the same writers recognise that only a
+few steps were taken till now in the proper direction, and none of
+them was taken with a sufficient energy. Society at large remains
+indifferent to the needs of British agriculture.
+
+It must not be forgotten that the competition of American wheat
+has made the same havoc in the agriculture of most European
+countries--especially in France and Belgium; but in the last two
+countries the adaptations which were necessary to resist the
+effects of the competition have already taken place to a great
+extent. Both in Belgium and in France the American imports gave a
+new impetus toward a more intensive utilisation of the soil, and
+this impetus was strongest in Belgium, where no attempt was made
+to protect agriculture by an increase of the import duties, as was
+the case in France. On the contrary, the duties upon imported wheat
+were abolished in Belgium precisely at the time when the American
+competition began to be felt--that is, between 1870 and 1880.
+
+It was not only in England that the fall in the prices of wheat was
+felt acutely by the farmers. In France, the hectolitre of wheat (very
+nearly three bushels), which was sold at 18s. 10d. in 1871-1875,
+fell to 15s. 5d. in 1881-1885, and to 12s. 6d. in 1893; and the same
+must have been in Belgium, the more so as the protective duties were
+abolished. But here is what Mr. Seebohm Rowntree says about the
+effect of the prices in his admirable book on land and labour in
+Belgium:--
+
+  “For a time the Belgian agriculturist was hardly hit, but
+  gradually he adjusted himself to the new conditions. His
+  cultivation became more intensive, he made more and more use of
+  co-operation in various directions, and he devoted himself to new
+  branches of agriculture, especially the raising of live stock
+  and garden produce. He began to realise the value of artificial
+  manures, and to acknowledge that science could help him.”--_Land
+  and Labour_, p. 147.
+
+These words by Mr. Rowntree are fully confirmed by the change in
+the general aspects of the Belgian agriculture, as they appear from
+the official statistical data. The same must be said of France. The
+above-mentioned fall in prices induced agriculturists to intensify
+their methods of culture. I have mentioned already the rapid
+spreading of agricultural machinery among the French peasants during
+the last twenty years; and I must mention also the equally remarkable
+increase in the amounts of chemical manure used by the peasants;
+the sudden development of agricultural syndicates since 1884; the
+extension taken by co-operation; the new organisation of transport
+with cool storage, or in heated cars, for the export of fruit and
+flowers; the development taken by special industrial cultures; and
+still more so the immense development of gardening in the South of
+France and market-gardening in the North. All these adaptations were
+introduced on such a scale that one is bound to recognise that the
+crisis has had the effect of giving quite a new aspect to French
+agriculture, taken as a whole.
+
+       *       *       *       *       *
+
+Much more ought to be said with regard to the American competition,
+and therefore I must refer the reader to the remarkable series
+of articles dealing with the whole of the subject which
+Schaeffle published in 1886 in the _Zeitschrift für die gesammte
+Staatswissenschaft_, and to the most elaborate article on the costs
+of growing wheat all over the world which appeared in April, 1887, in
+the _Quarterly Review_. These articles were written at the time when
+American competition was something new and made much havoc in English
+agriculture, causing a fall of from 30 to 50 per cent. in the rents
+of land for agricultural purposes. But the conclusions of these two
+writers were fully corroborated by the yearly reports of the American
+Board of Agriculture, and Schaeffle’s previsions were fully confirmed
+by the subsequent reports of Mr. J. R. Dodge. It appeared from these
+works that the fertility of the American soil had been grossly
+exaggerated, as the masses of wheat which America sent to Europe from
+its north-western farms were grown on a soil the natural fertility of
+which is not higher, and often lower, than the average fertility of
+the unmanured European soil. The Casselton farm in Dakota, with its
+twenty bushels per acre, was an exception; while the average crop of
+the chief wheat-growing States in the West was only eleven to twelve
+bushels. In order to find a fertile soil in America, and crops of
+from thirty to forty bushels, one must go to the old Eastern States,
+where the soil is made by man’s hands.[67]
+
+The same applies to the American supplies of meat. Schaeffle pointed
+out that the great mass of live stock which appeared in the census
+of cattle in the States was not reared in the prairies, but in
+the stables of the farms, in the same way as in Europe; as to the
+prairies, he found on them only one-eleventh part of the American
+horned cattle, one-fifth of the sheep and one-twenty-first of the
+pigs.[68] “Natural fertility” being thus out of question, we must
+look for social causes; and we have them, for the Western States,
+in the cheapness of land and a proper organisation of production;
+and for the Eastern States in the rapid progress of _intensive_ high
+farming.
+
+It is evident that the methods of culture must vary according to
+different conditions. In the vast prairies of North America, where
+land could be _bought_ from 8s. to 40s. the acre, and where spaces
+of from 100 to 150 square miles in one block could be given to wheat
+culture, special methods of culture were applied and the results were
+excellent. Land was bought--not rented. In the autumn, whole studs
+of horses were brought, and the tilling and sowing were done with
+the aid of formidable ploughs and sowing machines. Then the horses
+were sent to graze in the mountains; the men were dismissed, and one
+man, occasionally two or three, remained to winter on the farm. In
+the spring the owners’ agents began to beat the inns for hundreds of
+miles round, and engaged labourers and tramps, both freely supplied
+by Europe, for the crop. Battalions of men were marched to the wheat
+fields, and were camped there; the horses were brought from the
+mountains, and in a week or two the crop was cut, thrashed, winnowed,
+put in sacks, by specially invented machines, and sent to the next
+elevator, or directly to the ships which carried it to Europe.
+Whereupon the men were disbanded again, the horses were sent back to
+the grazing grounds, or sold, and again only a couple of men remained
+on the farm.
+
+The crop from each acre was small, but the machinery was so
+perfected that in this way 300 days of one man’s labour produced
+from 200 to 300 quarters of wheat; in other words--the area of land
+being of no account--every man produced in one day his yearly bread
+food (eight and a half bushels of wheat); and taking into account
+all subsequent labour, it was calculated that the work of 300 men in
+one single day delivered to the consumer at Chicago the flour that
+is required for the yearly food of 250 persons. Twelve hours and a
+half of work are thus required in Chicago to supply one man with his
+yearly provision of wheat-flour.
+
+Under the special conditions offered in the Far West this certainly
+was an appropriate method for increasing all of a sudden the wheat
+supplies of mankind. It answered its purpose when large territories
+of unoccupied land were opened to enterprise. But it could not
+answer for ever. Under such a system of culture the soil was soon
+exhausted, the crop declined, and _intensive_ agriculture (which
+aims at high crops on a limited area) had soon to be resorted to.
+Such was the case in Iowa in the year 1878. Up till then, Iowa was
+an emporium for wheat-growing on the lines just indicated. But the
+soil was already exhausted, and when a disease came the wheat plants
+had no force to resist it. In a few weeks nearly all the wheat crop,
+which was expected to beat all previous records, was lost; eight to
+ten bushels per acre of bad wheat were all that could be cropped.
+The result was that “mammoth farms” had to be broken up into small
+farms, and that the Iowa farmers (after a terrible crisis of short
+duration--everything is rapid in America) took to a more intensive
+culture. Now, they are not behind France in wheat culture, as they
+already grow an average of sixteen and a half bushels per acre on an
+area of more than 2,000,000 acres, and they will soon win ground.
+Somehow, with the aid of manure and improved methods of farming, they
+compete admirably with the mammoth farms of the Far West.
+
+In fact, over and over again it was pointed out, by Schaeffle,
+Semler, Oetken, and many other writers, that the force of “American
+competition” is not in its mammoth farms, but in the countless small
+farms upon which wheat is grown in the same way as it is grown
+in Europe--that is, with manuring--but with a better organised
+production and facilities for sale, and without being compelled
+to pay to the landlord a toll of one-third part, or more, of the
+selling price of each quarter of wheat. However, it was only after
+I had myself made a tour in the prairies of Manitoba in 1897, and
+those of Ohio in 1901, that I could realise the full truth of
+the just-mentioned views. The 15,000,000 to 20,000,000 bushels
+of wheat, which are exported every year from Manitoba, are grown
+almost entirely in farms of one or two “quarter-sections”--that is,
+of 160 and 320 acres. The ploughing is made in the usual way, and
+in an immense majority of cases the farmers buy the reaping and
+binding machines (the “binders”) by associating in groups of four.
+The thrashing machine is rented by the farmer for one or two days,
+and the farmer carts his wheat to the elevator with his own horses,
+either to sell it immediately, or to keep it at the elevator if he is
+in no immediate need of money and hopes to get a higher price in one
+month or two. In short, in Manitoba one is especially struck with the
+fact that, even under a system of keen competition, the middle-size
+farm has completely beaten the old mammoth farm, and that it is not
+manufacturing wheat on a grand scale which pays best. It is also most
+interesting to note that thousands and thousands of farmers produce
+mountains of wheat in the Canadian province of Toronto and in the
+Eastern States, although the land is not prairie-land at all, and the
+farms are, as a rule, small.
+
+The force of “American competition” is thus not in the possibility
+of having hundreds of acres of wheat in one block. It lies in the
+ownership of the land, in a system of culture which is appropriate
+to the character of the country, in a widely developed spirit of
+association, and, finally, in a number of institutions and customs
+intended to lift the agriculturist and his profession to a high level
+which is unknown in Europe.
+
+In Europe we do not realise at all what is done in the States and
+Canada in the interests of agriculture. In every American State, and
+in every distinct region of Canada, there is an experimental farm,
+and all the work of preliminary experiment upon new varieties of
+wheat, oats, barley, fodder and fruit, which the farmer has mostly to
+make himself in Europe, is made under the best scientific conditions
+at the experimental farms, on a small scale first and on a large
+scale next. The results of all these researches and experiments are
+not merely rendered accessible to the farmer who would like to know
+them, but they are brought to his knowledge, and, so to speak, are
+forced upon his attention by every possible means. The “Bulletins” of
+the experimental stations are distributed in hundreds of thousands
+of copies; visits to the farms are organised in such a way that
+thousands of farmers should inspect the stations every year, and be
+shown by specialists the results obtained, either with new varieties
+of plants or under various new methods of treatment. Correspondence
+is carried on with the farmers on such a scale that, for instance,
+at Ottawa, the experimental farm sends out every year a hundred
+thousand letters and packets. Every farmer can get, free of charge
+and postage, five pounds of seed of any variety of cereals, out of
+which he can get next year the necessary seed for sowing several
+acres. And, finally, in every small and remote township there are
+held farmers’ meetings, at which special lecturers, who are sent
+out by the experimental farms or the local agricultural societies,
+discuss with the farmers in an informal way the results of last
+year’s experiments and discoveries relative to every branch of
+agriculture, horticulture, cattle-breeding, dairying and agricultural
+co-operation.[69]
+
+American agriculture really offers an imposing sight--not in the
+wheat fields of the Far West, which soon will become a thing of
+the past, but in the development of rational agriculture and the
+forces which promote it. Read the description of an agricultural
+exhibition, “the State’s fair,” in some small town of Iowa, with
+its 70,000 farmers camping with their families in tents during the
+fair’s week, studying, learning, buying, and selling, and enjoying
+life. You see a _national_ fête, and you feel that you deal with a
+nation in which agriculture is in respect. Or read the publications
+of the scores of experimental stations, whose reports are distributed
+broadcast over the country, and are read by the farmers and discussed
+at countless “farmers’ meetings.” Consult the “Transactions” and
+“Bulletins” of the countless agricultural societies, not royal but
+popular; study the grand enterprises for irrigation; and you will
+feel that American agriculture is a real force, imbued with life,
+which no longer fears mammoth farms, and needs not to cry like a
+child for protection.
+
+“Intensive” agriculture and gardening are already by this time as
+much a feature of the treatment of the soil in America as they are
+in Belgium. As far back as the year 1880, nine States, among which
+were Georgia, Virginia and the two Carolinas, bought £5,750,000
+worth of artificial manure; and we are told that by this time the
+use of artificial manure has immensely spread towards the West. In
+Iowa, where mammoth farms used to exist twenty years ago, sown grass
+is already in use, and it is highly recommended by both the Iowa
+Agricultural Institute and the numerous local agricultural papers;
+while at the agricultural competitions the highest rewards are given,
+not for extensive farming, but for high crops on small areas. Thus,
+at a recent competition in which hundreds of farmers took part, the
+first ten prizes were awarded to ten farmers who had grown, on three
+acres each, from 262 to 346¾ bushels of Indian corn, in other words
+_from 87 to 115 bushels to the acre_. This shows where the ambition
+of the Iowa farmer goes. In Minnesota, prizes were given already for
+crops of 300 to 1,120 bushels of potatoes to the acre--that is, from
+eight and a quarter to thirty-one tons to the acre--while the average
+potato crop in Great Britain is only six tons.
+
+At the same time market-gardening is immensely extending in America.
+In the market-gardens of Florida we see such crops as 445 to 600
+bushels of onions per acre, 400 bushels of tomatoes, 700 bushels of
+sweet potatoes, which testify to a high development of culture. As
+to the “truck farms” (market-gardening for export by steamer and
+rail), they covered, in 1892, 400,000 acres, and the fruit farms in
+the suburbs of Norfolk, in Virginia, were described by Prof. Ch.
+Baltet[70] as real _models_ of that sort of culture--a very high
+testimony in the mouth of a French gardener who himself comes from
+the model _marais_ of Troyes.
+
+And while people in London continue to pay almost all the year
+round twopence for a lettuce (very often imported from Paris), they
+have at Chicago and Boston those unique establishments in the world
+where lettuces are grown in immense greenhouses with the aid of
+electric light; and we must not forget that although the discovery of
+“electric” growth is European (it is due to Siemens), it was at the
+Cornell University that it was proved by a series of experiments that
+electric light is an admirable aid for forwarding the growth of the
+_green_ parts of the plant.
+
+In short, America, which formerly took the lead in bringing
+“extensive” agriculture to perfection, now takes the lead in
+“intensive,” or forced, agriculture as well. In this adaptability
+lies the real force of American competition.
+
+FOOTNOTES:
+
+[34] I leave these lines on purpose as they were written for the
+first edition of this book.
+
+[35] Twenty-three per cent. of the total area of England, 40 per
+cent. in Wales, and 75 per cent. in Scotland are now under wood,
+coppice, mountain heath, water, etc. The remainder--that is,
+32,777,513 acres--which were under culture and permanent pasture
+in the year 1890 (only 32,094,658 in 1911), may be taken as the
+“cultivable” area of Great Britain.
+
+[36] Average area under wheat in 1853-1860, 4,092,160 acres; average
+crop, 14,310,779 quarters. Average area under wheat in 1884-1887,
+2,509,055 acres; average crop (good years), 9,198,956 quarters.
+See Professor W. Fream’s _Rothamstead Experiments_ (London, 1888),
+page 83. I take in the above Sir John Lawes’ figure of 5·65 bushels
+per head of population every year. It is very close to the yearly
+allowance of 5·67 bushels of the French statisticians. The Russian
+statisticians reckon 5·67 bushels of winter crops (chiefly rye) and
+2·5 bushels of spring crops (sarrazin, barley, etc.).
+
+[37] There was an increase of 1,800,000 head of horned cattle, and
+a decrease of 4¼ million sheep (6⅔ millions, if we compare the year
+1886 with 1868), which would correspond to an increase of 1¼ million
+of units of cattle, because eight sheep are reckoned as equivalent
+to one head of horned cattle. But five million acres having been
+reclaimed upon waste land since 1860, the above increase should
+hardly do for covering that area, so that the 2¼ million acres which
+were cultivated no longer remained fully uncovered. They were a pure
+loss to the nation.
+
+[38] According to a report read by Mr. Crawford before the
+Statistical Society in October, 1899, Britain imports every year
+4,500,000 tons of hay and other food for its cattle and horses. Under
+the present system of culture, 6,000,000 acres could produce these
+food-stuffs. If another 6,000,000 acres were sown with cereals, all
+the wheat required for the United Kingdom could have been produced at
+home with the methods of culture now in use.
+
+[39] No less than 5,877,000 cwts. of beef and mutton, 1,065,470 sheep
+and lambs, and 415,565 pieces of cattle were imported in 1895. In
+1910 the first of these figures rose to 13,690,000 cwts. Altogether,
+it is calculated (_Statesman’s Year-book_, 1912) that, in 1910,
+21 lb. of imported beef, 13½ lb. of imported mutton, and 7 lb. of
+other sorts of meat, per head of population, were retained for home
+consumption; in addition to 11 lb. of butter, 262 lb. of wheat, 25
+lb. of flour, and 20 lb. of rice and rice-flour, imported.
+
+[40] Agricultural population (farmers and labourers) in England and
+Wales: 2,100,000 in 1861; 1,383,000 in 1884; 1,311,720 in 1891;
+1,152,500 (including fishing population) in 1901.
+
+[41] Round the small hamlet where I stayed for two summers, there
+were: One farm, 370 acres, four labourers and two boys; another,
+about 300 acres, two men and two boys; a third, 800 acres, five men
+only and probably as many boys. In truth, the problem of cultivating
+the land with the least number of men has been solved in this spot
+by not cultivating at all as much as two-thirds of it. Since these
+lines were written, in 1890, a movement in favour of intensive
+market-gardening has begun in this country, and I read in November,
+1909, that they were selling at the Covent Garden market asparagus
+that had been grown in South Devon in November. They begin also to
+grow early potatoes in Cornwall and Devon. Formerly, nobody thought
+of utilising this rich soil and warm climate for growing early
+vegetables.
+
+[42] _Land Problems and National Welfare_, London, 1911.
+
+[43] _Rural England_, two big volumes, London, 1902.
+
+[44] See H. Rider Haggard’s _Rural Denmark and its Lessons_, London,
+1911, pp. 188-212.
+
+[45] The _Rothamstead Experiments_, 1888, by Professor W. Fream, p.
+35 _seq._ It is well worth noting that Mr. Hall, who was the head
+of Rothamstead for many years, maintained from his own experience
+that growing wheat in England is more profitable than rearing live
+stock. The same opinion was often expressed by the experts whose
+testimonies are reproduced by Rider Haggard. In many places of his
+_Rural England_ one finds also a mention of high wheat crops, up to
+fifty-six bushels per acre, obtained in many places in this country.
+
+[46] The figures which I take for these calculations are given in
+_Agricultural Returns of the Board of Agriculture and Agricultural
+Statistics for 1911_, vol xlvi., pt. 1. They are as follows for the
+year 1910:--
+
+                                           Acres.
+  Total area (Great Britain)             56,803,000
+  Uncultivable area                      24,657,070
+                                        (23,680,000 in 1895)
+  Cultivable area                        32,145,930
+  Out of it, under the plough            14,668,890
+  Out of it, under permanent pasture     17,477,040
+
+(During the last ten years, since the census of 1901, the cultivable
+area decreased by 323,000 acres, while the urban area increased by
+166,710 acres, thus reaching now 4,015,700 acres. Since 1901, 942,000
+acres were withdrawn from the plough, 661,000 acres in England,
+158,000 in Wales, and 123,000 in Scotland.)
+
+The distribution of the area which is actually under the plough
+between the various crops varies considerably from year to year.
+Taking 1910 (an average year) we have the following:--
+
+                                           Acres.
+  Corn crops                             7,045,530
+  Clover and mature grasses              4,157,040
+  Green crops and orchards               2,994,890
+  Hops                                      32,890
+  Small fruit                               84,310
+  Flax                                         230
+  Bare fallow, etc.                        354,000
+  Total under culture (including that
+    part of permanent pasture which
+    gives hay)                          14,668,890
+                         (In 1901       15,610,890)
+                         (In 1895       16,166,950)
+
+Out of the 7,045,530 acres given to corn crops, 1,808,850 acres were
+under wheat (nearly 200,000 acres less than in 1899 and 100,000 acres
+less than in 1911), 1,728,680 acres under barley (only 1,597,930 in
+1911), 3,020,970 acres under oats, about 300,000 under beans, and
+about 52,000 acres under rye and buckwheat. From 540,000 to 570,000
+acres were given to potatoes. The area under clover and sown grasses
+is steadily declining since 1898, when it was 4,911,000 acres.
+
+[47] Only from each 52 acres, out of 308 acres, hay is obtained. The
+remainder are grazing grounds.
+
+[48] That is, thirty to thirty-three bushels on the average; forty
+bushels in good farms, and fifty in the best. The area under
+wheat was 16,700,000 acres in 1910, all chief corn crops covering
+33,947,000 acres; the cultivated area is 90,300,000 acres, and
+the aggregate superficies of France, 130,800,000 acres. About
+agriculture in France, see Lecouteux, _Le blé, sa culture extensive
+et intensive_, 1883; Risler, _Physiologie et culture du blé_, 1886;
+Boitet, _Herbages et prairies naturelles_, 1885; Baudrillart,
+_Les populations agricoles de la Normandie_, 1880; Grandeau,
+_La production agricole en France_, and _L’agriculture et les
+institutions agricoles du monde au commencement du vingtième siècle_;
+P. Compain, _Prairies et paturages_; A. Clément, _Agriculture
+moderne_, 1906; Augé Laribé, _L’évolution de la France agricole_,
+1912; Léonce de Lavergne’s last edition; and so on.
+
+[49] The exports from France in 1910 (average year) attained: Wine,
+222,804,000 fr.; spirits, 54,000,000 fr.; cheese, butter and sugar,
+114,000,000 fr. To this country France sent, same year, £2,163,200
+worth of wine, £1,013,200 worth of refined sugar, £2,116,000 worth
+of butter, and £400,000 worth of eggs, all of French origin only, in
+addition to £12,206,700 worth of manufactured silks, woollens, and
+cottons. The exports from Algeria are not taken in the above figures.
+
+[50] Each 1,000 acres of French territory are disposed of as follows:
+379 acres are under woods and coppices (176), buildings, communal
+grazing grounds, mountains, etc., and 621 acres are considered as
+“cultivable.” Out of the latter, 130 are under meadows, now irrigated
+to a great extent, 257 acres under cereals (124 under wheat, and 26
+under wheat mixed with rye), 33 under vineyards, 83 under orchards,
+green crops, and various industrial cultures, and the remainder is
+chiefly under permanent pasture or bare fallow. As to cattle, we
+find in Great Britain, in 1910, which was an average year, 7,037,330
+head of cattle (including in that number about 1,400,000 calves
+under one year), which makes _twenty-two head_ per each 100 acres
+of the cultivable area, and 27,103,000 sheep--that is, _eighty-four
+sheep_ per each 100 acres of the same area. In France we find, in
+the same year, 14,297,570 cattle (_nineteen_ head per each 100 acres
+of cultivable area), and only 17,357,640 sheep (_twenty-one_ sheep
+per 100 acres of the same). In other words, the proportion of horned
+cattle is nearly the same in both countries (twenty-two head and
+nineteen head per 100 acres), a considerable difference appearing in
+favour of this country only as to the number of sheep (eighty-four
+as against twenty-one). The heavy imports of hay, oil-cake, oats,
+etc., into this country must, however, not be forgotten, because,
+for each head of cattle which lives on imported food, eight sheep
+can be grazed, or be fed with home-grown fodder. As to horses, both
+countries stand on nearly the same footing.
+
+[51] Out of each 1000 acres of territory, 673 are cultivated, and
+327 are left as uncultivable, and part of them are now used for
+afforestation. Out of the 673 cultivated acres, 273 are given to
+cereals, out of which 61 are under pure wheat, 114 under _méteil_ (a
+mixture of ⅔ of wheat and ⅓ of rye) and pure rye, and 98 under other
+cereals; 18 to potatoes, 45 to roots and fodder, and 281 to various
+industrial cultures (beet for sugar, oleaginous grains, etc.); 27 are
+under gardens, kitchen gardens and parks, 177 under woods, and 57 are
+cultivated periodically. On the other hand, each 65 acres out of 1000
+give catch-crops of carrots, mangolds, etc.
+
+[52] _Annuaire Statistique de la Belgique pour_ 1910, Bruxelles,
+

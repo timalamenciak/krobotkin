@@ -1,0 +1,82 @@
+TITLE: Fields, Factories and Workshops
+AUTHOR: Peter Kropotkin
+YEAR: 1899
+SOURCE_ID: pg_64353
+SOURCE_PATH: data/raw/64353-0.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/64353
+RETRIEVED_UTC: 2026-02-03T19:51:10Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+1911. In Mr. Seebohm Rowntree’s admirable work, _Land and Labour:
+Lessons from Belgium_, published 1910 (London, Macmillan), the reader
+will find all concerning Belgian agriculture dealt with in detail on
+the basis of the author’s personal scrupulous inquiries on the spot,
+and all available statistical information.
+
+[53] _Land and Labour: Lessons from Belgium_, pp. 178, 179.
+
+[54] Taking all horses, cattle and sheep in both countries, and
+reckoning eight sheep as equivalent to one head of horned cattle, we
+find that Belgium has _twenty-four_ cattle units and horses upon each
+100 acres of territory, as against _twenty_ same units and horses in
+Great Britain. If we take cattle alone, the disproportion is much
+greater, as we find _thirty-six_ cattle units on each 100 acres of
+cultivable area, as against _nineteen_ in Great Britain. The annual
+value of animal produce in Belgium is estimated by the _Annuaire
+Statistique de la Belgique_ (1910, p. 302) at £66,040,000, including
+milk (£4,000,000), poultry (£1,600,000), and eggs (£1,400,000).
+
+[55] I take these lines from a letter which the Rural Office of the
+Belgian Ministry of Agriculture had been kind enough to write to me
+on January 28, 1910, in reply to some questions which I had addressed
+to that Office in order to explain the striking oscillations of the
+Belgian exports between the years 1870 and 1880. A Belgian friend,
+having kindly taken new information upon this point, had the same
+opinion confirmed from another official source.
+
+[56] If we take the figures of imports and exports, which I also
+owe to the Belgian Rural Office, we find that the _net_ imports
+of wheat, rye, and wheat mixed with rye (_méteil_) reached 3,011
+million lb. in 1907 (3,374 million in 1910), which would give 429 lb.
+_per capita_ for a population of 7,000,000 inhabitants. But if this
+amount be added to the local production of the same cereals, which
+reached the same year 2,426 million lb., we arrive at the figure of
+776 lb. per head of population. But such a figure is much too high,
+because the annual _per capita_ consumption _of both the winter
+and the spring cereals_ is generally estimated to be 502 lb. There
+must be, therefore, either an error in the weight of the imports,
+which is improbable, or the figures of re-exported cereals are not
+complete. Let me add that in France the average annual consumption
+_per capita_ of _all_ cereals, including oats, has been in the
+course of twenty-nine years (1880-1908) 525 lb., which confirms the
+above-mentioned figure. And in France people eat as much bread as in
+Belgium.
+
+[57] See Appendix K.
+
+[58] Assuming that 9,000 lb. of dry hay are necessary for keeping one
+head of horned cattle every year, the following figures (taken from
+Toubeau’s _Répartition métrique des impôts_) will show what we obtain
+now under usual and under intensive culture:--
+
+  +-----------------------+--------------+-------------+----------+
+  |                       |              |             |Number of |
+  |                       |Crop per acre.|Equivalent in|cattle fed|
+  |                       |    Eng. lb.  |   dry hay.  |from each |
+  |                       |              |   Eng. lb.  |100 acres.|
+  +-----------------------+--------------+-------------+----------+
+  | Pasture               |      --      |     1,200   |     13   |
+  | Unirrigated meadows   |      --      |     2,400   |     26   |
+  | Clover, cut twice     |      --      |     4,800   |     52   |
+  | Swedish turnips       |    38,500    |    10,000   |    108   |
+  | Rye-grass             |    64,000    |    18,000   |    180   |
+  | Beet, high farming    |    64,000    |    21,000   |    210   |
+  | Indian corn, ensilage |   120,000    |    30,000   |    330   |
+  +-----------------------+--------------+-------------+----------+
+
+[59] I saw thermosiphons used by the market-gardeners at Worthing.
+They said that they found them quite satisfactory. As to the cost
+of heating the soil, let me mention the experiments of H. Mehner,
+described in _Gartenflora_, fascicules 16 and 17 of the year
+

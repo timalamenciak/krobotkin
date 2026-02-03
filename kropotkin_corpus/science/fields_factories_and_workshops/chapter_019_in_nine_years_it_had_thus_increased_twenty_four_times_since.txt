@@ -1,0 +1,543 @@
+TITLE: Fields, Factories and Workshops
+AUTHOR: Peter Kropotkin
+YEAR: 1899
+SOURCE_ID: pg_64353
+SOURCE_PATH: data/raw/64353-0.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/64353
+RETRIEVED_UTC: 2026-02-03T19:51:10Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+1895. In nine years it had thus increased twenty-four times. Since
+then it rose to 413,800,000 lb. in 1909; and we learn from the
+_Financial Economical Annual_ for the years 1910 and 1911, published
+at Tokio, that there were in Japan, in 1909, no less than 3,756
+textile factories, with 1,785,700 spindles and 51,185 power-looms,
+to which 783,155 hand-looms must be added. Japan is thus already
+a serious competitor of the great industrial nations for tissues
+altogether, and especially for cottons, in the markets of Eastern
+Asia; and it took it only five-and-twenty years to attain this
+position. The total production of tissues, valued at £1,200,000 in
+the year 1887, rapidly rose to £14,270,000 in 1895 and to £22,500,000
+in 1909--cottons entering into this amount to the extent of nearly
+two-fifths. Consequently, the imports of foreign cotton goods from
+Europe fell from £1,640,000 in 1884 to £849,600 in 1895, and to
+£411,600 in 1910, while the exports of silk goods rose to nearly
+£3,000,000.[24]
+
+As to the coal and iron industries, I ventured in the first edition
+of this book to predict that the Japanese would not long remain a
+tributary to Europe for iron goods--that their ambition was also to
+have their own shipbuilding yards, and that the previous year 300
+engineers left the Elswick works of Mr. Armstrong in order to start
+shipbuilding in Japan. They were engaged for five years only--the
+Japanese expecting to have learned enough in five years to be their
+own shipbuilders. This prediction has been entirely fulfilled.
+Japan has now 1,030 iron and machine works, and she now builds her
+own warships. During the last war, the progress realised in all
+industries connected with war was rendered fully evident.[25]
+
+All this shows that the much-dreaded invasion of the East upon
+European markets is in rapid progress. The Chinese slumber still; but
+I am firmly persuaded from what I saw of China that the moment they
+will begin to manufacture with the aid of European machinery--and
+the first steps have already been made--they will do it with more
+success, and necessarily on a far greater scale, than even the
+Japanese.
+
+       *       *       *       *       *
+
+But what about the United States, which cannot be accused of
+employing cheap labour or of sending to Europe “cheap and nasty”
+produce? Their great industry is of yesterday’s date; and yet the
+States already send to old Europe constantly increasing quantities of
+machinery. In 1890 they began even to export iron, which they obtain
+at a very low cost, owing to admirable new methods which they have
+introduced in metallurgy.
+
+In the course of twenty years (1870-1890) the number of persons
+employed in the American manufactures was more than doubled, and the
+value of their produce was nearly trebled; and in the course of the
+next fifteen years, the number of persons employed increased again
+by nearly fifty per cent., while the value of the produce was nearly
+doubled.[26] The cotton industry, supplied with excellent home-made
+machinery, has been rapidly developing, so that the yearly production
+of textiles attained in 1905 a value of 2,147,441,400 dollars, thus
+being twice as large as the yearly production of the United Kingdom
+in the same branch (which was valued at about £200,000,000); and
+the exports of cottons of domestic manufacture attained in 1910 the
+respectable figure of £8,600,000.[27] As to the yearly output of
+pig-iron and steel, it is already in excess of the yearly output in
+Britain;[28] and the organisation of that industry is also superior,
+as Mr. Berkley pointed out, already in 1891, in his address to the
+Institute of Civil Engineers.[29]
+
+But all this has grown almost entirely within the last thirty or
+forty years--whole industries having been created entirely since
+1860.[30] What will, then, American industry be twenty years, hence,
+aided as it is by a wonderful development of technical skill, by
+excellent schools, a scientific education which goes hand in hand
+with technical education, and a spirit of enterprise which is
+unrivalled in Europe?
+
+       *       *       *       *       *
+
+Volumes have been written about the crisis of 1886-1887, a crisis
+which, to use the words of the Parliamentary Commission, lasted since
+1875, with but “a short period of prosperity enjoyed by certain
+branches of trade in the years 1880 to 1883,” and a crisis, I shall
+add, which extended over all the chief manufacturing countries of the
+world. All possible causes of the crisis have been examined; but,
+whatever the cacophony of conclusions arrived at, all unanimously
+agreed upon one, namely, that of the Parliamentary Commission, which
+could be summed up as follows: “The manufacturing countries do not
+find such customers as would enable them to realise high profits.”
+Profits being the basis of capitalist industry, low profits explain
+all ulterior consequences.
+
+Low profits induce the employers to reduce the wages, or the number
+of workers, or the number of days of employment during the week, or
+eventually compel them to resort to the manufacture of lower kinds
+of goods, which, as a rule, are paid worse than the higher sorts. As
+Adam Smith said, low profits ultimately mean a reduction of wages,
+and low wages mean a reduced consumption by the worker. Low profits
+mean also a somewhat reduced consumption by the employer; and both
+together mean lower profits and reduced consumption with that immense
+class of middlemen which has grown up in manufacturing countries, and
+that, again, means a further reduction of profits for the employers.
+
+A country which manufactures to a great extent for export, and
+therefore lives to a considerable amount on the profits derived
+from her foreign trade, stands very much in the same position as
+Switzerland, which lives to a great extent on the profits derived
+from the foreigners who visit her lakes and glaciers. A good “season”
+means an influx of from £1,000,000 to £2,000,000 of money imported by
+the tourists, and a bad “season” has the effects of a bad crop in an
+agricultural country: a general impoverishment follows. So it is also
+with a country which manufactures for export. If the “season” is bad,
+and the exported goods cannot be sold abroad for twice their value at
+home, the country which lives chiefly on these bargains suffers. Low
+profits for the innkeepers of the Alps mean narrowed circumstances
+in large parts of Switzerland; and low profits for the Lancashire
+and Scotch manufacturers, and the wholesale exporters, mean narrowed
+circumstances in Great Britain. The cause is the same in both cases.
+
+For many decades past we had not seen such a cheapness of wheat
+and manufactured goods as we saw in 1883-1884, and yet in 1886 the
+country was suffering from a terrible crisis. People said, of course,
+that the cause of the crisis was over-production. But over-production
+is a word utterly devoid of sense if it does not mean that those who
+are in need of all kinds of produce have not the means for buying
+them with their low wages. Nobody would dare to affirm that there is
+too much furniture in the crippled cottages, too many bedsteads and
+bedclothes in the workmen’s dwellings, too many lamps burning in the
+huts, and too much cloth on the shoulders, not only of those who used
+to sleep (in 1886) in Trafalgar Square between two newspapers, but
+even in those households where a silk hat makes a part of the Sunday
+dress. And nobody will dare to affirm that there is too much food in
+the homes of those agricultural labourers who earn twelve shillings
+a week, or of those women who earn from fivepence to sixpence a day
+in the clothing trade and other small industries which swarm in the
+outskirts of all great cities. Over-production means merely and
+simply a want of purchasing powers amidst the workers. And the same
+want of purchasing powers of the workers was felt everywhere on the
+Continent during the years 1885-1887.
+
+After the bad years were over, a sudden revival of international
+trade took place; and, as the British exports rose in four years
+(1886 to 1890) by nearly 24 per cent., it began to be said that
+there was no reason for being alarmed by foreign competition; that
+the decline of exports in 1885-1887 was only temporary, and general
+in Europe; and that England, now as of old, fully maintained her
+dominant position in the international trade. It is certainly true
+that if we consider exclusively the money value of the exports for
+the years 1876 to 1895, we see no permanent decline, we notice only
+fluctuations. British exports, like commerce altogether, seem to
+show a certain periodicity. They fell from £201,000,000 sterling in
+1876 to £192,000,000 in 1879; then they rose again to £241,000,000
+in 1882, and fell down to £213,000,000 in 1886; again they rose
+to £264,000,000 in 1890, but fell again, reaching a minimum of
+£216,000,000 in 1894, to be followed next year by a slight movement
+upwards.
+
+This periodicity being a fact, Mr. Giffen could make light in 1886 of
+“German competition” by showing that exports from the United Kingdom
+had not decreased. It can even be said that, per head of population,
+they had remained unchanged until 1904, undergoing only the usual ups
+and downs.[31] However, when we come to consider the _quantities_
+exported, and compare them with the _money values_ of the exports,
+even Mr. Giffen had to acknowledge that the prices of 1883 were
+so low in comparison with those of 1873 that in order to reach the
+same money value the United Kingdom would have had to export four
+pieces of cotton instead of three, and eight or ten tons of metallic
+goods instead of six. “The aggregate of British foreign trade, if
+valued at the prices of ten years previously, would have amounted to
+£861,000,000 instead of £667,000,000,” we were told by no less an
+authority than the Commission on Trade Depression.
+
+It might, however, be said that 1873 was an exceptional year, owing
+to the inflated demand which took place after the Franco-German war.
+But the same downward movement continued for a number of years. Thus,
+if we take the figures given in the _Statesman’s Year-book_, we see
+that while the United Kingdom exported, in 1883, 4,957,000,000 yards
+of piece goods (cotton, woollen and linen) and 316,000,000 lb. of
+yarn in order to reach an export value of £104,000,000, the same
+country had to export, in 1895, no less than 5,478,000,000 yards
+of the same stuffs and 330,000,000 lb. of yarn in order to realise
+£99,700,000 only. And the figures would have appeared still more
+unfavourable if we took the cottons alone. True, the conditions
+improved during the last ten years, so that in 1906 the exports were
+similar to those of 1873; and they were better still in 1911, which
+was a year of an extraordinary foreign trade, when 7,041,000,000
+yards of stuffs and 307,000,000 lb. of yarn were exported--the two
+being valued at £163,400,000. However, it was especially the yarn
+which kept the high prices, because it is the finest sorts of yarn
+which are now exported. But the great profits of the years 1873-1880
+are irretrievably gone.
+
+We thus see that while the total value of the exports from the United
+Kingdom, in proportion to its growing population, remains, broadly
+speaking, unaltered for the last thirty years, the high prices which
+could be got for the exports thirty years ago, and with them the
+high profits, are gone. And no amount of arithmetical calculations
+will persuade the British manufacturers that such is not the case.
+They know perfectly well that the home markets grow continually
+overstocked; that the best foreign markets are escaping; and that
+in the neutral markets Britain is being undersold. This is the
+unavoidable consequence of the development of manufactures all over
+the world. (See Appendix J.)
+
+Great hopes were laid, some time ago, in Australia as a market for
+British goods; but Australia will soon do what Canada already does.
+She will manufacture. And the colonial exhibitions, by showing to
+the “colonists” what they are able to do, and how they must do, are
+only accelerating the day when each colony _farà da sè_ in her turn.
+Canada and India already impose protective duties on British goods.
+As to the much-spoken-of markets on the Congo, and Mr. Stanley’s
+calculations and promises of a trade amounting to £26,000,000 a
+year if the Lancashire people supply the Africans with loin-cloths,
+such promises belong to the same category of fancies as the famous
+nightcaps of the Chinese which were to enrich England after the first
+Chinese war. The Chinese prefer their own home-made nightcaps; and as
+to the Congo people, four countries at least are already competing
+for supplying them with their poor dress: Britain, Germany, the
+United States, and, last but not least, India.
+
+There was a time when this country had almost the monopoly in the
+cotton industries; but already in 1880 she possessed only 55 per
+cent. of all the spindles at work in Europe, the United States and
+India (40,000,000 out of 72,000,000), and a little more than one-half
+of the looms (550,000 out of 972,000). In 1893 the proportion was
+further reduced to 49 per cent. of the spindles (45,300,000 out of
+91,340,000), and now the United Kingdom has only 41 per cent. of
+all the spindles.[32] It was thus losing ground while the others
+were winning. And the fact is quite natural: it might have been
+foreseen. There is no reason why Britain should always be the great
+cotton manufactory of the world, when raw cotton has to be imported
+into this country as elsewhere. It was quite natural that France,
+Germany, Italy, Russia, India, Japan, the United States, and even
+Mexico and Brazil, should begin to spin their own yarns and to weave
+their own cotton stuffs. But the appearance of the cotton industry in
+a country, or, in fact, of any textile industry, unavoidably becomes
+the starting-point for the growth of a series of other industries;
+chemical and mechanical works, metallurgy and mining feel at once
+the impetus given by a new want. The whole of the home industries,
+as also technical education altogether, _must_ improve in order to
+satisfy that want as soon as it has been felt.
+
+What has happened with regard to cottons is going on also with regard
+to other industries. Great Britain, which stood in 1880 at the head
+of the list of countries producing pig-iron, came in 1904 the third
+in the same list, which was headed by the United States and Germany;
+while Russia, which occupied the seventh place in 1880, comes now
+fourth, after Great Britain.[33] Britain and Belgium have no longer
+the monopoly of the woollen trade. Immense factories at Verviers
+are silent; the Belgian weavers are misery-stricken, while Germany
+yearly increases her production of woollens, and exports nine times
+more woollens than Belgium. Austria has her own woollens and exports
+them; Riga, Lodz, and Moscow supply Russia with fine woollen cloths;
+and the growth of the woollen industry in each of the last-named
+countries calls into existence hundreds of connected trades.
+
+For many years France has had the monopoly of the silk trade.
+Silkworms being reared in Southern France, it was quite natural
+that Lyons should grow into a centre for the manufacture of silks.
+Spinning, domestic weaving, and dyeing works developed to a great
+extent. But eventually the industry took such an extension that home
+supplies of raw silk became insufficient, and raw silk was imported
+from Italy, Spain and Southern Austria, Asia Minor, the Caucasus and
+Japan, to the amount of from £9,000,000 to £11,000,000 in 1875 and
+1876, while France had only £800,000 worth of her own silk. Thousands
+of peasant boys and girls were attracted by high wages to Lyons and
+the neighbouring district; the industry was prosperous.
+
+However, by-and-by new centres of silk trade grew up at Basel and in
+the peasant houses round Zürich. French emigrants imported the trade
+into Switzerland, and it developed there, especially after the civil
+war of 1871. Then the Caucasus Administration invited French workmen
+and women from Lyons and Marseilles to teach the Georgians and the
+Russians the best means of rearing the silkworm, as well as the
+whole of the silk trade; and Stavropol became a new centre for silk
+weaving. Austria and the United States did the same; and what are now
+the results?
+
+During the years 1872 to 1881 Switzerland more than doubled the
+produce of her silk industry; Italy and Germany increased it by
+one-third; and the Lyons region, which formerly manufactured to the
+value of 454 million francs a year, showed in 1887 a return of only
+378 millions. The exports of Lyons silks, which reached an average
+of 425,000,000 francs in 1855-1859, and 460,000,000 in 1870-1874,
+fell down to 233,000,000 in 1887. And it is reckoned by French
+specialists that at present no less than one-third of the silk stuffs
+used in France are imported from Zurich, Crefeld, and Barmen. Nay,
+even Italy, which has now 191,000 persons engaged in the industry,
+sends her silks to France and competes with Lyons.
+
+The French manufacturers may cry as loudly as they like for
+protection, or resort to the production of cheaper goods of lower
+quality; they may sell 3,250,000 kilogrammes of silk stuffs at the
+same price as they sold 2,500,000 in 1855-1859--they will never
+again regain the position they occupied before. Italy, Switzerland,
+Germany, the United States and Russia have their own silk factories,
+and will import from Lyons only the highest qualities of stuffs. As
+to the lower sorts, a foulard has become a common attire with the St.
+Petersburg housemaids, because the North Caucasian domestic trades
+supply them at a price which would starve the Lyons weavers. The
+trade has been decentralised, and while Lyons is still a centre for
+the higher artistic silks, it will never be again the chief centre
+for the silk trade which it was thirty years ago.
+
+Like examples could be produced by the score. Greenock no longer
+supplies Russia with sugar, because Russia has plenty of her own
+at the same price as it sells at in England. The watch trade is no
+more a speciality of Switzerland: watches are now made everywhere.
+India extracts from her ninety collieries two-thirds of her annual
+consumption of coal. The chemical trade which grew up on the banks of
+the Clyde and Tyne, owing to the special advantages offered for the
+import of Spanish pyrites and the agglomeration of such a variety of
+industries along the two estuaries, is now in decay. Spain, with the
+help of English capital, is beginning to utilise her own pyrites for
+herself; and Germany has become a great centre for the manufacture
+of sulphuric acid and soda--nay, she already complains about
+over-production.
+
+       *       *       *       *       *
+
+But enough! I have before me so many figures, all telling the
+same tale, that examples could be multiplied at will. It is time
+to conclude, and, for every unprejudiced mind, the conclusion is
+self-evident. Industries of all kinds decentralise and are scattered
+all over the globe; and everywhere a variety, an integrated variety,
+of trades grows, instead of specialisation. Such are the prominent
+features of the times we live in. Each nation becomes in its turn a
+manufacturing nation; and the time is not far off when each nation
+of Europe, as well as the United States, and even the most backward
+nations of Asia and America, will themselves manufacture nearly
+everything they are in need of. Wars and several accidental causes
+may check for some time the scattering of industries: they will not
+stop it; it is unavoidable. For each new-comer the first steps only
+are difficult. But, as soon as any industry has taken firm root,
+it calls into existence hundreds of other trades; and as soon as
+the first steps have been made, and the first obstacles have been
+overcome, the industrial growth goes on at an accelerated rate.
+
+The fact is so well felt, if not understood, that the race for
+colonies has become the distinctive feature of the last twenty years.
+Each nation will have her own colonies. But colonies will not help.
+There is not a second India in the world, and the old conditions
+will be repeated no more. Nay, some of the British colonies already
+threaten to become serious competitors with their mother country;
+others, like Australia, will not fail to follow the same lines. As
+to the yet neutral markets, China will never be a serious customer
+to Europe: she can produce much cheaper at home; and when she begins
+to feel a need for goods of European patterns, she will produce them
+herself. Woe to Europe, if on the day that the steam engine invades
+China she is still relying on foreign customers! As to the African
+half-savages, their misery is no foundation for the well-being of a
+civilised nation.
+
+Progress must be looked for in another direction. _It is in producing
+for home use._ The customers for the Lancashire cottons and the
+Sheffield cutlery, the Lyons silks and the Hungarian flour-mills,
+are not in India, nor in Africa. The true consumers of the produce
+of our factories must be our own populations. And they _can_ be
+that, once we organise our economical life so that they might issue
+from their present destitution. No use to send floating shops to
+New Guinea with British or German millinery, when there are plenty
+of would-be customers for British millinery in these very islands,
+and for German goods in Germany. Instead of worrying our brains by
+schemes for getting customers abroad, it would be better to try
+to answer the following questions: Why the British worker, whose
+industrial capacities are so highly praised in political speeches;
+why the Scotch crofter and the Irish peasant, whose obstinate labours
+in creating new productive soil out of peat bogs are occasionally
+so much spoken of, are no customers to the Lancashire weavers, the
+Sheffield cutlers and the Northumbrian and Welsh pitmen? Why the
+Lyons weavers not only do not wear silks, but sometimes have no food
+in their attics? Why the Russian peasants sell their corn, and for
+four, six, and sometimes eight months every year are compelled to mix
+bark and auroch grass to a handful of flour for baking their bread?
+Why famines are so common amidst the growers of wheat and rice in
+India?
+
+Under the present conditions of division into capitalists and
+labourers, into property-holders and masses living on uncertain
+wages, the spreading of industries over new fields is accompanied
+by the very same horrible facts of pitiless oppression, massacre of
+children, pauperism, and insecurity of life. The Russian Fabrics
+Inspectors’ Reports, the Reports of the Plauen Handelskammer, the
+Italian inquests, and the reports about the growing industries of
+India and Japan are full of the same revelations as the Reports
+of the Parliamentary Commissions of 1840 to 1842, or the modern
+revelations with regard to the “sweating system” at Whitechapel
+and Glasgow, London pauperism, and York unemployment. The Capital
+and Labour problem is thus universalised; but, at the same time,
+it is also simplified. To return to a state of affairs where corn
+is grown, and manufactured goods are fabricated, _for the use of
+those very people who grow and produce them_--such will be, no
+doubt, the problem to be solved during the next coming years of
+European history. Each region will become its own producer and its
+own consumer of manufactured goods. But that unavoidably implies
+that, at the same time, it will be its own producer and consumer
+of agricultural produce; and that is precisely what I am going to
+discuss next.
+
+FOOTNOTES:
+
+[15] During the census of 1902, there were in Austria 1,408,000
+industrial establishments, with 1,787,000 horse-power, giving
+occupation to 4,049,300 workpeople; 1,128,000 workpeople were engaged
+in manufactures in Hungary.
+
+[16] The net imports of raw cotton reached 1,180,000 cwts. in 1885,
+and 4,120,000 cwts. in 1908; the number of spindles grew from
+880,000 in 1877 to 3,800,000 in 1907. The whole industry has grown
+up since 1859. In 1910 no less than 358,200 tons of pig-iron and
+671,000 tons of steel were produced in Italy. The exports of textiles
+reached the following values in 1905-1910: Silks, from £17,800,000
+to £24,794,000; cottons, £4,430,000 to £5,040,000; woollens, from
+£440,000 to £1,429,000.
+
+[17] _Times_, August 27, 1912.
+
+[18] _The Economist_, 12th May, 1894, p. 9: “A few years ago the
+Orizaba mills used entirely imported raw cotton; but now they use
+home-grown and home-spun cotton as much as possible.”
+
+[19] _Annuario Estadistico_, 1911. They consumed 34,700 tons of raw
+cotton, and produced 13,936,300 pieces of cotton goods, and 554,000
+cwts. of yarn.
+
+[20] Schulze Gäwernitz, _The Cotton Trade_, etc., p. 123.
+
+[21] In 1882 they had 5,633 looms and 95,937 spindles. Thirteen
+years later these figures were already doubled--there being 10,600
+looms and 216,000 spindles. Now, or rather in 1909-1910, we find
+60 jute mills, with 31,420 looms, 645,700 spindles, and 204,000
+workpeople. The progress realised in the machinery is best seen from
+these figures. The exports of jute stuffs from India, which were
+only £1,543,870 in 1884-1885, reached £11,333,000 in 1910-1911. (See
+Appendix H.)
+
+[22] _Textile Recorder_, 15th October, 1888.
+
+[23] 39,200,000 lb. of yarn were imported in 1886 as against
+6,435,000 lb. of home-spun yarn. In 1889 the figures were: 56,633,000
+lb. imported and 26,809,000 lb. home-spun.
+
+[24] In 1910 the imports of cotton and woollens were only £2,650,500,
+while the exports of cotton yarn, cotton shirtings, and silk
+manufactures reached a value of £8,164,800.
+
+[25] The mining industry has grown as follows:--Copper extracted:
+2,407 tons in 1875; 49,000 in 1909. Coal: 567,200 tons in 1875:
+15,535,000 in 1909. Iron: 3,447 tons in 1875; 15,268 in 1887;
+65,000 in 1909. (K. Rathgen, _Japan’s Volkwirthschaft und
+Staatshaushaltung_, Leipzig, 1891; Consular Reports.)
+
+[26] Workers employed in manufacturing industries: 2,054,000 in
+1870, 4,712,600 in 1890, and 6,723,900 in 1905 (including salaried
+officials and clerks). Value of produce: 3,385,861,000 dollars in
+1870, 9,372,437,280 dollars in 1890, and 16,866,707,000 in 1905.
+Yearly production per head of workers: 1,648 dollars in 1870, 1,989
+dollars in 1890, and 2,514 dollars in 1905.
+
+[27] About the cotton industry in the United States, see Appendix I.
+
+[28] It was from 7,255,076 to 9,811,620 tons of pig-iron during
+the years 1890-94, and 27,303,600 long tons in 1910 (£85,000,000
+worth). The total value of products of the steel works and rolling
+mills reached in 1909 the immense value of £197,144,500. In the
+_Statesman’s Year-book_ for the years 1910-1912, the reader may
+find most striking figures concerning the rapid growth of the iron
+and steel industry in the States. We have nothing parallel to it in
+Europe.
+
+[29] “The largest output of one blast-furnace in Great Britain does
+not exceed 750 tons in the week, while in America it had reached 2000
+tons” (_Nature_, 19th Nov., 1891, p. 65). In 1909 the Bessemer steel
+plants had 99 converters; total daily capacity of ingots or direct
+castings, double turn, in 1909, 45,983 tons.
+
+[30] J. R. Dodge, _Farm and Factory: Aids to Agriculture from other
+Industries_, New York and London, 1884, p. 111. I can but highly
+recommend this little work to those interested in the question.
+
+[31] Per head of population the exports of British produce appear, in
+shillings, as follows:--
+
+  1876   =121s.=
+  1877   119s.
+  1878   114s.
+  1879   _112s._
+  1880   129s.
+  1881   134s.
+  1882   =137s.=
+  1883   135s.
+  1884   130s.
+  1885   118s.
+  1886   _117s._
+  1887   121s.
+  1888   127s.
+  1889   134s.
+  1890   =141s.=
+  1891   131s.
+  1892   119s.
+  1893   114s.
+  1894   _111s._
+  1895   112s.
+  1896   116s.
+  1897   117s.
+  1898   116s.
+  1899   =130s.=
+  1900   =142s.=
+  1901   _135s._
+  1902   _135s._
+  1903   138s.
+  1904   141s.
+  1905   153s.
+  1906   173s.
+  1907   =194s.=
+  1908   _171s._
+  1909   192s.
+  1910   =201s.=
+
+[32] The International Federation of the Cotton Industry employers
+gave, on March 1, 1909, the following numbers of spindles in the
+different countries of the Old and New Worlds:--
+
+  United Kingdom       53,472,000 =  41 per cent.
+  United States        27,846,000 =  21    ”
+  Germany               9,881,000 =   8    ”
+  Russia                7,829,000 =   6    ”
+  France                6,750,000 =   5    ”
+  British India         5,756,000 =   4    ”
+  Other nations        19,262,000 =  15    ”
+                      -----------   ---
+                      130,796,000 = 100    ”
+
+[33] J. Stephen Jeans, _The Iron Trade of Great Britain_ (London,
+Methuen), 1905, p. 46. The reader will find in this interesting
+little work valuable data concerning the growth and improvement of
+the iron industry in different countries.
+

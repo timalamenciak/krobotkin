@@ -1,0 +1,733 @@
+TITLE: Fields, Factories and Workshops
+AUTHOR: Peter Kropotkin
+YEAR: 1899
+SOURCE_ID: pg_64353
+SOURCE_PATH: data/raw/64353-0.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/64353
+RETRIEVED_UTC: 2026-02-03T19:51:15Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+M. Toubeau, that replanted wheat could be made a powerful means of
+increasing the crops in Western Europe.[203] So far as I know, the
+idea has not yet been submitted to a practical test; but when one
+thinks of the remarkable results obtained by Hallet’s method of
+planting; of what the market-gardeners obtain by replanting once
+and even twice; and of how rapidly the work of planting is done by
+market-gardeners in Jersey, one must agree that in replanted wheat
+we have a new opening worthy of the most careful consideration.
+Experiments have not yet been made in this direction; but Prof.
+Grandeau, whose opinion I have asked on this subject, wrote to me
+that he believes the method must have a great future. Practical
+market-gardeners (Paris _maraîcher_) whose opinion I have asked, see,
+of course, nothing extravagant in that idea.
+
+With plants yielding 1,000 grains each--and in the Capelle experiment
+they yielded an average of 600 grains--the yearly wheat-food of one
+individual man (5·65 bushels, or 265 lbs.), which is represented by
+from 5,000,000 to 5,500,000 grains, could be grown on a space of
+250 square yards; while for an experienced hand replanting would
+represent no more than ten to twelve hours’ work. With a proper
+machine-tool, the work could probably be very much reduced. In Japan,
+two men and two women plant with rice three-quarters of an acre in
+one day (Ronna, _Les Irrigations_, vol. iii., 1890, p. 67 seq.). That
+means (Fesca, _Japanesische Landwirthschaft_, p. 33) from 33,000 to
+66,000 plants, or, let us say, a minimum of 8,250 plants a day for
+one person. The Jersey gardeners plant from 600 (inexperienced) to
+1,000 plants per hour (experienced).
+
+P.--IMPORTS OF VEGETABLES TO THE UNITED KINGDOM.
+
+That the land in this country is not sufficiently utilised for
+market-gardening, and that the largest portion of the vegetables
+which are imported from abroad could be grown in this country, has
+been said over and over again within the last twenty-five years.
+
+It is certain that considerable improvements have taken place
+lately--the area under market-gardens, and especially the area
+under glass for the growth of fruit and vegetables, having largely
+been increased of late. Thus, instead of 38,957 acres, which were
+given to market-gardening in Great Britain in 1875, there were, in
+1894, 88,210 acres, exclusive of vegetable crops on farms, given
+to that purpose (_The Gardener’s Chronicle_, 20th April, 1895, p.
+483). But that increase remains a trifle in comparison with similar
+increases in France, Belgium, and the United States. In France, the
+area given to market-gardening was estimated in 1892 by M. Baltet
+(_L’horticulture dans les cinq parties du monde_, Paris, Hachette,
+1895) at 1,075,000 acres--four times more, in proportion to the
+cultivable area, than in this country; and the most remarkable of it
+is that considerable tracts of land formerly treated as uncultivable
+have been reclaimed for the purposes of market-gardening as also of
+fruit growing.
+
+As things stand now in this country, we see that very large
+quantities of the commonest vegetables, each of which could be grown
+in this country, are imported.
+
+Lettuces are imported--not only from the Azores or from the south
+of France, but they continue until June to be imported from France,
+where they are mostly grown--not in the open air, but in frames.
+Early cucumbers, also grown in frames, are largely imported from
+Holland, and are sold so cheaply that many English gardeners have
+ceased to grow them.[204] Even beetroot and pickling cabbage are
+imported from Holland and Brittany (the neighbourhoods of Saint Malo,
+where I saw them grown in a sandy soil, which would grow nothing
+without a heavy manuring with guano, as a second crop, after a first
+one of potatoes); and while onions were formerly largely grown in
+this country, we see that, in 1894, 5,288,512 bushels of onions,
+£765,049 worth, were imported from Belgium (chief exporter), Germany,
+Holland, France, and so on.
+
+Again, that early potatoes should be imported from the Azores and
+the south of France is quite natural. It is not so natural, however,
+that more than 50,000 tons of potatoes (58,060 tons, £521,141 worth,
+on the average during the years 1891-1894) should be imported from
+the Channel Islands, because there are hundreds if not thousands
+of acres in South Devon, and most probably in other parts of the
+south coast too, where early potatoes could be grown equally well.
+But besides the 90,000 tons of early potatoes (over £700,000 worth)
+which are imported to this country, enormous quantities of late
+potatoes are imported from Holland, Germany, and Belgium; so that the
+total imports of potatoes reach from 200,000 to 450,000 tons every
+year. Moreover, this country imports every year all sorts of green
+vegetables, for the sum of at least £4,000,000, and for £5,000,000
+all sorts of fruit (apart from exotic fruit); while thousands of
+acres lie idle, and the country population is driven to the cities in
+search of work, without finding it.
+
+Q.--FRUIT-CULTURE IN BELGIUM.
+
+It appears from the _Annuaire statistique de la belgique_ that, out
+of a cultivated area of 6,443,500 acres, the following areas were
+given in Belgium, at the time of the last census, to fruit-growing,
+market-gardening, and culture under glass: Orchards, 117,600 acres;
+market-gardens, 103,460 acres; vineries, 173 acres (increased since);
+growing of trees for afforestation, gardens, and orchards, 7,475
+acres; potatoes, 456,000 acres. Consequently, Belgium is able to
+export every year about £250,000 worth more vegetables, and nearly
+£500,000 worth more fruit, than she imports. As to the vineries, the
+land of the communes of Hoeylart and Overyssche near Brussels is
+almost entirely covered with glass, and the exports of home-grown
+grapes attained, in 1910, 6,800 tons, in addition to 34,000 tons of
+other home-grown fruit. Besides, nearly 3,000 acres in the environs
+of Ghent are covered with horticultural establishments which export
+palms, azaleas, rhododendrons, and laurels all over the world,
+including Italy and the Argentine.
+
+R.--CULTURE UNDER GLASS IN HOLLAND.
+
+Holland in its turn has introduced gardening in hothouses on a great
+scale. Here is a letter which I received in the summer of 1909 from a
+friend:--
+
+“Here is a picture-postcard which J. (a professor of botany in
+Belgium) has brought from Holland, and which he asks me to send you.
+[The postcard represents an immense space covered with frames and
+glass lights.] Similar establishments cover many square kilomètres
+between Rotterdam and the sea, in the north of Heuve. At the time
+when J. was there (June 10) they had cucumbers, quite ripe, and
+melons as big as a head in considerable numbers, exported abroad. The
+cultures are made to a great extent without heating. The gardeners
+sow also radishes, carrots, lettuce, under the same glass. The
+different produce comes one after the other. They also cultivate
+large quantities of strawberries in frames.
+
+“The glass-frames are transported at will, so as to keep under glass
+for several days or weeks the plants sown in any part of the garden.
+J. is full of admiration for the knowledge of the gardeners. Instead
+of the usual routine, they apply the last progress of science. He was
+told that glass is broken very seldom; they have acquired the art of
+handling glass-frames with facility and great skill.
+
+“Besides the frames represented on the photograph, the region between
+Rotterdam and the sea, which is named Westland, has also countless
+glass-houses, where they cultivate, with or without heating, grapes,
+peaches, northern cherries, haricot beans, tomatoes, and other fruit
+and vegetables. These cultures have reached a very high degree of
+perfection. The gardeners take the greatest care to fight various
+plant diseases. They also cultivate ordinary fruit--apples, pears,
+gooseberries, strawberries, and so on--and vegetables in the open
+air. Westland being very much exposed to strong winds, they have
+built numerous walls, which break the wind, and serve at the same
+time for the culture of fruit upon the walls.
+
+“All the region feels the favourable influence of the agricultural
+school of Naaldwijk, which is situated almost in the centre of the
+Westland.”
+
+S.--PRICES OBTAINED IN LONDON FOR DESSERT GRAPES CULTIVATED UNDER
+GLASS.
+
+_The Fruit and Market-Gardener_ gives every week the prices realised
+by horticultural and intensive gardening produce, as well as by
+flowers, at the great market of Covent Garden. The prices obtained
+for dessert grapes--Colmar and Hamburg--are very instructive. I took
+two years--1907-1908--which differ from ordinary years by the winters
+having been foggy, which made the garden produce to be somewhat late.
+
+In the first days of January the Colmar grapes arriving from the
+Belgian hothouses were still sold at relatively low prices--from
+6d. to 10d. the pound. But the prices slowly rose in January and
+February; the Hamburg grapes were late that year, and therefore in
+the middle of March and later on in April the Colmars fetched from
+1s. 6d. to 2s. 6d.
+
+The English grapes, coming from Worthing and so on, are certainly
+preferred to those that come from Belgium or the Channel Islands. By
+the end of April, 1907, and at the beginning of May, they were even
+sold at 2s. and 4s. the pound. The best and largest grapes for the
+dinners are evidently fetching fancy prices.
+
+But at last the Hamburg grapes, which were late in 1907 and 1908,
+began to arrive from Belgium, the Channel Islands, and England, and
+the prices suddenly fell. By the end of May the Belgian Hamburgs
+fetched only from 10d. to 1s. 4d. the pound, and the prices were
+still falling. In June and July the gardeners could only get from 5d.
+to 7d., and during the months of September, October, and November,
+1908, the best Guernsey grapes were quoted at 6d. the pound. Very
+beautiful ones fetched only 4d. the pound.
+
+It was only in the first days of November that the prices went up to
+10d. and 1s. 1d. But already, in the second half of December, the new
+crop of Colmars began to pour in from Belgium, and the prices fell to
+9d., and even to 6d. per pound about Christmas.
+
+We thus see that, notwithstanding a great demand for the best
+hothouse grapes, with big grains and quite fresh cut, these grapes
+are sold in the autumn almost at the same prices as grapes grown
+under the beautiful sun of the south.
+
+As to the quantities of grapes imported to this country, the figures
+are also most instructive. The average for the three years 1905-1907
+was 81,700,000 lbs., representing a value of £2,224,500.
+
+T.--THE USE OF ELECTRICITY IN AGRICULTURE.
+
+In the first editions of this book I did not venture to speak about
+the improvements that could be obtained in agriculture with the aid
+of electricity, or by watering the soil with cultures of certain
+useful microbes. I preferred to mention only well-established facts
+of intensive culture; but now it would be impossible not to mention
+what has been done in these two directions.
+
+More than thirty years ago I mentioned in _Nature_ the increase of
+the crops obtained by a Russian landlord who used to place at a
+certain height above his experimental field telegraph wires, through
+which an electric current was passed. A few years ago, in 1908, Sir
+Oliver Lodge gave in the _Daily Chronicle_ of July 15 the results of
+similar experiments made in a farm near Evesham by Messrs. Newman and
+Bomford, with the aid of Sir Oliver Lodge’s son, Mr. Lionel Lodge.
+
+A series of thin wires was placed above an experimental field at
+distances of ten yards from each other. These wires were attached
+to telegraph poles, high enough not to stand in the way of the
+carts loaded with corn. Another field was cultivated by the side of
+the former, in order to ascertain what would be the crops obtained
+without the aid of electricity.
+
+The poles, five yards high, were placed far away from each other, so
+that the wires were quite loose. Owing to the high tension of the
+currents that had to be passed through the wires, the insulators on
+the poles were very powerful. The currents were positive and of a
+high potential--about 100,000 volts. The escape of electricity under
+these conditions was so great that it could be seen in the dark. One
+could also feel it on the hair and the face while passing under the
+wires.
+
+Nevertheless, the expenditure of electric force was small, Sir Oliver
+Lodge writes; because, if the potential was high, the quantity
+of consumed energy was, notwithstanding that, very small. It is
+known, indeed, that this is also the case with the discharges of
+atmospheric electricity, which are terrible in consequence of their
+high tension, but do not represent a great loss of energy. An oil
+motor of two horse-power was therefore quite sufficient.
+
+The results were very satisfactory. The wheat crop in the electrified
+field was, in the years 1906-1907, by 29 to 40 per cent. greater, and
+also of better quality, than in the non-electrified field. The straw
+was also from four to eight inches longer.
+
+For strawberries the increase of the crop was 35 per cent., and 25
+per cent. for beetroot.
+
+As to the inoculation of useful microbes by means of watering the
+soil with cultures of nitrifying bacteria, experiments on a great
+scale have been made in Prussia upon some peat-bogs. The German
+agricultural papers speak of these experiments as having given most
+satisfactory results.
+
+Most interesting results have also been obtained in Germany by
+heating the soil with a mixture of air and hot steam passed along the
+ordinary draining tubes. A society has been formed to propagate this
+system, and the photographs of the results published by the Society
+in a pamphlet, _Gartenkultur, Bodenheizung, Klimaverbesserung_
+(Berlin, 1906), seem to prove that with a soil thus heated the growth
+of certain vegetables is accelerated to some extent.
+
+U.--PETTY TRADES IN THE LYONS REGION.
+
+The neighbourhoods of St. Etienne are a great centre for all sorts of
+industries, and among them the petty trades occupy still an important
+place. Ironworks and coal-mines with their smoking chimneys, noisy
+factories, roads blackened with coal, and a poor vegetation give
+the country the well-known aspects of a “Black Country.” In certain
+towns, such as St. Chamond, one finds numbers of big factories
+in which thousands of women are employed in the fabrication of
+_passementerie_. But side by side with the great industry the petty
+trades also maintain a high development. Thus we have first the
+fabrication of silk ribbons, in which no less than 50,000 men and
+women were employed in the year 1885. Only 3,000 or 4,000 looms were
+located then in the factories; while the remainder--that is, from
+1,200 to 1,400 looms--belonged to the workers themselves, both at St.
+Etienne and in the surrounding country.[205] As a rule the women and
+the girls spin the silk or make the winding off, while the father
+with his sons weave the ribbons. I saw these small workshops in the
+suburbs of St. Etienne, where complicated ribbons (with interwoven
+addresses of the manufacture), as well as ribbons of high artistic
+finish, were woven in three to four looms, while in the next room the
+wife prepared the dinner and attended to household work.
+
+There was a time when the wages were high in the ribbon trade
+(reaching over ten francs a day), and M. Euvert wrote me that
+half of the suburban houses of St. Etienne had been built by the
+_passementiers_ themselves. But the affairs took a very gloomy aspect
+when a crisis broke out in 1884. No orders were forthcoming, and the
+ribbon weavers had to live on casual earnings. All their economies
+were soon spent. “How many,” M. Euvert wrote, “have been compelled
+to sell for a few hundred francs the loom for which they had paid
+as many thousand francs.” What an effect this crisis has had on the
+trade I could not say, as I have no recent information about this
+region. Very probably a great number of the ribbon weavers have
+emigrated to St. Etienne, where artistic weaving is continued, while
+the cheapest sorts of ribbon must be made in factories.
+
+The manufacture of arms occupies from 5,000 to 6,000 workers, half
+of whom are in St. Etienne, and the remainder in the neighbouring
+county. All work is done in small workshops, save in the great arm
+factory of the State, which sometimes will employ from 10,000 to
+15,000 persons, and sometimes only a couple of thousand men.
+
+Another important trade in the same region is the manufacture of
+hardware, which is all made in small workshops, in the neighbourhoods
+of St. Etienne, Le Chambon, Firminy, Rive de Giers, and St. Bonnet le
+Château. The work is pretty regular, but the earnings are low as a
+rule. And yet the peasants continue to keep to those trades, as they
+cannot go on without some industrial occupation during part of the
+year.
+
+The yearly production of silk stuffs in France attained no less
+than 7,558,000 kilogrammes in 1881;[206] and most of the 5,000,000
+to 6,000,000 kilogrammes of raw silk which were manufactured in
+the Lyons region were manufactured by hand.[207] Twenty years
+before--that is, about 1865--there were only from 6,000 to 8,000
+power-looms, and when we take into account both the prosperous
+period of the Lyons silk industry about 1876, and the crisis which
+it underwent in 1880-1886, we cannot but wonder about the slowness
+of the transformation of the industry. Such is also the opinion of
+the President of the Lyons Chamber of Commerce, who wrote me that the
+domain of the power-loom is increased every year, “by including new
+kinds of stuffs, which formerly were reputed as unfeasible in the
+power-looms; but,” he added, “the transformation of small workshops
+into factories still goes on so slowly that the total number of
+power-looms reaches only from 20,000 to 25,000 out of an aggregate
+of from 100,000 to 110,000.” (Since that time it certainly must have
+considerably increased.)
+
+The leading features of the Lyons silk industry are the following:--
+
+The preparatory work--winding off, warping and so on--is mostly made
+in small workshops, chiefly at Lyons, with only a few workshops of
+the kind in the villages. Dyeing and finishing are also made--of
+course, in great factories--and it is especially in dyeing, which
+occupies 4,000 to 5,000 hands, that the Lyons manufacturers have
+attained their highest repute. Not only silks are dyed there, but
+also cottons and wools, and not only for France, but also to some
+extent for London, Manchester, Vienna, and even Moscow. It is also
+in this branch that the best machines have to be mentioned.[208]
+
+As to the weaving, it is made, as we just saw, on from 20,000 to
+25,000 power-looms and from 75,000 to 90,000 hand-looms, which partly
+are at Lyons (from 15,000 to 18,000 hand-looms in 1885) and chiefly
+in the villages. The workshops, where one might formerly find several
+_compagnons_ employed by one master, have a tendency to disappear,
+the workshops mostly having now but from two to three hand-looms, on
+which the father, the mother, and the children are working together.
+In each house, in each storey of the Croix Rousse, you find until now
+such small workshops. The _fabricant_ gives the general indications
+as to the kind of stuff he desires to be woven, and his draughtsmen
+design the pattern, but it is the workman himself who must find
+the way to weave in threads of all colours the patterns sketched
+on paper. He thus continually creates something new; and many
+improvements and discoveries have been made by workers whose very
+names remain unknown.[209]
+
+The Lyons weavers have retained until now the character of being
+the _élite_ of their trade in higher artistic work in silk stuffs.
+The finest, really artistic brocades, satins and velvets, are woven
+in the smallest workshops, where one or two looms only are kept.
+Unhappily the unsettled character of the demand for such a high style
+of work is often a cause of misery amongst them. In former times,
+when the orders for higher sorts of silks became scarce, the Lyons
+weavers resorted to the manufacture of stuffs of lower qualities:
+_foulards_, _crêpes_, _tulles_, of which Lyons had the monopoly in
+Europe. But now the commoner kinds of goods are manufactured by
+the million, on the one side by the factories of Lyons, Saxony,
+Russia, and Great Britain, and on the other side by peasants in the
+neighbouring departments of France, as well as in the Swiss villages
+of the cantons of Basel and Zurich, and in the villages of the Rhine
+provinces, Italy, and Russia.
+
+The emigration of the French silk industry from the towns to the
+villages began long ago--that is, about 1817--but it was especially
+in the ’sixties that this movement took a great development. About
+the year 1872 nearly 90,000 hand-looms were scattered, not only
+in the Rhône department, but also in those of Ain, Isère, Loire,
+Saône-et-Loire, and even those of Drôme, Ardèche, and Savoie.
+Sometimes the looms were supplied by the merchants, but most of them
+were bought by the weavers themselves, and it was especially women
+and girls who worked on them at the hours free from agriculture. But
+already since 1835 the emigration of the silk industry from the city
+to the villages began in the shape of great factories erected in
+the villages, and such factories continue to spread in the country,
+making terrible havoc amidst the rural populations.
+
+When a new factory is built in a village it attracts at once the
+girls, and partly also the boys of the neighbouring peasantry. The
+girls and boys are always happy to find an independent livelihood
+which emancipates them from the control of the family. Consequently,
+the wages of the factory girls are extremely low. At the same time
+the distance from the village to the factory being mostly great, the
+girls cannot return home every day, the less so as the hours of
+labour are usually long. So they stay all the week at the factory,
+in barracks, and they only return home on Saturday evening; while at
+sunrise on Monday a waggon makes the tour of the villages, and brings
+them back to the factory. Barrack life--not to mention its moral
+consequences--soon renders the girls quite unable to work in the
+fields. And, when they are grown up, they discover that they cannot
+maintain themselves at the low wages offered by the factory; but they
+can no more return to peasant life. It is easy to see what havoc the
+factory is thus doing in the villages, and how unsettled is its very
+existence, based upon the very low wages offered to country girls.
+It destroys the peasant home, it renders the life of the town worker
+still more precarious on account of the competition it makes to him;
+and the trade itself is in a perpetual state of unsettledness.
+
+Some information about the present state of the small industries in
+this region will be found in the text; but, unfortunately, we have no
+modern description of the industrial life of the Lyons region, which
+we might compare with the above.
+
+V.--SMALL INDUSTRIES AT PARIS.
+
+It would be impossible to enumerate here all the varieties of
+small industries which are carried on at Paris; nor would such an
+enumeration be complete, because every year new industries are
+brought into life. I therefore will mention only a few of the most
+important industries.
+
+A great number of them are connected, of course, with ladies’
+dress. The _confections_--that is, the making of various parts of
+ladies’ dress--occupy no less than 22,000 operatives at Paris, and
+their production attains £3,000,000 every year, while gowns give
+occupation to 15,000 women, whose annual production is valued at
+£2,400,000. Linen, shoes, gloves, and so on, are as many important
+branches of the petty trades and the Paris domestic industries, while
+one-fourth part of the stays which are sewn in France (£500,000 out
+of £2,000,000) are made in Paris.
+
+Engraving, book-binding, and all kinds of fancy stationery, as well
+as the manufacture of musical and mathematical instruments, are again
+as many branches in which the Paris workmen excel. Basket-making is
+another very important item, the finest sorts only being made in
+Paris, while the plainest sorts are made in the centres mentioned in
+the text (Haute Marne, Aisne, etc.). Brushes are also made in small
+workshops, the trade being valued at £800,000 both at Paris and in
+the neighbouring department of Oise.
+
+For furniture, there are at Paris as many as 4,340 workshops, in
+which three or four operatives per workshop are employed on the
+average. In the watch trade we find 2,000 workshops with only
+6,000 operatives, and their production, about £1,000,000, reaches
+nevertheless nearly one-third part of the total watch production in
+France. The _maroquinerie_ gives the very high figure of £500,000,
+although it employs only 1,000 persons, scattered in 280 workshops,
+this high figure itself testifying to the high artistic value of
+the Paris leather fancy goods. The jewelry, both for articles of
+luxury, and for all descriptions of cheap goods, is again one of
+the specialities of the Paris petty trades; and another well-known
+speciality is the fabrication of artificial flowers. Finally, we must
+mention the carriage and saddlery trades, which are carried on in
+the small towns round Paris; the making of fine straw hats; glass
+cutting, and painting on glass and china; and numerous workshops for
+fancy buttons, attire in mother-of-pearl, and small goods in horn and
+bone.
+
+W.--RESULTS OF THE CENSUS OF THE FRENCH INDUSTRIES IN 1896.
+
+If we consult the results of the census of 1896, that were
+published in 1901, in the fourth volume of _Résultats statistiques
+du recensement des industries et des professions_, preceded by an
+excellent summary written by M. Lucien March, we find that the
+general impression about the importance of the small industries in
+France conveyed in the text is fully confirmed by the numerical data
+of the census.
+
+It is only since 1896, M. March says in a paper read before the
+Statistical Society of Paris, that a detailed classification of the
+workshops and factories according to the number of their operatives
+became possible;[210] and he gives us in this paper, in a series of
+very elaborate tables, a most instructive picture of the present
+state of industry in France.
+
+For the industries proper--including the industries carried on by the
+State and the Municipalities, but excluding the transport trades--the
+results of the census can be summed up as follows:--
+
+There is, first of all, an important division of “heads of
+establishments (_patrons_) working alone, independent artisans,
+and working-men without a permanent employment,” which contains
+1,530,000 persons. It has a very mixed character, as we find
+here, in agriculture, the small farmer, who works for himself; and
+the labourer, who works by the day for occasional farmers; and
+in industry the head of a small workshop, who works for himself
+(_patron-ouvrier_); the working-man, who on the day of the census
+had no regular employment; the dressmaker, who works sometimes in
+her own room and sometimes in a shop; and so on. It is only in an
+indirect way that M. March finds out that this division contains, in
+its industrial part, nearly 483,000 artisans (_patrons-ouvriers_);
+and independent working-men and women; and about 1,047,000 persons of
+both sexes, temporarily attached to some industrial establishment.
+
+There are, next, 37,705 industrial establishments, of which the heads
+employ no hired workmen, but are aided by one or more members of
+their own families.
+
+We have thus, at least, 520,000 workshops belonging to the very small
+industry.
+
+Next to them come 575,530 workshops and factories, giving occupation
+to more than 3,000,000 persons. They constitute the bulk of French
+industry, and their subdivision into small, middle-sized, and great
+industry is what interests us at this moment.
+
+The most striking point is the immense number of establishments
+having only from one to ten working-men each. No less than 539,449
+such workshops and factories have been tabulated, which makes 94 per
+cent. of all the industrial establishments in France; and we find in
+them more than one-third of all workpeople of both sexes engaged in
+industry--namely, 1,134,700 persons.
+
+Next comes the class, still very numerous (28,626 establishments
+and 585,000 operatives), where we find only from eleven to fifty
+workmen per establishment. Nearly two-thirds of these small factories
+(17,342 establishments, 240,000 workmen) are so small that they give
+occupation to less than twenty persons each. They thus belong still
+to the small industry.
+
+After that comes a sudden fall in the figures. There are only 3,865
+factories having from fifty-one to 100 employees. This class and the
+preceding one contain among them 5½ per cent. of all the industrial
+establishments, and 27½ per cent. of their employees.
+
+The class of factories employing from 101 to 500 workmen contains
+3,145 establishments (616,000 workmen and other employees). But
+that of from 501 to 1,000 employees per factory has only 295
+establishments, and a total of only 195,000 operatives. Taken
+together, these two classes contain less than 1 per cent. of all the
+establishments (six per 1,000), and 26 per cent. of all the workmen.
+
+Finally, the number of factories and works having more than a
+thousand workmen and employees each is very small. It is only 149.
+Out of them, 108 have from 1,001 to 2,000 workmen, twenty-one have
+from 2,001 to 5,000, and ten only have more than 5,000 workmen. These
+149 very big factories and works give occupation to 313,000 persons
+only, out of more than 3,000,000--that is, only 10 per cent. of all
+the industrial workers.
+
+It thus appears that more than 99 per cent. of all the industrial
+establishments in France--that is, 571,940 out of 575,529--have less
+than 100 workmen each. They give occupation to 2,000,000 persons, and
+represent an army of 571,940 employers. More than that. The immense
+majority of that number (568,075 employers) belong to the category
+of those who employ less than fifty workmen each. And I do not yet
+count in their number 520,000 employers and artisans who work for
+themselves, or with the aid of a member of the family.
+
+It is evident that in France, as everywhere, the petty trades
+represent a very important factor of the industrial life. Economists
+have been too hasty in celebrating their death. And this conclusion
+becomes still more apparent when one analyses the different
+industries separately, taking advantage of the tables given in
+_Résultats Statistiques_. A very important fact appears from this
+analysis--namely, that there are only three branches of industry
+in which one can speak of a strong “concentration”--the mines,
+metallurgy, and the State’s industries, to which one may add the
+textiles and ironmongery, but always remembering that in these two
+branches immense numbers of small factories continue to prosper by
+the side of the great ones.
+
+In all other branches the small trades are dominant, to such an
+extent that more than _95 per cent. of the employers employ less
+than fifty workmen each_. In the quarries, in all branches of the
+alimentation, in the book trade, clothing, leather, wood, metallic
+goods, and even the brick-works, china and glass works, we hardly
+find one or two factories out of each hundred employing more than
+fifty workmen.
+
+The three industries that make an exception to this rule are, we
+have said, metallurgy, the great works of the State, and the mines.
+In metallurgy two-thirds of the works have more than fifty men each,
+and it is here that we find some twenty great works employing each
+of them more than one thousand men. The works of the State, which
+include the great shipbuilding yards, are evidently in the same
+case. They contain thirty-four establishments, having more than 500
+men each, and fourteen employing more than 1,000. And finally, in
+the mines--one hardly would believe that--more than one-half of all
+establishments employ less than fifty workmen each; but 15 per cent.
+of them have more than 500 workmen; forty-one mines are worked by
+a staff of more than 1,000 persons each, and six out of them employ
+even more than 5,000 miners.
+
+It is only in these three branches that one finds a rather strong
+“concentration”; and yet, the small industry continues to exist, as
+we saw it already in England, by the side of the great one, even in
+mining, and still more so in all branches of metallurgy.
+
+As to the _textile_ industries, they have exactly the same
+character as in England. We find here a certain number of very
+large establishments (forty establishments having each of them more
+than 1,000 workpeople), and especially we see a great development
+of the middle-sized factories (1,300 mills having from 100 to 500
+workpeople). But on the other side, the small industry is also very
+numerous.[211]
+
+Quite the same is also seen in the manufacture of all _metallic
+goods_ (iron, steel, brass). Here, also, by the side of a few great
+works (seventeen works occupy each of them more than 1,000 workpeople
+and salaried employees; out of them five employ more than 2,000
+persons, and one more than 5,000); and by the side of a great number
+of middle-sized works (440 establishments employing from 100 to 500
+persons), we find more than 100,000 artisans who work single-handed,
+or with the aid of their families; and 72,600 works which have only
+from three to four workpeople.
+
+In the _india-rubber_ works, and those for the manufacture of
+_paper_, the middle-sized factories are still well represented (13
+per cent. of all the establishments have more than fifty workmen
+each); but the remainder belongs to the small industry. It is the
+same in the _chemical works_. There is in this branch some ten
+factories employing more than 500 persons, and 100 which employ
+from 101 to 500 people; but the remainder is 1,000 of small works
+employing from ten to fifty people, and 3,800 of the very small works
+(less than ten workers).
+
+In all other branches it is _the small or the very small industry_
+which dominates. Thus, in the manufacture of articles of food, there
+are only eight factories employing more than 500 people each, and
+92,000 small establishments having less than ten workpeople each. In
+the printing industry the immense majority of establishments are very
+small, and employ from five to ten, or from ten to fifty workpeople.
+
+As to the manufacture of _clothing_, it entirely belongs to the small
+industry. Only five factories employ more than 200 each; but the
+remainder represents 630,000 independent artisans, men and women;
+9,500 workshops where the work is done by the family; and 132,000
+workshops and factories occupying less than ten workpeople each.[212]
+
+The different branches dealing with straw, feathers, hair, leather,
+gloves, again, belong to the small and the very small industry:
+125,000 artisans and 43,000 small establishments employing from three
+to four persons each.
+
+Shall I speak of the factories dealing with wood, furniture,
+brushes, and so on? True, there are in these branches two large
+factories employing nearly 2,000 persons; but there are also 214,260
+independent artisans and 105,400 small factories and workshops
+employing less than ten persons each.
+
+Needless to say that jewelry, the cutting of precious stones, and
+stone-cutting for masonry belong entirely to the small industry,
+no more than ten to twenty works employing more than 100 persons
+each. Only in ceramics and in brick-making do we find by the side
+of the very small works (8,930 establishments), and the small ones
+(1,277 establishments employing from ten to fifty workpeople), 334
+middle-sized works (fifty to 200 workpeople), ninety-three of the
+great industry (201 to 1,000), and seven of the very great (more than
+1,000 workpeople).[213]
+
+X.--THE SMALL INDUSTRIES IN GERMANY.
+
+The literature of the small industries in Germany being very bulky,
+the chief works upon this subject may be found, either in full or
+reviewed, in Schmoller’s _Jahrbücher_, and in Conrad’s _Sammlung
+national-ökonomischer und statistischer Abhandlungen_. For a
+general review of the subject and rich bibliographical indications,
+Schönberg’s _Volkwirthschaftslehre_, vol. ii., which contains
+excellent remarks about the proper domain of small industries
+(p. 401 _seq._), as well as the above-mentioned publication
+of K. Bücher (_Untersuchungen über die Lage des Handwerks in
+Deutschland_), will be found most valuable. The work of O. Schwarz,
+_Die Betriebsformen der modernen Grossindustrie_ (in _Zeitschrift
+für Staatswissenschaft_, vol. xxv., p. 535), is interesting by its
+analysis of the respective advantages of both the great and the small
+industries, which brings the author to formulate the following three
+factors in favour of the former: (1) economy in the cost of motive
+power; (2) division of labour and its harmonic organisation; and (3)
+the advantages offered for the sale of the produce. Of these three
+factors, the first is more and more eliminated every year by the
+progress achieved in the transmission of power; the second exists in
+small industries as well, and to the same extent, as in the great
+ones (watchmakers, toy-makers, and so on); so that only the third
+remains in full force; but this factor, as already mentioned in the
+text of this book, is a _social_ factor which entirely depends upon
+the degree of development of the spirit of association amongst the
+producers.
+
+A detailed industrial census having been taken in 1907, in addition
+to those of 1882 and 1895, most important and quite reliable data
+showing the importance and the resistance of the small industries
+were brought to light, and a series of most interesting monographs
+dealing with this subject have been published. Let me name,
+therefore, some of those which could be consulted with profit:
+Dr. Fr. Zahn, _Wirtschaftliche Entwicklung, unter besonderer
+Berücksichtigung der Volkszählung_, 1905, _sowie der Berufs und
+Betriebszählung_, 1907; _Sonderabdruck aus der Annalen des Deutschen
+Reichs_, München, 1910 and 1911; Dr. Josef Grunzel, _System der
+Industriepolitik_, Leipzig, 1905; and _Der Sieg des Industrialismus_,
+Leipzig, 1911; W. Sombart, “Verlagssystem (Hausindustrie)”, in
+Conrad, _Handwörterbuch der Staatswissenschaften_, 3te Auflage,
+Bd. VIII.; R. van der Borght, _Beruf, Gesellschaftliche Gliederung
+und Betrieb im Deutschen Reiche_, in _Vorträge der Gehe-Stiftung_,
+Bd. II., 1910; and Heinrich Koch, _Die Deutsche Hausindustrie_, M.
+Gladbach, 1905. Many other works will be found mentioned by these
+authors.
+
+In all these books the reader will find a further confirmation of the
+ideas about the small industries that are expressed in chapters vi.
+and vii. When I developed them in the first edition of this book, it
+was objected to me that, although the existence of a great number
+of small industries is out of question, and although their great
+extension in a country so far advanced in its industrial development
+as England was not known to economists, still the fact proves
+nothing. These industries are a mere survival; and if we had data
+about the different classes of industry _at different periods_, we
+should see how rapidly the small industries are disappearing.
+
+Now we have such data for Germany, for a period of twenty-five years,
+in the three censuses of 1882, 1895, and 1907, and, what is still
+more valuable, these twenty-five years belong to a moment in the life
+of Germany when a powerful industry has developed on an immense
+scale with a great rapidity. Here it is that the dying out of the
+small industries, their “absorption” by the great concerns, and the
+supposed “concentration of capital” ought to be seen in full.
+
+But the numerical results, as they appear from the three censuses,
+and as they have been interpreted by those who have studied them,
+are pointing out to quite the reverse. The position of the small
+industries in the life of an industrial country is exactly the same
+which could have been foreseen twenty-five years ago, and very often
+it is described in the very same words that I have used.
+
+The German _Statistisches Jahrbuch_ gives us the distribution of
+workmen in the different industries of the German Empire in 1882 and
+

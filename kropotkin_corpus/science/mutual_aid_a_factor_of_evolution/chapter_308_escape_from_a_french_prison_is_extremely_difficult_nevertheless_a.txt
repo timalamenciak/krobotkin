@@ -1,0 +1,33 @@
+TITLE: Mutual Aid: A Factor of Evolution
+AUTHOR: Peter Kropotkin
+YEAR: 1902
+SOURCE_ID: pg_4341
+SOURCE_PATH: data/raw/4341.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/4341
+RETRIEVED_UTC: 2026-02-03T19:50:50Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+14. Escape from a French prison is extremely difficult; nevertheless a
+prisoner escaped from one of the French prisons in 1884 or 1885. He even
+managed to conceal himself during the whole day, although the alarm was
+given and the peasants in the neighbourhood were on the look-out for
+him. Next morning found him concealed in a ditch, close by a small
+village. Perhaps he intended to steal some food, or some clothes in
+order to take off his prison uniform. As he was lying in the ditch a
+fire broke out in the village. He saw a woman running out of one of the
+burning houses, and heard her desperate appeals to rescue a child in the
+upper storey of the burning house. No one moved to do so. Then the
+escaped prisoner dashed out of his retreat, made his way through the
+fire, and, with a scalded face and burning clothes, brought the child
+safe out of the fire, and handed it to its mother. Of course he was
+arrested on the spot by the village gendarme, who now made his
+appearance. He was taken back to the prison. The fact was reported in
+all French papers, but none of them bestirred itself to obtain his
+release. If he had shielded a warder from a comrade's blow, he would
+have been made a hero of. But his act was simply humane, it did not
+promote the State's ideal; he himself did not attribute it to a sudden
+inspiration of divine grace; and that was enough to let the man fall
+into oblivion. Perhaps, six or twelve months were added to his sentence
+for having stolen--"the State's property"--the prison's dress.
+

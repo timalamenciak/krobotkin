@@ -1,0 +1,178 @@
+TITLE: Fields, Factories and Workshops
+AUTHOR: Peter Kropotkin
+YEAR: 1899
+SOURCE_ID: pg_64353
+SOURCE_PATH: data/raw/64353-0.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/64353
+RETRIEVED_UTC: 2026-02-03T19:51:10Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+CHAPTER II.
+
+THE DECENTRALISATION OF INDUSTRIES--(_continued_).
+
+  Italy and Spain--India--Japan--The United States--The cotton,
+  woollen, and silk trades--The growing necessity for each country
+  to rely chiefly upon home consumers.
+
+The flow of industrial growths spreads, however, not only east; it
+moves also south-east and south. Austria and Hungary are rapidly
+gaining ground in the race for industrial importance. The Triple
+Alliance has already been menaced by the growing tendency of Austrian
+manufacturers to protect themselves against German competition; and
+even the dual monarchy has seen its two sister nations quarrelling
+about customs duties. Austrian industries are a modern growth,
+and still they already give occupation to more than 4,000,000
+workpeople.[15] Bohemia, in a few decades, has grown to be an
+industrial country of considerable importance; and the excellence and
+originality of the machinery used in the newly reformed flour-mills
+of Hungary show that the young industry of Hungary is on the right
+road, not only to become a competitor to her elder sisters, but also
+to add her share to our knowledge as to the use of the forces of
+nature. Let me add, by the way, that the same is true to some extent
+with regard to Finland. Figures are wanting as to the present state
+of the aggregate industries of Austria-Hungary; but the relatively
+low imports of manufactured goods are worthy of note. For British
+manufacturers Austria-Hungary is, in fact, no customer worth speaking
+of; but even with regard to Germany she is rapidly emancipating
+herself from her former dependence. (See Appendix G.)
+
+The same industrial progress extends over the southern peninsulas.
+Who would have spoken in 1859 about Italian manufactures? And
+yet--the Turin Exhibition of 1884 has shown it--Italy ranks already
+among the manufacturing countries. “You see everywhere a considerable
+industrial and commercial effort made,” wrote a French economist to
+the _Temps_. “Italy aspires to go on without foreign produce. The
+patriotic watchword is, Italy all by herself. It inspires the whole
+mass of producers. There is not a single manufacturer or tradesman
+who, even in the most trifling circumstances, does not do his best to
+emancipate himself from foreign guardianship.” The best French and
+English patterns are imitated and improved by a touch of national
+genius and artistic traditions. Complete statistics are wanting, so
+that the statistical _Annuario_ resorts to indirect indications. But
+the rapid increase of imports of coal (9,339,000 tons in 1910, as
+against 779,000 tons in 1871); the growth of the mining industries,
+which have trebled their production during the fifteen years, 1870 to
+1885; the increasing production of steel and machinery (£4,800,000
+in 1900), which--to use Bovio’s words--shows how a country having
+no fuel nor minerals of her own can have nevertheless a notable
+metallurgical industry; and, finally, the growth of textile
+industries disclosed by the net imports of raw cottons and the number
+of spindles[16]--all these show that the tendency towards becoming
+a manufacturing country capable of satisfying her needs by her own
+manufactures is not a mere dream. As to the efforts made for taking
+a more lively part in the trade of the world, who does not know the
+traditional capacities of the Italians in that direction?
+
+I ought also to mention Spain, whose textile mining and metallurgical
+industries are rapidly growing; but I hasten to go over to countries
+which a few years ago were considered as eternal and obligatory
+customers to the manufacturing nations of Western Europe. Let us
+take, for instance, Brazil. Was it not doomed by economists to grow
+cotton, to export it in a raw state, and to receive cotton goods in
+exchange? In 1870 its nine miserable cotton mills could boast only
+of an aggregate of 385 spindles. But already in 1887 there were in
+Brazil 46 cotton mills, and five of them had already 40,000 spindles;
+while altogether their nearly 10,000 looms threw every year on the
+Brazilian markets more than 33,000,000 yards of cotton stuffs.
+
+Twenty five years later, in 1912, there were already 161 cotton
+mills, with 1,500,000 spindles and 50,000 looms, employing over
+100,000 operatives.[17] Even Vera Cruz, in Mexico, under the
+protection of customs officers, has begun to manufacture cottons, and
+boasted in 1887 its 40,200 spindles, 287,700 pieces of cotton cloth,
+and 212,000 lb. of yarn. Since that year progress has been steady,
+and in 1894 Vice-Consul Chapman reported that some of the finest
+machines are to be found at the Orizaba spinning mills, while “cotton
+prints,” he wrote, “are now turned out as good if not superior to
+the imported article.”[18] In 1910, 32,000 workpeople were already
+employed in 145 cotton mills, which had 703,000 spindles, and 25,000
+power-looms.[19]
+
+The flattest contradiction to the export theory has, however, been
+given by India. She was always considered as the surest customer for
+British cottons, and so she has been until quite lately. Out of the
+total of cotton goods exported from Britain she used to buy more than
+one-quarter, very nearly one-third (from £17,000,000 to £22,000,000,
+out of an aggregate of about £75,000,000 in the years 1880-1890). But
+things have begun to change, and in 1904-1907 the exports were only
+from £21,680,000 to £25,680,000 out of an aggregate of £110,440,000.
+The Indian cotton manufactures, which--for some causes not fully
+explained--were so unsuccessful at their beginnings, suddenly took
+firm root.
+
+In 1860 they consumed only 23,000,000 lb. of raw cotton, but the
+quantity was nearly four times as much in 1877, and it trebled again
+within the next ten years: 283,000,000 lb. of raw cotton were used in
+1887-1888. The number of cotton mills grew up from 40 in 1887 to 147
+in 1895; the number of spindles rose from 886,100 to 3,844,300 in the
+same years; and where 57,188 workers were employed in 1887, we found,
+seven years later, 146,240 operatives. And now, in 1909-1910, we find
+237 cotton mills at work, with 6,136,000 spindles, 80,000 looms, and
+231,850 workpeople. As for the quality of the mills, the blue-books
+praise them; the German chambers of commerce state that the best
+spinning mills in Bombay “do not now stand far behind the best German
+ones”; and two great authorities in the cotton industry, Mr. James
+Platt and Mr. Henry Lee, agree in saying “that in no other country
+of the earth except in Lancashire do the operatives possess such a
+natural leaning to the textile industry as in India.”[20]
+
+The exports of cotton twist from India more than doubled in five
+years (1882-1887), and already in 1887 we could read in the
+_Statement_ (p. 62) that “what cotton twist was imported was less
+and less of the coarser and even medium kind, which indicates that
+the Indian (spinning) mills are gradually gaining hold of the home
+markets.” Consequently, while India continued to import nearly the
+same amount of British cotton goods and yarn (from £16,000,000
+to £25,700,000 in 1900-1908), she threw already in 1887 on the
+foreign markets no less than £3,635,510 worth of her own cottons of
+Lancashire patterns; she exported 33,000,000 yards of _gray cotton
+piece goods_ manufactured in India by Indian workmen. And the export
+has continued to grow since, so that in the year 1910-1911 the value
+of the piece-goods and yarn exported from India reached the value of
+£7,943,700.
+
+The jute factories in India have grown at a still speedier rate, and
+the once flourishing jute trade of Dundee was brought to decay, not
+only by the high tariffs of continental powers, but also by Indian
+competition.[21] Even woollen mills have lately been started; while
+the iron industry took a sudden development in India, since the means
+were found, after many experiments and failures, to work furnaces
+with local coal. In a few years, we are told by specialists, India
+will be self-supporting for iron. Nay, it is not without apprehension
+that the English manufacturers see that the imports of Indian
+manufactured textiles to this country are steadily growing, while
+in the markets of the Far East and Africa India becomes a serious
+competitor to the mother country.
+
+Why should it not be so? What _might_ prevent the growth of Indian
+manufactures? Is it the want of capital? But capital knows no
+fatherland; and if high profits can be derived from the work of
+Indian coolies whose wages are only one-half of those of English
+workmen, or even less, capital will migrate to India, as it has gone
+to Russia, although its migration may mean starvation for Lancashire
+and Dundee. Is it the want of knowledge? But longitudes and latitudes
+are no obstacle to its spreading; it is only the first steps that are
+difficult. As to the superiority of workmanship, nobody who knows the
+Hindoo worker will doubt about his capacities. Surely they are not
+below those of the 36,000 children less than fourteen years of age,
+or the 238,000 boys and girls less than eighteen years old, who are
+employed in the British textile manufactories.
+
+       *       *       *       *       *
+
+Twenty years surely are not much in the life of nations. And yet
+within the last twenty years another powerful competitor has grown
+in the East. I mean Japan. In October, 1888, the _Textile Recorder_
+mentioned in a few lines that the annual production of yarns in the
+cotton mills of Japan had attained 9,498,500 lb., and that fifteen
+more mills, which would hold 156,100 spindles, were in course of
+erection.[22] Two years later, 27,000,000 lb. of yarn were spun in
+Japan; and while in 1887-1888 Japan imported five or six times as
+much yarn from abroad as was spun at home, next year two-thirds only
+of the total consumption of the country were imported from abroad.[23]
+
+From that date the production grew up regularly. From 6,435,000 lb.
+in 1886 it reached 91,950,000 lb. in 1893, and 153,444,000 lb. in
+

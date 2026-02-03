@@ -1,0 +1,323 @@
+TITLE: Fields, Factories and Workshops
+AUTHOR: Peter Kropotkin
+YEAR: 1899
+SOURCE_ID: pg_64353
+SOURCE_PATH: data/raw/64353-0.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/64353
+RETRIEVED_UTC: 2026-02-03T19:51:15Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+1907.                      Establish-     Employees.   Average
+                                      ments.                  per estab-
+                                                               lishment.
+  Artisans working single-handed      994,743      994,743[215]      --
+  ----------------------------------------------------------------------
+  From 1 to 5   employees             875,518     2,205,539       2·5
+    ”  6 to 10     ”                   96,849       717,282         7
+    ” 11 to 50     ”                   90,225     1,996,906        22
+    ” 51 to 100    ”                   15,783     1,103,949        70
+    ”  101 to 500  ”                   11,827     2,295,401       194
+  Over 500         ”                    1,423     1,538,577     1,081
+                                    ---------    ----------     -----
+        Total                       1,091,625     9,858,120         9
+  (With the artisans)              (2,086,368)  (10,852,863)       (5)
+
+For the sake of comparison, I give also (in round figures) the
+numbers of establishments obtained by the three censuses:--
+
+                                       1882.        1895.        1907.
+
+  Artisans working single-handed    1,430,000    1,237,000      995,000
+  ----------------------------------------------------------------------
+  From 1 to 5 employees               746,000      753,000      875,000
+    ”  6 to 50   ”                     85,000      139,000      187,000
+  Over 50        ”                      9,000       18,000       30,000
+                                      -------      -------    ---------
+  Total                               830,000      910,000    1,092,000
+  (With the artisans)              (2,270,000)  (2,147,000)  (2,086,000)
+
+What appears quite distinctly from the last census is the rapid
+decrease in the numbers of artisans who work single-handed, mostly
+without the aid of machinery. Such an individual mode of production
+by hand is naturally on the decrease, even many artisans resorting
+now to some sort of motive power and taking one or two hired aids;
+but this does not prove in the least that the small industries
+carried on with the aid of machinery should be on the wane. The
+census of 1907 proves quite the contrary, and all those who have
+studied it are bound to recognise it.
+
+“Of a pronounced decay of the small establishments in which five or
+less persons are employed, is, of course, no sign,” writes Dr. Zahn
+in the afore-mentioned work. Out of the 14·3 million people who live
+on industry, full 5·4 million belong to the small industry.
+
+Far from decreasing, this category has considerably increased since
+1895 (from 732,572 establishments with 1,954,125 employees in 1895,
+to 875,518 establishments and 2,205,539 employees in 1907). Moreover,
+it is not only the very small industry which is on the increase;
+it is also the small one which has increased even more than the
+preceding--namely, by 47,615 establishments and 812,139 employees.
+
+As to the very great industry, a closer analysis of what the German
+statisticians describe as giant establishments (_Riesenbetriebe_)
+shows that they belong chiefly to industries working for the State,
+or created in consequence of State-granted monopolies. Thus, for
+instance, the Krupp Shareholders Company employ 69,500 persons in
+their nine different establishments, and everyone knows that the
+works of Krupp are in reality a dependency of the State.
+
+The opinions of the above-named German authors about the facts
+revealed by the industrial censuses are very interesting.
+
+In speaking of the small industries in Germany, W. Sombart writes
+in the article, “Verlagssystem (Hausindustrie),” in Conrad’s
+_Handwörterbuch_: “It results from the census of 1907 that the losses
+in the small industries are almost exclusively limited to those
+home industries which are usually described as the _old ones_; while
+the increases belong to the home industries of modern origin.” The
+statistical data thus confirm that “at the present time a sort of
+rejuvenation is going on in the home industries; instead of those
+of them which are dying out, new ones, almost equal in numbers, are
+growing up” (p. 242). Prof. Sombart points out that the same is going
+on in Switzerland, and refers to some new works on this subject.[216]
+
+Dr. J. Grunzel comes to a similar conclusion: “Life experience shows
+that the home industries are not a form of industrial organisation
+which has had its time,” he writes in his afore-mentioned work. “On
+the contrary, it proves to be possessed of a great life force in
+certain branches. It is spread in all branches in which handwork
+offers advantages above the work of the machine” (p. 46). It is also
+retained wherever the value of labour exceeds very much the value of
+the raw produce; and finally, in all the branches devoted to articles
+which are rapidly changing with the seasons or the vagaries of
+fashion. And he shows (pp. 46 and 149) how the home industries have
+been increasing in Germany from 1882 to 1895, and how they are widely
+spread in Austria, France, Switzerland, Italy, Belgium, and England.
+
+The conclusions of R. van der Borght are quite similar.
+
+“It is true,” Dr. van der Borght says, “that the numbers of artisans
+working single-handed have diminished in numbers in most industries;
+but they still represent two-fifths of all industrial establishments,
+and even more than one-half in several industries. At the same time,
+the small establishments (having from one to five workers) have
+increased in numbers, and they contain nearly one-half of all the
+industrial establishments, and even more than that in several groups.”
+
+As for Koch’s work, _Die Deutsche Hausindustrie_, it deserves special
+mention for the discussion it contains of the measures advocated,
+on the one side, for the weeding out of the domestic industries,
+and, on the other side, for improving the condition of the workers
+and the industries themselves by the means of co-operation, credit,
+workshops’ inspection, and the like.
+
+Y.--THE DOMESTIC INDUSTRIES IN SWITZERLAND.
+
+We have most interesting monographs dealing with separate branches
+of the small industries of Switzerland, but we have not yet such
+comprehensive statistical data as those which have been mentioned
+in the text in speaking of Germany and France. It was only in
+the year 1901 that the first attempt was made to get the exact
+numbers of workpeople employed in what the Swiss statisticians
+describe as _Hausindustrie_, or “the domestic industries’ extension
+of the factory industries” (_der hausindustrielle Anhang der
+Fabrikindustrie_). Up till then these numbers remained “an absolutely
+unknown quantity.” For many it was, therefore, a revelation when
+a first rough estimate, made by the factory inspectors, gave the
+figure of 52,291 workpeople belonging to this category, as against
+243,200 persons employed in all the factories, large and small,
+of the same branches. A few years later, Schuler, in _Zeitung für
+Schweizerische Statistik_, 1904 (reprinted since as a volume), came
+to the figure of 131,299 persons employed in the domestic industries;
+and yet this figure, although it is much nearer to reality than the
+former, is still below the real numbers. Finally, an official census
+of the industries, made in 1905, gave the figure of 92,162 persons
+employed in the domestic industries in 70,873 establishments, in the
+following branches--textiles, watches and jewellery, straw-plaiting,
+clothing and dress, wood-carving, tobacco. They thus represent more
+than one-fourth (28·5 per cent.) of the 317,027 operatives employed
+in Switzerland in these same branches, and 15·7 per cent. of all the
+industrial operatives, who numbered 585,574 in 1905.
+
+Out of the just-mentioned 92,162 workpeople, registered as belonging
+to the domestic trades, nearly three-quarters (66,061 in 49,168
+establishments) belong to the textile industry, chiefly knitting
+and the silks; then comes the watch-trade (12,871 persons in 9,186
+establishments), straw-plaiting, and dress. However, these figures
+are still incomplete. Not only several smaller branches of the
+domestic trades were omitted in the census, but also the children
+under fourteen years of age employed in the domestic trades, whose
+numbers are estimated at 32,300, were not counted. Besides, the
+census having been made in the summer, during the “strangers’
+season,” a considerable number of persons employed in a variety of
+domestic trades during the winter did not appear in the census.
+
+It must also be noted that the Swiss census includes under the name
+of _Heimarbeit_ (domestic trades) only those “dependencies of the
+industrial employers” which do not represent separate factories
+placed under the employer’s management; so that those workshops
+and small factories, the produce of which is sold directly to the
+consumers, as also the small factories directly managed by small
+employers, are not included in this category. If all that be taken
+into consideration, we must agree with the conclusion that the
+“domestic trades have in Switzerland a much greater extension than
+in any other country of Europe” (save Russia), which we find in
+an elaborate recent work, published in connection with the 1910
+exhibition of Swiss domestic industries, and edited by Herr Jac.
+Lorenz (_Die wirtschaftlichen und sozialen Verhältnisse in der
+Schweizerischen Heimarbeit_, Zurich, 1910-1911, p. 27).
+
+A feature of importance which appears from this last work is, that
+more than one-half of the workers engaged in domestic trades have
+some other source of income besides these trades. Very many of them
+carry on agriculture, so that it has been said that in Switzerland
+“the domestic trades’ question is as much _a peasant question_ as a
+labour question.”
+
+It would be impossible to sum up in this place the interesting data
+contained in the first four fascicles published by Herr Lorenz, which
+deal with the cotton, the silk, and the linen domestic industries,
+their struggles against the machine, their defeats in some branches
+and their holding the ground in other branches, and so on. I must
+therefore refer the reader to this very instructive publication.
+
+THE END.
+
+FOOTNOTES:
+
+[199] “Great Britain’s Capital Investments in Other Lands” (_Journal
+of the Statistical Society_, September 1909, vol. lxxii., pp.
+475-495), followed by a most interesting discussion; and “Great
+Britain’s Capital Investments in India, Colonial and Foreign
+Countries,” same journal, January 1911, vol. lxxiv., pp. 167-200.
+
+[200] T. M. Young, _The American Cotton Industry_. Introduction
+by Elijah Helm, secretary to the Manchester Chamber of Commerce,
+London 1902; and T. W. Uttley, _Cotton Spinning and Manufacturing
+in the United States: A report ... of a tour of the American cotton
+manufacturing centres made in 1903 and 1904_. Publications of
+Manchester University, Economic Series, No. II., Manchester, 1905.
+
+[201] _Ten Years of Sunshine in the British Isles_, 1881-1890.
+
+[202] Dr. M. Fesca, _Beiträge zur Kenntniss der Japanesischen
+Landwirthschaft_, Part ii., p. 33 (Berlin, 1893). The economy in
+seeds is also considerable. While in Italy 250 kilogrammes to the
+hectare are sown, and 160 kilogrammes in South Carolina, the Japanese
+use only sixty kilogrammes for the same area. (Semler, _Tropische
+Agrikultur_, Bd. iii., pp. 20-28.)
+
+[203] Eugène Simon, _La cité chinoise_ (translated into English);
+Toubeau, _La répartition métrique des impôts_, 2 vols., Paris
+(Guillaumin), 1880.
+
+[204] _The Gardener’s Chronicle_, 20th April, 1895, p. 483. The same,
+I learn from a German grower near Berlin, takes place in Germany.
+
+[205] I am indebted for the following information to M. V. Euvert,
+President of the Chamber of Commerce of St. Etienne, who sent me,
+while I was in the Clairvaux prison, in April, 1885, a most valuable
+sketch of the various industries of the region, in reply to a letter
+of mine, and I avail myself of the opportunity for expressing to M.
+Euvert my best thanks for his courtesy. This information has now an
+historical value only. But it is such an interesting page of the
+history of the small industries that I retain it as it was in the
+first edition, the more so as it is most interesting to compare it
+with the pages given in the text to the present conditions of the
+same industries.
+
+[206] It had been 5,134,000 kilogrammes in 1872. _Journal de la
+Société de Statistique de Paris_, September, 1883.
+
+[207] I take these figures from a detailed letter which the President
+of the Lyons Chamber of Commerce kindly directed to me in April,
+1885, to Clairvaux, in answer to my inquiries about the subject. I
+avail myself of this opportunity for addressing to him my best thanks
+for his most interesting communication.
+
+[208] _La fabrique lyonnaise de soieries. Son passé, son prêsent._
+Imprimé par ordre de la Chambre de Commerce de Lyon, 1873. (Published
+in connection with the Vienna Exhibition.)
+
+[209] Marius Morand, _L’organisation ouvrière de la fabrique
+lyonnaise_; paper read before the Association Française pour
+l’avancement des Sciences, in 1873.
+
+[210] _Journal de la Société de Statistique de Paris_, June 1901, pp.
+189-192, and “Résultats Généraux,” in vol. iv. of the above-mentioned
+publication.
+
+[211] Here is how they are distributed: Workmen working
+single-handed, 124,544; with their families, but without paid
+workmen, 8,000; less than 10 workmen, 34,433 factories; from 10 to
+100 workpeople, 4,665 factories; from 101 to 200 workpeople, 746
+factories; from 201 to 500 workpeople, 554; from 501 to 1,000, 123;
+from 1,001 to 2,000, 38; more than 2,000, 2 factories.
+
+[212] In an excellent monograph dealing with this branch (_Le
+développement de la fabrique et le travail à domicile dans les
+industries de l’habillement_, by Professor Albert Aftalion, Paris,
+1906), the author gives most valuable data as to the proper domains
+of domestic work and the factory, and shows how, why, and in which
+domains domestic work successfully competes with the factory.
+
+[213] The industrial establishments having more than 1,000 employees
+each are distributed as follows: Mining, 41; textiles, 40 (123 have
+from 500 to 1,000); industries of the State and the Communes, 14;
+metallurgy, 17; working of metals--iron, steel, brass--17; quarries,
+2; alimentation, 3; chemical industries, 2; india-rubber, paper,
+cardboard, 0 (9 have from 500 to 1,000); books, polygraphy, 0 (22
+have from 500 to 1,000); dressing of stuffs, clothing, 2 (9 from
+500 to 1,000); straw, feathers, hair, 0 (1 from 500 to 1,000);
+leather, skins, 2; wood, cabinet-making, brushes, etc., 1; fine
+metals, jewelry, 0; cutting of precious stones, 0; stone-cutting
+for buildings, 0; earthworks and building, 1; bricks, ceramics, 7;
+preparation and distribution of food, 0; total, 149 out of 575,531
+establishments. To these figures we may add six large establishments
+in the transports, and five in different branches of trade. We may
+note also that, by means of various calculations, M. March comes to
+the conclusion that 91 per cent. of the workmen and employees in
+industry and 44 per cent. in commerce are employees--that is, clerks,
+managers, and so on.
+
+[214] In reality there are no employees. I give this figure only for
+the totals.
+
+[215] In reality there are no employees. I give this figure only for
+the totals.
+
+[216] _Die Hausindustrie in der Schweiz: Auszug aus der Ergebnissen
+der Eidgenossischen Betriebszahlung von Aug. 9, 1905_; E. Ryser,
+_L’industrie horlogère_, Zurich, 1909; J. Beck, _Die Schweizerische
+Hausindustrie, ihre soziale und wirthschaftliche Lage_, Grütliverein,
+1909.
+
+  ESTABLISHED 1798
+
+  [Illustration: (publisher’s colophon)]
+
+  T. NELSON
+  AND SONS
+
+  PRINTERS AND
+  PUBLISHERS
+
+  TRANSCRIBER’S NOTE
+
+  Obvious typographical errors and punctuation errors have been
+  corrected after careful comparison with other occurrences within
+  the text and consultation of external sources.
+
+  Except for those changes noted below, all misspellings in the text,
+  and inconsistent or archaic usage, have been retained.
+
+  Pg 132 Footnote [63]: ‘unjurious grasses’ replaced by
+                        ‘injurious grasses’.
+  Pg 142: ‘Besides, the amout’ replaced by ‘Besides, the amount’.
+  Pg 190: ‘At Ploustagel’ replaced by ‘At Plougastel’.
+  Pg 285 Footnote [138]: ‘Résultats statitisques’ replaced by
+                         ‘Résultats statistiques’.
+  Pg 375: ‘finally at Tuskagee’ replaced by ‘finally at Tuskegee’.
+  Pg 473: ‘Handwörtezbuch’ replaced by ‘Handwörterbuch’.
+

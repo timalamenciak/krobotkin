@@ -1,0 +1,33 @@
+TITLE: Mutual Aid: A Factor of Evolution
+AUTHOR: Peter Kropotkin
+YEAR: 1902
+SOURCE_ID: pg_4341
+SOURCE_PATH: data/raw/4341.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/4341
+RETRIEVED_UTC: 2026-02-03T19:50:42Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+3. Leaving aside the pre-Darwinian writers, like Toussenel, Fee, and
+many others, several works containing many striking instances of mutual
+aid--chiefly, however, illustrating animal intelligence were issued
+previously to that date. I may mention those of Houzeau, Les facultes
+etales des animaux, 2 vols., Brussels, 1872; L. Buchner's Aus dem
+Geistesleben der Thiere, 2nd ed. in 1877; and Maximilian Perty's Ueber
+das Seelenleben der Thiere, Leipzig, 1876. Espinas published his most
+remarkable work, Les Societes animales, in 1877, and in that work he
+pointed out the importance of animal societies, and their bearing upon
+the preservation of species, and entered upon a most valuable discussion
+of the origin of societies. In fact, Espinas's book contains all that
+has been written since upon mutual aid, and many good things besides. If
+I nevertheless make a special mention of Kessler's address, it is
+because he raised mutual aid to the height of a law much more important
+in evolution than the law of mutual struggle. The same ideas were
+developed next year (in April 1881) by J. Lanessan in a lecture
+published in 1882 under this title: La lutte pour l'existence et
+l'association pour la lutte. G. Romanes's capital work, Animal
+Intelligence, was issued in 1882, and followed next year by the Mental
+Evolution in Animals. About the same time (1883), Buchner published
+another work, Liebe und Liebes-Leben in der Thierwelt, a second edition
+of which was issued in 1885. The idea, as seen, was in the air.
+

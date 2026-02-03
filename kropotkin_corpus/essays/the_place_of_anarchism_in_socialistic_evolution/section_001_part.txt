@@ -1,0 +1,194 @@
+TITLE: The Place of Anarchism in Socialistic Evolution
+AUTHOR: Peter Kropotkin
+YEAR: 1887
+SOURCE_ID: pg_31104
+SOURCE_PATH: data/raw/31104.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/31104
+RETRIEVED_UTC: 2026-02-03T19:51:28Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+PART I.
+
+You must often have asked yourselves what is the cause of Anarchism, and
+why, since there are already so many Socialist schools, it is necessary
+to found an additional one--that of Anarchism. In order to answer this
+question I will go back to the close of last century.
+
+You all know the characteristics which marked that epoch: there was an
+expansion of intelligence, a prodigious development of the natural
+sciences, a pitiless examination of accepted prejudices, the formation
+of a theory of Nature based on a truly scientific foundation,
+observation and reasoning. In addition to these there was criticism of
+the political institutions bequeathed to Humanity by preceding ages, and
+a movement towards that ideal of Liberty, Equality, and Fraternity which
+has in all times been the ideal of the popular masses. Fettered in its
+free development by despotism and by the narrow selfishness of the
+privileged classes, this movement, being at the same time favoured by an
+explosion of popular indignation, engendered the Great Revolution which
+had to force its way through the midst of a thousand obstacles both
+without and within.
+
+The Revolution was vanquished, but its ideas remained. Though at first
+persecuted and derided, they became the watchword for a whole century of
+slow evolution. The history of the nineteenth century is summed up in an
+effort to put in practice the principles elaborated at the end of last
+century: this is the lot of revolutions: though vanquished they
+establish the course of the evolution which follows them. In the domain
+of politics these ideas are abolition of aristocratic privileges,
+abolition of personal government, and equality before the law. In the
+economic order the Revolution proclaimed freedom of business
+transactions; it said--"Sell and buy freely. Sell, all of you, your
+products, if you can produce, and if you do not possess the implements
+necessary for that purpose but have only your arms to sell, sell them,
+sell your labour to the highest bidder, the State will not interfere!
+Compete among yourselves, contractors! No favour shall be shown, the law
+of natural selection will take upon itself the function of killing off
+those who do not keep pace with the progress of industry, and will
+reward those who take the lead."
+
+The above is at least the _theory_ of the Revolution of 1789, and if the
+State intervenes in the struggle to favour some to the detriment of
+others, as we have lately seen when the monopolies of mining and railway
+companies have been under discussion, such action is regarded by the
+liberal school as a lamentable deviation from the grand principles of
+the Revolution.
+
+What has been the result? You know only too well, both women and men,
+idle opulence for a few and uncertainty for the morrow and misery for
+the greater number; crisis and wars for the conquest of markets, and a
+lavish expenditure of public money to find openings for industrial
+speculators. All this is because in proclaiming liberty of contract an
+essential point was neglected by our fathers. Not but what some of them
+caught sight of it, the best of them earnestly desired but did not dare
+to realise it. While liberty of transactions, that is to say a conflict
+between the members of society, was proclaimed, the contending parties
+were not equally matched, and the powerful, armed for the contest by the
+means inherited from their fathers, have gained the upper hand over the
+weak. Under such conditions the millions of poor ranged against a few
+rich could not do otherwise than give in.
+
+Comrades! you have often asked yourselves--"Whence comes the wealth of
+the rich? Is it from their labour?" It would be a mockery to say that it
+was so. Let us suppose that M. Rothschild has worked all his life: well,
+you also, every one of you working men have also laboured: then why
+should the fortune of M. Rothschild be measured by hundreds of millions
+while your possessions are so small? The reason is simple: you have
+exerted yourselves to produce by your own labour, while M. Rothschild
+has devoted himself to accumulating the product of the labour of
+others--the whole matter lies in that.
+
+But some one may say to me;--"How comes it that millions of men thus
+allow the Rothschilds and the Mackays to appropriate the fruit of their
+labour?" Alas, they cannot help themselves under the existing social
+system! But let us picture to our minds a city all of whose inhabitants
+find their lodging, clothing, food and occupation secured to them, on
+condition of producing things useful to the community, and let us
+suppose a Rothschild to enter this city bringing with him a cask full of
+gold. If he spends his gold it will diminish rapidly; if he locks it up
+it will not increase, because gold does not grow like seed, and after
+the lapse of a twelvemonth he will not find L110 in his drawer if he
+only put L100 into it. If he sets up a factory and proposes to the
+inhabitants of the town that they should work in it for four shillings a
+day while producing to the value of eight shillings a day they
+reply--"Among us you'll find no one willing to work on those terms. Go
+elsewhere and settle in some town where the unfortunate people have
+neither clothing, bread, nor work assured to them, and where they will
+consent to give up to you the lion's share of the result of their labour
+in return for the barest necessaries of life. Go where men starve! there
+you will make your fortune!"
+
+The origin of the wealth of the rich is your misery. Let there be no
+poor, then we shall have no millionaires.
+
+The facts I have just stated were such as the Revolution of last century
+did not comprehend or else could not act upon. That Revolution placed
+face to face two opposing ranks, the one consisting of a hungry,
+ill-clad army of former serfs, the other of men well provided with
+means. It then said to these two arrays--"Fight out your battle." The
+unfortunate were vanquished. They possessed no fortunes, but they had
+something more precious than all the gold in the world--their arms; and
+these arms, the source of all wealth, were monopolised by the wealthy.
+Thus we have seen those immense fortunes which are the characteristic
+feature of our age spring up on all sides. A king of the last century,
+"the great Louis the Fourteenth" of mercenary historians, would never
+have dreamed of possessing a fortune such as are held by those kings of
+the nineteenth century, the Vanderbilts and the Mackays.
+
+On the other hand we have seen the poor reduced still more and more to
+toil for others, and while those who produced on their own account have
+rapidly disappeared, we find ourselves compelled under an ever
+increasing pressure to labour more and more to enrich the rich.
+Attempts have been made to remove these evils. Some have said--"Let us
+give equal instruction to all," and forthwith education has been spread
+abroad. Better human machines have been turned out, but these educated
+machines still labour to enrich others. This illustrious scientist, that
+renowned novelist, despite their education are still beasts of burden to
+the capitalist. Instruction improves the cattle to be exploited but the
+exploitation remains. Next, there was great talk about association, but
+the workers soon learned that they could not get the better of capital
+by associating their miseries, and those who cherished this illusion
+most earnestly were compelled to turn to Socialism.
+
+Timid, at the outset, Socialism spoke at first in the name of Christian
+sentiment and morality: men profoundly imbued with the moral principles
+of Christianity--principles which it possesses in common with all other
+religions--came forward and said--"A Christian has no right to exploit
+his brethren!" But the ruling classes laughed in their faces with the
+reply--"Teach the people Christian resignation, tell them in the name of
+Christ that they should offer their left cheek to whosoever smites them
+on the right, then you will be welcome; as for the dreams of equality
+which you find in Christianity, go and meditate on your discoveries in
+prison."
+
+Later on Socialism spoke in the name of Governmentalism; it said--"Since
+it is the special mission of the State to protect the weak against the
+strong, it is its duty to aid working men's associations; the State
+alone can enable working men to fight against capital and to oppose to
+capitalistic exploitation the free workshop of workers pocketing the
+entire value of the produce of their labour." To this the Bourgeoisie
+replied with grapeshot in 1848.
+
+It was not until between twenty to thirty years later, at a time when
+the popular masses were invited to express their mind in the
+International Working Men's Association, that Socialism spoke in the
+name of the people, and formulating itself little by little in the
+Congresses of the great Association and later on among its successors,
+arrived at some such conclusion as the following:
+
+All accumulated wealth is the product of the labour of all--of the
+present and of all preceding generations. This hall in which we are now
+assembled derives its value from the fact that it is situated in
+Paris--this magnificent city built by the labours of twenty successive
+generations. If this same hall were conveyed amid the snows of Siberia
+its value would be next to nothing. The machinery which you have
+invented and patented bears within itself the intelligence of five or
+six generations and is only possessed of value because it forms part of
+that immense whole that we call the progress of the nineteenth century.
+If you send your lace-making machine among the natives of New Guinea it
+will become valueless. We defy any man of genius of our times to tell us
+what share his intellect has had in the magnificent deductions of the
+book, the work of talent which he has produced! Generations have toiled
+to accumulate facts for him, his ideas have perhaps been suggested to
+him by a locomotive crossing the plains, as for elegance of design he
+has grasped it while admiring the Venus of Milo or the work of Murillo,
+and finally, if his book exercises any influence over us, it does so,
+thanks to all the circumstances of our civilisation.
+
+Everything belongs to all! We defy anyone soever to tell us what share
+of the general wealth is due to each individual. See the enormous mass
+of appliances which the nineteenth century has created; behold those
+millions of iron slaves which we call machines, and which plane and saw,
+weave and spin for us, separate and combine the raw materials, and work
+the miracles of our times. No one has the right to monopolise any one of
+these machines and to say to others--"This is mine, if you wish to make
+use of it you must pay me a tax on each article you produce," any more
+than the feudal lord of the middle ages had the right to say to the
+cultivator--"This hill and this meadow are mine and you must pay me
+tribute for every sheaf of barley you bind, and on each haycock you heap
+up."
+
+All belongs to everyone! And provided each man and woman contributes his
+and her share of labour for the production of necessary objects, they
+have a right to share in all that is produced by everybody.
+

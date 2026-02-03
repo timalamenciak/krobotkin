@@ -1,0 +1,40 @@
+TITLE: Mutual Aid: A Factor of Evolution
+AUTHOR: Peter Kropotkin
+YEAR: 1902
+SOURCE_ID: pg_4341
+SOURCE_PATH: data/raw/4341.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/4341
+RETRIEVED_UTC: 2026-02-03T19:50:48Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+1. The literature of the subject is immense; but there is no work yet
+which treats of the medieval city as of a whole. For the French
+Communes, Augustin Thierry's Lettres and Considerations sur l'histoire
+de France still remain classical, and Luchaire's Communes francaises is
+an excellent addition on the same lines. For the cities of Italy, the
+great work of Sismondi (Histoire des republiques italiennes du moyen
+age, Paris, 1826, 16 vols.), Leo and Botta's History of Italy, Ferrari's
+Revolutions d'Italie, and Hegel's Geschichte der Stadteverfassung in
+Italien, are the chief sources of general information. For Germany we
+have Maurer's Stadteverfassung, Barthold's Geschichte der deutschen
+Stadte, and, of recent works, Hegel's Stadte und Gilden der germanischen
+Volker (2 vols. Leipzig, 1891), and Dr. Otto Kallsen's Die deutschen
+Stadte im Mittelalter (2 vols. Halle, 1891), as also Janssen's
+Geschichte des deutschen Volkes (5 vols. 1886), which, let us hope, will
+soon be translated into English (French translation in 1892). For
+Belgium, A. Wauters, Les Libertes communales (Bruxelles, 1869-78, 3
+vols.). For Russia, Byelaeff's, Kostomaroff's and Sergievich's works.
+And finally, for England, we posses one of the best works on cities of a
+wider region in Mrs. J.R. Green's Town Life in the Fifteenth Century (2
+vols. London, 1894). We have, moreover, a wealth of well-known local
+histories, and several excellent works of general or economical history
+which I have so often mentioned in this and the preceding chapter. The
+richness of literature consists, however, chiefly in separate, sometimes
+admirable, researches into the history of separate cities, especially
+Italian and German; the guilds; the land question; the economical
+principles of the time; the economical importance of guilds and crafts;
+the leagues between, cities (the Hansa); and communal art. An incredible
+wealth of information is contained in works of this second category, of
+which only some of the more important are named in these pages.
+

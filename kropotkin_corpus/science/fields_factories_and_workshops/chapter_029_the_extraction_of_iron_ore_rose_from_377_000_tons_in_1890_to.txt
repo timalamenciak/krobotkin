@@ -1,0 +1,747 @@
+TITLE: Fields, Factories and Workshops
+AUTHOR: Peter Kropotkin
+YEAR: 1899
+SOURCE_ID: pg_64353
+SOURCE_PATH: data/raw/64353-0.txt
+SOURCE_URL: https://www.gutenberg.org/ebooks/64353
+RETRIEVED_UTC: 2026-02-03T19:51:15Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+1910. The extraction of iron ore rose from 377,000 tons in 1890 to
+3,760,000 tons in 1909. The production of cast iron, which was only
+29,270 tons in 1882, reached 2,067,000 tons in 1910, and the amount
+of refined iron and steel and their produce rose from 27,830 tons in
+1882 to 1,641,960 tons in 1910. In short, South Russia is becoming
+an exporting centre for the iron industry. (P. Palcinsky, in Russian
+_Mining Journal_, 1911, Nos. 8 and 12.)
+
+D.--IRON INDUSTRY IN GERMANY.
+
+The following tables will give some idea of the growth of mining and
+metallurgy in Germany.
+
+The extraction of minerals in the German Empire, in metric tons,
+which are very little smaller than the English ton (0·984), was:--
+
+                                   1883.       1893.        1910.
+                                   Tons.       Tons.        Tons.
+
+  Coal                          55,943,000  76,773,000  152,881,500
+  Lignite                       14,481,000  22,103,000   69,104,900
+  Iron ore                       8,616,000  12,404,000   28,709,700
+  Zinc ore                         678,000     729,000      718,300
+  Mineral salts (chiefly potash) 1,526,000   2,379,000    9,735,700
+
+Since 1894 the iron industry has taken a formidable development,
+the production of pig-iron reaching 12,644,900 metric tons in 1909
+(14,793,600 in 1910), and that of half-finished and finished iron
+and steel, 14,186,900 tons; while the exports of raw iron, which
+were valued at £1,195,000 in 1903, doubled in seven years, reaching
+£2,250,000 in 1910.
+
+E.--MACHINERY IN GERMANY.
+
+The rapid progress in the fabrication of machinery in Germany is best
+seen from the growth of the German exports as shown by the following
+table:--
+
+                                        1890.       1895.        1907.
+
+  Machines and parts thereof        £2,450,000  £3,215,000  £17,482,500
+  Sewing-machines and parts thereof    315,000     430,000    1,202,500
+  Locomotives and locomobiles          280,000     420,000    1,820,000
+
+Three years later the first of these items had already reached
+£25,000,000, and the export of bicycles, motor-cars, and motor-buses,
+and parts thereof, was valued at £2,904,000.
+
+Everyone knows that German sewing-machines, motor-bus frames, and a
+considerable amount of tools find their way even into this country,
+and that German tools are plainly recommended in English books.
+
+F.--COTTON INDUSTRY IN GERMANY.
+
+Dr. G. Schulze-Gaewernitz, in his excellent work, _The Cotton Trade
+in England and on the Continent_ (English translation by Oscar S.
+Hall, London, 1895), called attention to the fact that Germany
+had certainly not yet attained, in her cotton industry, the high
+technical level of development attained by England; but he showed
+also the progress realised. The cost of each yard of plain cotton,
+notwithstanding low wages and long hours, was still greater in
+Germany than in England, as seen from the following tables. Taking a
+certain quality of plain cotton in both countries, he gave (p. 151,
+German edition) the following comparative figures:--
+
+                                             England.       Germany.
+
+  Hours of labour                            9 hours        12 hours
+  Average weekly earnings of the operatives  16s. 3d.       11s. 8d.
+  Yards woven per week per operative         706 yards      466 yards
+  Cost per yard of cotton                    0·275d.        0·303d.
+
+But he remarked also that in all sorts of printed cottons, in which
+fancy, colours and invention play a predominant part, _the advantages
+were entirely on the side of the smaller German factories_.
+
+In the spinning mills the advantages, on the contrary, continued to
+remain entirely on the side of England, the number of operatives per
+1,000 spindles being in various countries as follows (p. 91, English
+edition):--
+
+                    Per 1000 spindles.
+
+  Bombay              25 operatives.
+  Italy               13      ”
+  Alsace               9½     ”
+  Mulhouse             7½     ”
+  Germany, 1861       20 operatives.
+     ”     1882        8 to 9 ”
+  England, 1837        7      ”
+     ”     1887        3      ”
+
+Considerable improvements had taken place already in the ten years
+1884-1894. “India shows us, since 1884, extraordinary developments,”
+Schulze-Gaewernitz remarked, and “there is no doubt that Germany also
+has reduced the number of operatives per 1,000 spindles since the
+last Inquest.” “From a great quantity of materials lying before me,
+I cull,” he wrote, “the following, which, however, refers solely to
+leading and technically distinguished spinning mills:--
+
+                                           Per 1000 spindles.
+
+  Switzerland                               6·2 operatives.
+  Mulhouse                                  5·8      ”
+  Baden and Würtemberg                      6·2      ”
+  Bavaria                                   6·8      ”
+  Saxony (new and splendid mills)           7·2      ”
+  Vosges, France (old spinning mills)       8·9      ”
+  Russia                                   16·6      ”
+
+The average counts of yarn for all these were between twenties and
+thirties.”
+
+It is evident that considerable progress has been realised since
+Schulze-Gaewernitz wrote these lines. As an exporter of cotton yarn
+and cottons, Germany has made rapid strides. Thus, in 1903, she
+exported £1,625,000 worth of cotton yarn, and £15,080,000 worth of
+cottons. For 1910 the figures given by the _Statistisches Jahrbuch
+for 1911_ were already £2,740,000 and £18,255,000 respectively.
+
+G.--MINING AND TEXTILES IN AUSTRIA.
+
+To give an idea of the development of industries in Austria-Hungary,
+it is sufficient to mention the growth of her mining industries and
+the present state of her textile industries.
+
+The value of the yearly extraction of coal and iron ore in Austria
+appears as follows:--
+
+                            1880.          1890.          1910.
+
+  Coal                  £1,611,000    £25,337,000    £57,975,000
+  Brown coal             1,281,300     23,033,000     56,715,000
+  Raw iron               1,749,000     22,759,000     49,367,000
+
+At the present time the exports of coal entirely balance the imports.
+
+As to the textile industries, the imports of raw cotton into
+Austria-Hungary reached in 1907 the respectable value of £12,053,400.
+For raw wool and wool yarn they were £6,055,600 worth, and for silk,
+£1,572,000; while £3,156,200 worth of woollens were exported.
+
+According to the census of 1902 (_Statistisches Jahrbuch for 1911_),
+there were already, in Austria-Hungary, 1,408,855 industrial
+establishments, occupying 4,049,320 workpeople, and having a
+machinery representing 1,787,900 horse-power. The textile trades
+alone had in their service 257,500 horse-power (as against 113,280 in
+1890).
+
+The small industry evidently prevailed, nearly one-half of all the
+workpeople (2,066,120) being employed in 901,202 establishments,
+which had only from one to twenty persons each; while 443,235
+workpeople were employed in 10,661 establishments (from twenty-one to
+100 workpeople each). Still, the great industry has already made its
+appearance in some branches--there being 3,021 establishments which
+employed more than 100 workers each, and representing an aggregate of
+1,053,790 workpeople. Out of them 105 establishments employed even
+more than 1,000 persons each (115 establishments, 179,876 workpeople
+in 1910).
+
+In Hungary industry is also rapidly developing; it occupied 1,127,130
+persons in 1902 (34,160 in the textiles, and 74,000 in mining). In
+1910 the exports of all textiles (stuffs and yarns) from Hungary
+reached the sum of £7,040,500.
+
+H.--COTTON MANUFACTURE IN INDIA.
+
+The views taken in the text about the industrial development of
+India are confirmed by a mass of evidence. One of them, coming from
+authorised quarters, deserves special attention. In an article on the
+progress of the Indian cotton manufacture, the _Textile Recorder_
+(15th October, 1888) wrote:--
+
+“No person connected with the cotton industry can be ignorant of the
+rapid progress of the cotton manufacture in India. Statistics of
+all kinds have recently been brought before the public, showing the
+increase of production in the country; still it does not seem to be
+clearly understood that this increasing output of cotton goods must
+seriously lower the demand upon Lancashire mills, and that it is not
+by any means improbable that India may at no very distant period be
+no better customer than the United States is now.”
+
+One hardly need add at what price the Indian manufacturers obtain
+cheap cottons. The report of the Bombay Factory Commission which
+was laid before Parliament in August, 1888, contained facts of such
+horrible cruelty and cupidity as would hardly be imagined by those
+who have forgotten the disclosures of the inquiry made in this
+country in 1840-1842. The factory engines are at work, as a rule,
+from 5 A.M. till 7, 8, or 9 P.M., and the workers remain at work for
+twelve, thirteen, fourteen hours, only releasing one another for
+meals. In busy times it happens that the same set of workers remain
+at the gins and presses night and day with half an hour’s rest in the
+evening. In some factories the workers have their meals at the gins,
+and are so worn out after eight and ten days’ uninterrupted work that
+they supply the gins mechanically “three parts asleep.”
+
+“It is a sad tale of great want on one side, and cruel cupidity
+on the other,” the official report concludes. However, it would
+be absolutely erroneous to conclude that Indian manufactures can
+compete with the British ones as long as they continue the terrible
+exploitation of human labour which we see now. Forty years ago the
+British manufactures offered absolutely the same terrible picture of
+cruel cupidity. But times will come when Indian workers will restrain
+the cupidity of the capitalists, and the manufacturers of Bombay will
+be none the worse for that in their competition with the British
+manufactures.
+
+The figures relative to the latest growth of the textile industries
+in India, given in the text, fully confirm the previsions expressed
+twenty-five years ago. As to the conditions of the workpeople in the
+Indian cotton-mills, they continue to remain abominable.
+
+I.--THE COTTON INDUSTRY IN THE UNITED STATES.
+
+A few years ago the cotton industry in the United States attracted
+the attention of the Manchester cotton manufacturers, and we have
+now two very interesting works written by persons who went specially
+to the States in order to study the rapid progress made there in
+spinning and weaving.[200]
+
+These two inquiries fully confirm what has been said in the text of
+this book about the rapid progress made in the American industry
+altogether, and especially in the development of a very fine
+cotton-weaving machinery. In his preface to Mr. Young’s book, Mr.
+Helm says: “The results of this inquiry may not incorrectly be called
+a revelation for Lancashire. It was, indeed, already known to a few
+on this side of the ocean that there were wide differences between
+the methods and organisation of American and English cotton-mills.
+But it is only between the last three or four years that suspicion
+has arisen amongst us that our competitors in the United States
+have been marching faster than we have in the path of economy of
+production.”
+
+The most important difference between the British and American
+methods was, in Mr. Helm’s opinion, in “the extensive use of the
+automatic loom.” Mr. Young’s investigation on the subject left no
+doubts that the employment of this loom “substantially reduces the
+cost of production, and at the same time increases the earnings of
+the weaver, because it permits him to conduct more looms” (p. 15).
+Altogether, we learn from Mr. Helm’s remarks that there are now
+85,000 automatic looms running in the United States, and that “the
+demand for weavers is greater than ever” (p. 16). In a Rhode Island
+mill, 743 ordinary looms required 100 weavers, while 2,000 Northrop
+(or Draper) looms could be conducted by 134 weavers only, which means
+an average of fifteen looms for each weaver. At Burlington, Vermont,
+from sixteen to twenty Northrop looms were conducted by each weaver,
+and altogether these looms are spreading very rapidly. But it is not
+only in the looms that such improvements have been introduced. “The
+spinning frames,” we are told by Mr. Young, “containing 112 spindles
+a side, were tended by girls who ran four, six, eight, or ten sides
+each, according to the girl’s dexterity. The average for good
+spinners was about eight sides (896 spindles)” (p. 10).
+
+In a New Bedford fine-spinning mill the ring-spinners were minding
+1,200 spindles each (p. 16).
+
+It is also important to note the speed at which the cotton industry
+has been developing lately in the States. The census of 1900 gave a
+total of 19,008,350 spindles. But in 1909 we find already 28,178,860
+spindles for cotton alone (34,500,000, including silk, wool, and
+worsted). And, what is still more important, most of this increase
+fell upon the Southern States, where machinery is also more perfect,
+both for spinning and weaving, and where most of the work is being
+done by the whites. In a South Carolina print-cloth mill, containing
+1,000 Draper looms, the average for narrow looms was 15½ looms to
+each weaver. (T. W. Uttley, _l.c._, pp. 4, 50, etc.)
+
+As for the American competition in the Chinese markets, Mr. Helm
+gives imposing figures.
+
+J.--MR. GIFFEN’S AND MR. FLUX’S FIGURES CONCERNING THE POSITION OF
+THE UNITED KINGDOM IN INTERNATIONAL TRADE.
+
+A few remarks concerning these figures may be of some avail.
+
+When a sudden fall in the British and Irish exports took place in the
+years 1882-1886, and the alarmists took advantage of the bad times to
+raise the never-forgotten war-cry of protection, especially insisting
+on the damages made to British trade by “German competition,” Mr.
+Giffen analysed the figures of international trade in his “Finance
+Essays,” and in a report read in 1888 before the Board of Trade
+Commission. Subsequently, Mr. A. W. Flux analysed again the same
+figures, extending them to a later period. He confirmed Mr. Giffen’s
+conclusions and endeavoured to prove that the famous “German
+competition” is a fallacy.
+
+Mr. Giffen’s conclusions, quoted by Mr. A. W. Flux (“The Commercial
+Supremacy of Great Britain,” in _Economical Journal_, 1894, iv., p.
+457), were as follows:--
+
+“On the whole, the figures are not such as to indicate any great and
+overwhelming advance in German exports, in comparison with those of
+the United Kingdom. There is greater progress in certain directions,
+but, taken altogether, no great disproportionate advance, and in many
+important markets for the United Kingdom Germany hardly appears at
+all.”
+
+In this subdued form, _with regard to German competition alone_--and
+due allowance being made for figures in which no consideration is
+given to what sort of goods make a given value of exports, and in
+what quantities--Mr. Giffen’s statement could be accepted. But that
+was all.
+
+If we take, however, Mr. Giffen’s figures as they are reproduced in
+extended tables (on pp. 461-467 of the just quoted paper), tabulated
+with great pains in order to show that Germany’s part in the imports
+to several European countries, such as Russia, Italy, Servia, etc.,
+had declined, as well as the part of the United Kingdom, all we could
+conclude from these figures was, that there were other countries
+besides Germany--namely, the United States and Belgium--which
+competed very effectively with England, France, and Germany for
+supplying what manufactured goods were taken by Russia, Italy,
+Servia, etc., from abroad.
+
+At the same time such figures gave no idea of the fact that where
+manufactured metal goods were formerly supplied, coal and raw metals
+were imported for the home manufacture of those same goods; or, where
+dyed and printed cottons were imported, only yarn was required. The
+whole subject is infinitely more complicated than it appeared in Mr.
+Giffen’s calculations; and, valuable as his figures may have been for
+appeasing exaggerated fears, they contained no answer whatever to the
+many economic questions involved in the matters treated by Mr. Giffen.
+
+The conclusions which I came to in these lines in the first edition
+of this book found further confirmation in the subsequent economical
+development of all nations in that same direction. The result is,
+that--apart from the extraordinary exports of the years 1910 and 1911
+(which I venture to explain by the general prevision of a great
+European war going to break out)--the exports from this country,
+apart from their usual periodical fluctuations, continued to remain
+what they were, in proportion to the increasing population, and many
+of them became less profitable; while the exports from all other
+countries increased in a much greater proportion.
+
+K.--MARKET-GARDENING IN BELGIUM.
+
+In 1885 the superficies given to market gardening in Belgium was
+99,600 acres. In 1894 a Belgian professor of agriculture, who has
+kindly supplied me with notes on this subject, wrote:--
+
+“The area has considerably increased, and I believe it can be taken
+at 112,000 acres (45,000 hectares), if not more.” And further on:
+“Rents in the neighbourhood of the big towns, Antwerp, Liège, Ghent,
+and Brussels, attain as much as £5, 16s. and £8 per acre; the cost of
+instalment is from £13 to £25 per acre; the yearly cost of manure,
+which is the chief expense, attains from £8 to £16 per acre the
+first year, and then from £5 to £8 every year.” The gardens are of
+the average size of two and a half acres, and in each garden from
+200 to 400 frames are used. About the Belgian market-gardeners the
+same remark must be made as has been made concerning the French
+_maraîchers_. They work awfully hard, having to pay extravagant
+rents, and to lay money aside, with the hope of some day being able
+to buy a piece of land, and to get rid of the blood-sucker who
+absorbs so much of their money returns; having moreover every year
+to buy more and more frames in order to obtain their produce earlier
+and earlier, so as to fetch higher prices for it, they work like
+slaves. But it must be remembered that in order to obtain the same
+amount of produce under glass, in greenhouses, the work of _three men
+only_, working fifty-five hours a week, is required in Jersey for
+cultivating one acre of land under glass.
+
+But I must refer my readers to the excellent work of my friend, B.
+Seebohm Rowntree’s _Land and Labour: Lessons from Belgium_, London
+(Macmillan), 1910, a strong volume of more than 600 pages, which
+is the result of several years of laborious studies. It is full
+of figures and personal observations, and will be consulted with
+advantage for all the questions dealing with the economical life of
+Belgium.
+
+L.--THE CHANNEL ISLANDS--THE SCILLY ISLANDS.
+
+The excellent state of agriculture in Jersey and Guernsey has
+often been mentioned in the agricultural and general literature of
+this country, so I need only refer to the works of Mr. W. E. Bear
+(_Journal of the Agricultural Society_, 1888; _Quarterly Review_,
+1888; _British Farmer_, etc.) and to the exhaustive work of D. H.
+Ansted and R. G. Latham, _The Channel Islands_, third edition,
+revised by E. Toulmin Nicolle, London (Allen), 1893.
+
+Many English writers--certainly not those just named--are inclined
+to explain the successes obtained in Jersey by the wonderful climate
+of the islands and the fertility of the soil. As to climate, it
+is certainly true that the yearly record of sunshine in Jersey is
+greater than in any English station. It reaches from 1,842 hours a
+year (1890) to 2,300 (1893), and thus exceeds the highest aggregate
+sunshine recorded in any English station by from 168 to 336 hours
+(exclusively high maximum in 1894) a year; May and August seeming
+to be the best favoured months.[201] But, to quote from the just
+mentioned work of Ansted and Latham:--
+
+“There is, doubtless, in all the islands, and especially in Guernsey,
+_an absence of sun heat_ and of the direct action of the sun’s rays
+_in summer_, which must have its effect, and _a remarkable prevalence
+of cold, dry, east wind in late spring, retarding vegetation_” (p.
+407). Everyone who has spent, be it only two or three weeks in late
+spring in Jersey, must know by experience how true this remark is.
+Moreover, there are the well-known Guernsey fogs, and “owing also to
+rain and damp the trees suffer from mildew and blight, as well as
+from various aphides.” The same authors remark that the nectarine
+does not succeed in Jersey in the open air “owing to the absence of
+autumn heat”; that “the wet autumns and cold summers do not agree
+with the apricot;” and so on.
+
+If Jersey potatoes are, on the average, three weeks in advance
+of those grown in Cornwall, the fact is fully explained by the
+continual improvements made in Jersey in view of obtaining, be
+it ever so small, quantities of potatoes a few days in advance,
+either by special care taken to plant them out as soon as possible,
+protecting them from the cold winds, or by choosing tiny pieces of
+land naturally protected or better exposed. The difference in price
+between the earliest and the later potatoes being immense, the
+greatest efforts are made to obtain an early crop.
+
+The decline of prices per ton is best seen from the following prices
+in 1910:--
+
+                                Quantities           Prices.
+  Week ending                    exported.
+                                   Tons.              £   _s._  _d._
+
+  April 2-30                        210              30    11     0
+  May   7                           600              18    12     8
+   ”   14                         1,250              15    12     0
+   ”   21                         2,000              13     0     0
+   ”   28                         5,500              10     3     8
+  June  4                         7,825               8    13     4
+   ”   11                         9,200               6     5     8
+   ”   18                        13,000               4    17     6
+   ”   25                         9,650               4     8    10
+  July  2                         6,600               3    13     8
+   ”    9                         1,900               2    18     6
+   ”   16                           145               3     9     4
+   ”   23                            10               3    18     0
+                                 ------              --------------
+         Total                   57,890                    £381,373
+
+The quantities of early potatoes exported varied during the years
+1901 to 1910 from 47,530 tons to 77,800 tons, and their value from
+£233,289 to £475,889.
+
+As to the fertility of the soil, it is still worse advocacy, because
+there is no area in the United Kingdom of equal size which would
+be manured to such an extent as the area of Jersey and Guernsey is
+by means of artificial manure. In the seventeenth century, as may
+be seen from the first edition of Falle’s _Jersey_, published in
+1694, the island “did not produce that quantity as is necessary for
+the use of the inhabitants, who must be supplied from England in
+time of peace, or from Dantzic in Poland.” In _The Groans of the
+Inhabitants of Jersey_, published in London in 1709, we find the same
+complaint. And Quayle, who wrote in 1812 and quoted the two works
+just mentioned, in his turn complained in these terms: “The quantity
+at this day raised is quite inadequate to their sustenance, apart
+from the garrison.” (_General View of the Agriculture and the Present
+State of the Islands on the Coast of Normandy_, London, 1815, p.
+77.) And he added: “After making all allowance, the truth must be
+told; the grain crops are here foul, in some instances execrably so.”
+And when we consult the modern writers, Ansted, Latham, and Nicolle,
+we learn that the soil is by no means rich. It is decomposed granite,
+and easily cultivable, but “it contains no organic matter besides
+what man has put into it.”
+
+This is certainly the opinion anyone will come to if he only visits
+thoroughly the island and looks attentively to its soil--to say
+nothing of the Quenvais where, in Quayle’s time, there was “an
+Arabian desert” of sands and hillocks covering about seventy acres
+(p. 24), with a little better but still very poor soil in the north
+and west of it. The fertility of the soil has entirely been made,
+first, by the _vraic_ (sea-weeds), upon which the inhabitants have
+maintained communal rights; later on, by considerable shipments of
+manure, in addition to the manure of the very considerable living
+stock which is kept in the island; and finally, by an admirably good
+cultivation of the soil.
+
+Much more than sunshine and good soil, it was the conditions of
+land-tenure and the low taxation which contributed to the remarkable
+development of agriculture in Jersey. First of all, the people of the
+Isles know but little of the tax-collector. While the English pay, in
+taxes, an average of 50s. per head of population; while the French
+peasant is over-burdened with taxes of all imaginable descriptions;
+and the Milanese peasant has to give to the Treasury full 30 per
+cent. of his income--all taxes paid in the Channel Islands amount to
+but 10s. per head in the town parishes and to much less than that
+in the country parishes. Besides, of indirect taxes, none are known
+but the 2s. 6d. paid for each gallon of imported spirits and 9d. per
+gallon of imported wine.
+
+As to the conditions of land-tenure, the inhabitants have happily
+escaped the action of Roman Law, and they continue to live under the
+_coutumier de Normandie_ (the old Norman common law). Accordingly,
+more than one-half of the territory is owned by those who themselves
+till the soil; there is no landlord to watch the crops and to raise
+the rent before the farmer has ripened the fruit of his improvements;
+there is nobody to charge so much for each cart-load of sea-weeds
+or sand taken to the fields; everyone takes the amount he likes,
+provided he cuts the weeds at a certain season of the year, and
+digs out the sand at a distance of sixty yards from the high-water
+mark. Those who buy land for cultivation can do so without becoming
+enslaved to the money-lender. One-fourth part only of the permanent
+rent which the purchaser undertakes to pay is capitalised and has
+to be paid down on purchase (often less than that), the remainder
+being a perpetual rent in wheat which is valued in Jersey at fifty
+to fifty-four _sous de France_ per cabot. To seize property for debt
+is accompanied with such difficulties that it is seldom resorted
+to (Quayle’s _General View_, pp. 41-46). Conveyances of land are
+simply acknowledged by both parties on oath, and cost nearly nothing.
+And the laws of inheritance are such as to preserve the homestead,
+notwithstanding the debts that the father may have run into (_ibid._,
+pp. 35-41).
+
+After having shown how small are the farms in the islands (from
+twenty to five acres, and very many less than that)--there being
+“less than 100 farms in either island that exceed twenty-five
+acres; and of these only about half a dozen in Jersey exceed fifty
+acres”--Messrs. Ansted, Latham, and Nicolle remark:--
+
+“In no place do we find so happy and so contented a country as in the
+Channel Islands....” “The system of land-tenure has also contributed
+in no small degree to their prosperity....” “The purchaser becomes
+the absolute owner of the property, and his position cannot be
+touched so long as the interest of these [wheat] rents be paid.
+He cannot be compelled, as in the case of mortgage, to refund the
+principal. _The advantages of such a system are too patent to need
+any further allusion._” (_The Channel Islands_, third edition,
+revised by E. Toulmin Nicolle, p. 401; see also p. 443.)
+
+The following will better show how the cultivable area is utilised in
+Jersey (_The Evening Post Royal Almanack_):--
+
+                                                  1894.  1911.
+                                                 Acres. Acres.
+
+                           { Wheat               1,709     656
+  Corn crops               { Barley and bere       113     125
+                           { Oats and rye          499   1,213
+                           { Beans and peas         16      34
+
+  Green crops              { Potatoes            7,007   8,911
+                           { Turnips and swedes    111      61
+                           { Mangolds              232     137
+                           { Other green crops     447     176
+
+  Clover, sainfoin and    }  For hay             2,842   2,720
+  grasses under rotation  }  Not for hay         2,208   1,731
+
+  Permanent pasture        { For hay             1,117     944
+  or grass                 { Not for hay         3,057   2,522
+                             Bare fallow           --       53
+
+  Fruit                    { Small fruit           --       99
+                           { Orchards and small
+                           { fruit                 --    1,151
+                             Other crops           --      240
+                                                 -----  ------
+                                                21,252  20,733
+
+_Living Stock._
+
+                                           1894.       1911.
+
+  Horses used solely for agriculture       2,252       2,188
+  Unbroken horses                             83          69
+  Mares solely for breeding                   16         --
+                                           -----       -----
+  Horses                                   2,351       2,257
+  Cows and heifers in milk or in calf      6,709       6,710
+  Other cattle:--
+    Two years or more                        864 }
+    One year to two years                  2,252 }     5,321
+    Less than one year                     2,549 }
+                                          ------      ------
+            Total cattle                  12,374      12,031
+
+  Sheep, all ages                            332         186
+  Pigs, including sows for breeding        6,021       4,639
+
+_Exports._
+
+                                      1887.     1888.      1889.
+
+  Bulls                                 102       100         92
+  Cows and heifers                    1,395     1,639      1,629
+
+Potatoes exported:--
+
+  Average.                                 Tons.       £
+
+  1887-1890                               54,502    308,713
+  1891-1894                               62,885    413,609
+  1901-1905                               66,731    455,773
+  1906                                    51,932    308,229
+  1907                                    77,800    377,259
+  1908                                    53,100    356,305
+  1909                                    62,690    332,404
+  1910                                    57,890    381,373
+
+The export value _per acre_ varied in different years from £27, 6s.
+in 1893 to £66, 1s. in 1894, and even £95, 18s. in 1904.
+
+As regards greenhouse culture, a friend of mine, who has worked as a
+gardener in Jersey, has collected for me various information relative
+to the productivity of culture under glass. Out of it the following
+may be taken as a perfectly reliable illustration, in addition to
+those given in the text:--
+
+Mr. B.’s greenhouse has a length of 300 feet and a width of 18 feet,
+which makes 5,400 square feet, out of which 900 square feet are under
+the passage in the middle. The cultivable area is thus 4,500 square
+feet. There are no brick walls, but brick pillars and boards are used
+for front walls. Hot-water heating is provided, but is only used
+occasionally, to keep off the frosts in winter--the crops being early
+potatoes (which require no heating), followed by tomatoes. The latter
+are Mr. B.’s speciality. Catch crops of radishes, etc., are taken.
+The cost of the greenhouse, without the heating apparatus, is 10s.
+per running foot of greenhouse, which makes £150 for one-eighth of an
+acre under glass, or a little less than 7d. per glass-roofed square
+foot.
+
+The crops are: potatoes, four cabots per perch--that is,
+three-quarters of a ton of early potatoes from the greenhouse; and
+tomatoes, in the culture of which Mr. B. attains extraordinary
+results. He puts in only 1,000 plants, thus giving to his plants more
+room than is usually given; and he cultivates a corrugated variety
+which gives very heavy crops but does not fetch the same prices as
+the smooth varieties. In 1896 his crop was four tons of tomatoes, and
+so it would have been in 1897--each plant giving an average of twenty
+pounds of fruit, while the usual crop is from eight to twelve pounds
+per plant.
+
+The total crop was thus four and three-quarter tons of vegetables,
+to which the catch crops must be added--thus corresponding to 85,000
+lb. per acre (over 90,000 lb. with the catch crops). I again omit the
+money returns, and only mention that the expenditure for fuel and
+manure was about £10 a year, and that the Jersey average is three
+men, each working fifty-five hours a week (ten hours a day), for
+every acre under glass.
+
+_The Scilly Islands._--These islands also give a beautiful
+illustration of what may be obtained from the soil by an intensive
+cultivation. When shipping and supplying pilots became a decaying
+source of income, the Scillonians took to the growing of potatoes.
+For many years, we are told by Mr. J. G. Uren (_Scilly and the
+Scillonians_, Plymouth, 1907), this was a very profitable industry.
+The crop was ready at least a month in advance of any other source
+of supply on the mainland. Every year about 1,000 tons of potatoes
+were exported. “In its palmy days the potato harvest in Scilly was
+the great event of the year. Gangs of diggers were brought across
+from the mainland,” and the prices went occasionally up to £28 a ton
+for the earliest potatoes. Gradually, however, the export of potatoes
+was reduced to less than one-half of what it was formerly. Then
+the inhabitants of the islands went for fishing, and later on they
+began to grow flowers. Frost and snow being practically unknown in
+the islands, this new industry succeeded very well. The arable area
+of the islands is about 4,000 acres, which are divided into small
+farms, less than from fifteen to twenty acres, and these farms are
+transmitted, according to the local custom, from father to son.
+
+It is not long ago that they began to grow wild narcissuses, to
+which they soon added daffodils (a hundred varieties), and lilies,
+especially arum-lilies, for Church decoration. All these are grown
+in narrow strips, sheltered from the winds by dwarf hedges. Movable
+glass-houses are resorted to shelter the flowers for a certain time,
+and in this way the gardeners have a succession of crops, beginning
+soon after Christmas, and lasting until April or May.
+
+The flowers are shipped to Penzance, and thence carried by rail in
+special carriages. At the top of the season thirty to forty tons are
+shipped in a single day. The total exports, which were only 100 tons
+in 1887, have now reached 1,000 in 1907.
+
+M.--IRRIGATED MEADOWS IN ITALY.
+
+In the _Journal de l’Agriculture_ (2nd Feb., 1889) the following was
+said about the _marcites_ of Milan:--
+
+“On part of these meadows water runs constantly, on others it is
+left running for ten hours every week. The former give six crops
+every year; since February, eighty to 100 tons of grass, equivalent
+to twenty and twenty-five tons of dry hay, being obtained from the
+hectare (eight to ten tons per acre). Lower down, thirteen tons of
+dry hay per acre is the regular crop. Taking eighty acres placed in
+average conditions, they will yield fifty-six tons of green grass
+per hectare--that is, fourteen tons of dry hay, or the food of three
+milch cows to the hectare (two and a half acres). The rent of such
+meadows is from £8 to £9, 12s. per acre.”
+
+For Indian corn, the advantages of irrigation are equally apparent.
+On irrigated lands, crops of from seventy-eight to eighty-nine
+bushels per acre are obtained, as against from fifty-six to
+sixty-seven bushels on unirrigated lands, also in Italy, and
+twenty-eight to thirty-three bushels in France (Garola, _Les
+Céréales_).
+
+N.--PLANTED WHEAT.
+
+_The Rothamsted Challenge._
+
+Sir A. Cotton delivered, in 1893, before the Balloon Society, a
+lecture on agriculture, in which lecture he warmly advocated deep
+cultivation and planting the seeds of wheat wide apart. He published
+it later on as a pamphlet (_Lecture on Agriculture_, 2nd edition,
+with Appendix. Dorking, 1893). He obtained, for the best of his
+sort of wheat, an average of “fifty-five ears per plant, with three
+oz. of grain of fair quality--perhaps sixty-three lbs. per bushel”
+(p. 10). This corresponded to ninety bushels per acre--that is,
+his result was very similar to those obtained at the Tomblaine and
+Capelle agricultural stations by Grandeau and F. Dessprèz, whose work
+seems not to have been known to Sir A. Cotton. True, Sir A. Cotton’s
+experiments were not conducted, or rather were not reported, in a
+thoroughly scientific way. But the more desirable it would have been,
+either to contradict or to confirm his statements by experiments
+carefully conducted at some experimental agricultural station.
+Unfortunately, so far as I know, no such experiments have yet been
+made, and the possibility of profitably increasing the wheat crop
+by the means indicated by Sir A. Cotton has still to be tested in a
+scientific spirit.
+
+O.--REPLANTED WHEAT.
+
+A few words on this method which now claims the attention of the
+experimental stations may perhaps not be useless.
+
+In Japan, rice is always treated in this way. It is treated as our
+gardeners treat lettuce and cabbage--that is, it is let first to
+germinate; then it is sown in special warm corners, well inundated
+with water and protected from the birds by strings drawn over the
+ground. Thirty-five to fifty-five days later, the young plants, now
+fully developed and possessed of a thick network of rootlets, are
+_replanted_ in the open ground. In this way the Japanese obtain from
+twenty to thirty-two bushels of _dressed_ rice to the acre in the
+poor provinces, forty bushels in the better ones, and from sixty
+to sixty-seven bushels on the best lands. The average, in six rice
+growing states of North America, is at the same time only nine and a
+half bushels.[202]
+
+In China, replanting is also in general use, and consequently the
+idea has been circulated in France by M. Eugène Simon and the late
+
