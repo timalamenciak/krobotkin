@@ -4,7 +4,7 @@ YEAR: 1899
 SOURCE_ID: pg_64353
 SOURCE_PATH: data/raw/64353-0.txt
 SOURCE_URL: https://www.gutenberg.org/ebooks/64353
-RETRIEVED_UTC: 2026-02-03T19:51:15Z
+RETRIEVED_UTC: 2026-02-03T20:58:30Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

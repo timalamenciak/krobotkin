@@ -1,0 +1,50 @@
+TITLE: Anarchist Morality
+AUTHOR: Peter Kropotkin
+YEAR: 1897
+SOURCE_ID: al_anarchist_morality
+SOURCE_PATH: data/raw/Anarchist_Morality.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-anarchist-morality
+RETRIEVED_UTC: 2026-02-03T20:58:54Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## VII
+
+We have hitherto been speaking of the conscious, deliberate actions of man, those performed intentionally.  But side by side with our conscious life we have an unconscious life which is very much wider. Yet we have only to notice how we dress in the morning, trying to fasten a button that we know we lost last night, or stretching out our hand to take something that we ourselves have moved away, to obtain an idea of this unconscious life and realize the enormous part it plays in our existence.
+
+It makes up three-fourths of our relations with others.  Our ways of speaking, smiling, frowning, getting heated or keeping cool in a discussion, are unintentional, the result of habits, inherited from our human or pre-human ancestors (only notice the likeness in expression between an angry man and an angry beast), or else consciously or unconsciously acquired.
+
+Our manner of acting towards others thus tends to become habitual. To treat others as he would wish to be treated himself becomes with man and all sociable animals, simply a habit. So much so that a person does not generally even ask himself how he must act under such and such circumstances. It is only when the circumstances are exceptional, in some complex case or under the impulse of strong passion that he hesitates, and a struggle takes place between the various portions of his brain — for the brain is a very complex organ, the various portions of which act to a certain degree independently.  When this happens, the man substitutes himself in imagination for the person opposed to him; he asks himself if he would like to be treated in such a way, and the better he has identified himself with the person whose dignity or interests he has been on the point of injuring, the more moral will his decision be. Or maybe a friend steps in and says to him: “Fancy yourself in his place; should you have suffered from being treated by him as he has been treated by you? And this is enough.
+
+Thus we only appeal to the principle of equality in moments of hesitation, and in ninety-nine cases out of a hundred act morally from habit.  It must have been obvious that in all we have hitherto said, we have not attempted to enjoin anything,we have only set forth the manner in which things happen in the animal world and amongst mankind.
+
+Formerly the church threatened men with hell to moralize them, and she succeeded in demoralizing them instead. The judge threatens with imprisonment, flogging, the gallows, in the name of those social principles he has filched from society; and he demoralizes them. And yet the very idea that the judge may disappear from the earth at the same time as the priest causes authoritarians of every shade to cry out about peril to society.
+
+But we are not afraid to forego judges and their sentences. We forego sanctions of all kinds, even obligations to morality.  We are not afraid to say: “Do what you will; act as you will”; because we are persuaded that the great majority of mankind, in proportion to their degree of enlightenment and the completeness with which they free themselves from existing fetters will behave and act always in a direction useful to society just as we are persuaded beforehand that a child will one day walk on its two feet and not on all fours simply because it is born of parents belonging to the genus Homo.
+
+All we can do is to give advice. And again while giving it we add: “This advice will be valueless if your own experience and observation do not lead you to recognize that it is worth following.”  When we see a youth stooping and so contracting his chest and lungs we advise him to straighten himself, hold up his head and open his chest. We advise him to fill his lungs and take long breaths, because this will be his best safeguard against consumption.  But at the same time we teach him physiology that he may understand the functions of his lungs, and himself choose the posture he knows to be the best.
+
+And this is all we can do in the case of morals. And this is all we can do in the case of morals. We have only a right to give advice, to which we add: “Follow it if it seems good to you.”
+
+But while leaving to each the right to act as he thinks best; while utterly denying the right of society to punish one in any way for any anti-social act he may have committed, we do not forego our own capacity to love what seems to us good and to hate what seems to us bad.  Love and hate; for only those who know how to hate know how to love. We keep this capacity; and as this alone serves to maintain and develop the moral sentiments in every animal society, so much the more will it be enough for the human race.
+
+We only ask one thing, to eliminate all that impedes the free development of these two feelings in the present society, all that perverts our judgment: — the State, the church, exploitation; judges, priests, governments, exploiters.
+
+Today when we see a Jack the Ripper murder one after another some of the poorest and most miserable of women, our first feeling is one of hatred.
+
+If we had met him the day when he murdered that woman who asked him to pay her for her slum lodging, we should have put a bullet through his head, without reflecting that the bullet might have been better bestowed in the brain of the owner of that wretched den.
+
+But when we recall to mind all the infamies which have brought him to this; when we think of the darkness in which he prowls haunted by images drawn from indecent books or thoughts suggested by stupid books, our feeling is divided.  And if some day we hear that Jack is in the hands of some judge who has slain in cold blood a far greater number of men, women and children than all the Jacks together; if we see him in the hands of one of those deliberate maniacs then all our hatred of Jack the Ripper will vanish. It will be transformed into hatred of a cowardly and hypocritical society and its recognized representatives. All the infamies of a Ripper disappear before that long series of infamies committed in the name of law. It is these we hate.
+
+At the present day our feelings are continually thus divided.  We feel that all of us are more or less, voluntarily or involuntarily, abettors of this society. We do not dare to hate.  Do we even dare to love? In a society based on exploitation and servitude human nature is degraded.
+
+But as servitude disappears we shall regain our rights. We shall feel within ourselves strength to hate and to love, even in such complicated cases as that we have just cited.
+
+In our daily life we do already give free scope to our feelings of sympathy or antipathy; we are doing so every moment. We all love moral strength we all despise moral weakness and cowardice. Every moment our words, looks, smiles express our joy in seeing actions useful to the human race, those which we think good.  Every moment our looks and words show the repugnance we feel towards cowardice, deceit, intrigue, want of moral courage. We betray our disgust, even when under the influence of a worldly education we try to hide our contempt beneath those lying appearances which will vanish as equal relations are established among us.
+
+This alone is enough to keep the conception of good and ill at a certain level and to communicate it one to another.
+
+It will be still more efficient when there is no longer judge or priest in society, when moral principles have lost their obligatory character and are considered merely as relations between equals.
+
+Moreover, in proportion to the establishment of these relations, a loftier moral conception will arise in society. It is this conception which we are about to analyze.
+

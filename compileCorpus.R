@@ -1,23 +1,6 @@
 #!/usr/bin/env Rscript
 
-# build_corpus.R (extended)
-# Reproducible, citeable Kropotkin corpus builder (public domain English sources)
-#
-# Extensions implemented:
-# 1) More aggressive removal of Gutenberg/Wikisource boilerplate + TOC + production credits
-# 2) Chapter/section splitting into many smaller files (better for fine-tuning)
-# 3) Unit-test style checks that FAIL the build if boilerplate remains
-#
-# Outputs:
-#   kropotkin_corpus/
-#     theory/<work_slug>/chapter_*.txt
-#     science/<work_slug>/chapter_*.txt
-#     memoir/<work_slug>/chapter_*.txt
-#     essays/<work_slug>/section_*.txt
-#     metadata/manifest.csv, metadata/sources.bib, metadata/build_log.md, metadata/tests.md
-#
-# Usage:
-#   Rscript build_corpus.R
+# build_corpus.R (extended + Anarchist Library support)
 
 suppressPackageStartupMessages({
   library(readr)
@@ -58,8 +41,30 @@ SOURCES <- tribble(
   "local_txt", path(RAW_DIR, "Law_and_Authority.txt"), "https://en.wikisource.org/wiki/Law_and_Authority", "Wikisource export (local file)",
   
   "ws_state_historic_role", "The State: Its Historic Role", 1903, "Peter Kropotkin", "essays",
-  "local_txt", path(RAW_DIR, "The_State_Its_Historic_Role.txt"), "https://en.wikisource.org/wiki/The_State:_Its_Historic_Role", "Wikisource export (local file)"
-)
+  "local_txt", path(RAW_DIR, "The_State_Its_Historic_Role.txt"), "https://en.wikisource.org/wiki/The_State:_Its_Historic_Role", "Wikisource export (local file)",
+  
+  "al_modern_science_and_anarchism", "Modern Science and Anarchism", 1903, "Peter Kropotkin", "science",
+  "local_txt", path(RAW_DIR, "Modern_Science_and_Anarchism.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-modern-science-and-anarchism", "Anarchist Library export (local file)",
+
+  "al_anarchist_morality", "Anarchist Morality", 1897, "Peter Kropotkin", "essays",
+  "local_txt", path(RAW_DIR, "Anarchist_Morality.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-anarchist-morality", "Anarchist Library export (local file)",
+  
+  "al_action_masses", "The Action of the Masses and the Individual", 1890, "Peter Kropotkin", "essays",
+  "local_txt", path(RAW_DIR, "Action_of_Masses.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-the-action-of-the-masses-and-the-individual", "Anarchist Library export (local file)",
+  
+  "al_emigration_advice", "Advice to Those About to Emigrate", 1893, "Peter Kropotkin", "essays",
+  "local_txt", path(RAW_DIR, "EmigrationAdvice.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-advice-to-those-about-to-emigrate", "Anarchist Library export (local file)",
+  
+  "al_are_we_good_enough", "Are We Good Enough?", 1888, "Peter Kropotkin", "essays",
+  "local_txt", path(RAW_DIR, "Are_We_Good_Enough.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-are-we-good-enough", "Anarchist Library export (local file)",
+
+  "al_effects_persecution", "The Effects of Persecution", 1895, "Peter Kropotkin", "essays",
+  "local_txt", path(RAW_DIR, "Effects_Persecution.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-the-effects-of-persecution", "Anarchist Library export (local file)",
+
+  "al_letter_to_berkman", "Kropotkin to Alexander Berkman, November 20, 1908", 1908, "Peter Kropotkin", "letters",
+  "local_txt", path(RAW_DIR, "Letter_Berkman.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-letter-to-berkman", "Anarchist Library export (local file)"
+  
+) #Lots more to add here from Anarchist Library.https://theanarchistlibrary.org/search?query=author%3Akropotkin&sort=
 
 # ---------------------------
 # Helpers
@@ -71,7 +76,6 @@ ensure_dirs <- function() {
   dir_create(OUT_DIR)
   walk(DIRS, ~dir_create(path(OUT_DIR, .x)))
 }
-
 
 sha256_file <- function(path) digest(file = path, algo = "sha256")
 
@@ -86,8 +90,8 @@ normalize_text <- function(x) {
   x %>%
     str_replace_all("\r\n", "\n") %>%
     str_replace_all("\r", "\n") %>%
-    str_replace_all("[ \t]+\n", "\n") %>%
     str_replace_all("\u00a0", " ") %>%         # nbsp
+    str_replace_all("[ \t]+\n", "\n") %>%
     str_replace_all("\n{3,}", "\n\n") %>%
     str_trim()
 }
@@ -120,7 +124,7 @@ write_bib_entry <- function(row) {
 }
 
 # ---------------------------
-# Cleaning (1): boilerplate + TOC + credits
+# Cleaning: Gutenberg
 # ---------------------------
 
 strip_gutenberg_markers <- function(x) {
@@ -138,9 +142,6 @@ strip_gutenberg_markers <- function(x) {
 }
 
 drop_gutenberg_production_credits <- function(x) {
-  # Remove common production/credit blocks and internal end-lines that may remain
-  # after START/END marker trimming.
-  
   credit_pats <- c(
     "(?im)^\\s*produced by.*$",
     "(?im)^\\s*prepared by.*$",
@@ -151,7 +152,6 @@ drop_gutenberg_production_credits <- function(x) {
     "(?im)^\\s*project gutenberg.*$",
     "(?im)^\\s*www\\.gutenberg\\.org.*$",
     "(?im)^\\s*this ebook.*gutenberg.*$",
-    # The common offender in your snippet:
     "(?im)^\\s*end of project gutenberg.*$"
   )
   
@@ -161,11 +161,6 @@ drop_gutenberg_production_credits <- function(x) {
 }
 
 trim_gutenberg_tail_if_present <- function(x) {
-  # If we see a Gutenberg end block near the end, drop from that line onward.
-  # Handles variants like:
-  #   "End of Project Gutenberg's ..."
-  #   "End of the Project Gutenberg EBook of ..."
-  #   "*** END OF THE PROJECT GUTENBERG EBOOK ..."
   lines <- str_split(x, "\n", simplify = FALSE)[[1]]
   n <- length(lines)
   if (n < 20) return(x)
@@ -173,17 +168,13 @@ trim_gutenberg_tail_if_present <- function(x) {
   start <- max(1, n - 400)
   tail <- lines[start:n]
   
-  end_pat <- regex(
-    "(?i)^(\\*\\*\\*\\s*)?end of( the)? project gutenberg(\\'s)?( ebook)?\\b",
-    ignore_case = TRUE
-  )
+  end_pat <- regex("(?i)^(\\*\\*\\*\\s*)?end of( the)? project gutenberg(\\'s)?( ebook)?\\b", ignore_case = TRUE)
   
   idx <- which(str_detect(tail, end_pat))
   if (!length(idx)) return(x)
   
   cut_at <- (start - 1) + idx[1]
   
-  # Also remove a preceding "Printed by ..." line if it's right before the end marker
   if (cut_at > 1 && str_detect(lines[cut_at - 1], regex("(?i)^\\s*printed by\\b"))) {
     cut_at <- cut_at - 1
   }
@@ -192,46 +183,113 @@ trim_gutenberg_tail_if_present <- function(x) {
 }
 
 drop_toc_block <- function(x) {
-  # Remove a Table of Contents block when it exists near the top.
-  # Heuristic: if "CONTENTS" appears early, drop from it until first likely chapter/section heading.
   lines <- str_split(x, "\n", simplify = FALSE)[[1]]
   if (length(lines) < 50) return(x)
   
-  # Search within first ~800 lines for "CONTENTS"
   max_scan <- min(length(lines), 800)
   idx_contents <- which(str_detect(lines[1:max_scan], regex("^\\s*contents\\s*$", ignore_case = TRUE)))
   if (!length(idx_contents)) return(x)
   
   i0 <- idx_contents[1]
-  
-  # Find end marker after contents: CHAPTER / I. / PART / INTRODUCTION etc.
   after <- (i0 + 1):min(length(lines), i0 + 600)
   if (!length(after)) return(x)
   
-  end_candidates <- which(str_detect(lines[after], regex("^\\s*(chapter\\b|part\\b|introduction\\b|preface\\b|i\\.|ii\\.|iii\\.|iv\\.|v\\.|vi\\.|vii\\.|viii\\.|ix\\.|x\\.|\\d+\\.)", ignore_case = TRUE)))
-  
+  end_candidates <- which(str_detect(
+    lines[after],
+    regex("^\\s*(chapter\\b|part\\b|introduction\\b|preface\\b|i\\.|ii\\.|iii\\.|iv\\.|v\\.|vi\\.|vii\\.|viii\\.|ix\\.|x\\.|\\d+\\.)", ignore_case = TRUE)
+  ))
   if (!length(end_candidates)) return(x)
   
   i1 <- after[end_candidates[1]]
-  
-  # Drop lines i0..(i1-1) (leave heading line at i1)
   lines2 <- c(lines[1:(i0 - 1)], lines[i1:length(lines)])
   paste(lines2, collapse = "\n")
 }
 
 drop_front_matter_noise <- function(x) {
-  # Remove repeated title/author lines and "illustrations" lists often found early.
   out <- x
   out <- str_replace_all(out, regex("(?im)^\\s*illustrations\\s*$.*?(\\n\\n|\\Z)", dotall = TRUE), "\n\n")
   out
 }
 
+# ---------------------------
+# Cleaning: Anarchist Library
+# ---------------------------
+
+drop_al_frontmatter <- function(raw_text, max_scan = 300) {
+  # Drops a leading block of "#key ..." lines (and blanks) common in Anarchist Library exports.
+  # Robust to the first line being #pubdate, etc.
+  lines <- str_split(raw_text, "\n", simplify = FALSE)[[1]]
+  n <- length(lines)
+  if (n == 0) return(raw_text)
+  
+  scan_n <- min(n, max_scan)
+  
+  # Identify the initial contiguous frontmatter-like block: (#something ...) and blank lines
+  i <- 1L
+  while (i <= scan_n && str_detect(lines[i], regex("^\\s*$"))) i <- i + 1L
+  
+  # Collect contiguous "#..." / blank lines starting at i
+  j <- i
+  while (j <= scan_n && (str_detect(lines[j], regex("^\\s*#")) || str_detect(lines[j], regex("^\\s*$")))) {
+    j <- j + 1L
+  }
+  
+  # If we didn't actually see any # lines, do nothing
+  if (j == i) return(raw_text)
+  
+  block <- lines[i:(j - 1)]
+  
+  # Only treat it as AL frontmatter if block contains a #title or #author etc.
+  # This prevents stripping content that happens to start with "#".
+  looks_like_al <- any(str_detect(block, regex("^\\s*#(title|LISTtitle|pubdate|author|pubdate|source|date|lang|notes|topics|SORTtopics)\\b", ignore_case = TRUE)))
+  
+  if (!looks_like_al) return(raw_text)
+  
+  # Drop that block
+  paste(lines[j:n], collapse = "\n")
+}
+
+convert_al_markup <- function(x) {
+  # [[url][label]] -> label ; [[url]] -> url
+  x <- str_replace_all(x, "\\[\\[[^\\]]+\\]\\[([^\\]]+)\\]\\]", "\\1")
+  x <- str_replace_all(x, "\\[\\[([^\\]]+)\\]\\]", "\\1")
+  
+  # strip HTML tags like <em>, <strong>, <sup>, etc.
+  x <- str_replace_all(x, "<[^>]+>", "")
+  
+  # remove separator lines "* * *"
+  x <- str_replace_all(x, regex("(?m)^\\s*\\*\\s*\\*\\s*\\*\\s*$"), "")
+  
+  # normalize "*** Heading" to "## Heading" (helps splitting consistency)
+  x <- str_replace_all(x, regex("(?m)^\\*\\*\\*\\s*"), "## ")
+  
+  x
+}
+
+clean_anarchist_library <- function(raw_text) {
+  x <- raw_text
+  x <- drop_al_frontmatter(x)
+  x <- convert_al_markup(x)
+  
+  # some AL exports include minor boilerplate lines; strip conservatively
+  x <- x %>%
+    str_replace_all("(?im)^\\s*the anarchist library\\s*$", "") %>%
+    str_replace_all("\n{3,}", "\n\n")
+  
+  normalize_text(x)
+}
+
+# ---------------------------
+# Master cleaner
+# ---------------------------
 
 clean_text <- function(row, raw_text) {
   x <- raw_text
   
-  # Treat Gutenberg downloads as Gutenberg; treat Wikisource exports as "light clean".
   is_gutenberg <- str_starts(row$id, "pg_") || str_detect(path_file(row$source_path), regex("^\\d", ignore_case = TRUE))
+  is_anarchist_library <- str_starts(row$id, "al_") ||
+    str_detect(row$source_url, fixed("theanarchistlibrary.org")) ||
+    str_detect(x, regex("(?m)^\\s*#title\\b", ignore_case = TRUE))
   
   if (is_gutenberg) {
     x <- strip_gutenberg_markers(x)
@@ -239,81 +297,67 @@ clean_text <- function(row, raw_text) {
     x <- trim_gutenberg_tail_if_present(x)
     x <- drop_toc_block(x)
     x <- drop_front_matter_noise(x)
+    x <- normalize_text(x)
+    
+  } else if (is_anarchist_library) {
+    x <- clean_anarchist_library(x)
+    
   } else {
     # Wikisource local exports: strip export stamps and navigation artifacts.
     x <- x %>%
-      # Common export stamp lines
       str_replace_all("(?im)^\\s*exported from wikisource.*$", "") %>%
       str_replace_all("(?im)^\\s*from wikisource\\s*$", "") %>%
-      # Occasional navigation remnants
       str_replace_all("(?im)^\\s*jump to navigation\\s*$", "") %>%
       str_replace_all("(?im)^\\s*jump to search\\s*$", "") %>%
-      # Footnote markers if present
       str_replace_all("\\[[0-9]+\\]", "") %>%
-      # Clean up excess blank lines created by removals
-      str_replace_all("\n{3,}", "\n\n")
+      str_replace_all("\n{3,}", "\n\n") %>%
+      normalize_text()
   }
   
-  normalize_text(x)
+  x
 }
 
 # ---------------------------
-# Splitting (2): chapter/section splitting
+# Splitting: chapter/section splitting
 # ---------------------------
 
 split_into_units <- function(row, cleaned_text) {
-  # Returns a tibble: unit_id, unit_title, unit_text
-  # Heuristics vary by genre + typical Gutenberg formatting.
-  
-  # Work in lines for heading detection
   lines <- str_split(cleaned_text, "\n", simplify = FALSE)[[1]]
   if (length(lines) < 200) {
     return(tibble(unit_id = "unit_001", unit_title = "full_text", unit_text = cleaned_text))
   }
   
-  # Candidate heading patterns (order matters; most specific first)
   pats <- list(
     chapter = regex("^\\s*chapter\\s+([ivxlcdm0-9]+)\\b\\.?\\s*(.*)$", ignore_case = TRUE),
-    # Require a roman numeral token followed by a dot + space + TitleCase heading.
-    # This prevents matching normal sentences like "Institutions ..."
     roman  = regex("^\\s*([IVXLCDM]{1,8})\\.\\s+([A-Z][A-Za-z0-9 ,;:'\"\\-()]{0,80})\\s*$", ignore_case = FALSE),
     number = regex("^\\s*(\\d+)\\.\\s+([A-Z].{0,80})\\s*$", ignore_case = FALSE),
-    part   = regex("^\\s*part\\s+([ivxlcdm0-9]+)\\b\\.?\\s*(.*)$", ignore_case = TRUE)
+    part   = regex("^\\s*part\\s+([ivxlcdm0-9]+)\\b\\.?\\s*(.*)$", ignore_case = TRUE),
+    # Also treat our normalized AL headings (## ...) as headings
+    md_h2  = regex("^\\s*##\\s+(.{1,80})\\s*$", ignore_case = FALSE)
   )
   
-  # Detect headings: require surrounding blank lines-ish to avoid false positives
   is_heading_line <- function(i) {
     line <- lines[i]
     if (nchar(str_trim(line)) == 0) return(FALSE)
-    
-    # Must be relatively short (headings tend to be)
-    if (nchar(line) > 80) return(FALSE)
-    
-    # Must match one of patterns
+    if (nchar(line) > 120) return(FALSE)  # allow "## ..." headings a bit longer
     any(map_lgl(pats, ~str_detect(line, .x)))
   }
   
   idx <- which(map_lgl(seq_along(lines), is_heading_line))
-  
-  # If too few headings found, keep as one unit
   if (length(idx) < 2) {
     return(tibble(unit_id = "unit_001", unit_title = "full_text", unit_text = cleaned_text))
   }
   
-  # Build unit boundaries: from each heading to line before next heading
   starts <- idx
   ends <- c(idx[-1] - 1, length(lines))
   
-  # Extract title from heading
   parse_title <- function(line) {
     for (nm in names(pats)) {
       m <- str_match(line, pats[[nm]])
       if (!all(is.na(m))) {
-        # Capture groups start at column 2
         groups <- m[1, 2:ncol(m)]
         groups <- groups[!is.na(groups)]
-        # Prefer the last group as "title-like"
-        remainder <- if (length(groups) >= 2) groups[length(groups)] else ""
+        remainder <- if (length(groups) >= 1) groups[length(groups)] else ""
         remainder <- str_trim(remainder)
         if (remainder == "") remainder <- nm
         return(remainder)
@@ -322,12 +366,10 @@ split_into_units <- function(row, cleaned_text) {
     "section"
   }
   
-  
   units <- map2_dfr(seq_along(starts), starts, function(k, s) {
     e <- ends[k]
     block <- paste(lines[s:e], collapse = "\n") %>% normalize_text()
     
-    # Skip tiny blocks
     if (nchar(block) < 1200) return(NULL)
     
     heading <- lines[s]
@@ -348,7 +390,7 @@ split_into_units <- function(row, cleaned_text) {
 }
 
 # ---------------------------
-# Tests (3): fail build if boilerplate remains
+# Tests: fail build if boilerplate remains
 # ---------------------------
 
 boilerplate_patterns <- c(
@@ -361,13 +403,15 @@ boilerplate_patterns <- c(
   "(?i)distributed proofreaders",
   "(?i)from wikisource",
   "(?i)jump to navigation",
-  "(?i)jump to search"
+  "(?i)jump to search",
+  # Anarchist Library frontmatter should not survive cleaning
+  "(?im)^\\s*#(title|author|source|date|lang|notes|topics|sorttopics|listtitle)\\b",
+  "(?i)the anarchist library"
 )
 
 assert_no_boilerplate <- function(text, context = "") {
   hits <- keep(boilerplate_patterns, ~str_detect(text, regex(.x, multiline = TRUE)))
   if (length(hits)) {
-    # Provide a short snippet around first hit
     hit_pat <- hits[[1]]
     loc <- str_locate(text, regex(hit_pat, multiline = TRUE))
     snippet <- str_sub(text, max(1, loc[1] - 200), min(nchar(text), loc[2] + 200))
@@ -398,7 +442,6 @@ tests_path <- path(OUT_DIR, "metadata", "tests.md")
 writeLines(paste0("# Build log\n\nStarted: ", timestamp_utc(), "\n"), log_path)
 writeLines(paste0("# Test log\n\nStarted: ", timestamp_utc(), "\n"), tests_path)
 
-# Manifest now tracks per-unit outputs (chapter/section files)
 manifest_rows <- list()
 
 for (i in seq_len(nrow(SOURCES))) {
@@ -415,24 +458,18 @@ for (i in seq_len(nrow(SOURCES))) {
   }
   
   raw_text <- read_file(row$source_path)
-  
   cleaned <- clean_text(row, raw_text)
   
-  # Run tests on whole cleaned text (pre-split)
   ctx <- paste0(row$id, " | ", row$title)
   assert_no_boilerplate(cleaned, context = paste0(ctx, " (whole cleaned)"))
   assert_nontrivial(cleaned, context = paste0(ctx, " (whole cleaned)"))
-  
   writeLines(paste0("- PASS whole-text tests: ", ctx, "\n"), tests_path)
   
-  # Split into chapters/sections
   units <- split_into_units(row, cleaned)
   
-  # Write each unit with provenance header
   for (u in seq_len(nrow(units))) {
     unit <- units[u, ]
     
-    # Unit filename: chapter_001_some_title.txt (safe slug)
     unit_kind <- if (row$genre %in% c("theory", "science", "memoir")) "chapter" else "section"
     unit_title_slug <- slugify(unit$unit_title)
     if (unit_title_slug == "") unit_title_slug <- unit$unit_id
@@ -442,9 +479,6 @@ for (i in seq_len(nrow(SOURCES))) {
     
     final_txt <- paste0(header_block(row), unit$unit_text, "\n")
     
-    # Unit-level tests: ensure header didn't introduce forbidden strings (it won't),
-    # and ensure body is still clean + nontrivial.
-    # (We only test the body here so the header can keep "SOURCE_URL" etc.)
     assert_no_boilerplate(unit$unit_text, context = paste0(ctx, " | ", out_file))
     assert_nontrivial(unit$unit_text, min_chars = 1200, context = paste0(ctx, " | ", out_file))
     
@@ -476,22 +510,19 @@ for (i in seq_len(nrow(SOURCES))) {
 
 manifest <- bind_rows(manifest_rows)
 
-# Write manifest CSV
 manifest_path <- path(OUT_DIR, "metadata", "manifest.csv")
 write_csv(manifest, manifest_path)
 
-# Write BibTeX
 bib_path <- path(OUT_DIR, "metadata", "sources.bib")
 bib <- map_chr(seq_len(nrow(SOURCES)), ~write_bib_entry(SOURCES[.x, ])) %>% paste(collapse = "\n")
 writeLines(bib, bib_path, useBytes = TRUE)
 
-# Write licensing notes
 licenses_path <- path(OUT_DIR, "metadata", "licenses.md")
 licenses_txt <- paste0(
   "# Licensing notes\n\n",
-  "- This corpus is assembled from public-domain English sources (Project Gutenberg and Wikisource).\n",
+  "- This corpus is assembled from public-domain English sources (Project Gutenberg, Wikisource, and Anarchist Library exports where applicable).\n",
   "- Each output file includes a provenance header and is hashed in metadata/manifest.csv.\n",
-  "- The build fails if common Gutenberg/Wikisource boilerplate patterns remain.\n",
+  "- The build fails if common boilerplate patterns remain.\n",
   "- If you add additional texts (e.g., letters), ensure translations/editions are public domain in your jurisdiction.\n\n",
   "Built: ", timestamp_utc(), "\n"
 )
@@ -501,4 +532,3 @@ writeLines(paste0("\nFinished: ", timestamp_utc(), "\n"), log_path)
 writeLines(paste0("\nFinished: ", timestamp_utc(), "\n"), tests_path)
 
 message("\nDone.\n- Manifest: ", manifest_path, "\n- BibTeX:   ", bib_path, "\n- Tests:    ", tests_path)
-

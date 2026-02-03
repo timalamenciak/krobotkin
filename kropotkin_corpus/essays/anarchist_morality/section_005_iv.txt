@@ -1,0 +1,46 @@
+TITLE: Anarchist Morality
+AUTHOR: Peter Kropotkin
+YEAR: 1897
+SOURCE_ID: al_anarchist_morality
+SOURCE_PATH: data/raw/Anarchist_Morality.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-anarchist-morality
+RETRIEVED_UTC: 2026-02-03T20:58:53Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## IV
+
+Mosaic, Buddhist, Christian and Mussulman theologians have had recourse to divine inspiration to distinguish between good and evil. They have seen that man, be he savage or civilized, ignorant or learned, perverse or kindly and honest, always knows if he is acting well or ill, especially always knows if he is acting ill. And as they have found no explanation of this general fact, they have put it down to divine inspiration. Metaphysical philosophers, on their side, have told us of conscience, of a mystic “imperative,” and, after all, have changed nothing but the phrases.
+
+But neither have known how to estimate the very simple and very striking fact that animals living in societies are also able to distinguish between good and evil, just as man does. Moreover, their conceptions of good and evil are of the same nature as those of man.  Among the best developed representatives of each separate class, — fish, insects, birds, mammals,— they are even identical.
+
+Forel, that inimitable observer of ants, has shown by a mass of observations and facts that when an ant who has her crop well filled with honey meets other ants with empty stomachs, the latter immediately ask her for food.  And amongst these little insects it is the duty of the satisfied ant to disgorge the honey that her hungry friends may also be satisfied. Ask the ants if it would be right to refuse food to other ants of the same anthill when one has had one's share. They will answer, by actions impossible to mistake, that it would be extremely wrong. So selfish an ant would be more harshly treated than enemies of another species. If such a thing happens during a battle between two different species, the ants would stop fighting to fall upon their selfish comrade. This fact has been proved by experiments which exclude all doubt.
+
+Or again, ask the sparrows living in your garden if it is right not to give notice to all the little society when some crumbs are thrown out, so that all may come and share in the meal. Ask them if that hedge sparrow has done right in stealing from his neighbor’s nest those straws he had picked up, straws which the thief was too lazy to go and collect himself. The sparrows will answer that he is very wrong, by flying at the robber and pecking him.
+
+Or ask the marmots if it is right for one to refuse access to his underground storehouse to other marmots of the same colony. they will answer that it is very wrong, by quarrelling in all sorts of ways with the miser.
+
+Finally, ask primitive man if it is right to take food in the tent of a member of the tribe during his absence. He will answer that, if the man could get his food for himself, it was very wrong. On the other hand, if he was weary or in want, he ought to take food where he finds it; but in such a case, he will do well to leave his cap or his knife, or even a bit of knotted string, so that the absent hunter may know on his return that a friend has been there, not a robber. Such a precaution will save him the anxiety caused by the possible presence of a marauder near his tent.
+
+Thousands of similar facts might be quoted, whole books might be written, to show how identical are the conceptions of good and evil amongst men and the other animals.  The ant, the bird, the marmot, the savage have read neither Kant nor the fathers of the Church nor even Moses. And yet all have the same idea of good and evil. And if you reflect for a moment on what lies at the bottom of this idea, you will see directly that what is considered good among ants, marmots, and Christian or atheist moralists is that which is useful for the preservation of the race; and that which is considered evil is that which is hurtful for race preservation. Not for the individual, as Bentham and Mill put it, but fair and good for the whole race.
+
+The idea of good and evil has thus nothing to do with religion or a mystic conscience. It is a natural need of animal races. And when founders of religions, philosophers, and moralists tell us of divine or metaphysical entities, they are only recasting what each ant, each sparrow practices in its little society.
+
+Is this useful to society? Then it is good. Is this hurtful?  Then it is bad.
+
+This idea may be extremely restricted among inferior animals, it may be enlarged among the more advanced animals; but its essence always remains the same.
+
+Among ants it does not extend beyond the anthill.  All sociable customs, all rules of good behavior are applicable only to the individuals in that one anthill, not to any others.  One anthill will not consider another as belonging to the same family, unless under some exceptional circumstances, such as a common distress falling upon both. In the same way the sparrows in the Luxembourg Gardens in Paris, though they will mutually aid one another in a striking manner, will fight to the death with another sparrow from the Monge Square who may dare to venture into the Luxembourg. And the savage will look upon a savage of another tribe as a person to whom the usages of his own tribe do not apply. It is even allowable to sell to him, and to sell is always to rob the buyer more or less; buyer or seller, one or other is always “sold.” A Tchoutche would think it a crime to sell to the members of his tribe: to them he gives without any reckoning. And civilized man, when at last he understands the relations between himself Ind the simplest Papuan, close relations, though imperceptible at the first glance, will extend his principles of solidarity to the whole human race, and even to the animals. The idea enlarges, but its foundation remains the same.
+
+On the other hand, the conception of good or evil varies according to the degree of intelligence or of knowledge acquired. There is nothing unchangeable about it.  Primitive man may have thought it very right — that is, useful to the race — to eat his aged parents when they became a charge upon the community — a very heavy charge in the main. He may have also thought it useful to the community to kill his new-born children, and only keep two or three in each family, so that the mother could suckle them until they were three years old and lavish more of her tenderness upon them.
+
+In our days ideas have changed, but the means of subsistence are no longer what they were in the Stone Age.  Civilized man is not in the position of the savage family who have to choose between two evils: either to eat the aged parents or else all to get insufficient nourishment and soon find themselves unable to feed both the aged parents and the young children. We must transport ourselves into those ages, which we can scarcely call up in our mind, before we can understand that in the circumstances then existing, half-savage man may have reasoned rightly enough.
+
+Ways of thinking may change. The estimate of what is useful or hurtful to the race changes, but the foundation remains the same. And if we wished to sum up the whole philosophy of the animal kingdom in a single phrase, we should see that ants, birds, marmots, and men are agreed on one point.
+
+The morality which emerges from the observation of the whole animal kingdom may be summed up in the words: “Do to others what you would have them do to you in the same circumstances”.
+
+And it adds: “Take note that this is merely a piece of advice; but this advice is the fruit of the long experience of animals in society. And among the great mass of social animals, man included, it has become habitual to act on this principle. Indeed without this no society could exist, no race could have vanquished the natural obstacles against which it must struggle.”
+
+Is it really this very simple principle which emerges from the observation of social animals and human societies? Is it applicable? And how does this principle pass into a habit and continually develop? This is what we are now going to see.
+

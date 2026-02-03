@@ -1,0 +1,56 @@
+TITLE: The Action of the Masses and the Individual
+AUTHOR: Peter Kropotkin
+YEAR: 1890
+SOURCE_ID: al_action_masses
+SOURCE_PATH: data/raw/Action_of_Masses.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-the-action-of-the-masses-and-the-individual
+RETRIEVED_UTC: 2026-02-03T20:58:54Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+Our comrades are perfectly right to say [in their letter] that the May strikes are a consequence of general economic conditions. If the return of work to the mines and in the iron industry, and if dreadful poverty in the other trades did not exist, there wouldn’t have been any strikes at all, as there weren’t any on such a large scale ten years ago. But what our comrades ignore is that, outside all socialist organisations, right now, within the workers of all nationalities, an immense work to press on to a general strike is taking place. Democrats, trade unionists, socialists, anarchists, have absolutely nothing to do with it. – “We are overwhelmed by this movement” we were told, two years ago, by a Belgian socialist. In England, in a big city, at least socialists took hold of this movement. They were well received at first; but when people realised that they wanted to enlist it to an electoral aim, they threw them overboard.[1]
+
+Whether it is enough to say that this international movement comes from America; [2] that it is taking form outside all [existing] organisation; and that we find ourselves faced with one of these facts that have always characterised the great popular movements – tacit understanding that becomes established outside newspapers, committees, agitators. A word put out in a workshop is enough and they tell each other: “So be it, see you on the 1st of May!” Then a worker goes from England to Austria, or from Austria to England, and expresses the same idea, and the idea – since it results from an economic necessity – is accepted straightaway.
+
+Every strike of the last two years, in Belgium, in England, in Moravia[3], etc., etc., are due to this spontaneous spreading of the idea. If ever there was a movement anarchist by its essence and a propaganda essentially anarchist in its processes, it is this one. Because there is no secret – it is a tacit agreement that becomes established.
+
+Our comrades from Geneva are mistaken to attribute the 1st of May to the Paris Congress.[4] It was made absolutely outside of the Congress, against the will of the social-democrats, against the will of trade-union committees and despite indifference of socialists, anarchists and authoritarians. It is precisely for that reason that we attach significance to it.
+
+In a Congress where Liebknecht[5] enjoyed royal rights, an unknown coming from Australia makes the proposal. The flabbergasted chiefs do not dare to renounce it, because the worker delegates – the unknowns – acclaim it unanimously. Then, the proposal is forgotten. The watchword of the socialist press is to not breathe a word of it. Socialists and anarchists treat it as a joke. Democrats oppose it. And meanwhile the workers spread the call [for a general strike] amongst each other: see you on the 1st of May. And fifteen days before the 1st of May the trade unionist, socialist and democrat leaders learn with dread that the working people will be on the street on that day. So they put on a brave face at this bad news, then they try to curb the demonstration and they end up joining it. But still, they expect a demonstration of no significance – and there is the whole of working London coming out of its hovels, a third of Vienna going to the Prater[6], the whole of Hamburg on its feet, and a general uprising of miners starts in Moravia, in the Basque provinces, etc.
+
+In fact, we are persuaded that what the popular initiators of the movement wanted for the 1st of May was the general strike – as they had wanted it, a few years ago, in America. And we are persuaded that the idea of a general strike has only been postponed and that popular agreement will find in a year or two another date, unforeseen by those in power, to start the general strike.
+
+We think that these facts are generally unknown and are the best reply to our comrades’ letter and for that very reason we had to set them out at length
+
+“Individual initiative?” – Damn it! Let us practice it as much as possible! Let us not talk: let us act! But when we face a spontaneous movement of the masses – in front of an individual initiative of millions of workers – let us not put a spanner in the wheels of what is being done without us in the name of individual initiative, which will be excellent when it is taken but which, on its own, will not make the revolution. The strong point of individual initiative is to awake the spirit of revolt in the masses – because without the masses, there is no revolution. But once the masses awaken, once they move and descend onto the street, at the risk of sleeping that night on the barricades (it was the idea in Vienna), where does individual initiative have to go?
+
+The answer is obvious – Where the masses are! And on the very day when the masses arrange to meet up! For us, it is absolutely obvious that in Moravia, in the Basque provinces, in Barcelona, in Valencia and elsewhere, those amongst the workers who really have some individual initiative and who wait for the watchword from the anarchists no more than from the democrats, told themselves: “While the troops are in Vienna or in Madrid, we will start the revolution here, in Moravia, in Barcelona or in Bilbao. And we will do it precisely on the 1st of May (or rather on the 2nd of May) whilst the troops are still in Vienna or in Madrid, and not on the 15th of May or on the 15th of June, when they will be back in our provinces.”
+
+They have not been supported, precisely because the initiative was lacking elsewhere.
+
+As for the arrests of anarchists – it is time to anticipate them in advance. Every time there is agitation in the masses, wherever it is from, the government will arrest anarchists – if they do not take precautions. That will take place before the revolution, during the revolution and after the revolution. We need only to remember Marat[7] and so many others, less known, who were forced to live in cellars right in the middle of 1793, while aristocrats were guillotined by the dozens. Anarchists will be arrested because – sometimes wrongly, but most often rightly – governments will tell themselves this: “When the people are in the street and that individual initiative is lacking amongst these masses marching to storm society, it is from the anarchists that the initiative of a movement will be able to come, not from the legalists.”
+
+And, let us note, that it will be absolutely the same thing during the revolution itself, as long as the revolution, in its development, has not reached the anarchist phase. Therefore, let us not speak of it.
+
+Let us also add that if, on the day of a large popular demonstration, a movement in a big city hardly ever takes place, it is always a few days after such a demonstration that the movement starts. We counted ourselves, we understood its strength, we were offended by the brutality of the police, we were enraged by the bloodshed at a peaceful demonstration: the soldiers themselves are furious at the leaders who made them shoot women and children; and then, on a call that, once more, is born spontaneously in the masses – we prepare another demonstration. But, before that day, the revolution already breaks out.
+
+In short, let us turn the question over and over as much as we like, but we cannot reach another conclusion than this one: “whether we are the partisan of individual action or action of the masses – and it is obvious that both are necessary – the man of action’s place is where the masses are. If he carries out an individual act; if he responds to a policeman’s kick with a pistol shot; if he rebels against such iniquity; if he extinguishes the fire in some working factory, or if he breaks its windows (as was done in Moravia); if he goes to prison for spreading some propaganda amongst the troops or if he carries out quite another act of individual courage – his act will only have more impact, since it was done in the eyes of the masses, openly and publicly, while the press will talk about it in all details, while every worker will talk about it in the workshop”.
+
+It is so simple, and we are so certain that all revolutionaries are of the same opinion, that there can only be debate on it by misunderstanding.
+
+La Révolte, 24th of May 1890
+
+[1] A reference to the 1889 London Dock Strike (see Kropotkin’s article “Ce que c’est qu’une gréve” [“What a Strike is”], La Révolte, 7th of September 1889. (translator)
+
+[2] A reference to the 1886 eight-hour day movement in America that called upon workers to strike on the 1st of May. The Haymarket event in Chicago – a police attack on a strike meeting, a bomb being thrown and subsequent framing and hanging of five Anarchists, was a part of this strike wave. (translator)
+
+[3] Moravia was a historical country in Central Europe in the east of the Czech Republic and one of the historical Czech lands, together with Bohemia and Czech Silesia. (translator)
+
+[4] A reference to founding congress of the Second International held in Paris during July 1889. This congress designated the 1st of May as an international holiday for labour to be marked by demonstrations and parades. It was inspired by the American Eight-Hour movement of 1886. (translator)
+
+[5] Wilhelm Martin Philipp Christian Ludwig Liebknecht (1826–1900) was a leading German social democrat. Under his leadership, the Social Democratic Party of Germany (SPD) grew from a tiny sect to become the country’s largest political party. (translator)
+
+[6] The Prater is a large public park in Vienna’s 2nd district (Leopoldstadt). (translator)
+
+[7] Jean-Paul Marat (1743–1793) was one of the one of the most radical voices of the French Revolution. He was a vigorous defender of the sans-culottes and published the newspaper L’Ami du people (Friend of the People) which was renowned for its fierce tone and advocacy of political and economic rights for the working classes. Marat was assassinated while taking a medicinal bath and became a revolutionary martyr for the Jacobins. Kropotkin quoted him favourably in his classic 1909 history, The Great French Revolution. (translator)
+

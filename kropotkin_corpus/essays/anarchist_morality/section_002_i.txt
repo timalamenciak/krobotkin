@@ -1,0 +1,44 @@
+TITLE: Anarchist Morality
+AUTHOR: Peter Kropotkin
+YEAR: 1897
+SOURCE_ID: al_anarchist_morality
+SOURCE_PATH: data/raw/Anarchist_Morality.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-anarchist-morality
+RETRIEVED_UTC: 2026-02-03T20:58:53Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## I
+
+The history of human thought recalls the swinging of a pendulum which takes centuries to swing. After a long period of slumber comes a moment of awakening.  Then thought frees herself from the chains with which those interested — rulers, lawyers, clerics — have carefully enwound her.
+
+She shatters the chains. She subjects to severe criticism all that has been taught her, and lays bare the emptiness of the religious political, legal, and social prejudices amid which she has vegetated. She starts research in new paths, enriches our knowledge with new discoveries, creates new sciences.
+
+But the inveterate enemies of thought — the government, the lawgiver, and the priest — soon recover from their defeat. By degrees they gather together their scattered forces, and remodel their faith and their code of laws to adapt them to the new needs. Then, profiting by the servility of thought and of character, which they themselves have so effectually cultivated; profiting, too, by the momentary disorganization of society, taking advantage of the laziness of some, the greed of others, the best hopes of many, they softly creep back to their work by first of all taking possession of childhood through education.
+
+A child’s spirit is weak. It is so easy to coerce it by fear.  This they do. They make the child timid, and then they talk to him of the torments of hell. They conjure up before him the sufferings of the condemned, the vengeance of an implacable god. The next minute they will be chattering of the horrors of revolution, and using some excess of the revolutionists to make the child “a friend of order.”  The priest accustoms the child to the idea of law, to make it obey better what he calls the “divine law,” and the lawyer prates of divine law, that the civil law may be the better obeyed.
+
+And by that habit of submission, with which we are only too familiar, the thought of the next generation retains this religious twist, which is at once servile and authoritative, for authority and servility walk ever hand in hand.  During these slumbrous interludes, morals are rarely discussed. Religious practices and judicial hypocrisy take their place. People do not criticize, they let themselves be drawn by habit, or indifference.They do not put themselves out for or against the established morality.  They do their best to make their actions appear to accord with their professions.
+
+All that was good, great, generous or independent in man, little by little becomes moss-grown; rusts like a disused knife.  A lie becomes a virtue, a platitude a duty.  To enrich oneself, to seize one’s opportunities, to exhaust one’s intelligence, zeal and energy, no matter how, become the watchwords of the comfortable classes, as well as of the crowd of poor folk whose ideal is to appear bourgeois. Then the degradation of the ruler and of the judge, of the clergy and of the more or less comfortable classes becomes so revolting that the pendulum begins to swing the other way.
+
+Little by little, youth frees itself. It flings overboard its prejudices, and it begins to criticize. Thought reawakens, at first among the few; but insensibly the awakening reaches the majority. The impulse is given, the revolution follows.  And each time the question of morality comes up again.  “Why should I follow the principles of this hypocritical morality?” asks the brain, released from religious terrors.  Why should any morality be obligatory?”
+
+Then people try to account for the moral sentiment that they meet at every turn without having explained it to themselves. And they will never explain it so long as they believe it a privilege of human nature, so long as they do not descend to animals, plants and rocks to understand it. They seek the answer, however, in the science of the hour.
+
+And, if we may venture to say so, the more the basis of conventional morality, or rather of the hypocrisy that fills its place is sapped, the more the moral plane of society is raised.  It is above all at such times precisely when folks are criticizing and denying it, that moral sentiment makes the most progress. It is then that it grows, that it is raised and refined.
+
+Years ago the youth of Russia were passionately agitated by this very question. “I will be immoral!” a young nihilist came and said to his friend, thus translating into action the thoughts that gave him no rest.  “I will be immoral, and why should I not? Because the Bible wills it? But the Bible is only a collection of Babylonian and Hebrew traditions, traditions collected and put together like the Homeric poems, or as is being done still with Basque poems and Mongolian legends.  Must I then go back to the state of mind of the half-civilized peoples of the East?
+
+“Must I be moral because Kant tells me of a categoric imperative, of a mysterious command which comes to me from the depths of my own being and bids me be moral? But why should this ‘categoric imperative’ exercise a greater authority over my actions than that other imperative, which at times may command me to get drunk. A word, nothing but a word, like the words ‘Providence,’ or ‘Destiny,’ invented to conceal our ignorance.
+
+“Or perhaps I am to be moral to oblige Bentham, who wants me to believe that I shall be happier if I drown to save a passerby who has fallen into the river than if I watched him drown?
+
+“Or perhaps because such has been my education?  Because my mother taught me morality? Shall I then go and kneel down in a church, honor the Queen, bow before the judge I know for a scoundrel, simply because our mothers, our good ignorant mothers, have taught us such a pack of nonsense?  “I am prejudiced, — like everyone else. I will try to rid myself of prejudice! Even though immorality be distasteful, I will yet force myself to be immoral, as when I was a boy I forced myself to give up fearing the dark, the churchyard, ghosts and dead people — all of which I had been taught to fear.
+
+“It will be immoral to snap a weapon abused by religion; I will do it, were it only to protect against the hypocrisy imposed on us in the name of a word to which the name morality has been given!”
+
+Such was the way in which the youth of Russia reasoned when they broke with old-world prejudices, and unfurled this banner of nihilist or rather of anarchist philosophy: to bend the knee to no authority whatsoever, however respected; to accept no principle so long as it is unestablished by reason.
+
+Need we add, that after pitching into the waste-paper basket the teachings of their fathers, and burning all systems of morality, the nihilist youth developed in their midst a nucleus of moral customs, infinitely superior to anything that their fathers had practiced under the control of the “Gospel,” of the “Conscience,” of the “Categoric Imperative,” or of the “Recognized Advantage” of the utilitarian. But before answering the question, “Why am I to be moral?” let us see if the question is well put; let us analyze the motives of human action.
+

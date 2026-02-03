@@ -4,7 +4,7 @@ YEAR: 1903
 SOURCE_ID: ws_state_historic_role
 SOURCE_PATH: data/raw/The_State_Its_Historic_Role.txt
 SOURCE_URL: https://en.wikisource.org/wiki/The_State:_Its_Historic_Role
-RETRIEVED_UTC: 2026-02-03T19:51:32Z
+RETRIEVED_UTC: 2026-02-03T20:58:52Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

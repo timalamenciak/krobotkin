@@ -1,0 +1,62 @@
+TITLE: Anarchist Morality
+AUTHOR: Peter Kropotkin
+YEAR: 1897
+SOURCE_ID: al_anarchist_morality
+SOURCE_PATH: data/raw/Anarchist_Morality.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-anarchist-morality
+RETRIEVED_UTC: 2026-02-03T20:58:53Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## II
+
+When our ancestors wished to account for what led men to act in one way or another, they did so in a very simple fashion. Down to the present day, certain catholic images may be seen that represent this explanation. A man is going on his way, and without being in the least aware of it, carries a devil on his left shoulder and an angel on his right. The devil prompts him to do evil, the angel tries to keep him back. And if the angel gets the best of it and the man remains virtuous, three other angels catch him up and carry him to heaven. In this way everything is explained wondrously well.
+
+Old Russian nurses full of such lore will tell you never to put a child to bed without unbuttoning the collar of its shirt. A warm spot at the bottom of the neck should be left bare, where the guardian angel may nestle. Otherwise the devil will worry the child even in its sleep.
+
+These artless conceptions are passing away. But though the old words disappear, the essential idea remains the same.
+
+Well brought up folks no longer believe in the devil, but as their ideas are no more rational than those of our nurses, they do but disguise devil and angel under a pedantic wordiness honored with the name of philosophy.  They do not say “devil” nowadays, but “the flesh,” or “the passions.”  The“angel” is replaced by the words “conscience” or “soul,” by “reflection of the thought of a divine creator” or “the Great Architect,” as the Free-Masons say. But man’s action is still represented as the result of a struggle between two hostile elements. And a man is always considered virtuous just in the degree to which one of these two elements — the soul or conscience — is victorious over the other — the flesh or passions.
+
+It is easy to understand the astonishment of our great-grandfathers when the English philosophers, and later the Encyclopedists, began to affirm in opposition to these primitive ideas that the devil and the angel had nothing to do with human action, but that all acts of man, good or bad, useful or baneful, arise from a single motive: the lust for pleasure.
+
+The whole religious confraternity, and, above all, the numerous sects of the pharisees shouted “immorality.”  They covered the thinkers with insult, they excommunicated them.  And when later on in the course of the century the same ideas were again taken up by Bentham, John Stuart Mill, Tchernischevsky, and a host of others, and when these thinkers began to affirm and prove that egoism, or the lust for pleasure, is the true motive of all our actions, the maledictions redoubled. The books were banned by a conspiracy of silence; the authors were treated as dunces.
+
+And yet what can be more true than the assertion they made?
+
+Here is a man who snatches its last mouthful of bread from a child. Every one agrees in saying that he is a horrible egoist, that he is guided solely by self-love.
+
+But now here is another man, whom every one agrees to recognize as virtuous. He shares his last bit of bread with the hungry, and strips off his coat to clothe the naked. And the moralists, sticking to their religious jargon, hasten to say that this man carries the love of his neighbor to the point of self-abnegation, that he obeys a wholly different passion from that of the egoist. And yet with a little reflection we soon discover that however great the difference between the two actions in their result for humanity, the motive has still been the same. It is the quest of pleasure.
+
+If the man who gives away his last shirt found no pleasure in doing so, he would not do it. If he found pleasure in taking bread from a child, he would do that but this is distasteful to him. He finds pleasure in giving, and so he gives.  If it were not inconvenient to cause confusion by employing in a new sense words that have a recognized meaning, it might be said that in both cases the men acted under the impulse of their egoism. Some have actually said this, to give prominence to the thought and precision to the idea by presenting it in a form that strikes the imagination, and at the same time to destroy the myth which asserts that these two acts have two different motives. They have the same motive, the quest of pleasure, or the avoidance of pain, which comes to the same thing.
+
+Take for example the worst of scoundrels: a Thiers, who massacres thirty-five thousand Parisians, or an assassin who butchers a whole family in order that he may wallow in debauchery. They do it because for the moment the desire of glory or of money gains in their minds the upper hand of every other desire. Even pity and compassion are extinguished for the moment by this other desire, this other thirst. They act almost automatically to satisfy a craving of their nature.  Or again, putting aside the stronger passions, take the petty man who deceives his friends, who lies at every step to get out of somebody the price of a pot of beer, or from sheer love of brag, or from cunning. Take the employer who cheats his workmen to buy jewels for his wife or his mistress. Take any petty scoundrel you like. He again only obeys an impulse. He seeks the satisfaction of a craving, or he seeks to escape what would give him trouble.
+
+We are almost ashamed to compare such petty scoundrels with one who sacrifices his whole existence to free the oppressed, and like a Russian nihilist mounts the scaffold. So vastly different for humanity are the results of these two lives; so much do we feel ourselves drawn towards the one and repelled by the other.
+
+And yet were you to talk to such a martyr, to the woman who is about to be hanged, even just as she nears the gallows, she would tell you that she would not exchange either her life or her death for the life of the petty scoundrel who lives on the money stolen from his work-people. In her life, in the struggle against monstrous might, she finds her highest joys.  Everything else outside the struggle, all the little joys of the bourgeois and his little troubles seem to her so contemptible, so tiresome, so pitiable! “You do not live, you vegetate,” she would reply; “I have lived.”
+
+We are speaking of course of the deliberate, conscious acts of men, reserving for the present what we have to say about that immense series of unconscious, all but mechanical acts, which occupy so large a portion of our life. In his deliberate, conscious acts man always seeks what will give him pleasure.
+
+One man gets drunk, and every day lowers himself to the condition of a brute because he seeks in liquor the nervous excitement that he cannot obtain from his own nervous system. Another does not get drunk; he takes no liquor, even though he finds it pleasant, because he wants to keep the freshness of his thoughts and the plentitude of his powers, that he may be able to taste other pleasures which he prefers to drink. But how does he act if not like the judge of good living who, after glancing at the menu of an elaborate dinner rejects one dish that he likes very well to eat his fill of another that he likes better.
+
+When a woman deprives herself of her last piece of bread to give it to the first comer, when she takes off her own scanty rags to cover another woman who is cold, while she herself shivers on the deck of a vessel, she does so because she would suffer infinitely more in seeing a hungry man, or a woman starved with cold, than in shivering or feeling hungry herself. She escapes a pain of which only those who have felt it know the intensity.
+
+When the Australian, quoted by Guyau, wasted away beneath the idea that he has not yet revenged his kinsman’s death; when he grows thin and pale, a prey to the consciousness of his cowardice, and does not return to life till he has done the deed of vengeance, he performs this action, a heroic one sometimes, to free himself of a feeling which possesses him, to regain that inward peace which is the highest of pleasures.
+
+When a troupe of monkeys has seen one of its members fall in consequence of a hunter’s shot, and comes to besiege his tent and claim the body despite the threatening gun; when at length the Elder of the band goes right in, first threatens the hunter, then implores him, and finally by his lamentations induces him to give up the corpse, which the groaning troupe carry off into the forest, these monkeys obey a feeling of compassion stronger than all considerations of personal security. This feeling in them exceeds all others. Life itself loses its attraction for them while they are not sure whether they can restore life to their comrade or not. This feeling becomes so oppressive that the poor brutes do everything to get rid of it.
+
+When the ants rush by thousands into the flames of the burning ant-hill, which that evil beast, man, has set on fire, and perish by hundreds to rescue their larvae, they again obey a craving to save their offspring. They risk everything for the sake of bringing away the larvae that they have brought up with more care than many women bestow on their children.
+
+To seek pleasure, to avoid pain, is the general line of action (some would say law) of the organic world.
+
+Without this quest of the agreeable, life itself would be impossible. Organisms would disintegrate, life cease.
+
+Thus whatever a man’s actions and line of conduct may be, he does what he does in obedience to a craving of his nature.  The most repulsive actions, no less than actions which are indifferent or most attractive, are all equally dictated by a need of the individual who performs them. Let him act as he may, the individual acts as he does because he finds a pleasure in it, or avoids, or thinks he avoids, a pain.
+
+Here we have a well-established fact. Here we have the essence of what has been called the egoistic theory.
+
+Very well, are we any better off for having reached this general conclusion?
+
+Yes, certainly we are. We have conquered a truth and destroyed a prejudice which lies at the root of all prejudices.  All materialist philosophy in its relation to man is implied in this conclusion. But does it follow that all the actions of the individual are indifferent, as some have hastened to conclude? This is what we have now to see.
+

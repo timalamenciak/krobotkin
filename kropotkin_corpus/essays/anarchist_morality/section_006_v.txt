@@ -1,0 +1,44 @@
+TITLE: Anarchist Morality
+AUTHOR: Peter Kropotkin
+YEAR: 1897
+SOURCE_ID: al_anarchist_morality
+SOURCE_PATH: data/raw/Anarchist_Morality.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-anarchist-morality
+RETRIEVED_UTC: 2026-02-03T20:58:53Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## V
+
+The idea of good and evil exists within humanity itself.  Man, whatever degree of intellectual development he may have attained, however his ideas may be obscured by prejudices and personal interest in general, considers as good that which is useful to the society wherein he lives, and as evil that which is hurtful to it.
+
+But whence comes this conception, often so vague that it can scarcely be distinguished from a feeling? There are millions and millions of human beings who have never reflected about the human race. They know for the most part only the clan or family, rarely the nation, still more rarely mankind. How can it be that they should consider what is useful for the human race as good, or even attain a feeling of solidarity with their clan, in spite of all their narrow, selfish interests?
+
+This fact has greatly occupied thinkers at all times, and it continues to occupy them still. We are going in our turn to give our view of the matter. But let us remark in passing that though the explanations of the fact may vary, the fact itself remains none the less incontestable. And should our explanation not be the true one, or should it be incomplete, the fact with its consequences to humanity will still remain.  We may not be able fully to explain the origin of the planets revolving round the sun, but the planets revolve none the less, and one of them carries us with it in space.
+
+We have already spoken of the religious explanation. If man distinguishes between good and evil, say theologians, it is God who has inspired him with this idea. Useful or hurtful is not for him to inquire; he must merely obey the fiat of his creator. We will not stop at this explanation, fruit of the ignorance and terrors of the savage. We pass on.
+
+Others have tried to explain the fact by law. It must have been law that developed in man the sense of just and unjust, right and wrong. Our readers may judge of this explanation for themselves. They know that law has merely utilized the social feelings of man, to slip in, among the moral precepts he accepts, various mandates useful to an exploiting minority, to which his nature refuses obedience. Law has perverted the feeling of justice instead of developing it.  Again let us pass on.
+
+Neither let us pause at the explanation of the Utilitarians.  They will have it that man acts morally from self-interest, and they forget his feelings of solidarity with the whole race, which exist, whatever be their origin.  There is some truth in the Utilitarian explanation. But it is not the whole truth.  Therefore, let us go further.
+
+It is again to the thinkers of the eighteenth century that we are indebted for having guessed, in part at all events, the origin of the moral sentiment.
+
+In a fine work, The Theory of Moral Sentiment, left to slumber in silence by religious prejudice, and indeed but little known even among anti-religious thinkers, Adam Smith has laid his finger on the true origin of the moral sentiment. He does not seek it in mystic religious feelings; he finds it simply in the feeling of sympathy.
+
+You see a man beat a child. You know that the beaten child suffers. Your imagination causes you yourself to suffer the pain inflicted upon the child; or perhaps its tears, its little suffering face tell you. And if you are not a coward, you rush at the brute who is beating it and rescue it from him.
+
+This example by itself explains almost all the moral sentiments. The more powerful your imagination, the better you can picture to yourself what any being feels when it is made to suffer, and the more intense and delicate will your moral sense be. The more you are drawn to put yourself in the place of the other person, the more you feel the pain inflicted upon him, the insult offered him, the injustice of which he is a victim, the more will you be urged to act so that you may prevent the pain, insult, or injustice. And the more you are accustomed by circumstances, by those surrounding you, or by the intensity of your own thought and your own imagination, to act as your thought and imagination urge, the more will the moral sentiment grow in you, the more will it become habitual.
+
+This is what Adam Smith develops with a wealth of examples. He was young when he wrote this book which is far superior to the work of his old age upon political economy. Free from religious prejudice, he sought the explanation of morality in a physical fact of human nature, and this is why official and non-official theological prejudice has put the treatise on the Black List for a century.
+
+Adam Smith’s only mistake was not to have understood that this same feeling of sympathy in its habitual stage exists among animals as well as among men.
+
+The feeling of solidarity is the leading characteristic of all animals living in society. The eagle devours the sparrow, the wolf devours the marmot. But the eagles and the wolves respectively aid each other in hunting, the sparrow and the marmot unite among themselves against the beasts and birds of prey so effectually that only the very clumsy ones are caught. In all animal societies solidarity is a natural law of far greater importance than that struggle for existence, the virtue of which is sung by the ruling classes in every strain that may best serve to stultify us.
+
+When we study the animal world and try to explain to ourselves that struggle for existence maintained by each living being against adverse circumstances and against its enemies, we realize that the more the principles of solidarity and equality are developed in an animal society and have become habitual to it, the more chance has it of surviving and coming triumphantly out of the struggle against hardships and foes. The more thoroughly each member of the society feels his solidarity with each other member of the society, the more completely are developed in all of them those two qualities which are the main factors of all progress: courage on the one hand, md on the other, free individual initiative.  And on the contrary, the more any animal society or little group of animals loses this feeling of solidarity — which may chance as the result of exceptional scarcity or else of exceptional plenty — the more do the two other factors of progress courage and individual initiative, diminish. In the end they disappear, and the society falls into decay and sinks before its foes. Without mutual confidence no struggle is possible; there is no courage, no initiative, no solidarity— and no victory! Defeat is certain.
+
+We can prove with a wealth of examples how in the animal and human worlds the law of mutual aid is the law of progress, and how mutual aid with the courage and individual initiative which follow from it secures victory to the species most capable of practicing it.  Now let us imagine this feeling of solidarity acting during the millions of ages which have succeeded one another since the first beginnings of animal life appeared upon the globe. Let us imagine how this feeling little by little became a habit, and was transmitted by heredity from the simplest microscopic organism to its descendants — insects, birds, reptiles, mammals, man — and we shall comprehend the origin of the moral sentiment, which is a necessity to the animal like food or the organ for digesting it.
+
+Without going further back and speaking of complex animals springing from colonies of extremely simple little beings, here is the origin of the moral sentiment. We have been obliged to be extremely brief in order to compress this great question within the limits of a few pages, but enough has already been said to show that there is nothing mysterious or sentimental about it.  Without this solidarity of the individual with the species, the animal kingdom would never have developed or reached its present perfection. The most advanced being upon the earth would still be one of those tiny specks swimming in the water and scarcely perceptible under a microscope. Would even this exist? For are not the earliest aggregations of cellules themselves an instance of association in the struggle?
+

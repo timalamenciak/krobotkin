@@ -4,7 +4,7 @@ YEAR: 1886
 SOURCE_ID: ws_law_authority
 SOURCE_PATH: data/raw/Law_and_Authority.txt
 SOURCE_URL: https://en.wikisource.org/wiki/Law_and_Authority
-RETRIEVED_UTC: 2026-02-03T19:51:29Z
+RETRIEVED_UTC: 2026-02-03T20:58:51Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

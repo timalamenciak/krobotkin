@@ -1,0 +1,56 @@
+TITLE: Anarchist Morality
+AUTHOR: Peter Kropotkin
+YEAR: 1897
+SOURCE_ID: al_anarchist_morality
+SOURCE_PATH: data/raw/Anarchist_Morality.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-anarchist-morality
+RETRIEVED_UTC: 2026-02-03T20:58:53Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## VI
+
+Thus by an unprejudiced observation of the animal kingdom, we reach the conclusion that wherever society exists at all, this principle may be found: Treat others as you would like them to treat you under similar circumstances.
+
+And when we study closely the evolution of the animal world, we discover that the aforesaid principle, translated by the one word Solidarity, has played an infinitely larger part in the development of the animal kingdom than all the adaptations that have resulted from a struggle between individuals to acquire personal advantages.
+
+It is evident that in human societies a still greater degree of solidarity is to be met with. Even the societies of monkeys highest in the animal scale offer a striking example of practical solidarity, and man has taken a step further in the same direction. This and this alone has enabled him to preserve his puny race amid the obstacles cast by nature in his way, and to develop his intelligence.
+
+A careful observation of those primitive societies still remaining at the level of the Stone Age shows to what a great extent the members of the same community practice solidarity among themselves.
+
+This is the reason why practical solidarity never ceases; not even during the worst periods of history. Even when temporary circumstances of domination, servitude, exploitation cause the principle to be disowned, it still lives deep in the thoughts of the many, ready to bring about a strong recoil against evil institutions, a revolution. If it were otherwise society would perish.  For the vast majority of animals and men this feeling remains, and must remain an acquired habit, a principle always present to the mind even when it is continually ignored in action.
+
+It is the whole evolution of the animal kingdom speaking in us. And this evolution has lasted long, very long. It counts by hundreds of millions of years.
+
+Even if we wished to get rid of it we could not. It would be easier for a man to accustom himself to walk on fours than to get rid of the moral sentiment. It is anterior in — animal evolution to the upright posture of man.
+
+The moral sense is a natural faculty in us like the sense of smell or of touch.
+
+As for law and religion, which also have preached this principle, they have simply filched it to cloak their own wares, their injunctions for the benefit of the conqueror, the exploiter, the priest. Without this principle of solidarity, the justice of which is so generally recognized, how could they have laid hold on men’s minds?  Each of them covered themselves with it as with a garment; like authority which made good its position by posing as the protector of the weak against the strong.  By flinging overboard law, religion and authority, mankind can regain possession of the moral principle which has been taken from them. Regain that they may criticize it, and purge it from the adulterations wherewith priest, judge and ruler have poisoned it and are poisoning it yet.
+
+Besides this principle of treating others as one wishes to be treated oneself, what is it but the very same principle as equality, the fundamental principle of anarchism? And how can any one manage to believe himself an anarchist unless he practices it?
+
+We do not wish to be ruled. And by this very fact, do we not declare that we ourselves wish to rule nobody?  We do not wish to be deceived, we wish always to be told nothing but the truth. And by this very fact, do we not declare that we ourselves do not wish to deceive anybody, that we promise to always tell the truth, nothing but the truth, the whole truth? We do not wish to have the fruits of our labor stolen from us. And by that very fact, do we not declare that we respect the fruits of others’ labor?
+
+By what right indeed can we demand that we should be treated in one fashion, reserving it to ourselves to treat others in a fashion entirely different? Our sense of equality revolts at such an idea.
+
+Equality in mutual relations with the solidarity arising from it, this is the most powerful weapon of the animal world in the struggle for existence. And equality is equity.  By proclaiming ourselves anarchists, we proclaim beforehand that we disavow any way of treating others in which we should not like them to treat us; that we will no longer tolerate the inequality that has allowed some among us to use their strength, their cunning or their ability after a fashion in which it would annoy us to have such qualities used against ourselves. Equality in all things, the synonym of equity, this is anarchism in very deed. It is not only against the abstract trinity of law, religion, and authority that we declare war. By becoming anarchists we declare war against all this wave of deceit, cunning, exploitation, depravity, vice — in a word, inequality — which they have poured into all our hearts.  We declare war against their way of acting, against their way of thinking. The governed, the deceived, the exploited, the prostitute, wound above all else our sense of equality. It is in the name of equality that we are determined to have no more prostituted, exploited, deceived and governed men and women.
+
+Perhaps it may be said — it has been said sometimes “But if you think that you must always treat others as you would be treated yourself, what right have you to use force under any circumstances whatever? What right have you to level a cannon at any barbarous or civilized invaders of your country? What right have you to dispossess the exploiter? What right to kill not only a tyrant but a mere viper?”
+
+What right? What do you mean by that singular word, borrowed from the law? Do you wish to know if I shall feel conscious of having acted well in doing this? If those I esteem will think I have done well? Is this what you ask?  If so the answer is simple.
+
+Yes, certainly! Because we ourselves should ask to be killed like venomous beasts if we went to invade Burmese or Zulus who have done us no harm. We should say to our son or our friend: “Kill me, if I ever take part in the invasion!”
+
+Yes, certainly! Because we ourselves should ask to be dispossessed, if giving the lie to our principles, we seized upon an inheritance, did it fall from on high, to use it for the exploitation of others.
+
+Yes, certainly! Because any man with a heart asks beforehand that he may be slain if ever he becomes venomous; that a dagger may be plunged into his heart if ever he should take the place of a dethroned tyrant.
+
+Ninety-nine men out of a hundred who have a wife and children would try to commit suicide for fear they should do harm to those they love, if they felt themselves going mad. Whenever a good-hearted man feels himself becoming dangerous to those he loves, he wishes to die before he is so.
+
+Perovskaya and her comrades killed the Russian Czar.  And all mankind, despite the repugnance to the spilling of blood, despite the sympathy for one who had allowed the serfs to be liberated, recognized their right to do as they did. Why? Not because the act was generally recognized as useful; two out of three still doubt if it were so. But because it was felt that not for all the gold in the world would Perovskaya and her comrades have consented to become tyrants themselves. Even those who know nothing of the drama are certain that it was no youthful bravado, no palace conspiracy, no attempt to gain power. It was hatred of tyranny, even to the scorn of self, even to the death.
+
+“These men and women,” it was said, “had conquered the right to kill”; as it was said of Louise Michel, “She had the right to rob.” Or again, “They have the right to steal,” in speaking of those terrorists who lived on dry bread, and stole a million or two of the Kishineff treasure.
+
+Mankind has never refused the right to use force on those who have conquered that right, be it exercised upon the barricades or in the shadow of a cross-way. But if such an act is to produce a deep impression upon men’s minds, the right must be conquered. Without this, such an act whether useful or not will remain merely a brutal fact, of no importance in the progress of ideas. People will see in it nothing but a displacement of force, simply the substitution of one exploiter for another.
+

@@ -1,0 +1,18 @@
+TITLE: Anarchist Morality
+AUTHOR: Peter Kropotkin
+YEAR: 1897
+SOURCE_ID: al_anarchist_morality
+SOURCE_PATH: data/raw/Anarchist_Morality.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-anarchist-morality
+RETRIEVED_UTC: 2026-02-03T20:58:53Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## III
+
+We have seen that men’s actions (their deliberate and conscious actions, for we will speak afterwards of unconscious habits) all have the same origin. Those that are called virtuous and those that are designated as vicious, great devotions and petty knaveries, acts that attract and acts that repel, all spring from a common source. All are performed in answer to some need of the individual’s nature. all have for their end the quest of pleasure, the desire to avoid pain.
+
+We have seen this in the last section, which is but a very succinct summary of a mass of facts that might be brought forward in support of this view.  It is easy to understand how this explanation makes those still imbued with religious principles cry out. It leaves no room for the supernatural. It throws over the idea of an immortal soul. If man only acts in obedience to the needs of his nature, if he is, so to say, but a “conscious automaton,” what becomes of the immortal soul? What of immortality, that last refuge of those who have known too few pleasures and too many sufferings, and who dream of finding some compensation in another world?
+
+It is easy to understand how people who have grown up in prejudice and with but little confidence in science, which has so often deceived them, people who are led by feeling rather than thought, reject an explanation which takes from them their last hope.
+

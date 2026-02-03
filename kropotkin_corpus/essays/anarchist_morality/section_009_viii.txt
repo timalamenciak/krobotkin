@@ -1,0 +1,54 @@
+TITLE: Anarchist Morality
+AUTHOR: Peter Kropotkin
+YEAR: 1897
+SOURCE_ID: al_anarchist_morality
+SOURCE_PATH: data/raw/Anarchist_Morality.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-anarchist-morality
+RETRIEVED_UTC: 2026-02-03T20:58:54Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## VIII
+
+Thus far our analysis has only set forth the simple principles of equality. We have revolted and invited others to revolt against those who assume the right to treat their fellows otherwise than they would be treated themselves; against those who, not themselves wishing to be deceived, exploited, prostituted or ill-used, yet behave thus to others. Lying, and brutality are repulsive, we have said, not because they are disapproved by codes of morality, but because such conduct revolts the sense of equality in everyone to whom equality is not an empty word. And above all does it revolt him who is a true anarchist in his way of thinking and acting.
+
+If nothing but this simple, natural, obvious principle were generally applied in life, a very lofty morality would be the result; a morality comprising all that moralists have taught.
+
+The principle of equality sums up the teachings of moralists. But it also contains something more. This something more is respect for the individual. By proclaiming our morality of equality, or anarchism, we refuse to assume a right which moralists have always taken upon themselves to claim, that of mutilating the individual in the name of some ideal. We do not recognize this right at all, for ourselves or anyone else.
+
+We recognize the full and complete liberty of the individual; we desire for him plentitude of existence, the free development of all his faculties. We wish to impose nothing upon him; thus returning to the principle which Fourier placed in opposition to religious morality when he said:
+
+“Leave men absolutely free. Do not mutilate them as religions have done enough and to spare. Do not fear even their passions. In a free society these are not dangerous.”
+
+Provided that you yourself do not abdicate your freedom, provided that you yourself do not allow others to enslave you; and provided that to the violent and anti-social passions of this or that person you oppose your equally vigorous social passions, you have nothing to fear from liberty.
+
+We renounce the idea of mutilating the individual in the name of any ideal whatsoever. All we reserve to ourselves is the frank expression of our sympathies and antipathies towards what seems to us good or bad. A man deceives his friends. It is his bent, his character to do so.  Very well, it is our character, our bent to despise liars.  And as this is our character, let us be frank.  Do not let us rush and press him to our bosom or cordially shake hands with him, as is sometimes done today. Let us vigorously oppose our active passion to his.
+
+This is all we have the right to do, this is all the duty we have to perform to keep up the principle of equality in society. It is the principle of equality in practice.  But what of the murderer, the man who debauches children? The murderer who kills from sheer thirst for blood is excessively rare. He is a madman to be cured or avoided.  As for the debauchee, let us first of all look to it that society does not pervert our children’s feelings, then we shall have little to fear from rakes.  All this it must be understood is not completely applicable until the great sources of moral depravity — capitalism, religion, justice, government — shall have ceased to exist. But the greater part of it may be put in practice from this day forth. It is in practice already.
+
+And yet if societies knew only this principle of equality; if each man practiced merely the equity of a trader, taking care all day long not to give others anything more than he was receiving from them, society would die of it. The very principle of equality itself would disappear from our relations. For, if it is to be maintained, something grander, more lovely, more vigorous than mere equity must perpetually find a place in life.
+
+And this greater than justice is here.
+
+Until now humanity has never been without large natures overflowing with tenderness, with intelligence, with goodwill, and using their feeling, their intellect, their active force in the service of the human race without asking anything in return.
+
+This fertility of mind, of feeling or of goodwill takes all possible forms. It is in the passionate seeker after truth, who renounces all other pleasures to throw his energy into the search for what he believes true and right contrary to the affirmations of the ignoramuses around him. It is in the inventor who lives from day to day forgetting even his food, scarcely touching the bread with which perhaps some woman devoted to him feeds him like a child, while he follows out the intention he thinks destined to change the face of the world. It is in the ardent revolutionist to whom the joys of art, of science, even of family life, seem bitter, so long as they cannot be shared by all, and who works despite misery and persecution for the regeneration of the world. It is in the youth who, hearing of the atrocities of invasion, and taking literally the heroic legends of patriotism, inscribes himself in a volunteer corps and marches bravely through snow and hunger until he falls beneath the bullets. It was in the Paris street arab, with his quick intelligence and bright choice of aversions and sympathies, who ran to the ramparts with his little brother, stood steady amid the rain of shells, and died murmuring: “Long live the Commune!”  It is in the man who is revolted at the sight of a wrong without waiting to ask what will be its result to himself, and when all backs are bent stands up to unmask the iniquity and brand the exploiter, the petty despot of a factory or great tyrant of an empire. Finally it is in all those numberless acts of devotion less striking and therefore unknown and almost always misprized, which may be continually observed, especially among women, if we will take the trouble to open our eyes and notice what lies at the very foundation of human life, and enables it to enfold itself one way or another in spite of the exploitation and oppression it undergoes.
+
+Such men and women as these, some in obscurity, some within a larger arena, creates the progress of mankind. And mankind is aware of it. This is why it encompasses such lives with reverence, with myths. It adorns them, makes them the subject of its stories, songs, romances. It adores in them the courage, goodness, love and devotion which are lacking in most of us. It transmits their memory to the young. It recalls even those who have acted only in the narrow circle of home and friends, and reveres their memory in family tradition.
+
+Such men and women as these make true morality, the only morality worthy the name.  All the rest is merely equality in relations. Without their courage, their devotion, humanity would remain besotted in the mire of petty calculations. It is such men and women as these who prepare the morality of the future, that which will come when our children have ceased to reckon, and have grown up to the idea that the best use for all energy, courage and love is to expend it where the need of such a force is most strongly felt.
+
+Such courage, such devotion has existed in every age. It is to be met with among sociable animals. It is to be found among men, even during the most degraded epochs.
+
+And religions have always sought to appropriate it, to turn it into current coin for their own benefit. In fact if religions are still alive, it is because — ignorance apart— they have always appealed to this very devotion and courage. And it is to this that revolutionists appeal.
+
+The moral sentiment of duty which each man has felt in his life, and which it has been attempted to explain by every sort of mysticism, the unconsciously anarchist Guyau says, “is nothing but a superabundance of life, which demands to be exercised, to give itself; at the same time, it is the consciousness of a power.”
+
+All accumulated force creates a pressure upon the obstacles placed before it. Power to act is duty to act. And moral “obligation” of which so much has been said or written is reduced to the conception: the condition of the maintenance of life is its expansion.
+
+“The plant cannot prevent itself from flowering.  Sometimes to flower means to die. Never mind, the sap mounts the same,” concludes the young anarchist philosopher.
+
+It is the same with the human being when he is full of force and energy. Force accumulates in him. He expands his life. He gives without calculation, otherwise he could not live. If he must die like the flower when it blooms, never mind. The sap rises, if sap there be.
+
+Be strong. Overflow with emotional and intellectual energy, and you will spread your intelligence, your love, your energy of action broadcast among others!  This is what all moral teaching comes to.
+

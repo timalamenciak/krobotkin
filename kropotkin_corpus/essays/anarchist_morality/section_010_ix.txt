@@ -1,0 +1,54 @@
+TITLE: Anarchist Morality
+AUTHOR: Peter Kropotkin
+YEAR: 1897
+SOURCE_ID: al_anarchist_morality
+SOURCE_PATH: data/raw/Anarchist_Morality.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-anarchist-morality
+RETRIEVED_UTC: 2026-02-03T20:58:54Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## IX
+
+That which mankind admires in a truly moral man is his energy, the exuberance of life which urges him to give his intelligence, his feeling, his action, asking nothing in return.
+
+The strong thinker, the man overflowing with intellectual life, naturally seeks to diffuse his ideas. There is no pleasure in thinking unless the thought is communicated to others. It is only the mentally poverty-stricken man, who after he has painfully hunted up some idea, carefully hides it that later on he may label it with his own name. The man of powerful intellect runs over with ideas; he scatters them by the handful. He is wretched if he cannot share them with others, cannot scatter them to the four winds, for in this is his life.
+
+The same with regard to feeling. “We are not enough for ourselves: we have more tears than our own sufferings claim, more capacity for joy than our own existence can justify,” says Guyau, thus summing up the whole question of morality in a few admirable lines, caught from nature. The solitary being is wretched, restless, because he cannot share his thoughts and feelings with others. When we feel some great pleasure, we wish to let others know that we exist, we feel, we love, we live, we struggle, we fight.
+
+At the same time, we feel the need to exercise our will, our active energy. To act, to work has become a need for the vast majority of mankind. So much so that when absurd conditions divorce a man or woman from useful work, they invent something to do, some futile and senseless obligations whereby to open out a field for their active energy. They invent a theory, a religion, a “social duty”— to persuade themselves that they are doing something useful. When they dance, it is for a charity.  When they ruin themselves with expensive dresses, it is to keep up the position of the aristocracy. When they do nothing, it is on principle.
+
+“We need to help our fellows, to lend a hand to the coach laboriously dragged along by humanity; in any case, we buzz round it,” says Guyau. This need of lending a hand is so great that it is found among all sociable animals, however low in the scale. What is all the enormous amount of activity spent uselessly in politics every day but an expression of the need to lend a hand to the coach of humanity, or at least to buzz around it .
+
+Of course this “fecundity of will,” this thirst for action, when accompanied by poverty of feeling and an intellect incapable of creation, will produce nothing but a Napoleon I or a Bismarck, wiseacres who try to force the world to progress backwards. While on the other hand, mental fertility destitute of well developed sensibility will bring forth such barren fruits as literary and scientific pedants who only hinder the advance of knowledge.  Finally, sensibility unguided by large intelligence will produce such persons as the woman ready to sacrifice everything for some brute of a man, upon whom she pours forth all her love.
+
+If life to be really fruitful, it must be so at once in intelligence, in feeling and in will. This fertility in every direction is life; the only thing worthy the name. For one moment of this life, those who have obtained a glimpse of it give years of vegetative existence. Without this overflowing life, a man is old before his time, an impotent being, a plant that withers before it has ever flowered.
+
+“Let us leave to latter-day corruption this life that is no life,” cries youth, the true youth full of sap that longs to live and scatter life around. Every time a society falls into decay, a thrust from such youth as this shatters ancient economic, and political and moral forms to make room for the upspringing of a new life. What matter if one or another fall in the struggle! Still the sap rises. For youth to live is to blossom whatever the consequences! It does not regret them.
+
+But without speaking of the heroic periods of mankind, taking everyday existence, is it life to live in disagreement with one’s ideal?
+
+Now-a-days it is often said that men scoff at the ideal.  And it is easy to understand why. The word has so often been used to cheat the simple-hearted that a reaction is inevitable and healthy. We too should like to replace the word “ideal,” so often blotted and stained, by a new word more in conformity with new ideas.  But whatever the word, the fact remains; every human being has his ideal. Bismarck had his — however strange — government of blood and iron. Even every philistine has his ideal, however low.  But besides these, there is the human being who has conceived a loftier ideal. The life of a beast cannot satisfy him.  Servility, lying, bad faith, intrigue, inequality in human relations fill him with loathing. How can he in his turn become servile, be a liar, and intriguer, lord it over others? He catches a glimpse of how lovely life might be if better relations existed among men; he feels in himself the power to succeed in establishing these better relations with those he may meet on his way. He conceives what is called an ideal.  Whence comes this ideal? How is it fashioned by heredity on one side and the impressions of life on the other? We know not. At most we could tell the story of it more or less truly in our own biographies. But it is an actual fact — variable, progressive, open to outside influences but always living. It is a largely unconscious feeling of what would give the greatest amount of vitality, of the joy of life.
+
+Life is vigorous, fertile. rich in sensation only on condition of answering to this feeling of the ideal. Act against this feeling, and you feel your life bent back on itself. It is no longer at one, it loses its vigor. Be untrue often to your ideal and you will end by paralyzing your will, your active energy. Soon you will no longer regain the vigor, the spontaneity of decision you formerly knew.  You are a broken man.
+
+Nothing mysterious in all this, once you look upon a human being as a compound of nervous and cerebral centers acting independently. Waver between the various feelings striving within you, and you will soon end by breaking the harmony of the organism; you will be a sick person without will. The intensity of your life will decrease. In vain will you seek for compromises. Never more will you be the complete, strong, vigorous being you were when your acts were in accordance with the ideal conceptions of your brain.
+
+There are epochs in which the moral conception changes entirely. A man perceives that what he had considered moral is the deepest immorality. In some instances it is a custom, a venerated tradition, that is fundamentally immoral. In others we find a moral system framed in the interests of a single class. We cast them overboard and raise the cry “Down with morality!” It becomes a duty to act “immorally.”
+
+Let us welcome such epochs for they are epochs of criticism. They are an infallible sign that thought is working in society. A higher morality has begun to be wrought out.
+
+What this morality will be we have sought to formulate, taking as our basis the study of man and animal.
+
+We have seen the kind of morality which is even now shaping itself in the ideas of the masses and of the thinkers.  This morality will issue no commands. It will refuse once and for all to model individuals according to an abstract idea, as it will refuse to mutilate them by religion, law or government. It will leave to the individual man full and perfect liberty. It will be but a simple record of facts, a science. And this science will say to man: “If you are not conscious of strength within you, if your energies are only just sufficient to maintain a colorless, monotonous life, without strong impressions, without deep joys, but also without deep sorrows, well then, keep to the simple principles of a just equality. In relations of equality you will find probably the maximum of happiness possible to your feeble energies.
+
+“But if you feel within you the strength of youth, if you wish to live, if you wish to enjoy a perfect, full and overflowing life — that is, know the highest pleasure which a living being can desire — be strong, be great, be vigorous in all you do.
+
+“Sow life around you. Take heed that if you deceive, lie, intrigue, cheat, you thereby demean yourself.  belittle yourself, confess your own weakness beforehand, play the part of the slave of the harem who feels himself the inferior of his master. Do this if it so pleases you, but know that humanity will regard you as petty, contemptible and feeble, and treat you as such. Having no evidence of your strength, it will act towards you as one worthy of pity — and pity only.  Do not blame humanity if of your own accord you thus paralyze your energies. Be strong on the other hand, and once you have seen unrighteousness and recognized it as such — inequity in life, a lie in science, or suffering inflicted by another — rise in revolt against the iniquity, the lie or the injustice.
+
+“Struggle! To struggle is to live, and the fiercer the struggle the intenser the life. Then you will have lived; and a few hours of such life are worth years spent vegetating.
+
+“Struggle so that all may live this rich, overflowing life. And be sure that in this struggle you will find a joy greater than anything else can give.”
+
+This is all that the science of morality can tell you.  Yours is the choice.
+
