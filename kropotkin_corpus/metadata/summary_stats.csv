@@ -1,0 +1,17 @@
+metric,value
+n_works,88
+n_units,320
+total_body_chars,8318162
+total_body_words,1411187
+mean_unit_chars,25994.3
+median_unit_chars,8679
+min_unit_chars,1227
+max_unit_chars,1205630
+mean_unit_words,4410
+median_unit_words,1431
+min_unit_words,199
+max_unit_words,204074
+est_total_chunks,1865
+mean_chunks_per_unit,5.83
+chunk_max_words,900
+chunk_overlap_words,80

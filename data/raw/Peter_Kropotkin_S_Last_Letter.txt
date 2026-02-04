@@ -1,0 +1,36 @@
+#pubdate 2016-11-10 01:43:21 +0000
+#title Peter Kropotkin’s Last Letter
+#author Pëtr Kropotkin
+#LISTtitle Peter Kropotkin’s Last Letter
+#SORTauthors Pëtr Kropotkin
+#SORTtopics letter
+#date May 1921
+#source Retrieved on 2016-10-28 from [[http://marxists.architexturez.net/history/international/comintern/sections/britain/periodicals/communist_review/1921/01/kropotkin.htm][Marxists.Architexturez.net]], proofread version retrieved on September 3, 2019 from [[http://www.revoltlib.com/?id=3311][RevoltLib.com]].
+#lang en
+#notes Source: <em>The Communist Review</em>, May 1921, Vol. 1, No. 1. Publisher: Communist Party of Great Britain Transcription/HTML Markup: Brian Reid Public Domain: Marxists Internet Archive (2006). You may freely copy, distribute, display and perform this work; as well as make derivative and commercial works. Please credit “Marxists Internet Archive” as your source.
+
+
+
+The following letter was written by Peter Kropotkin to his friend, De Reijger, the Dutch anarchist, who had invited him to come to stay at Haarlem:
+
+“Moscow, Dmitrooka,
+
+“December, 23rd, 1920.
+
+<br>
+
+“Dear Comrade De Reijger,—My heartiest thanks for your kind letter of November, which has at last reached me. All three of us, my wife, my daughter, and myself, are profoundly touched by your letter and your invitation. But as perhaps you know already from the letter which I sent to the comrades of the ‘Berlin Syndicalist,’ our position is as bad to-day as it was last year. We have the necessities of life, and considering one could not say that everywhere else in Europe, it is a great deal.
+
+“The social revolution has involuntarily taken a Centralist and authoritarian turn in Russia. Still, it presents the possibility of a transition from capitalist society to Socialist society. And this thought will certainly encourage the Socialists of Western Europe in their efforts to reconstruct society on the basis of anti-capitalist equality. In addition, beyond all doubt, the Centralist faults of the Russian Communist revolution will assist the workers of other countries to avoid similar mistakes.
+
+“Fraternal greetings,
+
+“PETER KROPOTKIN.
+
+“P.S.—We live in a little town 60 kils to the north of Moscow, where we have a little kitchen-garden which my wife works. Unfortunately, I am no longer myself able to carry out physical work, so my wife alone looks after the vegetables we require for the winter. I am at present engaged on a large work, ‘Ethics on the Naturalist Basis.’”
+
+<em>Exploité</em>, March 9th.
+
+
+
+

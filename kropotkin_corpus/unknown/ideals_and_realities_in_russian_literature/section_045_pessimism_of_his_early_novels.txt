@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:07Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Pessimism of his early novels
+
+In common with all great writers, Turguéneff combined the qualities of a pessimist and a lover of mankind.
+
+“There flows a deep and broad stream of melancholy in Turguéneff’s mind,” remarks Brandes, “and therefore it flows also through all his works. Though his description be objective and impersonal, and although he hardly ever introduces into his novels lyric poetry, nevertheless they produce on the whole the impression of lyrics. There is so much of Turguéneff’s own personality expressed in them, and this personality is always sadness — a specific sadness without a touch of sentimentality. Never does Turguéneff give himself up entirely to his feelings: he impresses by restraint; but no West European novelist is so sad as he is. The great melancholists of the Latin race, such as Leopardi and Flaubert, have hard, fast outlines in their style; the German sadness is of a caustic humour, or it is pathetic, or sentimental; but Turguéneff’s melancholy is, in its substance, the melancholy of the Slavonian races in its weakness and tragical aspect, it is a descendant in a straight line from the melancholy of the Slavonian folk-song... When Gógol is melancholy, it is from despair. When Dostoyévskiy expresses the same feeling, it is because his heart bleeds with sympathy for the down-trodden, and especially for great sinners. Tolstóy’s melancholy has its foundation in his religious fatalism. Turguéneff alone is a philosopher... He loves man, even though he does not think much of him and does not trust him very much.”
+

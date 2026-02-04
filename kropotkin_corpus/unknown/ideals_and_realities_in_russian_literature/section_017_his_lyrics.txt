@@ -1,0 +1,14 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:57Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## His Lyrics
+
+The main force of Púshkin was in his lyrical poetry, and the chief note of his lyrics was love. The terrible contradictions between the ideal and the real, from which deeper minds, like those of Goethe, or Byron, or Heine, have suffered, were strange to him. Púshkin was of a more superficial nature. It must also be said that a West-European poet has an inheritance which the Russian has not. Every country of Western Europe has passed through periods of great national struggle, during which the great questions of human development were at stake. Great political conflicts have produced deep passions and resulted in tragical situations; but in Russia the great struggles and the religious movements which took place in the seventeenth century, and under Pugatchóff in the eighteenth, were uprisings of peasants, in which the educated classes took no part. The intellectual horizon of a Russian poet is thus necessarily limited. There is, however, something in human nature which always lives and appeals to every mind. This is love, and Púshkin, in his lyric poetry, represented love under so many aspects, in such beautiful forms, and with such a variety of shades, as one finds in no other poet. Besides, he often gave to love an expression so refined, so high, that his higher comprehension of love left as deep a stamp upon subsequent Russian literature as Goethe’s refined types of women left in the world’s literature. After Púshkin had written, it was impossible for Russian poets to speak of love in a lower sense than he did.
+

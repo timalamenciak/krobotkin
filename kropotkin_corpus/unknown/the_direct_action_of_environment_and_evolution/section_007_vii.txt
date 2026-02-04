@@ -1,0 +1,36 @@
+TITLE: The Direct Action Of Environment And Evolution
+AUTHOR: Peter Kropotkin
+YEAR: NA
+SOURCE_ID: al_petr_kropotkin_the_direct_action_of_environment_and_evolution
+SOURCE_PATH: data/raw/The_Direct_Action_Of_Environment_And_Evolution.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-the-direct-action-of-environment-and-evolution.muse
+RETRIEVED_UTC: 2026-02-04T16:55:25Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## VII
+
+The dominating tendency of modern research is thus to come to a synthesis of the two chief factors of evolution: the Buffon-Lamarckian factor including the variations called forth by a changing environment, and the Darwin-Wallacian factor of Natural Selection. Darwin, as we saw, frankly acknowledged it.
+
+Herbert Spencer had already come to this conclusion, only giving even more importance to the first factor.
+
+The forgoing chapters — he wrote in the second enlarged edition of his Principles of Biology — imply that neither extreme (i.e. Natural Selection alone, or the Direct Action of Environment without the aid of Natural Selection) is here adopted. Agreeing with Mr. Darwin that both ‘factors have been operative, I hold that the inheritance of functionally caused alterations has played a larger part than he admitted even at the close of his life; and that, coming more to the front as evolution has advanced, it has played the chief part in producing the highest types.
+
+It is most interesting to note that Weismann, although his starting-point was quite different from that of Darwin and Spencer, also came, after all, to the same views. He began by proclaiming the ‘All-Sufficiency of Natural Selection’ for giving origin to new species, and rejected the necessity of inheritable adaptive changes being produced by the environment. But we saw how he gradually came to new hypotheses which actually recognised the part played in the evolution of new species by inherited variation.
+
+Pages could be covered to show how biologists engaged in experimental work came, after some hesitation, to recognize the modifying influence of environment. But a few quotations will do to show the general tendency of modern research.
+
+Standfuss has summed up the results of his twenty-eight years’ experiments in a carefully worded lecture. He sees in the predominance of an older type upon a newly appearing variation the key to the difficulty of a transmission of acquired characters to the offspring. The grip of the Old stirp — of what has become strongly established during a succession of generations — cannot, Standfuss says, be easily overpowered by the New (a view, by the way, expressed already by Bacon). And after having proved by his experiments that sometimes the New is inherited, Standfuss concluded his lecture with these words:
+
+The mutual interaction between the agencies of the outer world and the organisms gives origin to fluctuating (schwankenden) new forms; they are inherited more or less, then they are sifted by Selection, and kept by it within definite lines of development.[37]
+
+Wettstein, who has been experimenting for years upon the modification of plants by exterior agencies, openly accepts the hereditary transmission of acquired characters in his ‘Handbook of Systematical Botany. He writes:
+
+In the immense majority of cases, adaptive characters are originated by the so-called ‘direct adaptation’; in other words, we must recognize in the plant the of adapting itself directly to the prevailing conditions of life, and inheriting these acquired adaptation-characters.[38]
+
+J.P. [Johannes Paulus] Lotsy, the author of a well-known elaborate work on the theories of descent, comes to the conclusion that
+
+unless we accept a Vis vitalis [a Life-force] which, after all, would explain nothing, it is impossible to find another reason for the origin of variations but the influence of the external conditions on the substance of the protoplasm; and without an inheritance of the acquired variation, or character, there is no reason for its being fixed. If one absolutely denies the possibility of biometamorphoses (variations due to environment) being inherited, this means to deny evolution itself.[39]
+
+D.T. [Daniel Trembly] MacDougal [An obscure non-scientist and sometimes author for Scientific American. -- A.C.], after having analysed the work of Buchanan, Gages, Klebs, Zederbaum, and de Vries, finds that their discoveries, coupled with his own and other botanists’ work at the Desert Botanical Laboratory in the United States and elsewhere, enforce upon us the conclusion that structural changes and implied functional accommodations are without doubt direct somatic responses, which became fixed and permanent in the consequence of their annual repetition through the centures.[40] Wilhelm Johannsen, whose main work, ‘Elements of the Exact Science of Heredity,’[41] is kept in high esteem by biologists of all schools, comes, in one of his latest writings, to the conclusion that without inherited variations ‘Selection would have no hereditary influence.’[42] And so on.
+

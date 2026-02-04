@@ -1,0 +1,14 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:17Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Downtrodden and Offended
+
+In Downtrodden and Offended we see a young man madly in love with a girl from a moderately poor family. This girl falls in love with a very aristocratic prince — a man without principles, but charming in his childish egotism — extremely attractive by his sincerity, and with a full capacity for quite unconsciously committing the worst crimes towards those with whom life brings him into contact. The psychology of both the girl and the young aristocrat is very good, but where Dostoyévskiy appears at his best is in representing how the other young man, rejected by the girl, devotes the whole of his existence to being the humble servant of that girl, and against his own will becomes instrumental in throwing her into the hands of the young aristocrat. All this is quite possible, all this exists in life, and it is all told by Dostoyévskiy so as to make one feel the deepest commiseration with the poor and the down-trodden; but even in this novel the pleasure which the author finds in representing the unfathomable submission and servitude of his heroes, and the pleasure they find in the very sufferings and the ill-treatment that has been inflicted upon them — is repulsive to a sound mind.
+

@@ -1,0 +1,26 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:21Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## The Translators
+
+We have moreover some excellent poets who are chiefly known for their translations. Such are: N. GERBEL (18271883), who made his reputation by an admirable rendering of the Lay of Igor’s Raid (see Ch. 1.), and later on, by his versions of a great number of West European poets. His edition of Schiller, translated by Russian Poets ( 1857), followed by similar editions of Shakespeare, Byron, and Goethe, was epoch making.
+
+MIKHAIL MIKHAILOFF (1826–1865), one of the most brilliant writers of the Contemporary, condemned in 1861 to hard labour in Siberia, where he died four years later, was especially renowned for his translations from Heine, as also for those from Longfellow, Hood, Tennyson, Lenan, and others.
+
+P. WEINBERG (born 1830) made his reputation by his excellent translations from Shakespeare, Byron (Sardanapal), Shelley (Cenci), Sheridan, Coppe, Gutzkow, Heine, etc., and for his editions of the work of Goethe and Heine in Russian translations. He still continues to enrich Russian literature with excellent versions of the masterpieces of foreign literatures.
+
+L. MEY (1822–1862), the author of a number of poems from popular life, written in a very picturesque language, and of several dramas, of which those from old Russian life are especially valuable and were taken by RIMSKIY KORSÁKOFF as the subjects of his operas, has also made a great number of translations. He translated not only from the modern West European poets — English, French, German, Italian, and Polish — but also from Greek, Latin, and Old Hebrew, all of which languages he knew to perfection. Besides excellent translations of Anacreon and the idylls of Theocritus, he wrote also beautiful poetical versions of the Song of Songs and of various other portions of the Bible.
+
+D. MINAYEFF (1835–1889), the author of a great number of satirical verses, also belongs to this group of translators. His renderings from Byron, Burns, Cornwall, and Moore, Goethe and Heine, Leopardi, Dante, and several others, were, as a rule, extremely fine.
+
+And finally I must mention one, at least, of the prose-translators, VVEDÉNSKIY (1813–1855), for his very fine translations of the chief novels of Dickens. His renderings are real works of art, the result of a perfect knowledge of English life, and of such a deep assimilation of the genius of Dickens that the translator almost identified himself with the original author.
+
+** Chapter 6: The Drama
+

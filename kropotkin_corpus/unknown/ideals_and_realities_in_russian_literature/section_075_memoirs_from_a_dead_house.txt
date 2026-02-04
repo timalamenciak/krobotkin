@@ -1,0 +1,14 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:16Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Memoirs from a Dead-House
+
+The Memoirs from a Dead-House is the only production of Dostoyévskiy which can be recognised as truly artistic: its leading idea is beautiful, and the form is worked out in conformity with the idea; but in his later productions the author is so much oppressed by his ideas, all very vague, and grows so nervously excited over them that he cannot find the proper form. The favourite themes of Dostoyévskiy are the men who have been brought so low by the circumstances of their lives, that they have not even a conception of there being a possibility of rising above these conditions. You feel moreover that Dostoyévskiy finds a real pleasure in describing the sufferings, moral and physical, of the down-trodden — that he revels in representing that misery of mind, that absolute hopelessness of redress, and that completely broken-down condition of human nature which is characteristic of neuro-pathological cases. By the side of such sufferers you find a few others who are so deeply human that all your sympathies go with them; but the favourite heroes of Dostoyévskiy are the man and the woman who consider themselves as not having either the force to compel respect, or even the right of being treated as human beings. They once have made some timid attempt at defending their personalities, but they have succumbed, and never will try it again. They will sink deeper and deeper in their wretchedness, and die, either from consumption or from exposure, or they will become the victims of some mental affection — a sort of half-lucid lunacy,during which man occasionally rises to the highest conceptions of human philosophy — while some will conceive an embitterment which will bring them to commit some crime, followed by repentance the very next instant after it has been done.
+

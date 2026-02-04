@@ -1,0 +1,36 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:00Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Love of freedom
+
+Lérmontoff was, above all, a “humanist,” — a deeply humanitarian poet. Already at the age of twenty-three, he had written a poem from the times of John the Terrible, Song about the Merchant Kaláshnikoff, which is rightly considered as one of the best gems of Russian literature, both for its powers, its artistic finish, and its wonderful epic style. The poem, which produced a great impression when it became known in Germany in Bodenstedt’s translation, is imbued with the fiercest spirit of revolt against the courtiers of the Terrible Tsar.
+
+Lérmontoff deeply loved Russia, but not the official Russia: not the crushing military power of a fatherland, which is so dear to the so-called patriots, and he wrote:
+
+I love my fatherland; but strange that love,
+
+In spite of all my reasoning may say;
+
+Its glory, bought by shedding streams of blood,
+
+Its quietness, so full of fierce disdain,
+
+And the traditions of its gloomy past
+
+Do not awake in me a happy vision....
+
+What he loved in Russia was its country life, its plains, the life of its peasants. He was inspired at the same time with a deep love towards the natives of the Caucasus, who were waging their bitter fight against the Russians for their liberty. Himself a Russian, and a member of two different expeditions against the Circassians, his heart throbbed nevertheless in sympathy with that brave, warm-hearted people in their struggle for independence. One poem, Izmsail-Bey, is an apotheosis of this struggle of the Circassians against the Russians; in another, one of his best — a Circassian is described as fleeing from the field of battle to run home to his village, and there his mother herself repudiates him as a traitor. Another gem of poetry, one of his shorter poems, Valérik, is considered by those who know what real warfare is as the most correct description of it in poetry. And yet, Lérmontoff disliked war, and he ends one of his admirable descriptions of fighting with these lines:
+
+“I thought: How miserable is man! What does he want? The
+
+sky is pure, and under it there’s room for all; but without reason
+
+and necessity, his heart is full of hatred. — Why?”
+

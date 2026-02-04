@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:21Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## A. K. Tolstóy
+
+To the same group one might add A. K. TOLSTÓY, whose verses attain sometimes a rare perfection and sound like the best music. The feelings expressed in them may not be very deep, but the form and the music of the verses are delightful. They have, moreover, the stamp of originality, because nobody could write poems in the style of Russian folk-poetry better than Alexéi Tolstóy. Theoretically, he preached art for art’s sake. But he never remained true to this canon and, taking either the life of old epical Russia, or the period of the struggle between the Moscow Tsars and the feudal boyars, he developed his admiration of the olden times in very beautiful verses. He also wrote a novel, Prince Serébryanyi, from the times of John the Terrible, which was very widely read; but his main work was a trilogy of dramas from the same interesting period of Russian history (see Ch. VI).
+
+Almost all the poets just mentioned have translated a great deal, and they have enriched Russian literature with such a number of translations from all languages — so admirably done as a rule — that no other literature of the world, not even the German, can claim to possess an equally great treasury. Some translations, beginning with Zhukóvskiy’s rendering of the Prisoner of Chillon, or the translations of Hiawatha, are simply classical. All Schiller, most of Goethe,nearly all Byron, a great deal of Shelley, all that is worth knowing in Tennyson, Wordsworth, Crabbe, all that could be translated from Browning, Barbier, Victor Hugo, and so on, are as familiar in Russia as in the mother countries of these poets, and occasionally even more so. As to such favourites as Heine, I really don’t know whether his best poems lose anything in those splendid translations which we owe to our best poets; while the songs of Béranger, in the free translation of Kúrotchkin, are not in the least inferior to the originals.
+

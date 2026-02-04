@@ -1,0 +1,30 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:26Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Other Dramatic Writers
+
+Of other writers for the stage, we can only briefly mention the most interesting ones.
+
+TURGUÉNEFF wrote, in 1848-I851, five comedies, which offer all the elements for refined acting, are very lively and, being written in a beautiful style (Turguéneff’s prose!) are still the source of aesthetic pleasure for the more refined playgoers.
+
+SUKHOVÓ-KOBÝLIN has already been mentioned. He wrote one comedy, The Marriage of Kretchínskiy, which made its mark and is still played with success, and a trilogy, The Affair, which is a powerful satire against bureaucracy, but is less effective on the stage than the former.
+
+A. PÍSEMSKIY, the novelist (1820–1881), wrote, besides a few good novels and several insignificant comedies, one remarkably good drama — A Bitter Fate, from the peasants’ life, which he knew well and rendered admirably. It must be said that Leo Tolstóy’s well known Power of Darkness — taken also from peasant life — notwithstanding all its power, has not eclipsed the drama of Písemskiy.
+
+The novelist A. A. POTYÉKHIN (1829–1902) also wrote for the stage, and must not be omitted even in such a rapid sketch of the Russian drama as this. His comedies, Tinsel, A Slice Cut-off, A Vacant Situation, In Muddy Waters, met with the greatest difficulties as regards censorship, and the third was never put on the stage; but those which were played were always a success, while the themes that he treated always attracted the attention of our critics. The first of them, Tinsel, can be taken as a fair representative of the talent of Potyékhin.
+
+This comedy answered a “question of the day.” For several years Russian literature, following especially in the steps of SCHEDRIN (see Ch. VIII.), delighted in the description of those functionaries of the Government boards and tribunals who lived (before the reforms of the sixties) almost entirely upon bribes. However, after the reforms had been carried through, a new race of functionaries had grown up, “those who took no bribes,” but at the same time, owing to their strait-laced official rigorism, and their despotic and unbridled egotism, were even worse specimens of mankind than any of the “bribe-takers” of old. The hero of Tinsel is precisely such a man. His character, with all its secondary features — his ingratitude and especially his love (or what passes for love in him) — is perhaps too much blackened for the purposes of the drama: men so consistently egotistical and formalistic are seldom, if ever, met with in real life. But one is almost convinced by the author of the reality of the type — with so masterly a hand does he unroll in a variety of incidents the “correct” and deeply egotistic nature of his hero. In this respect the comedy is very clever, and offers full opportunity for excellent acting.
+
+A dramatic writer who enjoyed a long-standing success was A. I. PALM (1823–1885). In 1849 he was arrested for having frequented persons belonging to the circle of Petrashévskiy (see DOSTOYÉVSKIY), and from that time his life was a series of misfortunes, so that he returned to literary activity only at the age of fifty. He belonged to the generation of Turguéneff, and, knowing well that type of noblemen, whom the great novelist has depicted so well in his Hamlets, he wrote several comedies from the life of their circles. The Old Nobleman and Our Friend Neklúzheff were till lately favourite plays on the stage. The actor, I. E. TCHERNYSHÓFF, who wrote several comedies and one serious drama, A Spoiled Life, which produced a certain impression in 1861; N. SOLOVIÓFF, and a very prolific writer, V. A. KRYLOFF (ALEXÁNDROFF), must also be mentioned in this brief sketch.
+
+And finally, two young writers have brought out lately comedies and dramatic scenes which have produced a deep sensation. I mean ANTON TCHÉHOFF, whose drama Ivánoff was a few years ago the subject of the most passionate discussions, and MAXÍM GÓRKIY, whose drama, The Artisans, undoubtedly reveals a dramatic talent, while his just published “dramatic scenes,” At the Bottom — they are only scenes, without an attempt at building a drama — are extremely powerful, and eclipse his best sketches. More will be said of them in the next chapter.
+
+** Chapter 7 Folk-Novelists
+

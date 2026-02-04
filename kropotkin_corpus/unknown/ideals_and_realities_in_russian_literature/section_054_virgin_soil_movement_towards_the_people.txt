@@ -1,0 +1,18 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:11Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Virgin Soil: movement towards the people
+
+This movement he represented in his last novel of the above-mentioned series, Virgin Soil (1876). That he was fully sympathetic with it is self-evident; but the question, whether his novel gives a correct idea of the movement, must be answered to some extent in the negative — even though Turguéneff had, with his wonderful intuition, caught some of the most striking features of the movement. The novel was finished in 1876 (we read it, in a full set of proofs, at the house of P.L. Lavróff, in London, in the autumn of that year) — that means, two years before the great trial of those who were arrested for this agitation took place. And in 1876 no one could possibly have known the youth of our circles unless he had himself belonged to them. Consequently, Virgin Soil could only refer to the very earliest phases of the movement: misconception of the peasantry, the peculiar inca-did not meet with any of the best representativs of it. Much of the novel is true, but the general impression it conveys is not precisely the impression which Turguéneff himself would have received if he had better known the Russian youth at that time.
+
+With all the force of his immense talent, he could not supply by intuition the lack of knowledge. And yet he understood two characteristic features of the earliest part of the movement: misconception of the peasantry, the peculiar incapacity of most of the early promoters of the movement to understand the Russian peasant, on account of the bias of their false literary, historical, and social education; and the Hamletism: the want of resolution, or rather “resolution sicklied o’er by the pale cast of thought,” which really characterised the movement at its outset. If Turguéneff had lived a few years more he surely would have noticed coming into the arena the new type of men of action — the new modification of Insároff’s and Bazároffs type, which grew up in proportion as the movement was taking firm root. He had already perceived them through the dryness of official records of the trial of “the hundred-and-ninety three,” and in 1878 he asked me to tell him all I knew about Mýshkin, one of the most powerful individualities of that trial.
+
+He did not live to accomplish this. A disease which nobody understood and was mistaken for “gout,” but which was in reality a cancer of the spinal cord, kept him for the last few years of his life an invalid, rivetted to his couch. Only his letters, full of thought and life, where sadness and merriment go on in turn, are what remains from his pen during that period of life, when he seems to have meditated upon several novels which he left unfinished or perhaps unwritten. He died at Paris in 1883 at the age of sixty-five.
+

@@ -4,7 +4,7 @@ YEAR: 1888
 SOURCE_ID: al_are_we_good_enough
 SOURCE_PATH: data/raw/Are_We_Good_Enough.txt
 SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-are-we-good-enough
-RETRIEVED_UTC: 2026-02-03T20:58:55Z
+RETRIEVED_UTC: 2026-02-04T16:53:33Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

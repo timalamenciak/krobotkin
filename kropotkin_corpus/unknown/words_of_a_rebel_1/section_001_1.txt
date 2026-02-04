@@ -1,0 +1,66 @@
+TITLE: Words Of A Rebel 1
+AUTHOR: Peter Kropotkin
+YEAR: 1885
+SOURCE_ID: al_petr_kropotkin_words_of_a_rebel_1
+SOURCE_PATH: data/raw/Words_Of_A_Rebel_1.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-words-of-a-rebel-1.muse
+RETRIEVED_UTC: 2026-02-04T16:55:51Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## 1.
+
+IT is to the young that I wish to speak now. Let the old-I mean of course the old in heart and spirit-put these pages aside without tiring themselves pointlessly by reading something which will tell them nothing.
+
+I assume you are about eighteen or twenty; that you are finishing your apprenticeship or your studies; that you are about to enter into life. I imagine you have a mind detached from the superstitions people have tried to inculcate in you; you are in no fear of the Devil and you do not listen to the rantings of priests and parsons. Furthermore I am sure you are not one of those popinjays, the sad products of a society in decline, who parade in the streets with their Mexican trousers and their monkey faces and who already, at their age, are dominated by the appetite for pleasures at any price. I assume, on the contrary, that your heart is in the right place, and it is because of this that I am speaking to you.
+
+An urgent question, I know, lies before you.
+
+Many times you have asked yourself, "What shall I become?" In fact, when you are young you understand that, after having studied a trade or a science for several years-at the expense of society, let it be noted-you have not done so in order to make yourself an instrument of exploitation. You would have to be very depraved and vicious never to have dreamed of one day applying your intelligence, your capacities and your knowledge to help in the liberation of those who still swarm in poverty and ignorance.
+
+You are one of those who dreamed in this way, are you not? Very well, let us see what you might do to turn your dream into a reality.
+
+I do not know into what condition you were born. Perhaps, favoured by fortune, you have made scientific studies; you intend to become a doctor, a lawyer, a man of letters or science; a wide field of action opens up before you, and you are entering into life with broad knowledge and proven aptitudes. Or you are an honest artisan; your scientific knowledge is bounded by the little you have learnt at school, but you have had the advantage of knowing at first hand the life of harsh labour which the worker must lead in our days.
+
+For the sake of argument, I am assuming that you have received a scientific education. Let us suppose you are about to become a doctor.
+
+Tomorrow, a man in a worker's blouse will call you to visit a sick person. He will lead you into one of those alleys where neighbours can almost shake hands over the heads of the passers-by; you will climb in foetid air and by the shivering light of a lantern up two, three, four or five flights of stairs covered in slippery filth, and in a dark, cold room you will find the invalid, Iying on a straw pallet and covered in dirty rags. Pale, anaemic children, shivering under their tatters, look at you through great, wide-open eyes. The husband has worked all his life twelve or thirteen hours a day on any jobs he could get; now he has been out of work for three months. Unemployment is not unusual in his trade; every year it happens periodically; but normally, when the man was idle, the woman would take casual work-washing your shirts, perhaps, and earning a dollar or so a day; but now she has been bedridden for two months, destitution rears its hideous face before the family.
+
+If you show an honest look and a good heart, and speak frankly, the family will tell you a good many things. They will tell you that the woman on the other side of the partition, the woman with the heartbreaking cough, earns her wretched living by ironing; that on the floor below all the children have fever, that the laundress on the ground floor will not see the spring, and that in the next door house things are even worse.
+
+What would you prescribe for all these sicknesses? Good food, a change of air, less exhausting work? You would very much like to say that, but you dare not, and you hurry broken-heartedly out of the house with a curse on your lips.
+
+Next day you are still thinking about those inhabitants of the slums, when your colleague tells you that a footman came to fetch him in a coach. It was for one of the inhabitants of a rich mansion, a woman, exhausted by sleepless nights, who gives all her life to her boudoir, to paying visits, to balls and to quarrels with her boorish husband. Your colleague has prescribed for her a less frivolous way of life, a less rich diet, walks in the open air, calm of mind and some exercises at home which might partly make up for the lack of productive work! One woman is dying because, all her life, she has never eaten or rested enough; the other is wilting because all her life she has never known what work is.
+
+If you have one of those apathetic natures that can adapt itself to anything and in the face of the most revolting facts can console itself with a sigh and a glass of beer, you will harden yourself to these contrasts, and, given your nature, you will have only one idea, which is to make yourself a niche in the ranks of the pleasure-seekers so that you will never find yourself a place among the poor.
+
+But if you are a real man, if each feeling is translated within you into an act of will, if the beast within you has not killed the intelligent being, one day you will go back to your house, saying: "No, it is all unjust! It cannot continue like this! It is not a question of curing sicknesses; they must be prevented. A little bit of well being and intellectual development would be enough to wipe from our lists half the sick people and their sicknesses. To hell with drugs! Fresh air, proper feeding, less brutalizing work: that is where we must start. Without these things, the whole occupation of a doctor is no more than a trickery and a deception."
+
+That day you will begin to understand what socialism means. You will want to know more about it, and if altruism is more to you than a word void of meaning, if you apply to the study of the social question the severe inductive standards of the naturalist, you will end up in our ranks, and like us you will work for the social revolution.
+
+But perhaps you will say: "To the Devil with practice! Let us devote ourselves, like the astronomer, the physicist, and the chemist, to pure science! That will always bear its fruits, even if it is only for later generations." But before you do that, let us determine what you will be seeking in science. Will it be simply the enjoyment-which is certainly immense-that you will gain from the study of the mysteries of nature and the exercise of your intellectual faculties? If that is so, let me ask you how the scholar who cultivates science to pass his life agreeably differs from the drunkard who also seeks in life no more than immediate enjoyment and finds it in wine? It is true that the scholar makes a better choice of the source of his pleasures, since they are more intense and more durable, but that is all. Both of them, the drunkard and the scholar, have the same egotistical aim, personal enjoyment
+
+But of course you will tell me you are not seeking such an egotistical life. In working for science, you have every intent of working for humanity, and that idea will guide you in the choice of your research.
+
+What a beautiful illusion! And who among us, giving himself for the first time to science, has not cherished it for a moment?
+
+But if you are really thinking of helping humanity, if that is what you aspire to in your studies, you will find yourself facing a formidable objection, for, in so far as you have any sense of justice, you will immediately observe that in present-day society, science is only a kind of luxury that makes life more agreeable to a few, and remains absolutely inaccessible to almost the whole of humanity.
+
+For example, it is more than a century since science established strong cosmological notions, but what increase has there been in the number of people who hold such notions or who have acquired a spirit of truly scientific criticism? Hardly a few thousands, lost in the midst of hundreds of millions still sharing prejudices and superstitions worthy of barbarians and destined in consequence to serve for ever as the playthings of religious imposters.
+
+Or take a look at what science has done to elaborate the rational foundations of physical and moral hygiene. It tells you how we must live to preserve our bodily health, how we can maintain in good condition our human collectivities; it shows the way to intellectual and moral happiness. But does not all the immense work carried out in these directions remain as dead words in our books? And why is that? Because science nowadays is carried on for a handful of privileged people, because the social inequality that divides wage-earners from the owners of capital turns all our teachings about the conditions of a rational life into a mockery for nine-tenths of humanity.
+
+I could cite you many more examples, but I will be brief: just come out of Faust's study, whose dust-blackened window panes hardly allow the daylight to reach the books, and look around you; at every step you yourself will find proofs to support my contention.
+
+It is no longer a question at this moment of accumulating scientific truths and discoveries. It is more important to spread the truths already gained by science, to make them enter into human life, to turn them into a common domain. This must be done in such a way that the whole of humanity may become capable of assimilating and applying them, so that science will cease to be a luxury and will become the foundation for the life of all. Justice demands that it happen in this way.
+
+I would add that the interests of science itself also impose this solution. Science makes real progress only when a new truth enters a situation that is ready to accept it. The theory of the mechanical origin of heat, stated in the last century in almost the same terms as Hirn and Clausius[11] enunciate it today, remained for eighty years buried in academic memoirs until our knowledge of physics was sufficiently expanded to create a milieu capable of accepting it. Three generations had to pass by until the ideas of Erasmus Darwin on the variation of species were welcomed from the mouth of his grandson and accepted, not without pressure from public opinion, by the scholarly academicians. For the scholar, like the poet or the artist, is always the product of the society in which he lives and teaches.
+
+The more deeply you look into these ideas, the more you will realize that before anything else is done we must modify the state of affairs which today condemns the scholar to overflow with scientific truths while almost the whole of humanity remains what it was five or ten centuries ago, in the condition of virtual slaves, mere machines incapable of adapting themselves to established truths. And the day you accept that idea, which is at once broadly humanitarian and profoundly scientific, you will lose all your taste for pure science.
+
+You will devote yourself to seeking ways to bring about that transformation, and if you do not abandon the impartiality that has guided you in your scientific investigations, you will inevitably adopt the cause of socialism; you will put an end to sophistry and find your place among us; tired of working to create enjoyment for that small group which already has so much of it, you will apply your knowledge and devotion to the immediate service of the oppressed.
+
+And you can be sure that then, when you have fulfilled your sense of duty and feel a true harmony between your sentiments and your acts, you will discover within yourself forces whose existence you had never even suspected. And one day-which with all due respect to your professors will not be long in coming-when the modifications you have worked for become evident, then, drawing new strengths from collective research and from the powerful co-operation of the masses of workers who will put themselves at its service, science will take on an impetus in comparison with which the slow progress of today will seem like the simple experiments of schoolboys.
+
+Then you will be able to take joy in science, since that joy will be available to all humanity.
+

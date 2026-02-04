@@ -4,7 +4,7 @@ YEAR: 1893
 SOURCE_ID: al_emigration_advice
 SOURCE_PATH: data/raw/EmigrationAdvice.txt
 SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-advice-to-those-about-to-emigrate
-RETRIEVED_UTC: 2026-02-03T20:58:55Z
+RETRIEVED_UTC: 2026-02-04T16:53:26Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

@@ -1,0 +1,84 @@
+TITLE: Words Of A Rebel 1
+AUTHOR: Peter Kropotkin
+YEAR: 1885
+SOURCE_ID: al_petr_kropotkin_words_of_a_rebel_1
+SOURCE_PATH: data/raw/Words_Of_A_Rebel_1.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-words-of-a-rebel-1.muse
+RETRIEVED_UTC: 2026-02-04T16:55:54Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## 3.
+
+My readers in the French countryside may well laugh when they hear what is said of them in those fine books that the politicians and the economists are publishing in the big cities. It is said in these books that al- most all the French peasants were well-off and contented with their lot; that they have enough land, enough cattle, and that the land brings them plenty of money so that they have no difficulty in paying their taxes which in any case are light, while the cost of cultivating the land has not gone up; that each year they are making new economies and continuing to grow rich.
+
+The peasants will answer, I suspect, that these commentators are idiots, and they will be right to do so.
+
+Let us examine the elements of which the twenty-three or twenty- four million people who live in the French countryside are composed, and see how many among them are content with their lots and have no desire to change them.
+
+First, we have the eight thousand great landowners (round about 40,000 persons if one counts their families) who possess, particularly in Picardy, Normandy and Anjou, properties that bring them from ten thousand to two hundred thousand francs a year, and sometimes even more than that.
+
+These certainly have no reason to complain. After spending the sum- mer months in their domains and turning into cash the value of whatever is produced by the hard work of wage-earners, small tenant farmers and share-croppers, they depart to spend their money in the cities. There they drink champagne by the glassful with women on whom they lavish their money freely, and in their palaces they spend as much in a day as would feed a family for half a year. Those fellows indeed have no reason to la- ment; if they complain it is because the peasant becomes each day less tractable and nowadays refuses to work for nothing.
+
+Of such people, let us speak no more. We shall have a word to say to them on the day of the revolution.
+
+The moneylenders, the cattle merchants, the higglers, those vultures who nowadays batten on the villages, and, coming from the towns with a small purseful as their entire fortune, turn themselves into landowners and bankers; the notaries and lawyers who foment the process; the en- gineers and the gangs of functionaries of all kinds who dip deeply into the funds of the State and the communes, especially when the latter, egged on by interested parties, run into debt to embellish the village around the mayor's house: this kind of gentry, the vermin that considers the countryside a rich land of savages ready for exploitation, have also no reason to complain. Try and move their hearts about anything, and they will resist your appeals with all their strength. Peasants ruining themsel- ves by signing promissory notes, farmers impoverishing themselves with litigation, illiterate countrymen letting themselves be sucked dry by the spiders who surround them, all this is the order of the day for the usurers. And communes that let themselves be bullied by the mayor, plus a State that squanders public funds, are equally on the order of the day for the functionaries. When they have ruined the peasants in France, they will go on to do the same thing in Hungary, in Turkey if they must, in China if they need. Usury has no fatherland.
+
+Obviously this group will not complain of their lot. But how many of them are there? Five hundred thousand? Perhaps a million, including their families? More than enough to ruin our villages in a few years, but hardly enough to resist when the peasants turn against them with all their force.
+
+Next we come to the small landowners who possess between 50 and 100 hectares. Most of them in fact do not know where the shoe pinches and when one talks to them of changing something, their first thought will be to ask if they will not lose what they actually possess. Some of them, who may be temporarily unlucky, will hope to "succeed" one day: a lucky speculation, a lucrative job in addition to their calling as farmer, a rich relative who commits suicide one fine morning, and good fortune will return. Generally speaking, real need is unknown to them, and work also. It is not they who till their lands; for that they have farm labourers whom they pay 250 to 300 francs a year, and from whom they gain work that is worth a thousand.
+
+There is no doubt that these people will be the enemies of the revolu- tion; they are already enemies of liberty, upholders of inequality, pillars of exploitation. They form, indeed, a considerable force -- round about 200,000 owners, which means 800,000 individuals including families, and today they are a real power in the villages. The State confers on them a great deal of importance, and their means assure them an influence within the commune from which they do not fail to profit. But what will they become when confronted with the surge of a popular uprising? It will certainly not be they who will go forward to resist it: they will stay permanently in their homes and await the outcome of the turmoil.
+
+Those who own between ten and fifty hectares are more numerous than the preceding class. They alone are more than 250,000 landowners, almost 1,200,000 people, if one includes families. They own nearly a quarter of the arable surface of France.
+
+This group represents a considerable force through its influence and activity in the countryside. While the preceding group often live in the towns, these work in their own fields; they have not broken with the village, and up to the present they have remained peasants. It is on their conservative attitudes that the reactionaries count most of all.
+
+It is true that at one time, in the first half of this century, this class of cultivators enjoyed a certain prosperity, and it was natural that, emerging from the Great Revolution and anxious above all to retain what they had won in the Revolution, they should obstinately oppose any changes, fear- ing to lose what they had gained. But in recent years things have changed a great deal. While, in some areas of France, such as the South- west, the farmers in this category still enjoy a certain well-being, in the rest of the country they complain already of need. They are no longer able to save, and it becomes harder for them to increase their properties, which are constantly being broken up by the division of heritages. At the same time they are no longer finding land to rent on conditions as favourable as in the past; today they are being asked crazy prices for patches they want to lease.
+
+Often owning tiny lots scattered in the four corners of the commune, they cannot make farming profitable enough to sustain the costs that bur- den the cultivator. Wheat brings in very little, and cattle raising offers only a scanty profit.
+
+The State crushes them down with taxes, and the Commune does not spare them: cart, horse, threshing-machine, even manure are taxed. Addi- tional centimes add up to francs, and the list ofduties becomes as high as it was under the defunct kingdom. The peasant has become once again the State's beast of burden.
+
+Moneylenders ruin him, and promissory notes ravage him; mortgages grind him down, the city manufacturer exploits him by making him pay two or three times cost for the smallest tool. He im- agines himself still the owner of his fields, when he is no more than their caretaker; the work he does goes to fatten the moneylender, to nourish the bureaucrat, to buy silk dresses and fine carriages for the industrialist's wife, and to make life agreeable for all the idlers in the city.
+
+Do you believe that the peasant does not understand all this? Come on! He understands it perfectly, and as soon as he feels strong enough he will not miss the chance to shake up these gentry who live at his expense.
+
+With all that, we have still only a tenth of the inhabitants of the countryside. What about the rest?
+
+These are the nearly four million heads of families (meaning roughly 18,000,000 persons) who own properties of five or three hectares per fami- ly, often one hectare, or even a tenth of a hectare, and often nothing. Out of this number eight million persons have all the trouble in the world making ends meet by farming two or three hectares, so that each year they have to send tens of thousands of their boys and girls to make a hard living in the city; 7 million of them have for their whole property a miserable plot of land, a house, and a small garden, or even possess noth- ing and make a hard living from day to day, feeding themselves on crusts of bread and potatoes, when they can get them. These are the great bat- talions of the French countryside!
+
+This vast mass counts for nothing in the calculations of the economists. But for us, it is everything. It constitutes the village; the rest are just incidental -- parasitical fungi growing on the trunk of a great oak tree.
+
+These are the peasants we are told are rich, absolutely content with their lot, anxious to change nothing, and certain to turn their backs on the socialists!
+
+Let us remark first of all that each time we have spoken to such peasants, telling them what we think in comprehensible language, they have not turned their backs on us. It is true that we have not talked to them of electing us in place of the member of parliament or even of the rural constable; we have not embarked on long pseudo-scientific ha- rangues about socialism; we have not preached to them of putting their bits of land into the hands of a State that would distribute the soil as seemed good to it, according to the whims of an army of bureaucrats. If we had uttered such stupidities, they would in fact have turned their backs on us, and they would have been right.
+
+But, whenever we talked to them of what we mean by the revolution, they always listened to us, and answered that our ideas corresponded with their own. This, in fact, is what we said to the peasants and what we shall keep on saying to them:
+
+"In the past the land belonged to the Commune, composed of all those who cultivated it themselves, with their own hands. But, by all kinds of fraud, by violence, usury and sheer deception, the speculators have successfully appropriated it. All these lands that now belong to Sir So-and-so or Lady This-and-that were formerly communal lands. Today the peasant needs them to farm and feed himself and his family, whereas the rich do not cultivate them but exploit them to wallow in luxury. Or- ganized in their communes, the peasants must take back the land and put it at the disposal of those who are willing to farm it.
+
+"Mortgages are an iniquity. Nobody has the right to appropriate your land because you have borrowed money, since its value depends on the work carried out by your forefathers when they cleared it, built the vil- lages, made the roads, drained the marshes; even now, it is productive only because of your toil. The peasanf s International will therefore make it a duty to break the bonds of mortgages and to abolish that odious jn- stitution for ever.
+
+"The taxes that crush you are devoured by bands of bureaucrats who are not merely useless but positively harmful. Therefore we must sup- press them. Proclaim your absolute independence, and declare that you know better how to manage your affairs than these gentlemen in gloves from Paris.
+
+"Do you need a road? Let the people of neighbouring communes dis- cuss it, and they will produce something better than the ministry of public works.
+
+"A railway? The interested communes of a whole region can do it bet- ter than the speculators, who amass millions by laying down bad track. Do you need schools? You can do that also as well as -- and better than -- these gentlemen from Paris. The State has no place in all this: schools, roads and canals can all be better made by yourselves and at lower cost.
+
+"Do you need defence against foreign invaders? Learn to do it your- selves, and above all do not ever confide that task to the generals, who will certainly betray you. Armies have never been able to halt an in- vader, but the people, the peasantry, when they have had an interest in preserving their independence, have got the better of the most for- midable armies.
+
+"Do you need tools, or machines? You must come to arrangements with the workers in the cities who will send them to you in exchange for your products, at cost price, without passing through the hands of a mer- chant who gets wealthy at the expense of both the worker who makes the tool and the peasant who buys it.
+
+"Do not be afraid of the power of government. These governments, which seem so formidable, crumble under the first attacks of the insurgent people: we have seen enough of them tumbling down in a matter of hours, and one can foresee that in a few years revolutions will spread out all over Europe and topple authority. Profit from that moment to over- throw the government, but above all to make a revolution, to chase away the great landowners and declare their wealth common property, to demolish the moneylenders, abolish mortgages and protect your absolute independence while the urban workers do the same thing in the cities. After that, organize yourselves by freely federating in communes and regions. But watch out, and do not let the revolution be plundered by all kinds of people who will come and pose as the benefactors of the peasants. Act on your own, without expecting anything from anyone but yourselves."
+
+That is what we have said to the peasants. And the only objection they have offered did not reflect on the substance of our ideas, but con- cerned solely the possibility of putting them into operation.
+
+"Very good," they answer us. "All that would be excellent, if only the peasants could come to an understanding with each other."
+
+Let us work, then, towards the point when they will come together. Let us propagate our ideas, let us scatter freely the writings that expound them, let us work to establish the links that are still lacking between the villages, and, on the day of the revolution, let us be ready to fight beside them and for them!
+
+That day is much nearer than is generally believed.
+
+** Chapter 13: Representative Government
+

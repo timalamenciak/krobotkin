@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:58Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## His Life
+
+Lérmontoff had Scotch blood in his veins. At least, the founder of the family was a Scotchman, George Learmonth, who, with sixty Scotchmen and Irishmen, entered the service of Poland first, and afterwards, in 1613, of Russia. The inner biography of the poet remains still but imperfectly known. It is certain that his childhood and boyhood were anything but happy. His mother was a lover of poetry — perhaps a poet herself; but he lost her when he was only three years old — she was only twenty-one. His aristocratic grandmother on the maternal side took him from his father — a poor army officer, whom the child worshipped — and educated him, preventing all intercourse between the father and the son. The boy was very gifted, and at the age of fourteen had already begun to write verses and poems — first in French, (like Púshkin), and soon in Russian. Schiller and Shakespeare and, from the age of sixteen, Byron and Shelley were his favourties. At the age of sixteen Lérmontoff entered the Moscow University, from which he was, however, excluded next year for some offence against a very uninteresting professor. He then entered a military school at St Petersburg, to become at the age of eighteen an officer of the hussars.
+
+A young man of twenty-two, Lérmontoff suddenly became widely known for a piece of poetry which he wrote on the occasion of P7Uacute;shkin’s death (1837). A great poet, as well as a lover of liberty and a foe of oppression, was revealed at once in this passionate production of the young writer, of which the concluding verses were especially powerful. “But you,” he wrote, “who stand, a haughty crowd, around the throne, You hang men of genius, of liberty, and fame! You have now the law to cover you, And justice must close her lips before you! But there is a judgment of God, — you, dissolute crowd! There is a severe judge who waits for you. You will not buy him by the sound of your gold...And, with all your black blood, You will not wash away the stain of the poet’s pure blood!” In a few days all St Petersburg, and very soon all Russia, knew these verses by heart; they circulated in thousands of manuscript copies.
+

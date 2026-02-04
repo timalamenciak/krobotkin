@@ -1,0 +1,16 @@
+TITLE: Small Communal Experiments And Why They Fail
+AUTHOR: Peter Kropotkin
+YEAR: 1893
+SOURCE_ID: al_petr_kropotkin_small_communal_experiments_and_why_they_fail
+SOURCE_PATH: data/raw/Small_Communal_Experiments_And_Why_They_Fail.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-small-communal-experiments-and-why-they-fail.muse
+RETRIEVED_UTC: 2026-02-04T16:55:12Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## [Domestic life in common]
+
+The second mistake lay in the desire to manage the community after the model of a family, to make it “the great family” They lived all in the same house and were thus forced to continuously meet the same “brethren and sisters.” It is already difficult often for two real brothers to live together in the same house, and family life is not always harmonious; so it was a fundamental error to impose on all the “great family” instead of trying, on the contrary, to guarantee as much freedom and home life to each individual.
+
+Besides, a small community cannot live long; “brethren and sisters” forced to meet continuously, amid a scarcity of new impressions, end by detesting each other. And if two persons through becoming rivals or simply not liking each other are able by their disagreement to bring about the dissolution of a community, the prolonged life of such communities would be a strange thing, especially since all communities founded up to now have isolated themselves. It is a foregone conclusion that a close association of 10, 20, or 100 persons cannot last longer than three or four years. It would be even regrettable if it lasted longer, because this would only prove either that all were brought under the influence of a single individual or that all lost their individuality. Well, since it is certain that in three, four or five years part of the members of a community would wish to leave, there ought to exist at least a dozen or more federated communities in order that those who, for one reason or other, wish to leave a community may enter another community, being replaced by new comers from other places. Otherwise, the Communist beehive must necessarily perish or (which nearly always happens) fall into the hands of one individual — generally the most cunning of the “brethren”.
+

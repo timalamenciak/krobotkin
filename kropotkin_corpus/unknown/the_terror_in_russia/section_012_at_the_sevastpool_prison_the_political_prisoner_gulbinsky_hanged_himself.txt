@@ -1,0 +1,28 @@
+TITLE: The Terror In Russia
+AUTHOR: Peter Kropotkin
+YEAR: 1909
+SOURCE_ID: al_petr_kropotkin_the_terror_in_russia
+SOURCE_PATH: data/raw/The_Terror_In_Russia.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-the-terror-in-russia.muse
+RETRIEVED_UTC: 2026-02-04T16:55:39Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+123. At the Sevastpool prison, the political prisoner Gulbinsky hanged himself.
+
+124. In the solitary cell of a St. Petersburg prison, a political prisoner named Bernstein hanged himself, but was rescued.
+
+125. At the police-station of the Narva district at St. Petersburg a prisoner named Pybin broke his head against the wall. During his subsequent stay at the hospital he inflicted upon himself a wound with a knife.
+
+126. At a prison at Odessa, V. Orloff, who was arrested for theft, burned himself with kerosene.
+
+127–8. At the Kazan Government prison, two prisoners, whose cases were being investigated, poisoned themselves.
+
+129. A convict threw himself from a boat into the water at Nizhni-Novgorod and was drowned.
+
+130. At Odessa, V. P. Ostroúhoff, who had twice been sentenced to death for the murder of a spy and for robbery, on being placed in a solitary cell to await his execution, took poison and died.
+
+131. At Kieff, the criminal Yushkoff, who had fulfilled the duties of an executioner and who was kept in a separate cell, set fire to it. It is supposed that he was insane; Yushkoff had been wounded by the prisoners for undertaking the duties of executioner.
+
+132. The peasant Safronoff, sentenced at St. Petersburg to two years’ imprisonment, breaking loose from the guard conveying him, threw himself into a lake and was drowned.
+

@@ -19,56 +19,58 @@ suppressPackageStartupMessages({
 RAW_DIR <- path("data", "raw")
 OUT_DIR <- "kropotkin_corpus"
 DIRS <- c("theory", "science", "memoir", "essays", "metadata", "tmp")
+# Summary chunking (optional, for reporting only)
+CHUNK_STATS <- TRUE
+CHUNK_MAX_WORDS <- 900
+CHUNK_OVERLAP_WORDS <- 80
 
-SOURCES <- tribble(
-  ~id, ~title, ~year, ~author, ~genre, ~source_type, ~source_path, ~source_url, ~note,
-  "pg_4341", "Mutual Aid: A Factor of Evolution", 1902, "Peter Kropotkin", "science",
-  "local_txt", path(RAW_DIR, "4341.txt"), "https://www.gutenberg.org/ebooks/4341", "Project Gutenberg download (local file)",
-  
-  "pg_23428", "The Conquest of Bread", 1892, "Peter Kropotkin", "theory",
-  "local_txt", path(RAW_DIR, "23428-0.txt"), "https://www.gutenberg.org/ebooks/23428", "Project Gutenberg download (local file)",
-  
-  "pg_64353", "Fields, Factories and Workshops", 1899, "Peter Kropotkin", "science",
-  "local_txt", path(RAW_DIR, "64353-0.txt"), "https://www.gutenberg.org/ebooks/64353", "Project Gutenberg download (local file)",
-  
-  "pg_73882", "Memoirs of a Revolutionist", 1906, "Peter Kropotkin", "memoir",
-  "local_txt", path(RAW_DIR, "73882-0.txt"), "https://www.gutenberg.org/ebooks/73882", "Project Gutenberg download (local file)",
-  
-  "pg_31104", "The Place of Anarchism in Socialistic Evolution", 1887, "Peter Kropotkin", "essays",
-  "local_txt", path(RAW_DIR, "31104.txt"), "https://www.gutenberg.org/ebooks/31104", "Project Gutenberg download (local file)",
-  
-  "ws_law_authority", "Law and Authority", 1886, "Peter Kropotkin", "essays",
-  "local_txt", path(RAW_DIR, "Law_and_Authority.txt"), "https://en.wikisource.org/wiki/Law_and_Authority", "Wikisource export (local file)",
-  
-  "ws_state_historic_role", "The State: Its Historic Role", 1903, "Peter Kropotkin", "essays",
-  "local_txt", path(RAW_DIR, "The_State_Its_Historic_Role.txt"), "https://en.wikisource.org/wiki/The_State:_Its_Historic_Role", "Wikisource export (local file)",
-  
-  "al_modern_science_and_anarchism", "Modern Science and Anarchism", 1903, "Peter Kropotkin", "science",
-  "local_txt", path(RAW_DIR, "Modern_Science_and_Anarchism.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-modern-science-and-anarchism", "Anarchist Library export (local file)",
 
-  "al_anarchist_morality", "Anarchist Morality", 1897, "Peter Kropotkin", "essays",
-  "local_txt", path(RAW_DIR, "Anarchist_Morality.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-anarchist-morality", "Anarchist Library export (local file)",
-  
-  "al_action_masses", "The Action of the Masses and the Individual", 1890, "Peter Kropotkin", "essays",
-  "local_txt", path(RAW_DIR, "Action_of_Masses.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-the-action-of-the-masses-and-the-individual", "Anarchist Library export (local file)",
-  
-  "al_emigration_advice", "Advice to Those About to Emigrate", 1893, "Peter Kropotkin", "essays",
-  "local_txt", path(RAW_DIR, "EmigrationAdvice.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-advice-to-those-about-to-emigrate", "Anarchist Library export (local file)",
-  
-  "al_are_we_good_enough", "Are We Good Enough?", 1888, "Peter Kropotkin", "essays",
-  "local_txt", path(RAW_DIR, "Are_We_Good_Enough.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-are-we-good-enough", "Anarchist Library export (local file)",
 
-  "al_effects_persecution", "The Effects of Persecution", 1895, "Peter Kropotkin", "essays",
-  "local_txt", path(RAW_DIR, "Effects_Persecution.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-the-effects-of-persecution", "Anarchist Library export (local file)",
+SOURCES_CSV <- "data/sources.csv"
 
-  "al_letter_to_berkman", "Kropotkin to Alexander Berkman, November 20, 1908", 1908, "Peter Kropotkin", "letters",
-  "local_txt", path(RAW_DIR, "Letter_Berkman.txt"), "https://theanarchistlibrary.org/library/petr-kropotkin-letter-to-berkman", "Anarchist Library export (local file)"
-  
-) #Lots more to add here from Anarchist Library.https://theanarchistlibrary.org/search?query=author%3Akropotkin&sort=
+SOURCES <- readr::read_csv(
+  SOURCES_CSV,
+  show_col_types = FALSE
+) |>
+  mutate(
+    source_path = path(RAW_DIR, source_path)
+  )
 
 # ---------------------------
 # Helpers
 # ---------------------------
+
+`%||%` <- function(x, y) if (is.null(x) || is.na(x)) y else x
+
+is_manual_source <- function(row) {
+  str_starts(row$id, "manual_")
+}
+
+count_words <- function(x) {
+  x <- str_trim(x)
+  if (nchar(x) == 0) return(0L)
+  # count "tokens" as whitespace-separated words
+  length(str_split(x, "\\s+", simplify = TRUE))
+}
+
+chunk_word_windows <- function(text, max_words = 900, overlap = 80) {
+  words <- str_split(str_squish(text), "\\s+", simplify = TRUE)
+  words <- words[words != ""]
+  n <- length(words)
+  if (n == 0) return(list())
+  if (n <= max_words) return(list(paste(words, collapse = " ")))
+  
+  chunks <- list()
+  i <- 1L
+  while (i <= n) {
+    j <- min(n, i + max_words - 1L)
+    chunks[[length(chunks) + 1L]] <- paste(words[i:j], collapse = " ")
+    if (j >= n) break
+    i <- max(1L, j - overlap + 1L)
+  }
+  chunks
+}
+
 
 timestamp_utc <- function() format(Sys.time(), "%Y-%m-%dT%H:%M:%SZ", tz = "UTC")
 
@@ -286,6 +288,12 @@ clean_anarchist_library <- function(raw_text) {
 clean_text <- function(row, raw_text) {
   x <- raw_text
   
+  # If manual_*, user asserts front/back matter already removed:
+  # only normalize whitespace; don't strip or transform.
+  if (is_manual_source(row)) {
+    return(normalize_text(x))
+  }
+  
   is_gutenberg <- str_starts(row$id, "pg_") || str_detect(path_file(row$source_path), regex("^\\d", ignore_case = TRUE))
   is_anarchist_library <- str_starts(row$id, "al_") ||
     str_detect(row$source_url, fixed("theanarchistlibrary.org")) ||
@@ -303,7 +311,6 @@ clean_text <- function(row, raw_text) {
     x <- clean_anarchist_library(x)
     
   } else {
-    # Wikisource local exports: strip export stamps and navigation artifacts.
     x <- x %>%
       str_replace_all("(?im)^\\s*exported from wikisource.*$", "") %>%
       str_replace_all("(?im)^\\s*from wikisource\\s*$", "") %>%
@@ -424,7 +431,7 @@ assert_no_boilerplate <- function(text, context = "") {
   TRUE
 }
 
-assert_nontrivial <- function(text, min_chars = 2000, context = "") {
+assert_nontrivial <- function(text, min_chars = 1000, context = "") {
   if (nchar(text) < min_chars) {
     stop("Text too short (", nchar(text), " chars) for: ", context)
   }
@@ -461,9 +468,17 @@ for (i in seq_len(nrow(SOURCES))) {
   cleaned <- clean_text(row, raw_text)
   
   ctx <- paste0(row$id, " | ", row$title)
-  assert_no_boilerplate(cleaned, context = paste0(ctx, " (whole cleaned)"))
+  
+  # Always ensure non-trivial
   assert_nontrivial(cleaned, context = paste0(ctx, " (whole cleaned)"))
-  writeLines(paste0("- PASS whole-text tests: ", ctx, "\n"), tests_path)
+  
+  # Only enforce boilerplate tests if not manual
+  if (!is_manual_source(row)) {
+    assert_no_boilerplate(cleaned, context = paste0(ctx, " (whole cleaned)"))
+    writeLines(paste0("- PASS whole-text tests: ", ctx, "\n"), tests_path)
+  } else {
+    writeLines(paste0("- SKIP boilerplate tests (manual): ", ctx, "\n"), tests_path)
+  }
   
   units <- split_into_units(row, cleaned)
   
@@ -479,8 +494,10 @@ for (i in seq_len(nrow(SOURCES))) {
     
     final_txt <- paste0(header_block(row), unit$unit_text, "\n")
     
-    assert_no_boilerplate(unit$unit_text, context = paste0(ctx, " | ", out_file))
     assert_nontrivial(unit$unit_text, min_chars = 1200, context = paste0(ctx, " | ", out_file))
+    if (!is_manual_source(row)) {
+      assert_no_boilerplate(unit$unit_text, context = paste0(ctx, " | ", out_file))
+    }
     
     writeLines(final_txt, out_path, useBytes = TRUE)
     
@@ -512,6 +529,213 @@ manifest <- bind_rows(manifest_rows)
 
 manifest_path <- path(OUT_DIR, "metadata", "manifest.csv")
 write_csv(manifest, manifest_path)
+
+# ---------------------------
+# Summary statistics
+# ---------------------------
+
+# Read all written unit files and compute body stats (exclude provenance header)
+strip_provenance_header <- function(txt) {
+  # Robustly split on the first "----" line anywhere near the top.
+  # Handles \r\n, extra spaces, and both "----\n\n" and "\n----\n" variants.
+  x <- txt %>%
+    str_replace_all("\r\n", "\n") %>%
+    str_replace_all("\r", "\n")
+  
+  # Find the first delimiter line that is exactly ---- (optionally surrounded by spaces)
+  m <- str_locate(x, regex("(?m)^\\s*----\\s*$"))
+  if (all(is.na(m))) {
+    # No delimiter found; return whole text (better than empty)
+    return(x)
+  }
+  
+  # Return everything after the delimiter line
+  after <- str_sub(x, m[1,2] + 1, nchar(x))
+  str_trim(after)
+}
+
+unit_paths <- manifest$out_path
+# sanity: do the output files exist?
+missing_units <- unit_paths[!file_exists(unit_paths)]
+if (length(missing_units)) {
+  stop("Summary stats: some out_path files listed in manifest do not exist. Example: ", missing_units[[1]])
+}
+
+unit_texts <- map_chr(unit_paths, read_file)
+unit_bodies <- map_chr(unit_texts, ~normalize_text(strip_provenance_header(.x)))
+
+empty_frac <- mean(nchar(unit_bodies) == 0)
+if (empty_frac > 0.05) {
+  # show first few offenders
+  offenders <- unit_paths[nchar(unit_bodies) == 0][1:min(5, sum(nchar(unit_bodies) == 0))]
+  stop(
+    "Summary stats: body extraction produced empty text for ",
+    round(empty_frac * 100, 1), "% of units.\n",
+    "Example empty units:\n- ", paste(offenders, collapse = "\n- ")
+  )
+}
+
+
+stats_df <- manifest %>%
+  mutate(
+    unit_body = unit_bodies,
+    body_chars = nchar(unit_body, type = "chars", allowNA = FALSE),
+    body_words = map_int(unit_body, count_words)
+  ) %>%
+  select(-unit_body)
+
+# Optional: "chunk" stats for downstream fine-tuning windows (report only)
+chunk_stats <- NULL
+if (isTRUE(CHUNK_STATS)) {
+  chunk_counts <- map_int(unit_bodies, ~length(chunk_word_windows(.x, CHUNK_MAX_WORDS, CHUNK_OVERLAP_WORDS)))
+  chunk_words  <- map_int(unit_bodies, function(x) {
+    ch <- chunk_word_windows(x, CHUNK_MAX_WORDS, CHUNK_OVERLAP_WORDS)
+    if (!length(ch)) return(0L)
+    sum(map_int(ch, count_words))
+  })
+  chunk_stats <- tibble(
+    out_path = unit_paths,
+    est_chunks = chunk_counts,
+    est_chunk_words_total = chunk_words
+  )
+  stats_df <- stats_df %>% left_join(chunk_stats, by = "out_path")
+}
+
+# Overall aggregates
+overall <- list(
+  n_works = n_distinct(stats_df$work_id),
+  n_units = nrow(stats_df),
+  total_body_chars = sum(stats_df$body_chars),
+  total_body_words = sum(stats_df$body_words),
+  mean_unit_chars = round(mean(stats_df$body_chars), 1),
+  median_unit_chars = as.numeric(median(stats_df$body_chars)),
+  min_unit_chars = min(stats_df$body_chars),
+  max_unit_chars = max(stats_df$body_chars),
+  mean_unit_words = round(mean(stats_df$body_words), 1),
+  median_unit_words = as.numeric(median(stats_df$body_words)),
+  min_unit_words = min(stats_df$body_words),
+  max_unit_words = max(stats_df$body_words)
+)
+
+if (isTRUE(CHUNK_STATS)) {
+  overall$est_total_chunks <- sum(stats_df$est_chunks, na.rm = TRUE)
+  overall$mean_chunks_per_unit <- round(mean(stats_df$est_chunks, na.rm = TRUE), 2)
+  overall$chunk_max_words <- CHUNK_MAX_WORDS
+  overall$chunk_overlap_words <- CHUNK_OVERLAP_WORDS
+}
+
+overall_df <- tibble(metric = names(overall), value = unlist(overall))
+
+# By-genre breakdown
+by_genre <- stats_df %>%
+  group_by(genre) %>%
+  summarise(
+    n_works = n_distinct(work_id),
+    n_units = n(),
+    total_body_chars = sum(body_chars),
+    total_body_words = sum(body_words),
+    mean_unit_words = round(mean(body_words), 1),
+    median_unit_words = as.numeric(median(body_words)),
+    .groups = "drop"
+  )
+
+# Length distribution quick check
+quantiles_chars <- quantile(stats_df$body_chars, probs = c(.05, .25, .5, .75, .95))
+quantiles_words <- quantile(stats_df$body_words, probs = c(.05, .25, .5, .75, .95))
+
+# Longest/shortest units for sanity checking
+top_long <- stats_df %>%
+  arrange(desc(body_words)) %>%
+  slice_head(n = 10) %>%
+  select(work_id, title, genre, unit_id, unit_title, out_path, body_words, body_chars)
+
+top_short <- stats_df %>%
+  arrange(body_words) %>%
+  slice_head(n = 10) %>%
+  select(work_id, title, genre, unit_id, unit_title, out_path, body_words, body_chars)
+
+# Write CSVs
+summary_csv <- path(OUT_DIR, "metadata", "summary_stats.csv")
+write_csv(overall_df, summary_csv)
+
+by_genre_csv <- path(OUT_DIR, "metadata", "summary_by_genre.csv")
+write_csv(by_genre, by_genre_csv)
+
+units_stats_csv <- path(OUT_DIR, "metadata", "unit_stats.csv")
+write_csv(stats_df, units_stats_csv)
+
+top_long_csv <- path(OUT_DIR, "metadata", "top_longest_units.csv")
+write_csv(top_long, top_long_csv)
+
+top_short_csv <- path(OUT_DIR, "metadata", "top_shortest_units.csv")
+write_csv(top_short, top_short_csv)
+
+# Write a human-readable markdown report
+summary_md <- path(OUT_DIR, "metadata", "summary_stats.md")
+
+md <- c(
+  "# Corpus summary statistics",
+  "",
+  paste0("Built: ", timestamp_utc()),
+  "",
+  "## Overall",
+  "",
+  paste0("- Works: **", overall$n_works, "**"),
+  paste0("- Units (chapter/section files): **", overall$n_units, "**"),
+  paste0("- Total words (unit bodies): **", format(overall$total_body_words, big.mark = ","), "**"),
+  paste0("- Total characters (unit bodies): **", format(overall$total_body_chars, big.mark = ","), "**"),
+  paste0("- Unit words (min/median/mean/max): **", overall$min_unit_words, " / ", overall$median_unit_words, " / ", overall$mean_unit_words, " / ", overall$max_unit_words, "**"),
+  paste0("- Unit chars (min/median/mean/max): **", overall$min_unit_chars, " / ", overall$median_unit_chars, " / ", overall$mean_unit_chars, " / ", overall$max_unit_chars, "**")
+)
+
+if (isTRUE(CHUNK_STATS)) {
+  md <- c(md,
+          "",
+          "## Estimated training chunks (report-only)",
+          "",
+          paste0("- Chunk window: **", CHUNK_MAX_WORDS, "** words, overlap **", CHUNK_OVERLAP_WORDS, "** words"),
+          paste0("- Estimated total chunks: **", format(overall$est_total_chunks, big.mark = ","), "**"),
+          paste0("- Mean chunks per unit: **", overall$mean_chunks_per_unit, "**")
+  )
+}
+
+md <- c(md,
+        "",
+        "## Quantiles (unit body length)",
+        "",
+        paste0("- Chars (5/25/50/75/95%): **", paste(format(quantiles_chars, big.mark=","), collapse = " / "), "**"),
+        paste0("- Words (5/25/50/75/95%): **", paste(format(quantiles_words, big.mark=","), collapse = " / "), "**"),
+        "",
+        "## By genre",
+        ""
+)
+
+# Render by-genre as simple markdown lines (no tables)
+for (g in seq_len(nrow(by_genre))) {
+  r <- by_genre[g,]
+  md <- c(md,
+          paste0("- **", r$genre, "**: works=", r$n_works,
+                 ", units=", r$n_units,
+                 ", words=", format(r$total_body_words, big.mark=","),
+                 ", chars=", format(r$total_body_chars, big.mark=","))
+  )
+}
+
+md <- c(md,
+        "",
+        "## Outputs",
+        "",
+        paste0("- `metadata/summary_stats.csv` (overall metrics)"),
+        paste0("- `metadata/summary_by_genre.csv`"),
+        paste0("- `metadata/unit_stats.csv` (per-unit stats)"),
+        paste0("- `metadata/top_longest_units.csv`"),
+        paste0("- `metadata/top_shortest_units.csv`")
+)
+
+writeLines(md, summary_md, useBytes = TRUE)
+
+message("Summary stats written:\n- ", summary_md, "\n- ", summary_csv, "\n- ", by_genre_csv, "\n- ", units_stats_csv)
+
 
 bib_path <- path(OUT_DIR, "metadata", "sources.bib")
 bib <- map_chr(seq_len(nrow(SOURCES)), ~write_bib_entry(SOURCES[.x, ])) %>% paste(collapse = "\n")

@@ -1,0 +1,14 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:58Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## The Caucasus
+
+For this passionate cry of his heart, Lérmontoff was exiled at once. Only the intervention of his powerful friends prevented him from being marched straight to Siberia. He was transferred from the regiment of guards to which he belonged to an army regiment in the Caucasus. Lérmontoff was already acquainted with the Caucasus: he had been taken there as a child of ten, and he had brought back from this sojourn an ineffaceable impression Now the grandeur of the great mountain range impressed him still more forcibly. The Caucasus is one of the most beautiful regions on earth. It is a chain of mountains much greater than the Alps, surrounded by endless forests, gardens, and steppes, situated in a sounthern climate, in a dry region where the transparency of the air enhances immensely the natural beauty of the mountains. The snow-clad giants are seen from the Steppes scores of miles away, and the immensity of the chain produces an impression which is equalled nowhere in Europe. Moreover, a half-tropical vegetation clothes mountain slopes, where the villages nestle, with their semi-military aspect and their turrets, basking in all the gorgeous sunshine of the East, or concealed in he dark shadows of the narrow gorges, and populated by a race of people among the most beautiful of Europe. Finally, at the time Lérmontoff was there the mountaineers were fighting against the Russian invaders with unabated courage and daring for each valley of their native mountains.
+

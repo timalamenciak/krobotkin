@@ -1,0 +1,14 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:58Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Influence of Shelley
+
+The intellectual aspect of Lérmontoff is nearer to Shelley than to any other poet. He was deeply impressed by the author of Prometheus Bound; but he did not try to imitate Shelley. In his earliest productions he did indeed imitate Púshkin and Púshkin’s Byronism; but he very soon struck a line of his own. All that can be said is, that the mind of Lérmontoff was disquieted by the same great problems of Good and Evil struggling in the human heart, as in the universe at large, which disquieted Shelley. Like Shelley among the poets, and like Schopenhauer among the philosophers, he felt the coming of that burning need of a revision of the moral principles now current, so characteristic of our own times. He embodied these ideas in two poems, The Demon and Mtsýri, which complete each other. The leading idea of the first is that of a fierce soul which has broken with both earth and heaven, and looks with contempt upon all who are moved by petty passions. An exile from paradise and a hater of human virtues, he knows these petty passions, and despises them with all his superiority. The love of this demon towards a Georgian girl who takes refuge from his love in a convent, and dies there — what more unreal subject could be chosen? And yet, on reading the poem, one is struck at every line by its incredible wealth of purely realistic, concrete descriptions of scenes and of human feelings, all of the most exquisite beauty. The dance of the girl at her Georgian castle before the wedding, the encounter of the bridegroom with robbers and his death, the galloping of his faithful horse, the sufferings of the bride and her retirement to a convent, nay , the love itself of the demon and every one of the demon’s movements — this is of the purest realism in the highest sense of the word: that realism with which Púshkin had stamped Russian literature once and for all.
+

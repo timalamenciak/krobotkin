@@ -1,0 +1,14 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:21Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Maykoff
+
+APOLLON MAYKOFF (1821–1897) is often described as a poet of pure art for art’s sake; at any rate, this is what he preached in theory; but in reality his poetry belonged to four distinct domains. In his youth he was a pure admirer of antique Greece and Rome, and his chief work, Two Worlds, was devoted to the conflict between antique paganism and natureism and Christianity — the best types in his poem being representatives of the former. Later on he wrote several very good pieces of poetry devoted to the history of the Church in mediaeval times. Still later, in the sixties, he was carried away by the liberal movement in Russia and in Western Europe, and his poems were imbued with its spirit of freedom. He wrote during those years his best poems, and made numbers of excellent translations from Heine. And finally, after the liberal period had come to an end in Russia, he also changed his opinions and began to write in the opposite direction, losing more and more both the sympathy of his readers and his talent. Apart from some of the productions of this last period of decay, the verses of Máykoff are as a rule very musical, really poetical, and not devoid of force. In his earlier productions and in some pieces of his third period, he attained real beauty.
+

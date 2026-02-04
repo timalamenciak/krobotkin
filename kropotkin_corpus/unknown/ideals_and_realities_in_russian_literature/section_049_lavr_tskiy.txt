@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:08Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Lavrétskiy
+
+However, with such men as Rúdin further progress in Russia would have been impossible: new men had to appear. And so they did: we find them in the subsequent novels of Turguéneff — but they meet with what difficulties, what pains they undergo! This we see in Lavrétskiy and Líza (A Nobleman’s Retreat) who belonged to the intermediate period. Lavrétskiy could not be satisfied with Rúdin’s rôle of an errant apostle; he tried his hands at practical activity; but he also could not find his way amidst the new currents of life. He had the same artistic and philosophical development as Rúdin; he had the necessary will; but his powers of action were palsied — not by his power of analysis in this case, but by the mediocrity of his surroundings and by his unfortunate marriage. Lavrétskiy ends also in wreck.
+
+A Nobleman’s Retreat was an immense success. It was said that, together with the autobiographic tale, First Love, it was the most artistic of Turguéneff’s works. This, however, is hardly so. Its great success was surely due, first of all, to the wide circle of readers to whom it appealed. Lavrétskiy has married most unfortunately — a lady who soon becomes a sort of a second-rate Parisian lioness. They separate; and then he meets with a girl, Líza, in whom Turguéneff has given the best impersonation imaginable of the average, thoroughly good and honest Russian girl of those times. She and Lavrétskiy fall in love with each other. For a moment both she and Lavrétskiy think that the latter’s wife is dead — so it stood, at least, in a Paris feuilleton; but the lady reappears bringing with her all her abominable atmosphere, and Líza goes to a convent. Unlike Rúdin or Bazároff, all the persons of this drama, as well as the drama itself, are quite familiar to the average reader, and for merely that reason the novel appealed to an extremely wide circle of sympathisers. Of course, the artistic powers of Turguéneff appear with a wonderful force in the representation of such types as Líza and Lavrétskiy’s wife, Líza’s old aunt, and Lavrétskiy himself. The note of poetry and sadness which pervades the novel carries away the reader completely. And yet, I may venture to say, the following novel, On the Eve, far superseded the former both in the depth of its conception and the beauty of its workmanship.
+

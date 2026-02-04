@@ -1,0 +1,18 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:06Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Realism in the Russian novel
+
+Realism in art was much discussed some time ago, in connection chiefly with the first writings of Zola; but we, Russians, who had had Gógol, and knew realism in its best form, could not fall in with the views of the French realists. We saw in Zola a tremendous amount of the same romanticism which he combated; and in his realism, such as it appeared in his writings of the first period, we saw a step backwards from the realism of Balzac. For us, realism could not be limited to a mere anatomy of society: it had to have a higher background; the realistic description had to be made subservient to an idealistic aim. Still less could we understand realism as a description only of the lowest aspects of life, because, to limit one’s observations to the lowest aspects only, is not to be a realist. Real life has beside and within its lowest manifestations its highest ones as well. Degeneracy is not the sole nor dominant feature of modern society, if we look at it as a whole. Consequently, the artist who limits his observations to the lowest and most degenerate aspects only, and not for a special purpose, does not make us understand that he explores only one small corner of life. Such an artist does not conceive life as it is: he knows but one aspect of it, and this is not the most interesting one.
+
+Realism in France was certainly a necessary protest, partly against unbridled Romanticism, but chiefly against the elegant art which glided on the surface and refused to glance at the often most inelegant motives of elegant acts — the art which purposely ignored the often horrible consequences of the so-called correct and elegant life. For Russia, this protest was not necessary. Since Gógol, art could not be limited to any class of society. It was bound to embody them all, to treat them all realistically, and to penetrate beneath the surface of social relations. Therefore there was no need of the exaggeration which in France was a necessary and sound reaction. There was no need, moreover, to fall into extremes in order to free art from dull moralisation. Our great realist, Gógol, had already shown to his followers how realism can be put to the service of higher aims, without losing anything of its penetration or ceasing to be a true reproduction of life.
+
+** Chapter 4: Turguéneff — Tolstóy
+

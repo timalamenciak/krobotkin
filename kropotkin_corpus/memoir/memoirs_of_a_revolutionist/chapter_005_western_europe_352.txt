@@ -4,7 +4,7 @@ YEAR: 1906
 SOURCE_ID: pg_73882
 SOURCE_PATH: data/raw/73882-0.txt
 SOURCE_URL: https://www.gutenberg.org/ebooks/73882
-RETRIEVED_UTC: 2026-02-03T20:58:49Z
+RETRIEVED_UTC: 2026-02-04T16:54:52Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

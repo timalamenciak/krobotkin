@@ -1,0 +1,1110 @@
+#title The Terror in Russia
+#author Pëtr Kropotkin
+#LISTtitle Terror in Russia, The
+#SORTauthors Pëtr Kropotkin
+#SORTtopics Russia, repression, prison, exile, execution, suicide, torture, police violence
+#date 1909
+#source Retrieved on 20<sup>th</sup> May 2021 from [[http://www.revoltlib.com/anarchism/the-terror-in-russia/view.php][www.revoltlib.com]]
+#lang en
+
+
+** Introduction
+
+The present conditions in Russia are so desperate that it is a public duty to lay before this country a statement of these conditions, with a solemn appeal to all lovers of liberty and progress for moral support in the struggle that is now going on for the conquest of political freedom.
+
+In the struggle for freedom each country must work out its own salvation; but we should not forget that there exists a web of international solidarity between all civilized countries. It is true that the loans contracted by the heads of despotic states in foreign countries contribute to support despotism. But Russian exiles also know from their own experience how the moral support which the fighters for liberty have never failed to find in the enlightened portions of the civilized nations has been helpful to them, and how much it has aided them to maintain faith in the ultimate victory of freedom and justice.
+
+It has been decided, therefore, to issue the present statement,in which, after a careful inquiry, a large amount of well-authenticated facts has been brought together, giving an insight into the deplorable conditions that now prevail in Russia. Attention has been chiefly directed to the conditions which are found in the Russian prisons and among the exiles--conditions so deplorable that they leave far behind all that as been published in this country about the Russian prisons and exile for the last thirty years--even during the reaction that set in after the year 1881.
+
+In preparing this statement the utmost pains have been
+
+B
+
+taken to eliminate all facts and accusations which have not been authenticated. Either they have been officially corroborated by sentences of the Courts pronounced upon police and prison officials convicted of gross abuses of their powers; or they were the subject of interpellations in the Duma, and were not contradicted by the Ministry; or they were reported in the moderate papers of the Russian daily Press, with a full specification of names and dates, notwithstanding all the rigors of censorship, and were not contradicted either by the official “Information Bureau” or the official and semiofficial organs of the Press. Any evidence which, although substantially correct, might have been suspected of exaggeration, has been carefully excluded.
+
+There is no question that the movement of the years 1905–1907 has produced a deep change in the whole aspect of thought and sentiment in Russia. The peasant, the workman, the clerk, the small tradesman are no longer so submissive to every rural police officer as they formerly were. New ideas, new aspirations, new hopes, and, above all, a new interest in public life have been developed in them, since it was officially declared in October, 1905, that the nation would henceforward have the right to express its wishes and to exercise legislative power through its representatives, and that the policy of the Government would be a liberal policy. But, after it had been solemnly declared that the political life of the country was to be reconstructed on new principles, and that, to use the very words of the Czar’s Manifesto, “the population is to be given the inviolable foundation of civil rights, based on the actual inviolability of the person, and freedom of belief, of speech, of organization, and meeting “--after that declaration had been solemnly promulgated, those who tried to realize these principles have been treated as rebels, guilty of high treason.
+
+Not only are the representatives of the advanced parties prosecuted for all they said and did during the years 1906–1907, but even the most moderate party, the Ocobrists, who take their standpoint on the letter of the October manifesto, are treated by the officials, high and low, of M. Stolypin’s Government as preaching treasonable doctrines. The only political party which has hitherto received the Czar’s personal approval, and is recognized by him as loyal, is the Union of the Russian Men; but, as it now appears from revelations which have at last reached the Law Courts, this party has not only taken a lively part in the organization of <em>pogroms</em> against the Jews, and the “intellectuals” in general, but its President is now indicted before a Criminal Court on the charge of instigating and paying for the murder of Herzenstein, a member of the First Duma, who was considered as the best financial authority in matters concerning the peasants. He is similarly charged with complicity in the murder of M. Yollos, another respected member of the same Duma, also an authority on matters affecting the peasantry.[1]
+
+As regards the present Ministry, it has declared itself during recent debates in the Duma incapable of governing the country without maintaining the state of siege over portions of Russia. This system, however, has lately been so much extended that at this moment nearly two-thirds of the provinces of the Russian Empire have been placed under the rule of specially nominated Governors-General, who have been given almost dictatorial powers, including the right of putting people to death without trial, and without even sending them before a Court Martial. This unheard-of right was confirmed lately by a decision of the First Department of the Senate, which has recognized that in the provinces where a state of siege has been declared such a power of life and death without trial was actually conferred upon the Governors-General by the decree of the Czar ordaining the rules to be followed during a state of siege.
+
+At the same time it is the policy of the present Government to institute prosecutions against all those who, during the years 1905–1907, taking the words of the Imperial Manifesto in their proper sense, had acted in conformity with those words, considering that the nation had been really granted political rights. The publishers of books, which were issued in those years by the hundred and which at that time were held to have satisfied the rules of censorship, are now prosecuted on the ground of having committed breaches of the law and are condemned to one and two years’ imprisonment in a fortress. Organizers of meetings and speakers who were expressing ideas absolutely lawful from a constitutional point of view are now prosecuted as revolutionists. Organizers of armed resistance against <em>pogroms</em> (Jew-baiting) are now treated as revolutionists of the worst description, and an uninterrupted succession of trials is directed against men of peaceful life for what is now described as a breach of the law, but was quite constitutional two years ago. In fact, it may be said, as it is said in the Press of Russia itself, that these prosecutions can be described only as the revenge of bureaucracy for all that was said during those months against its misrule. These prosecutions, of which a few examples will be given in this statement, are increasing so fast in number that it is feared that all liberal-minded men in Russia, however moderate their opinions, will in turn be arraigned before military and other exceptional Courts if the present <em>régime</em> continues.
+
+Another feature of the present state of things is the large number of prosecutions which are a direct result of the work of agents provocateurs like the well-known Azeff. Much prominence was lately given to the Azeff affair, and it was indeed a remarkable discovery that a man who had taken most active part in the organization of the murder of the Minister of the Interior, Von Plehve, in July, 1904, of the Grand Duke Sergius in 1905, and of General Bogdanovitch at Ufa, had organized all these plots with the knowledge and partly with the money of the Russian secret police, or at least of that part of that police which has for its special mission the <em>Okhrana</em> (“Protection”) of the Emperor himself. But the Azeff scandals are only the most striking of many other scandals which have been lately discovered. Indeed, it has been proved by the materials brought before the First Duma by Prince Ouroussoff that quite a number of agents provocateurs were in 1905–1906 organizing <em>pogroms</em> of the Jews, the killing of the intellectuals in Tomsk and in Tver, the plots against the Governors of the different provinces, and so-called “expropriations”--that is, extorting money under menace of death. For these purposes the agents of the police imported from abroad large quantities of revolutionary literature (as has been proved in the case of Azeff), and also arms and explosives; or else they organized the manufacture of bombs within Russia itself, sometimes with money granted by the head of the Police Department, as was revealed in the Lopukhin case.
+
+The policy of the Government of M. Stolypin having been for the last two years to wreak vengeance on those who took any active part in the liberation movement that followed the Manifesto of October 30, 1905, it is easy to conceive what masses of people have been arrested, brought before the Courts, transported to Siberia, or exiled to different parts of the Empire by simple administrative orders. The result is, that the prisons of Russia are so overcrowded at the present moment that they contain, according to official statements, something like 181,000 prisoners, although the utmost capacity for which they were designed is only 107,000. But as there are several provinces in which the arrests were especially numerous, we learn from the official statements made in the Duma during the discussion on the Prisons Budget, that there are lock-ups and transfer prisons in which the number of prisoners is three to four times as great as their holding capacity. The consequence of this overcrowding is that the prison administration finds it absolutely impossible to supply to their inmates even the small degree of sanitary accommodation which is ordained by law. Typhus has spread in alarming proportions in the prisons of the Empire, and its presence has already declared itself in 65 provinces out of 100.
+
+In most of these overcrowded prisons the inmates have absolutely no beds or bedding; and in many not even the wooden platforms along the walls which were formerly used. They sleep on the bare floor without any covering or bedding but the old, worn-out clothing, literally full of vermin, which is delivered to them by the prison administration. Under such conditions it is impossible to speak of any sanitary arrangements. The sufferers from typhus and scurvy lie side by side with the other prisoners, and it is only when prisoner is in a dying condition that he is removed to some hospital. Cases are known of typhoid patients being brought on stretchers before the Court and sent back by the judges. A man was hanged while suffering from typhus, and having a temperature of 104°.
+
+All this leads necessarily to acts of rebellion among the prisoners, which in their turn lead to repression in the most abominable form, and to wholesale shootings. Brutality of the worst kind has become quite habitual in all the lock-ups, and appalling facts will be found in the documents which I produce further on. Even men who are condemned to be executed are horribly beaten before they are taken to the scaffold, so that in one of the Moscow Courts Martial a man, condemned to be hanged, had to apply to President of the Court for his promise that he should not be beaten to death before execution. The promise in this case was kept, but as a rule the tortures to which men condemned to death are submitted before the execution takes place are so horrible that in a considerable and steadily growing number of cases of suicide the men who were ready to face death calmly could not face the tortures that preceded it. As to the number of death sentences pronounced by the Military Courts and the executions, they are not on the decrease, as M. Stolypin informed Mr. W. T. Stead in July, 1908. They remain stationary, although there is a decided diminution in the number of acts of violence committed by the revolutionists, and in crime altogether (see Chapter III.).
+
+Last summer a discussion took place in the <em>Times</em> with regard to the number of exiles transported to different parts of the Empire by Administrative Order, and it was stated by one of the refugees in London that, contrary to M. Stolypin’s affirmation that their number did not exceed 12,000, there were no less than 78,000 prisoners under those conditions. The Duma lately called on the Department of Police to supply exact figures, and the figures given by the Department were 74,000. The state of these exiles is even more dreadful than has been described in the English Press. It is exaggeration to say that in certain parts of North-Eastern Siberia the position of the exiles is simply desperate, and it is not to be wondered at that acts of rebellion, such as were lately heard of in Turukhansk, should take place.
+
+In short, if the present conditions had to be described in a few words, it might be said that while the agricultural population and the workmen in the towns have been raised to a certain conception of individual self-respect, and while aspirations towards a more human treatment and increased liberty have spread far and wide over the country, we find, on the other hand, among the bureaucracy, high and low, and among its inferior agents in the villages, a real spirit of hatred and cruel revenge against the slightest manifestation of love for freedom, the result being that the relations between the population and the ruling classes have become extremely strained all over Russia. At the same time large numbers are being driven to despair by the arbitrary acts of the lower agents of the Government in the villages and in the small provincial towns. There is at the present time a scarcity of grain in many provinces of European Russia and Siberia, and even famine prevails; but the Government has ordered all the arrears in the payment of taxes and in repayment of previous famine loans to be levied at once, and this is done now, notwithstanding the famine, with a severity which has long been unknown. For the smallest arrears of a few shillings the property of peasant families is sold at auctions, at which the police authorities are the only bidders; cattle, horses, and even the stores of grain and the coming crops are thus sold for a few shillings to some village police official, who afterwards sells them back to the ruined peasant for three or four times the price he has paid.
+
+Moreover, it is estimated that there are now at least something like 700,000 peasants and working men in European Russia alone who have been thrown out of their regular mode of life during the last two years, in consequence of repression after strikes and the like, and who at the present time are mere outlaws wandering from one city to another, compelled to conceal themselves under false names, and without any possibility of returning to their native places and to their previous occupations. There are nearly three-quarters of a million persons whom only a general amnesty would permit to return to regular life and regular earnings.
+
+Such is the condition of Russia, as every one may ascertain for himself from the numerous documents out of which abstracts are given in the following pages.
+
+Earnest appeal is therefore made to all those to whom human progress is dear to use all the weight of their influence to put an end to this reign of White Terror under which that country now lies. It is well known from history that the White Terror such as was seen in the twenties the last century in France after the return of the Bourbons, in Italy before 1859, and later on in Turkey, has never restored tranquility in a country. It only paves the way for new disturbances, it spreads in the country a feeling of utter contempt for human life, it induces habits of violence, and beyond question it would be to the interest of humanity as a whole, and of progress in general, that the state of affairs which now prevails in Russia should be brought to an end.
+
+[1] Interpellation addressed on April 23, 1909, to the Ministry, by the Constitutional Democratic Party.
+
+* Part 1
+
+** Chapter 1
+
+*** Part A : The Prisons, Overcrowding and Typhus
+
+<em>Numbers of Prisoners. Overcrowding.</em>--From an official document communicated to the State Council on March 15, 1909, by the administration of the prisons, it appears that on February 1, 1909, there were in the lock-ups of the Empire 181,137 inmates. This figure, however, does not include those prisoners who are <em>in transportation</em>, and the numbers of whom are estimated officially at about 30,000. Nor does it include an immense number of persons detained <em>at the police lock-ups</em>, both in the towns and in the villages. No approximate idea as to the number of this last category can be obtained, but it has been suggested in the Russian Press that it may be anything between 50,000 and 100,000. The worst is that it is especially in the Police lock-ups that the ill-treatment of the prisoners is the most awful. The famous torture chambers of Grinn at Warsaw, and Gregus at Riga (both condemned by courts) were precisely police lock-ups.
+
+The number of inmates in the prisons has been growing steadily for the last four years. In 1905 the average daily figure for all the prisons of the Empire was 85,000 ; it reached 111,000 in 1906 ; 138,000 in 1907 ; 170,000 in 1908, and on February 1, 1909, it was 181,137. The holding capacity of all the prisons of the Empire being only 107,000 persons, overcrowding is the necessary result, and in some places there are from three to four times more inmates than the prison could possibly contain under normal conditions. The result of this overcrowding is that scurvy and typhus have developed in an alarming proportion, and that, as has been said in the Introduction, nothing is done to prevent the epidemic from spreading over all the prisons of Russia. Unfortunately, it must also be said that the leniency with which countless complaints about brutal treatment in prisons has been met by the Ministry, and the continual release, by personal orders of the Emperor, of those prison officials who have been condemned by the Russian Courts to imprisonment for the brutal treatment of the prisoners, seem to have created among the prison authorities the idea that in tormenting the prisoners they act in accordance with the wishes of the Government. The Ministry of the Interior, as seen from the debates in the Duma, is fully aware, through the official reports addressed to it by the prison governors, of the terrible overcrowding in some of the lock-ups and of the resulting epidemics. But it takes no measures to prevent either the overcrowding or the spread of these epidemics among the prisoners.
+
+Even in the great prisons like the <em>Butyrki prison of Moscow</em>, within a few hours of the Ministry of the Interior, even in this prison we are informed by the members of the Duma who have served their time in it, the dress and the linen delivered to the prisoners are falling to pieces ; even in the pillows, which are filled with straw, the straw is changed only once a year. No mattresses are delivered, not even pieces of felt to lie upon, and no blankets ; fresh new linen is delivered only when the visit of a member of the superior administration is expected.[2]
+
+In this prison, which contains 1,300 hard-labor convicts, one-half of whom are politicals, the rooms, which are each twelve paces long by five wide, contain twenty-five prisoners, and the time allowed for taking fresh air is only minutes. Out of the inmates placed on the sick list, 65 percent. are attacked by scurvy ; they remain in the common rooms, all in chains, and are continually beaten and thrashed by the warders. After having beaten a man they will put him into the Black Hole; and the deputies of the Duma imprisoned in this place write about a man Chertetsoff, who, after being beaten for seven days in succession, went mad and died three days later.[3]
+
+The same prison has become such a nest of infection that at a special meeting of the Committee of the Sanitary Inspectors of Moscow on the 2<sup>nd</sup> of March, 1909, it was stated that during the week, from the 15<sup>th</sup> to the 20<sup>th</sup> of February, no less than 70 men were taken ill with recurrent typhus. The illness has been spread to the barracks of the sappers by the men who kept guard in the prison, and ten deaths have already taken place there. The Committee concluded that it was absolutely necessary to improve the food of the prisoners ; but this is precisely what the prison authorities will not admit.
+
+The lock-up of the <em>First Don District</em> (province of Don Cossacks) was built for 50 inmates--it contains 205 ; a room, 14 feet long, 10 feet wide, and 8 feet high, with only two windows, contains 26 prisoners. In the <em>Kostroma</em> prison, which was built for 200 persons, there are 400 prisoners. Each prisoner has, as a rule, less than 170 cubic feet of air space, and the allowance has never attained 240 cubic feet (which would mean 3 feet by 8 feet in a room 10 feet high. The rooms are full of parasites. In the <em>Kamenetz</em> prison, built for 400 persons, there are 800 inmates. Each room, calculated for 20 persons, contains 40.
+
+From the <em>Vyatka Transfer</em> prison, one of the chief transfer prisons on the highway to Siberia, a prisoner writes as follows:--
+
+<quote>
+
+“We are kept, from 60 to 70 of us, in rooms calculated to hold 30 to 40 persons only. There are no beds, not even those sleeping platforms which formerly were used instead of beds in Russian prisons. We all sleep on the bare floor, and no blankets are supplied. The damp is awful, and the rooms are full of parasites. The politicals are kept together with the common law convicts. The food [which is described in full] is execrable. All meals are served within the space of four hours, and for 20 hours we remain without food, shut up in our rooms, with windows tightly fastened, and are not allowed to go out of our rooms for any reason whatever.”[4]
+
+</quote>
+
+At the <em>Ekaterinodar</em> prison in the Caucasus, as has been stated by the town authorities at a meeting held on the 5<sup>th</sup> of April last, there is room for 360 prisoners ; but the jail contains 1,200 <em>inmates, out of whom</em> 500 <em>are ill with eruptive typhus</em>. The hospital accommodation is for 80 persons only, the remainder continue to lie with the others in the common rooms. The governor of the prison also fell ill with eruptive typhus.[5]
+
+With regard to the <em>Tiflis</em> central prison in the Mehteh Castle, 403 political and common law prisoners detained there have lately written to the Duma deputy, M. Tcheidze, in the name of 840 inmates of that terrible fortress, complaining of the most abominable sanitary conditions and the unlimited brutality of the prison authorities. Four men been shot during the last month by the sentinels for having approached the windows, the order issued by the commander of the castle in January last being : “Shoot without any warning at the slightest uproar, and as soon as a prisoner approaches the window aim at the head so as to occasion death.”[6]
+
+Last year it became known that several prisons were nests of typhus infection. Thus the <em>Ekaterinoslav</em> zemstvo repo that the <em>Lugansk</em> prison was a breeding-place of typhus for the city and the whole district. In the <em>Kieff</em> prison, which was built for 500 inmates but contains 2,000, the typhus epidemic began already in 1908, and soon in this old building, renowned for its typhus epidemics since 1882, hundreds of men were laid down with typhus. The infirmary, which has accommodation for 95 persons only, contained 339 sick prisoners, the average space which the patients were enjoying being only 210 cubic feet per person (3 feet by 7 feet by 10 feet). The mortality was appalling. From the prison the epidemic spread to the city of Kieff, with the result that the official figures for Kieff for the year 1908 were 9,150 cases of typhus, <em>out of which</em> 2,188 <em>were in the prison</em>.[7]
+
+The head of the prison administration, M. Hruleff, having sent his special commissioner, M. Von Bötticher, to report about the condition of the prisons in the provinces of Kieff, Podolia, and Volhynia, the Commissioner has now sent in a report concerning the <em>Lukoyanoff</em> prison of the province of Kieff. Nearly 2,500 prisoners have died <em>from typhus alone</em> in this old prison--about <em>five hundred every year</em>. In January last there were 222 typhus cases in this prison and 423 in February.[8] The great development of typhus is due to over-crowding, the prison, which has been built for 600 inmates, containing regularly 1,800.[9]
+
+During last winter the epidemic appeared almost everyhere. In <em>Pyatigorsk</em> it appeared in January ; in <em>Perm</em> in February. It was eruptive typhus, and the chief doctor of the zemstvo infirmary, M. Vinográdoff, died on February 2<sup>nd</sup>, after having been infected while he received in the infirmary 18 typhus patients brought from the local prison.[10] In February 70 persons had already died, but the prison administration, as the ex-member of the Duma, M. Polétaeff, writes to the St. Petersburg papers, refused even to permit the prisoners to improve their food at their own expense.[11] Many soldiers and warders were infected in their turn, and another prison doctor, Pilipin, and two warders, as also several soldiers of the military garrison, died from typhus.
+
+In the government of Ekaterinoslav the prisons of <em>Lugan</em> and <em>Bakhmut</em> (a prison which was built for 50 persons, but had 350 inmates) soon were infected. In a few weeks the number of typhus patients in this last prison reached 54, and 100 a few days later.[12] In the capital of the province, at <em>Ekaterinoslav</em>, where 1,317 persons were kept in a building that had been built for 300 inmates, typhus was raging. There were 130 patients in February, 235 in March. There appeared also cholera, which was due to the rotten food distributed to the prisoners and to contaminated water.[13]
+
+In <em>Poltava</em> typhus has raged since November last, and continues still. In the province of <em>Kursk</em> the typhus epidemic broke out in seven different jails ; in the provincial prison all sick continued to be kept in chains, and they were transported in this way to the zemstvo infirmary ; 16 warders all fell ill. In <em>Simpheropol</em> there were in February 86 cases of recurrent typhus and 3 of eruptive typhus ; in March there were 200 cases, and the epidemic showed no signs of abatement.
+
+The same ravages were apparent in the prisons of <em>Kherson, Zenkoff, Radomysl, Berdichef</em>, and several other towns of South-West Russia.[14]
+
+The same in <em>Warsaw</em> (where the prison of the <em>Praga suburb</em> was built for 150 inmates but contained 400 and all the prisoners slept on the bare floor),[15] at <em>Minsk</em>, in <em>Vyazma</em>, government of Smolensk, where 37 prisoners out of 139 and 3 warders out of 10 were stricken by typhus.[16]
+
+<em>Orel, Nijni-Novgorod, Totma</em>, &c., &c., are now in the same condition, and finally in the great <em>Butyrki prison of Moscow</em> there were 70 new typhus cases during one week, from February 22<sup>nd</sup> to March 1<sup>st</sup>. Only later in March an abatement of the epidemic was reported.[17]
+
+At <em>Simpheropol</em> 30 typhus patients are reported; in the <em>children’s reformatory of Ekaterinoslav</em>, 14 boys out of 19 are stricken with typhus. At the <em>Uman</em> and <em>Berdichef</em> jails, no more prisoners are received on account of the terrible epidemic which is raging in these prisons.[18]
+
+The relatives of the political inmates of the <em>Perm</em> prison wrote to the Duma deputy of that province, asking him to do something for them. The prison administration does not allow any additional food to be given to the typhus patients.
+
+There are three cases on record--two of them at <em>Kharkoff</em> and one at <em>Ekaterinoslav</em>--of persons ill with typhus who have been brought before the Courts during their illness. Thus, in the first days of April last, two men accused of robbery were brought before the Court Martial of <em>Kharkoff</em>. Seeing that one of them was quite unable to answer the questions, having not yet recovered from a second attack of recurrent typhus--he was looking like a corpse--the President of the Court asked the Prosecutor to postpone the prosecution, and added : “There is no need to call a doctor ; you have only to look yourself at that man.” The Public Prosecutor, after having approached the prisoner, withdrew his accusation, and the man was returned to the prison.[19]
+
+On February 26<sup>th</sup> the Court Martial, sitting at <em>Ekaterinoslav</em>, was also compelled to interrupt its sitting because one of the lawyers drew the attention of the Court to the fact that one of the prisoners brought before them was ill with typhus. A doctor was called in, the temperature of the prisoner was 104°, and he was returned to the prison.
+
+In <em>St. Petersburg</em> it happened in the beginning of March last, that when a party Of 75 prisoners was brought by rail to this city, several of them were ill with typhus. They were sent to the transfer prison, but there being no room to receive the new-comers, they had to lie all the night on the floor in the passages.[20] Equally bad accounts are given of the typhus epidemic in the <em>Kursk, Penza, Tver, Tchembar</em>, and several other prisons. In this last prison the typhus patients were kept together with all the others in the common rooms. The prison doctor, M. Jimsen, died from typhus.[21]
+
+Private persons and societies for the aid of prisoners are prevented from doing anything to improve the food of the prisoners, and according to the paper <em>Novaya Russ</em>, the Minister of Justice has forbidden the prison authorities to give any information concerning the health of their inmates.
+
+<em>Mode of Transfer of Typhus Patients to an Infirmary</em>.--The following statement, made by a lady in Central Russia and published in the Review <em>Russkoye Bogatstvo</em>, edited by Korolenko, is typical :--
+
+<quote>
+
+“Last summer we were occasionally in the yard of the infirmary of our zemstvo. I saw two carts entering the yard, accompanied by soldiers. Approaching these carts, I saw that they contained typhoid patients who had been brought to the infirmary from the prison. It was a dreadful sight, and made my hair stand on end. One can hardly believe that in the twentieth century, with our present civilization, men could be treated in such a way and brought in such a condition. The men, all unconscious, laid like logs in the cart, knocking their heads against its wooden frame. They had not even put a handful of straw under their heads. The men were lying almost one upon the other. Some were in the last agony ; two of them died an hour or one and a half hours later. All of them were in chains. I saw how the two dead were carried to the chapel--both were fettered. I asked why the chains had not been taken from the dead; it would have been done if they were dogs. They replied that the chains can be taken off only after the death certificate has been signed by the prison doctor. Later on I learned that the typhus patients were kept in the very same room with the others. In our infirmary special rooms were prepared for the typhus prisoners, and warders were brought from the prison to watch them. Accustomed continually to beat the prisoners, these warders began to do the same in the infirmary, so that the zemstvo authorities had to interfere, but, I am afraid, in vain ; they continued to do on a small scale what they had been used to do on a large scale in the prison.”[22]
+
+</quote>
+
+[2] <em>Ryech</em>, January 24, 1909.
+
+[3] <em>Sovremennoye Slovo</em>, January 30, 1909.
+
+[4] Long letter from one of the inmates in <em>Russkoye Bogatstvo</em>, April, 1909, pp. 89–90.
+
+[5] Meeting of the Prison Committee of Ekaterinodar, April 5, 1909, reported in <em>Ryech</em>.
+
+[6] <em>Russkiya Vedomosti</em>, February, 1909.--As might have been foreseen, the above conditions ended in a tragedy. A Tiflis telegram to the Russian dailies says that on May 22<sup>nd</sup>, at 6.30 p.m., as several prisoners, condemned to be executed, were taken to the scaffold, the other prisoners became uproarious. “There are five killed among them,” laconically adds the telegram.
+
+[7] See the St. Petersburg dailies for January 30, 1909.
+
+[8] <em>Kievskiy Vestnik</em>, March 12, 1909.
+
+[9] <em>Novaya Russ</em>, May 21, 1909.
+
+[10] <em>Ryech</em>, February 4, 1909.
+
+[11] <em>Russkiya Védomosti</em>, February 25, 1909.
+
+[12] <em>Ryech</em>, January 17, February 14, 1909.
+
+[13] Ibid., January 27, February 22, 25, and 26, March 7 and 13, 1909.
+
+[14] <em>Kievskiy Vestnik</em>, February 22 March 3, 4, 9, 12, 1909.
+
+[15] <em>Warsaw Echo</em>, reproduced in <em>Ryech</em>, February 19,1909.
+
+[16] See St. Petersburg papers for March 22<sup>nd</sup>.
+
+[17] <em>Russkiya Véd</em>., March 1, 22, April 8, 1909.
+
+[18] This information is taken from the daily telegrams communicated to the St. Petersburg papers during the months of March and April, 1909.
+
+[19] <em>Ryech</em>, April, 1909.
+
+[20] <em>Ryech</em>, March 4, 1909.
+
+[21] Russ. Véd., March 4 1909 (signed article).
+
+[22] <em>Russkoye Bogatstvo</em>, April, 1909, pp. 90, 91.
+
+*** Part B : Ill-treatment and Tortures
+
+Many pages could be covered with the description of the ill-treatment and the tortures in different prisons of Russia. Only some striking instances, however, can be mentioned here.
+
+It is known through the daily Press that there were so many complaints about the misrule of the head of the <em>Moscow</em> police, General Rheinbot, that a special Commission was sent out by the Senate, under Senator Garin, to inquire into the affair. The head of the police just mentioned has been dismissed ; perhaps he will be brought before a Court, and striking instances arising out of his misrule have already been communicated more or less officially to the daily Press.[23] Thus, one of the witnesses, M. Maximoff, examined by the Commission, who had been kept in one of the lock-ups the Moscow police, deposed as follows:--
+
+<quote>
+
+“Here I saw the most brutal treatment of the arrested people. The policemen used to beat those whom they would arrest as much as they liked....It was terrible to live there day by day, and to think that either I would be killed too, or I myself would perhaps become a murderer in resisting these men....They used to beat people in an awful way, sometimes quite innocent men, such, for instance, as an official of the Institution of the Empress Marie, Andrei Gavrilovitch Surkoff. He refused to enter a dark room where they wanted to put him, so they began to beat him with the butt-ends of their rifles, on the head, in the stomach,...everywhere. Finally, he grew wild and seized the nose of the secret agent, Orloff, with his teeth. Only then did they stop. It was then ten o’clock, and at midnight he had been sent to lunatic asylum, and as far as I know he is quite mad by this time.”
+
+</quote>
+
+The names of the agents of the secret police who used thus to treat prisoners are given in full by the witness. The same witness describes a most terrible case of a woman who was arrested on suspicion of robbery ; she would not declare herself guilty.
+
+<quote>
+
+“The agent of the secret police, Lyndin, was examining a young woman suspected of robbery. She explained how she and the watchman were tied by the robbers. Lyndin did not believe her, and began to beat her with his fists in the breast, so that blood flowed from her mouth, and she fell in a swoon ; a few hours later she had a terrible internal hæmorrhage. We saw that beating and we could not stand it. I shouted to Lyndin: ‘Scoundrel that you are why do you kill a human being?’ Whereupon he took out his revolver and threatened to shoot me, but I and another prisoner began to break the partition which separated us. Then they stopped the beating. Three days later they arrested the real robbers, and it was discovered that the woman was absolutely innocent.”
+
+</quote>
+
+It is very seldom that such facts are brought before the Courts. Still it happens occasionally, and then the most scandalous state of affairs is sometimes revealed. Thus in <em>Alexandria,</em> government of <em>Kherson,</em> the present head of the Investigation Department of the police of this district, a certain Tchernyavsky, while he was not yet promoted to that post and was a simple police officer, aided by several prisoners whom he had trained to be his executioners, actually tortured the common law prisoners under arrest. At last the fact leaked out, and the governor of the province ordered an inquiry to be held, whereupon a long succession of witnesses came to testify that they had been fearfully beaten in prison while they were under arrest, and not only beaten, but their hair was pulled out, wounds were inflicted by sharp needles, even the fire torture was resorted to. A medical examination of these witnesses fully confirmed the fact that several of them had broken ribs, broken tympanums, and other serious wounds. However, Tchernyavsky was not dismissed from prison service ; he was only transferred to the political Investigation Department. The inquiry, however, is continuing, and there is a vague hope that this time the affair may not be hushed up.[24]
+
+In March, 1909, in the city of <em>Dvinsk,</em> the police official Leiko and two of his subordinates were prosecuted for tortures practiced at the police-station.[25] But the prosecutions are of no use, as all these torturers know well that they have the full approval of the Union of Russian Men, and as soon as this Union applies to the Czar, asking him to pardon them, they will be pardoned.
+
+At <em>Vorónezh,</em> on March 5<sup>th</sup> last, the prisoner Katasánoff, who had been brought to the psychial hospital of the zemstvo, died from wounds inflicted upon him by the local prison administration.[26]
+
+Tortures are so habitual in the <em>Ekaterinosláv</em> prison that according to the testimony of M. Antónoff, who was kept in that prison and has related his experiences in the St. Petersburg newspaper <em>Ryech,</em> November 21, 1908, “beating and thrashing of the prisoners was continued even upon those who were to be executed in a few days. Thus, the prisoner Gutmacher was beaten with sticks and thrown on the floor, and kicked by the warders down to the very day when he was hanged.” This is so habitual that the ex-deputy of the Second Duma, M. Lomtatidze, in a letter which he wrote to the members of the present Duma and which was reproduced by all the Russian newspapers, communicated following fact:--
+
+<quote>
+
+“Such treatment,” he wrote, “has become so habitual that one anarchist-communist, Sinkóff, having been condemned to death, applied to the President of the Court Martial, asking him to co communicate with the respective prison authorities to ensure that he, Sinkóff, should not be beaten before being hanged, and he promised, in his turn, to march to the scaffold without saying a word, a without bidding his last farewell to the other prisoners. The President of the Court Martial promised to do so, and I think kept his word.”[27]
+
+</quote>
+
+The daily Russian papers having mentioned several cases of ill-treatment of the prisoners, especially in the <em>Algachí</em> and <em>Akatúi</em> prisons of Eastern Siberia, as also the ill-treatment of prisoners in the <em>Schlüssellburg,</em> where they are kept in chains, even in those cases in which this is contrary to law, and the cold in the cells is so intense that the prisoners cannot sleep otherwise than in their sheepskins, the head of the prison administration, M. Khruleff, has lately issued a circular, in which he forbids the prison authorities to treat the prisoners brutally, as they are doing; but this circular will evidently remain a dead letter. In the meantime the prisoners are resorting to the only means of protest which they have at their disposal, that is, the famine strike, which consists refusing to take any food. Such a strike took place in April last at the <em>St. Petersburg House of Correction,</em> where six hundred prisoners refused all food for a number of days, and in <em>Kresty</em> prison, also at St. Petersburg.
+
+In Tobolsk, on March 18, 1908, thirteen prisoners were hanged for an “insurrection.” The head of the military guard, however, told the Court that <em>there was absolutely no insurrection whatever,</em> and that, if he had been allowed to do so, he would have taken all the prisoners to the punishment cells without the slightest resistance on their part; but the warders jumped upon them, using their rifles and shooting them down. This was the cause of the scuffle which followed, and for which thirteen men have been executed.
+
+One of the most scandalous affairs took place in the <em>Astrakhan</em> prison; it has been brought before a Court, and therefore its details have become known. The governor of that prison was a certain Schéffer. One of the prisoners, Iv´noff, was killed by the warders. The prison doctor gave a testimony of natural death, and the man was buried. However, Schéffer’s assistant, M. Pribylovsky, protested, and intended to bring the affair before a Court. The result was that he was found killed on March 9<sup>th</sup> last in a street of Astrakhan. Then the assistant of the head of the police, a certain Yermakóff, a friend of the man killed, began a prosecution for this last murder; it so happened that he had seen the assassins, and when he came to the office of the head of the police, Rakhmáninoff, he discovered in one of the agents of Rakhmáninoff (the agent appointed to watch the revolutionary socialists) the assassin of Schéffer’s assistant. He wanted to arrest him, but Rakhmáninoff made the man disappear. Shortly after that another agent of Rakhmáninoff burned himself in a cell, and Rakhmáninoff himself was found dead in the lodgings of the governor of the province. This mysterious affair was told at full length in a signed article in the newspaper <em>Ryech,</em> April 19, 1909.
+
+“Every moment we expect some terrible scene of wholesale beating to break out, and we continually have poison in readiness,” one of the inmates of a great prison in Siberia writes to her friends.
+
+Last April all those thirteen prisoners who had been condemned to death at the <em>Alexandrovsk</em> prison of the government of Irkutsk, shared in equal parts the poison which they had obtained, in order to swallow it the moment the death sentences would have been confirmed by the Governor-General.
+
+In March last, in the <em>Kursk</em> prison, out of three persons condemned to death, one vainly tried to kill his two other comrades, and finally succeeded in killing himself.[28]
+
+In the <em>Tambof</em> prison, when the Court Martial was sitting last March, and continually pronounced death sentences, there were five attempts at suicide in the prison. Two of them were successful.[29]
+
+All these facts have received a wide publicity in the Russian Press, and through the interpellations in the Duma, as also during the discussions which took place in the Duma when the Prison Budget was under discussion.
+
+Thus on March 16, 1909, when the official figures about the overcrowding of the prisons were received by the Duma, it became evident that the sudden increase of the prison population during the last three years was the reason why an epidemic of typhus is now raging in almost every Russian prison, and almost every town. The Director of the Russian Prison Department admitted in the Duma the fact of the existence of typhus epidemics as well as cases of ill-treatment. He added, however, that his Department is energetically combating these evils. But nevertheless the overcrowding of prisons continues.
+
+“The prison population,” said the Deputy Gherasimoff at the sitting of March 22, 1909, “has increased during the last year alone by 100,000 persons.” With regard to the treatment during the Duma debates of the prisoners, it was mentioned how often the political prisoners were beaten by the warders. In the <em>Vladimir</em> prison five “politicals” were flogged. In the <em>Ekaterinoslav</em> prison the above-mentioned fact about the ill-treatment of Gutmacher, who was tortured after being condemned to death, and beaten with sticks before the execution took place, was confirmed in the Duma. Not only men but women, not excluding invalids, are beaten in the prisons. In the <em>Kostroma</em> prison, the prisoner Phillipof, for having thrown some crumbs out of the window, was put in a strait-waistcoat and beaten to death. “Our prisons,” concluded the Deputy Gherasimov, “are places where humanity is outraged, and where crime is born and bred.”
+
+Finally, on April 7 (20), 1909, after having received from the <em>Sevastopol</em> prison a long letter from the Duma Deputy, Lomtatidze, in which he described in what a terrible way men were executed day after day under his very windows, and after having reproduced this letter in full in their interpellation the Social Democratic section of the Duma addressed to the Prime Minister the following questions:--
+
+<quote>
+
+“Is it known to the President of the Council of the Ministers--
+
+“(1) That in the Sevastopol prison those who are condemned to death are systematically submitted to beating and all sorts of tortures before the death sentence is executed?
+
+“(2) That executions take place even when the condemned man is unconscious, as was the case with a certain Vogt, who was ill with typhus and had a temperature of 40 degrees Centigrade (104 degrees Fahrenheit)?
+
+“(3) That these abominations take place under the very windows of the infirmary, which renders still worse the condition of prisoners under treatment?
+
+“And if this is known, what measures does the President of the Council intend to take to put an end to such cases and to prosecute the guilty persons?”[30]
+
+</quote>
+
+The letter of the Duma Deputy Lomtatidze, having been translated in full in the <em>Daily News</em> of April 13, 1909, it suffices to mention only the following facts:--
+
+During less than one year (the past year) 70 persons were executed in the prison hospital yard within <em>five yards</em> of his window (one of the hospital windows). The scaffold is clearly seen from the hospital. There are now awaiting execution, 15 condemned prisoners, and 90 awaiting sentence.
+
+The prisoners are continually beaten till they are half unconscious, and are often executed in this state.
+
+A certain prisoner named <em>Vogt,</em> though he was ill with typhoid, was taken from his bed and dragged to execution while in a delirious state. M. Lomtatidze adds: “Perhaps this was better, but on me this execution has produced the deepest impression of all.”
+
+The soldiers have been ordered to shoot at the prisoners as soon as there is any noise in the cells, and as the cries of those who are being beaten and pinioned prior to execution are heard, it is inevitable that the other prisoners should cry out, or even call “Farewell” to those comrades who are being dragged to the scaffold.[31]
+
+On May 16, 1909, the Social Democrat section brought once more the wide question of prisons before the Duma.[32]
+
+Even as they are reported in the papers it would be too long to quote here the debates in full. Therefore, only a few of the main facts are stated, each of which has been carefully verified before being brought before the Duma.
+
+All the cases already stated before the Duma, when questions were put regarding the <em>Ekaterinoslav</em> and <em>Sebastopol</em> prisons--said the Social Democratic Deputy--go to prove that there we have to deal “with a carefully organized system of political revenge on a limited circle of persons.”
+
+In the <em>Orel county prison</em> the physical ill-treatment of prisoners began in the end of 1907, and during 1908 it acquired the aspect of an organized system.
+
+The prisoners are here beaten terribly, till a state of unconsciousness supervenes, and they are half dead. In December, 1907, the assistant of the prison governor--a certain Levitsky--when receiving a prisoner, announced: “We have been given a free hand, do you understand? We will go scot-free. If I choose I can shoot you like a dog...!” During 1907 the prisoners were continually beaten. The same continued during the past year.
+
+A prisoner who petitioned the governor Tchijov, in the name of other prisoners, for some small thing, was taken to a special cell and beaten in a horrible way in the presence of the chief warder. He was beaten by a warder and by the head of the hospital. In his own cell he was again beaten by a warder.
+
+Last year in May a note was found and this was attributed (not proved) to a certain prisoner Akoutin. He was then put in irons--hands and feet--and taken to the “light” cell No. 2 (where prisoners are beaten chiefly). A mad orgy of punishment took place. He was thrown senseless on the asphalt floor. Thence the warders were forced to take hi to the hospital ward, where in a few days he died.
+
+A fourteen years’ old boy was terribly beaten and put in irons by order of the governor. There was no reason for this, as the boy had just been brought from another prison.
+
+The warders beat also the companion of the boy, with whom he had arrived, on the head till he was senseless, and then dragged him about the cell, playing football his senseless body. The first boy had to watch this. One of the chief warders became so lively at this game of football that the others, fearing he would kill the prisoner, called on him to desist.
+
+In the <em>Orel central hard-labor prison</em> the prisoners were and are continually beaten. Latterly the cases of a Socialist Revolutionist Dyakoff and a Moscow lawyer Zhdanoff have come to light. The former was mercilessly beaten. Zhdanoff had handed in some petition for the procureur. He was called up to the procureur, who insulted him. When Zhdanoff returned to his cell, the beating began. He was beaten so terribly that the warders decided they had killed him. This was reported to the assistant of the governor. When the assistant arrived, he began to swear at the warders that they had “killed a prisoner without permission.” Then they saw that the prisoner still breathed. He was taken to the hospital; when he had revived he was taken back to solitary confinement, where he is now and where he is being beaten every few days. The warders say openly, “You won’t live long.”
+
+Prisoners are brought to this prison from other prisons for “correction”--rather for murder. Even the soldier-guards speak with horror and terror of what happens within these walls.
+
+The procureur never visits the prison, and though the treatment of prisoners was brought to his knowledge through his Deputy, and the latter promised that a legal inquiry should be made, of course nothing has been done.
+
+Evidence was then read to the Duma concerning the <em>Tobolsk hard-labor prison</em>. It is similar to the above.
+
+In the <em>Boutyrki prison in Moscow</em> the prisoners are continually stripped and searched, the warders pushing their filthy hands into the prisoners’ mouths. The cases of beating and the Black Hole punishment are endless. Here are a few cases:--
+
+A prisoner was slow in taking off his cap to the governor’s assistant. The assistant snatched off the cap and gave the prisoner a furious blow in the ribs. The warders constantly beat the prisoners.
+
+One prisoner had his temple smashed by a blow given with a pair of handcuffs.
+
+A sailor was so beaten in July, 1908, that he committed suicide.
+
+Real tortures take place in the Black Hole and in the “secret” cells.
+
+“Enter with a lamp into this cell,” writes a prisoner, “and the black patches of coagulated blood will tell you what happens in the Black Hole.”
+
+Recently a prisoner, officially reported perfectly healthy previous to this, died three days after illtreatment in the Black Hole.
+
+A prisoner, acknowledged insane, was terribly beaten and flogged.
+
+One prisoner in the hospital struck a warder during a fit. He was strapped with leather thongs to his cot for <em>seven days</em>. These straps were neither removed nor loosened for <em>one single moment for any need</em> during seven days and seven nights. His right arm has now become paralyzed.
+
+Another prisoner was bound to his cot in a similar way in his cell for five days, during which time he was unconscious.
+
+The sick and healthy are herded together.
+
+Every day there are new cases of prisoners becoming mentally deranged.
+
+The officials choose to consider most of these cases “shamming,” and many such prisoners commit suicide.
+
+Those prisoners who are violent are kept strapped in their cots for whole days, where they lie in a state of untold filth.
+
+Sixty-five per cent. of the prisoners are suffering from scurvy, and their fetters cut into their swollen legs. The death-rate is enormous. The consumptives die in fetters in the crowded cells, with other prisoners looking on.
+
+In <em>Tiflis,</em> in the fortress, the governor issued, in January of this year, the order that “any prisoner approaching a window is to be shot at without warning, and the head is to be aimed at so that there may be no wounded.” As the air is unbearable the prisoners inevitably approach the windows. This order is a sure way of getting rid of prisoners.
+
+In <em>one</em> day one was killed and two wounded in the same cell.
+
+On April 3<sup>rd</sup> a youth aged 20 was shot. This prisoner had been brought to Tiflis from Moscow in view of his serious state of health.
+
+There are other numerous cases.
+
+In <em>Ekaterinoslav,</em> the Duma Deputies said, there are 192 prisoners ill with typhoid, and the number is growing. There is one sanitary officer who nurses all these sick. The doctor visits them twice a week.
+
+The death-rate is enormous; the typhoid patients remain fettered.
+
+In <em>Bachmut,</em> a prison for 84, which now holds 350 inmates, there are 54 cases of typhus.
+
+A similar communication was received from <em>Pavlograd</em> in April.
+
+Communications have been received from <em>Kieff</em> and <em>Moscow</em> giving the numbers of typhoid and typhus cases (see above).
+
+Founded on these facts, the Social Democratic Party presented a list of four questions in which the above facts are put forward. We translate the fourth question:--
+
+<quote>
+
+“4. Whether the above-mentioned facts are known to the President of the Council of Ministers, to the Ministers of Justice, of the Navy, and the Minister of War ; then what measures have been taken by them for the protection of the life and health of the prisoners; for the abolition of the tortures, beating, and murders now practiced; for the prevention of the insulting and rough behavior of the prison officials, and the various methods of injury and torture, and also of other unlawful actions and abuse of the powers given to prison officials, and the powers of supervision given to the procureur, and what has been done for the prosecution of guilty persons?”
+
+</quote>
+
+In aditition to all the above evidence I will give here facts taken from a detailed inquiry which was made in Russia on behalf of those interested in the condition of Administrative exiles in Siberia and Northern Russia. In many prisons and police lock-ups, when the prisoners were being questioned, guilty or innocent alike were treated with a violence that made even the innocent confess to crimes that sent them to the gallows. The prisons of the Baltic provinces and Poland were specially celebrated for this, but in many other places the same horrors were committed. Here are a few facts.[33]
+
+At <em>Vilno,</em> when the sessions of the Assize Courts commenced, twenty-six ordinary (not political) prisoners asked to see the Public Prosecutor, and informed him of the terrible torture they had undergone in the County prison.
+
+The Deputy of the Duma--M. Kisileff--received information from twenty peasants from the <em>Kozlóff</em> district (government of Tambov) about the horrible treatment they had received in the Kozlóff prison. They were beaten with <em>nagaikas</em> and with rods of iron until they lost consciousness, then cold water was thrown over them, and when they regained consciousness the beating was recommenced.
+
+In <em>Ekaterinoslav,</em> at a trial in a Court of justice, the following facts were attested to. The police, with their chief officer, Trousévitch, burned the fingers of the prisoners and whipped the soles of their feet to force confession. Trousévitch was condemned by the Court to one month’s arrest, the three policemen to seven days’ imprisonment, the others were acquitted.
+
+In prison No. 1 of <em>Tobolsk</em> an underground passage, dug by the prisoners with a view of making their escape, was discovered. All the prisoners were put into chains, many were put into the punitive cells, and twelve “leaders” were transferred to other prisons. The prisoners began to protest, upon which the political prisoners, condemned to penal servitude, were flogged. After that there was a strike in the prison and the authorities called in troops, by whom, on July 16<sup>th</sup>, one prisoner was killed, four wounded, and all the others severely injured.
+
+In <em>Novi Marghilan,</em> on February 10, 1907, at a trial concerning an attack on the house of a rich moneylender and the theft of 50,000 rubles, the Court Martial condemned three men to death, six to hard labor, and six were acquitted. The trial was public, and it was proved that during the preliminary examination the prisoners had been tortured. One prisoner had kerosene poured over his back, which was set fire to. The burns were shown in Court. Another prisoner had finely cut up horse-hair forced into his interior organs.
+
+The demoralizing influence of the “state of siege” tells on the local administration. The prison authorities of <em>Kazan</em> thought of a new sort of torment; they tried to incite the common law prisoners to insult physically and morally the “political” women. But they did not succeed. On February 2, 1907, the common law prisoners demanded to see the Public Prosecutor, and requested him to draw up a protocol about the manner in which the authorities treated them and urged them on to harm the political female prisoners. It was stated in this protocol that the assistant director of the prison, Goremykin, and the chief inspector urged the men to violate the political during their walks, for which rewards were promised.
+
+However, it was above all at <em>Riga</em> that torture flourished. Here are two facts.[34] A woman--aged about 40--was arrested on the charge of having helped to conceal criminals. She was sent to the well-known agent of the police, Oger, and on her arrival thither she was immediately beaten with <em>nagaikas</em> and indiarubber sticks.[35] A loaded revolver was forced into her mouth with the threat that she would killed on the spot if she did not point out the hiding-place of a person the police believed her to know. A police officer and two policemen tortured her.
+
+The second fact, which was also mentioned in all the leading dailies, and was not contradicted, was the following: The head of the Secret Police, Gregus, his assistant, Mihéef, and two spies, Anton and Davos, were the chief torturers. Before commencing, Davos generally examined the prisoner’s skin, and would remark, “It’s all right, he can stand it.” Sixteen anarchists were tried by Court Martial, and it appears that one of them, Grünning, had incurred the special hatred of the detectives. This youth of 23 had had all the hair pulled out of his head and beard, and several of his ribs were broken. With the butt of a revolver he had had his head broken and his face so disfigured that he was unrecognizable. After the torture he was unable to move, and two warders dragged him to his cell, and flung him down by the door. His comrades raised him, brought him back to consciousness, and washed his wounds. His sufferings were terrible; he could neither sit nor lie. But notwithstanding all this Grünning did not give the information needed, and it was only thanks to this that his sentence was fifteen years hard labor, instead of a death penalty. This sentence was a great surprise to Grünning and his comrades. But Grünning was sent to a punitive battalion in Livonia, pending a new examination (after a judicial sentence!), and a week later it became known that he had been shot “by mistake.” The second victim of the same torturers was Karl Legsdin (Kenin), who was sentenced to death by a Field Court Martial, and executed. During the examination he had had his toe-nails torn out, and certain of his organs so squeezed that right up to his execution he had internal hæmorrhage. This torture was invented by Mihéef, who was called “a brute” even by his executioner, Davos. The face and body of Legsdin were so frightfully bruised that he could neither sit nor lie, but had always to stand.[36]
+
+This is what happened in <em>Lodz</em>. For having made an attack on the County Exchequer on May 30, 1906, four persons were sentenced in Warsaw to capital punishment, which was later altered to penal servitude. In all, thirteen persons were accused, and at the preliminary examination they had all pleaded guilty. At the trial it was proved that while they were in the <em>Lodz</em> prison they were tortured during several days, they were beaten with <em>nagaikas</em> till in some places the flesh literally tore off in pieces ; when they lay helpless on the floor their tormentors jumped from chairs on to their bodies ; their heads were twisted round, their pulled out, their teeth broken. After several months the traces of this treatment were so evident that no denial possible. Under it all the thirteen prisoners pleaded guilty, but the Court would not take this confession into consideration and--having no proofs against them--<em>it completely acquitted nine of them</em> (<em>Sovremennik,</em> July 14, 1906, No. 73). The <em>Novyi Put</em> (May 8, 1906, No. 106), also stated that in a secret chamber in <em>Lodz</em> the politicals were tortured ; they were beaten till they became unconscious, their teeth were pulled out, their heads pressed by screws till the screws broke their bones, and so on. S. Sonnenstein, a youth of 18 ; Futterman, a boy of 15 ; and a young girl of 18, A. Wesen, were all tortured in this way.
+
+<em>Warsaw</em> is also well known for its tortures, and the most important part there was played by a spy named Grinn. Here is one of many facts.[37] The four working men, Setchka, Kempsky, Steblinsky, and Savitsky, having been brought before a Court Martial under the accusation of having murdered a certain Chaki, a clerk of the Secret Police Department in Warsaw, were all acquitted, because during the trial the prisoners declared before the Court that after their arrest they were tortured to such an extent that they confessed to a crime they had not committed. The fact was confirmed by Doctor Falz, who had examined their bodies and found on them the traces of the tortures. It was Grinn who directed and ordered the tortures. A fifth prisoner went mad during his “examination,” and is now in an asylum.
+
+In March, 1908, the Governor of <em>Bessarabia</em> dismissed a police officer, Obnimsky, and the head of the district police in Soroki, Levitski, on account of the mysterious death of a village publican’s nephew. This boy of 15 was accused of stealing 25 rubles from his uncle, and at the latter’s request he was taken to Obnimsky’s office, where Obnimsky, together with another man, questioned the boy. The boy died during this examination.[38]
+
+[23] Long abstracts in <em>Russkiya Védomosti</em> March 11, 1909.
+
+[24] <em>Ryech</em> and other St. Petersburg papers, April 13, 1909.
+
+[25] <em>Novoye Vremya,</em> February, 1909.
+
+[26] St. Petersburg and Moscow dailies, March 6, 1909.
+
+[27] Interpellation in the Duma of April 7–20, 1909.
+
+[28] <em>Russ. Véd.,</em> March 19, 1909.
+
+[29] <em>Ryech,</em> March 23, 1909.
+
+[30] <em>Ryech,</em> April 7, 1909.
+
+[31] Since this letter appeared <em>Lomtatidze</em> has been deprived of his walks, his tea and sugar, &c. He is in very bad health, dying from consumption and insufficient nourishment, and he has now been placed in a tiny room with three other sick men, one of whom is ill with typhoid, one with consumption, and one in the very last stages of consumption.
+
+[32] On the method of making an interpellation and its value as evidence see p. 56.
+
+[33] See the St. Petersburg dailies: <em>Novyi Put,</em> September 27, 1906, No. 35; <em>Tovarisch,</em> April 12, 1907, No. 240 ; January 20, 1907, No. 170; and July 31, 1907, No. 332 ; <em>Parus,</em> March 13, 1907, No. 26; <em>Russkoye Slovo,</em> February 4, 1907, No. 27.
+
+[34] <em>Tovarisch, Ryech,</em> &c., March 1, 1907, No. 204.
+
+[35] Such sticks, fabricated on purpose, had been distributed to the prison warders. M. Stolypin, during an interpellation in the Duma, did not deny the fact of such sticks and other instruments of torture being kept in a special cupboard at a Riga police-station; but he described that collection as “a museum.”
+
+[36] What was done to a girl, arrested at the same time, has been described by the ex-agent Bakay in his Memoirs The facts were confirmed on many sides.
+
+[37] <em>Russkoye Slovo,</em> May 27, 1907, No. 121.
+
+[38] <em>Ryech,</em> March 7, 1908, No. 57.
+
+** Chapter 2 : Suicides in the Prisons
+
+The ill-treatment of those who have been condemned to death--down to the very moment of the execution--and the terrible physical sufferings inflicted in the most barbarous way in the morning hours which precede the execution, and during the execution itself, have created quite epidemic of suicides in the prisons of Russia.
+
+As a part of the above-mentioned inquiry, I have now before me a list of those suicides in the prisons which have found their way to the daily Press in Russia. This list extends from January, 1906, to November 1, 1908, and contains 160 cases, out of which 30 took place in 1906, 70 in 1907, and 60 during the first ten months of 1908.
+
+Here are some abstracts from that terrible list. They contain a few cases for 1906, and the whole list for 1908:--
+
+In 1906
+
+1. In a political prison in Moscow, John Fedouloff, 23 years old, hanged himself.
+
+2. In a political prison in St. Petersburg, a medical woman-student, M., shot herself.
+
+3, 4. In Uman, in consequence of police outrages, there is a regular epidemic of suicides and cases of madness: a wine merchant, Gervitz hanged himself ; a man named Toulchiner was saved just time from the rope; two others went mad.
+
+5. In Odessa, a political prisoner, Leibovitch, poured kerosene on his bed, set it on fire, threw himself on the bed, and thus ended his life.
+
+6. In Moscow, K. Schvetz hanged himself when under arrest.
+
+7. In Orel, a peasant, E. Soboskin, being in solitary confinement, hanged himself.
+
+8. In St. Petersburg, in the Cross prison, in a punishment cell a sailor, Arnold, hanged himself.
+
+9. In Elisavetgrad, Larionoff, condemned to death, waited for the execution three months, went mad and hanged himself, but was saved, after which he was condemned to hard labor.
+
+10. In the Vasilkov prison an unknown deserter poisoned himself by means of carbolic acid.
+
+11. In Toula, Starostin, being arrested, soaked his clothes in kerosene and set himself on fire.
+
+1908
+
+101. At the Simferopol prison the political prisoner Stalberg poured kerosene over his bed-clothes and set fire to them, but was rescued.
+
+102. At Odessa, Komatch, the son of a chemist, poisoned himself in prison.
+
+103–4. At Warsaw, two members of a band of robbers hanged themselves in prison.
+
+105. At Omsk, a peasant sentenced to death seized the revolver of a policeman and wanted to kill him, but at the approach of a patrol of soldiers shot himself.
+
+106. At Yalta, the political prisoner Nikolay Timoshin burned himself to death in prison by drenching himself with kerosene.
+
+107. At the Kieff prison the political prisoner Gostilin, sentenced to death with the other revolutionary socialists of Kursk, poisoned himself.
+
+108. At Petersburg, at the Roshdestvensky police-station, an unknown man, arrested for robbery, hanged himself.
+
+109. In the Tchita prison, Krivtsoff, sentenced to penal servitude, cut his throat.
+
+110. At the Nizhni-Novgorod prison, Ustinoff, an artisan, sentenced to death for the murder of a policeman, poisoned himself, not wishing to fall into the hands of the executioner.
+
+111. At Tchita, a woman named Kozhevin, sentenced to death for murder, poisoned herself before the execution.
+
+112. At Riga, Neruoff committed suicide on the eve of the day appointed for his execution.
+
+113. At St. Petersburg, a peasant woman named Kryloff, aged 32, poisoned herself while being conveyed by a policeman to prison, where she was to undergo a term of confinement in accordance with a legal verdict.
+
+114. At St. Petersburg, in the Viborg Solitary Confinement prison, a political prisoner, the journalist, I. P. Remezoff, attempted to burn himself, but was rescued.
+
+115. At Kieff, Fodosenko, sentenced to death, poisoned himself.
+
+116. At the Tsaritsin police-station the unemployed Masloutoff, aged 18, arrested for posting up proclamations of the Social Democratic Party, burnt himself with kerosene.
+
+117. In a cell of the Kharkov prison, Tcherukovsky soaked his clothes with kerosene and burnt himself to death.
+
+118. In a prison hospital at St. Petersburg, the prisoner Kuptsoff, aged 34, hanged himself.
+
+119. At Odessa, an old merchant arrested for murder hanged himself.
+
+120. Kuznetsoff, a political prisoner, hanged himself in a St. Petersburg prison.
+
+121. Domushkin hanged himself at the Yalta police-station.
+
+122. At the Odessa prison, a political prisoner, Helen Smirnoff, poured kerosene over her clothes and her bed, and set fire to them.
+
+123. At the Sevastpool prison, the political prisoner Gulbinsky hanged himself.
+
+124. In the solitary cell of a St. Petersburg prison, a political prisoner named Bernstein hanged himself, but was rescued.
+
+125. At the police-station of the Narva district at St. Petersburg a prisoner named Pybin broke his head against the wall. During his subsequent stay at the hospital he inflicted upon himself a wound with a knife.
+
+126. At a prison at Odessa, V. Orloff, who was arrested for theft, burned himself with kerosene.
+
+127–8. At the Kazan Government prison, two prisoners, whose cases were being investigated, poisoned themselves.
+
+129. A convict threw himself from a boat into the water at Nizhni-Novgorod and was drowned.
+
+130. At Odessa, V. P. Ostroúhoff, who had twice been sentenced to death for the murder of a spy and for robbery, on being placed in a solitary cell to await his execution, took poison and died.
+
+131. At Kieff, the criminal Yushkoff, who had fulfilled the duties of an executioner and who was kept in a separate cell, set fire to it. It is supposed that he was insane; Yushkoff had been wounded by the prisoners for undertaking the duties of executioner.
+
+132. The peasant Safronoff, sentenced at St. Petersburg to two years’ imprisonment, breaking loose from the guard conveying him, threw himself into a lake and was drowned.
+
+133. In the Saratov prison, Stepanoff, sentenced to death, hanged himself on a strap.
+
+134. Another man in the same prison likewise tried to hang himself but was rescued.
+
+135. In Kurilovo-Pokrovskoye (district of Odessa), Kuhadze, accused of stealing horses, hanged himself in prison.
+
+136. In the garden of the prison hospital at Simbirsk, Liakhoff, sentenced to penal servitude for murder, hanged himself. In a letter he says: “Though innocent, I suffer because of false witnesses.”
+
+137. At the Simferopol prison, Kokovtseff, soaking his clothes in kerosene, burned himself.
+
+138. In the Simferopol prison, Odonoff, sentenced to death for a prison mutiny, cut his throat.
+
+139. In the Saratov prison, Popoff, on hearing of the confirmation of his death sentence, burned himself with the aid of kerosene. He was accused of an armed attack on a house.
+
+140. In the Yamskaya prison at Moscow, Hokhriakoff hanged himself, but was rescued.
+
+141. Nazaransky, a police officer of the Spassky district of St. Petersburg, being arrested for robbing a drunken man, hanged himself.
+
+142–3. Two men condemned to death, Sounnev and Sareov, committed suicide at Riga.
+
+144. At the Kolomensky police-station at St. Petersburg, a workman, Pocheykin, who was arrested for theft, hanged himself.
+
+145. At Simferopol, Kravchenko, condemned to death, wounded another condemned man, Zavortrinsky, and then cut his own throat.
+
+146. At the Riga prison, Berzin, head of a revolutionary group, committed suicide.
+
+147. At a police-station at Odessa, the robber Freidenberg attempted to wound himself fatally with a piece of iron.
+
+148. In the Kishineff prison, a prisoner named Sibov, 23 years old, condemned to penal servitude in Siberia, poisoned himself.
+
+149. In Berdicheff, the agent of the Russian company for delivery of goods was arrested for a theft ; in prison he threw himself into the sanitary well.
+
+150. In Odessa, in the common cell for women prisoners, T. Savitzkaia cut her throat and stomach with a piece of glass. She was imprisoned by the orders of the Secret Police.
+
+150–151. In the Tomsk prison, Hondiakoff and Kouznetsoff poisoned themselves. They were suspected of having killed a government money collector of the government wine-shops.
+
+152. In the Petrovsk prison, a prisoner, Agafonoff, condemned to hard labor, hanged himself, but was saved.
+
+153. In St. Petersburg, an imprisoned soldier, Iliin, jumped out of the window.
+
+154. In St. Petersburg, a young peasant, Reichstin, arrested as a criminal, broke his head on a wall.
+
+155. In the province of Kieff, in the Loukoyanoff prison, a former village school teacher, Prisiajnina, condemned to death, poisoned herself.
+
+156–158. In Kieff, in the same prison, on three successive days three men poisoned themselves--Kravchenko and Sinuchenko, who were condemned to death, and Captain Lipovskii, who was condemned to exile for taking part in the Union of Officers. The last died, but the other two were executed.
+
+159. In Odessa, in solitary confinement, Novikoff set fire to himself by means of kerosene.
+
+160. In Tomsk, in the solitary confinement cell of the reformatory prison, Volkoff burned himself to death with kerosene.
+
+** Chapter 3 : Executions
+
+It may be remembered that the Russian Prime Minister, M. Stolypin, interviewed last year by Mr. W. T. Stead, and asked about the executions, which were going on then at that time in very great numbers, said that he had no exact figures, but he thought that 15 a month would be a near approach to truth (the <em>Times</em>, August 3, 1908). I contested these figures in the <em>Times</em> of August 14, 1908, and maintained that the number of executions during the first six months of 1908 had been from 4 to 15 every day--there being, however, no executions on Sundays and other holidays--and that it reached the figure of 60 to 90 every month.
+
+We have now the official figures of the executions for the last four years. The Law Committee of the Duma having asked the exact figures from the Ministry of Interior, the Police Department of that Ministry communicated them to the Duma on February 6, 1909. But as they are still incomplete--<em>they apply only to civilians</em>, as the Department of Police mentions in his communication to the Duma--I also place by their side our own figures. These figures have been obtained as follows : Several leading St. Petersburg and Moscow papers till lately gave telegrams every day from the provincial towns, stating how many persons have been condemned on that day and giving their names, what were the crimes imputed to them, and how many, and who, had been executed. The daily figures were added up, and the monthly and yearly items were published by several papers, including the well-known Law Review, <em>Pravo</em>, together with all other statistics of prosecutions. These were the figures communicated by the Russian refugees to the London Press, and given in the above-mentioned letter of mine to the <em>Times</em>. Besides, I have now before me a carefully-prepared memorial, in which, besides matter concerning the exiles, all the executions mentioned in the leading Russian newspapers since 1905 till November 1, 1908, have been carefully tabulated, according to the age, the social standing, and the supposed crime of the executed persons. The cases of ill-treatment in prisons and administrative executions, mentioned in these papers, up to the same date (November 1, 1908), are also enumerated in special chapters.[39]
+
+Here are both sets of figures, of which the official figures apply <em>only to civilians</em>:--
+
+|+ Courts Martial-- +|
+| | OFFICIAL FIGURES. | | OUR FIGURES. | |
+| | Death Sentences. | Executions. | Death Sentences. | Executions. |
+| 1905 | 72 | 10+ | 96 | 32 |
+| 1906 | 450 | 144+ | 773 | 280 |
+| 1907 | 1,056 | 456* | 1,432 | 508 |
+| 1908 | 1,741 | 825+ | 1,835 | 802** |
+| Field Courts Martial, acting from August 19, 1906, to April 20, 1907 | — | 683 | — | 676 |
+| Total | — | 2,118 | — | 2,298*** |
+
+ * To this figure of 456 executions, 84 soldiers must be added, out of whom 19 were hanged and 65 shot, thus raising the yearly total to 540.
+
+ ** First 10 months only.
+
+ *** Two months, November and December, 1908, missing.
+
++ How many military must be added to these figures remains unknown.
+
+No official figures for the year 1909 have yet been published, but the figures compiled from the daily papers produced before the Duma in a recent discussion are:--
+
+|+ +|
+| 1909 | Death Sentences. | Executions. |
+| January | 121 | 107 |
+| February | 132 | 76 |
+| March | 143 | 52 |
+| Total (3 months) | 396 | 235 |
+
+The discrepancies between the two tables <em>as regards the death sentences</em> are easily explained. Our figures give the death sentences that were <em>pronounced</em>, and telegraphed the same day to the papers, while the official figures probably give the death sentences <em>confirmed</em> later on by the Governors-General of the respective districts.
+
+As regards the difference between our figures of executions in 1907 and the official figures (508 and 456 respectively), it arises from the fact that the official figures <em>do not include the executions of the military</em>. There having been, according to an official statement, 84 executions of soldiers in the course of the year 1907, the official figure for that year becomes 540, and is consequently <em>higher</em> than our figure (by 32 cases). That our figures would be possibly <em>below</em> the real ones was foreseen, as some executions may not find their way to the Press. The same remark very probably applies to the years 1906 and 1908, for which years we have no official figures of executions among the military.
+
+Now, it must be borne in mind that the above figures do not include those who were shot in the streets (in the Gapon manifestation, during the rejoicings after the promulgation of the Constitution of October 30,1905, or during uprisings in the Baltic provinces, in the Caucasus, and in the Russian villages), nor do they include those who have been executed during their transfers from one prison to another (attempts at escape, true or alleged), nor those who have been executed <em>by simple administrative orders</em> of the military commanders--these last cases being not uncommon--as it appeared from several discussions which took place in the First Department of the Senate (see Chapter V.), when the Senate recognized (by a small majority) that executions <em>without even a trial before a Field Court Martial were not illegal under the State of Siege law, such as it was promulgated by the Emperor</em>. For these executions, the Senate decided, the military authorities are directly responsible to the Emperor, whose orders they execute.
+
+There being no official figures concerning the different categories of executions without any trial, all we can do is to give the figures which have been compiled for us in the above-mentioned inquiry with the same desire of arriving at the truth as the above row of figures. They run as follows : <em>Shot without sentence</em>--376 in 1905, 864 in 1906, 59 in 1907, and 32 in 1908 (first 10 months).
+
+In trying to excuse the large number of executions which take place in Russia, in consequence of verdicts of Courts Martial now active in more that two-thirds of the Russian Empire, the present ministry usually point to the considerable number of murders and attempts to murder which stand in the official statistics. These figures run as follows :--
+
+|+ +|
+| | Murdered. | Wounded. |
+| 1905 (2 1/2 months) | 222 | 217 |
+| 1906 | 1,126 | 1,506 |
+| 1907 | 3,001 | 1,076 |
+| 1908 | 1,820 | 2,083 |
+
+These are the figures which were communicated to Duma Commission on the abolition of capital punishment when it came together on June 3, 1909. And in communicating them, the Department of Police added : “In these included <em>all</em> crimes committed in <em>all</em> the localities placed under the law of siege (extraordinary and increased <em>Okhrana</em>”).
+
+However, in order to get any correct idea, these figures must be compared with the numbers of murders and persons wounded in ordinary times; and when this is done, it appears that in the numbers that are mentioned in the above figures <em>there is absolutely no extraordinary increase which might in any way excuse the suspension of ordinary justice, and the surrender of Russia to the laws that Prevail in times of war and to the summary justice of the Military Courts.</em>
+
+Here are the figures for ordinary times:--
+
+|+ NUMBERS OF MURDERS IN EUROPEAN RUSSIA ALONE. +|
+| During these periods the Population gradually increased from 65 to 70 Millions. | Average Yearly number of Prosecutions for Murder Begun. | EXECUTIONS. | | By Ordinary Courts. | By Courts Martial. |
+| | | | | Common | Political |
+| 1874–1878 | 3,599 | none | (from 1856 to 1890) | 211 | 70 |
+| 1879–1883 | 4,161 | none |
+| 1884–1888 | 5,170 | none |
+| 1889–1893 | 5,137 | none | (from 1891 to 1900) | 102 | 24 |
+| 1894 | 4,991 | none |
+
+Taking the number of acts of violence <em>immediately before the revolution</em>, we find that, in 1904, there were, in a population of 142,700,000, no less than 2,800 persons <em>condemned</em> for murder, and 3,778 for wounding (Official Report of the Ministry of justice for 1904). It thus appears that in 1907 there was indeed a sudden increase of acts of violence--provoked by the countless executions, without any form of trial, during punitive expeditions, especially in Siberia, the Caucasus, and the Baltic provinces, and the terrible brutalities of the police officers in the villages. But <em>there was no increase whatever in the year 1908</em>. Therefore the maintenance of the state of siege in two-thirds of the Empire cannot be defended on this ground This has been also forcibly demonstrated during the debates in the Duma on the law of siege, on February 11<sup>th</sup> to 14<sup>th</sup> (O.S.).
+
+Under the military law which is now in action in most of the Russian territory, the <em>smallest agrarian disorders</em>, and even the <em>setting fire to a landlord’s barn or stack are treated as implying the death penalty</em>. The Military Courts themselves most reluctantly pronounce the death sentence in such cases, their members loudly condemning afterwards in private the obligation under which they are to apply military law, and the orders of the Emperor who wishes them to apply that law in in all its severity.
+
+Thus, at Ufa, the Court Martial sitting on March 3<sup>rd</sup> last, pronounced the following sentences on five local peasants who had robbed another peasant of 1 ruble 40 kopecks (3 sh.): Pavel Abramoff, death ; Petr Abramoff and Stepan Antonoff, 10 years’ hard labor ; Mihail Bagunoff, 8 years’ imprisonment; and Kuzma Antonoff, [40] months’ imprisonment.
+
+The Court pronounced that ferocious verdict because <em>such is the law in time of war</em>; but it immediately had the courage to ask the Governor-General <em>not</em> to confirm their sentence, but to mitigate it. Most Courts, however, have not that courage, and men are hanged for what, under ordinary conditions, would imply a few months, or even a few weeks of imprisonment.
+
+Many similar cases could be quoted: At <em>Moscow</em>, a Court Martial sentenced a peasant from one of the districts of the government of Moscow to death, for having set fire to a stack of hay on the property of a member of the State’s Council, Herr Schlippe.
+
+At <em>Novocherkask</em>, the Court Martial condemned within a few days twenty men to the death penalty--one of them for having spoken to another prisoner about making an attempt to kill a policeman.2 In the government of <em>Tambov</em>, eighteen persons were condemned last March to be hanged, and out of them three prostitutes for having given shelter to some robber, and one peasant for having set fire to an empty barn.[41]
+
+The executions in <em>Novockerkask</em> were carried on by volunteer convicts in such a terrible way that the agony of some of the executed lasted from a quarter of an hour to half an hour, the executioner strangling the men with his own hands. As the executions took place in a remote suburb of that city, in the midst of winter, the condemned men were brought to the place of execution half frozen.[42]
+
+Owing to the haste with which all the affairs are conducted before the Courts Martial, judicial errors are much frequent than is usually the case. Thus it appeared that out of the prisoners who were hanged at <em>Odessa</em> on February 1<sup>st</sup> last, the men Orenbach, Greyerman, and two brothers Truger were condemned by mistake. They not only took no part in the defense of a house in which some anarchists had locked themselves, receiving the police and military with shots, they ran away from this house, together with other people, and had absolutely no knowledge of the men who had locked themselves in the house.
+
+After the death sentence has been pronounced it continually happens that the condemned men wait for the execution for whole months, and the scenes which take place at the executions are such as might be expected only in Persia or Turkey.[43]
+
+<em>Men executed without any form of trial</em>.--The worst is that the question about the right of the Governors-General to execute people even without sending them before a Court Martial, by simple administrative orders, having been contested by several members of the Senate, this High Court of Russia has again decided a few weeks ago that such right of summary execution results from the Imperial Decree by which the rules of the state of siege were determined, and that therefore the Governors-General, in inflicting the death penalty by simple administrative order, are responsible exclusively to the Emperor in person.[44]
+
+If all this be taken into account, one can easily see how it happens that, the action of the regular laws being suspended, military justice, designed exclusively for time of war, has taken the place of the civil administration and is covering Russia with gallows.
+
+The demoralizing effect of such a substitution upon the habits and life of the country needs no commentary.
+
+It is also needless to say that this large number of executions is provoking general discontent among the educated classes. Thus, in December last, at a general meeting of the lawyers of the St. Petersburg judicial district it was unanimously resolved to express sympathy with the interpellation in the Duma against the steadily increasing number of condemnations to death and executions which have been taking place lately.
+
+Besides, a society was formed lately among influential persons, to work for the abolition of capital punishment in Russia. But the authorities have refused the registration of this society under the pretext that capital punishment being recognized by law, any agitation against it would be unlawful.
+
+As to the degrading influence of these wholesale executions upon the population, it is simply terrible, and many facts, simply awful, relating what is happening at night, during the executions, in what is now called by the cabmen “The Slaughter Yard” at Moscow, could be added in support of the ideas so forcibly developed by Leo Tolstoy in his pamphlet, “I Cannot be Silent.”
+
+[39] According to a decision of the Ministry, the papers were forbidden a few months ago to publish in full the crimes for which the death sentences were pronounced, and a short time ago the Moscow Courts Martial stopped communicating even the numbers of the executions which took place. The executions are carried out in great secrecy at night, and in May last it was learned that fifteen executions had taken place at Moscow, of which no information had been supplied to the papers.
+
+[40] Ryech, April, 1909.
+
+[41] Russkiya Védomosti, March 22, 1909.
+
+[42] Ryech, April, 1909.
+
+[43] See with reference to this subject the interpellation made in the Duma on April 8 and 21, 1909.
+
+[44] See page 50.
+
+** Chapter 4 : The Exiles
+
+On the date referred to in the previous chapter (August, 1908, some correspondence appeared in the <em>Times</em> concerning the numbers of administrative exiles in Siberia and Northern Russia. The Russian Prime Minister, M. Stolypin, in an interview with Mr. Stead, told him that the number of administrative exiles was only about 12,000. The Assistant Minister of the Interior, M. Makaroff, also interviewed a fortnight later by Mr. Stead, explained, however, that this figure could only apply to those who had been exiled <em>in virtue of a decision given by the Ministry of the Interior</em>; but there were also, he added, a considerable number of persons who had been exiled by mere orders of the local Governors, and about whom the Ministry of the Interior had no information. I wrote at that time to the <em>Times</em> that, according to our estimates, the number of exiles in Siberia and Northern Russia reached the figure of about 78,000. We have now the exact figures, which have been communicated by the Department of Police to the Law Committee of the Duma. The Police Department, probably taking into account the considerable number who have escaped, puts the figure at 74,000 ; but does not state how many of these have been tried, and how many exiled by administrative order. (Some information about this matter will be found further on in this chapter.)
+
+Attempts made privately to give the exact figures an distribution of the exiles in different parts of the Russian Empire have failed; but the total given by the Police Department (October, 1908), must be correct, as it was based upon the numbers of men and women sent out to Siberia a Northern Russia from the chief transfer prisons.
+
+According to documents communicated to the State Council, the number of persons exiled <em>by order of the Ministry of the Interior</em> has now reached the figure of 15,500, and the greater part of these have been classified as follows : Workmen, 6,362 ; peasants, 3,879; students, 540; teachers, 792 ; tradesmen, 755 ; officials of the Zemstvos, 315 ; unknown, 2,857. It will thus be seen that while formerly the administrative exiles chiefly consisted of students and “intellectuals,” the main bulk of them is now composed of workmen and peasants deported either for strikes, for agrarian disorders, or simply because they are considered by the local police authorities to be a disturbing element.
+
+The conditions under which these exiles live are as bad as when they were described twenty years ago by Kennan, Stepniak, and myself, with the only difference that at the present time exiles are also sent to regions quite unsuitable for habitation, such as <em>Turukhansk</em> in the far north, at the mouth of the Yenisei. The conditions there are described by a reliable person writing from the district to the St. Petersburg newspaper <em>Ryech</em>[45]:--
+
+<quote>
+
+“All the exiles are settled in the Turukhansk district, which borders the River Yenisei, from Turukhansk to Yeniseisk, a distance of 720 miles, in which there are only 64 small villages. The main bulk of the exiles are in 30 villages, in the largest of which, Sumarokovo, there are only 20 houses, while in the others there are only from 5 to 7 houses, with from 30 to 40 inhabitants. In some villages the total number of the inhabitants does not exceed 20 persons. Below Turukhansk, in a tract of country 670 miles long, there are only 37 villages, the largest of which, Dudinka, contains only 10 houses, the others being mere post stations of 1, 2, or 3 houses. It is quite easy to see that when 15 or 20 exiles are settled in such small villages they are a burden to the population, and can find absolutely no work to live upon. The result is that lately a band of men, 10 at first, and later on 25, went along the river plundering the houses of some of the residents. Sixty-five men are now being prosecuted, and have been marched on foot from Turukhansk to Yeniseisk in order to be brought before a court martial.”
+
+</quote>
+
+Information of the most heartrending description as to the conditions under which the administrative exiles live, has been communicated by reliable persons, including several deputies of the first and second Duma, and published in the Russian Press. We have, moreover, before us large numbers of letters giving much information, and will give extracts from a few of them. A mother, an absolutely trustworthy person, who has gone into exile to accompany her young daughter, writes as follows to the British Committee in Aid of Administrative Exiles:--
+
+“I have followed my daughter, condemned by the Court to exile for life in Siberia, with the intention of softening the conditions of her long journey.... Most of the exiles, having spent something like two years or more in prison, before coming before a Court, are quite exhausted by the hard prison treatment. They are dressed in long rough coats and heavy, ill-fitting shoes, and have to carry all the rest of their clothing on their backs, in sacks weighing about 30 lb. During the part of the journey which is made by train, men and women are put to travel together in the carriages, under the supervision of warders and soldiers. These men are accustomed to consider the prisoners as without rights of any kind, and therefore permit themselves to treat them as they choose. For women this journey is especially terrible. In one railway carriage there were three women among a lot of ordinary criminals, and when the commanding officer wanted to chain them in pairs, he did not hesitate to fetter one of the women to a man, and to keep them thus for a great part of the journey. In the carriage where my daughter was, there was a party of women exiled for having no passports. Most of them were prostitutes. The soldiers of the guard drank with them, and my daughter, being in their company, had to witness the most abominable scenes.
+
+“Still worse things are to be seen in the transfer prisons, where the politicals are kept with the ordinary criminals, under abominable conditions. When they come to the place of exile, they are left in some small village, usually hundreds of miles from the small district town. More than 100 persons are often left in a small village, and all that the police authorities do is to see that they do not run away. Sometimes an exile has been to give up all his winter clothing, in order to rent a room in a peasant’s house; and many would have died from hunger and cold were it not for the help given them by their brother exiles. The prices in such villages are very high, owing to the numbers of the exiles; and it is absolutely impossible for exiles to find any work, or to earn anything, however little. Every kind of work suitable to intellectuals is forbidden by law.
+
+<quote>
+
+“I have spent one month with my daughter in one of these villages, and I have seen nothing but worn faces of men vainly going about in search of work. They tried to open a laundry, but there was nobody to give linen to be washed-every one did their own washing. And the same was found with all sorts of workshops. In the infirmary there was neither doctor nor medicine, and yet it was strictly forbidden to leave the village and go to the nearest district town. The village of which I speak and in which my daughter is kept, is one of the best in respect of climate and other conditions of life, and I asked myself : I ‘Does the Government know the lot it is preparing for the people whom it sends to exile in this way? Does it know that in the conditions which prevail it is condemning men to a slow death?’”
+
+</quote>
+
+Some idea of the conditions under which the administrative live may be given by the following statement, which has been prepared for us in the <em>Narym district</em> of the Government of <em>Tobolsk</em> :--
+
+This district belongs to that immense region of marsh and wood which is marked on the maps of Western Siberia as a marsh, and covers hundreds of miles from north to south and from west to east. The only access to it is by the rivers, on the banks of which are a few dry spots, while the country between the rivers is covered with almost impenetrable forests, and until lately was quite uninhabited, except for a few small villages. A dozen little settlements of a few small have recently appeared along some of the rivers draining this great marsh. Last year there were, however, no less than 700 administrative exiles in this region.
+
+The Government allowance to these exiles was, until January, 1908, 3r. 30k. (7s. 1d.) per month. But since then it has been reduced to 1r. 80k. (3s.) per month. However, it is only the administrative exiles who receive that allowance. Those who have been exiled by sentence of the Courts (the <em>ssylno-poselentsy</em>) receive nothing. The communes of the villages to which they are sent are bound to give them some land, but as the exiles have no tools and no cattle, and most of them are townspeople, they simply starve. In the larger villages the exiles have organized their own soup kitchens, which supply one meal a day for 2 1/2d. or 3d. The money granted by the Government to the adminitstrative exiles for their winter and summer dress, <em>i.e.</em>, 60s. 8d. a year, is evidently used for food, because the high prices of flour and salt make the monthly allowance of 3s. absolutely insufficient to keep body and soul together, notwithstanding the cheapness of meat. Very few are happy enough to earn a few shillings by their work.
+
+Near <em>Tchelyabinsk</em> there are about a thousand exiles, mostly in awful misery.[46]
+
+The Social Democratic Deputies in the Duma have received lately the report of a detailed inquiry into the condition of political exiles sent to Siberia <em>by sentence of the Courts</em> (<em>ssylno-poselentsy</em>). They have detailed information about 110 persons who have passed through the transfer prison of <em>Krasnoyarsk</em>. The greater number of them (77) are workmen, and only 24 are intellectuals ; 58 of them are Russians, 19 Poles, 20 Jews, and 2 Germans. In fifteen cases it has been established that these men have been exiled owing to having trusted <em>agents provocateurs</em>, and in three cases testimony against them was obtained from witnesses under physical torture.[47]
+
+Even those who are sent to the more fertile and favored southern parts of Siberia are not better off than the others. Those who are not noblemen--and they are the great majority--receive in Southern Siberia only from 2r. 40k. (5s. 2d.) to 6r. (13s.) a month, but in the latter case they have to pay from 4s. to 6s. a month for their lodgings. In the small district towns of Southern Siberia there is exactly the same want of employment as in the Far North.
+
+Those who are exiled to the most thinly populated parts of Northern Siberia are confined to the encampments of the natives. It is well known that skin diseases are terribly prevalent in Siberia. Nearly all the natives are infected, as also many families of Russian peasants ; but the exiles are compelled to lodge with the natives in their tiny huts and tents, and are happy if they are given a corner in the log hut of a Russian settler.
+
+The presence of the exiles is generally felt as a heavy burden by the native population, which is becoming more and more hostile to them, and the feeling of hostility is increased by the presence of criminals among them. For persons sentenced for theft and other breaches of the ordinary law are being sent to Siberia in company with administrative exiles transported for rebellion or other political offenses. Perhaps the authorities do this from considerations of economy, perhaps for other reasons.
+
+Those who have been exiled to the northern provinces of European Russia, namely, to Archangel, are in no better plight than those who have been transported to Siberia. A number of them have written to complain to M. Bulat, Deputy to the Duma, about the intolerable conditions under which they live. Having been exiled, not by administrative order, but by sentence of the Courts, these people receive no support from the Government; and they get nothing from the village communities; being themselves short of arable land, they do not give them allotments. “Save us from starvation and unavoidable death from hunger,” they wrote to their Deputy to the Duma.[48]
+
+Altogether, the peasants who have been exiled for agrarian disturbances--and they are very numerous by this time--are in the most precarious condition. In <em>Tsarev</em> (government of Astrakhan), where two hundred administrative exiles are kept, typhus is raging among them. No medical assistance is given, and the typhus patients are sleeping by the side of the healthy men in the common doss-houses of Tsarev, because the owners of private houses have sent them away from fear of infection.[49]
+
+In the face of such misery, which is an unavoidable result of the system, we hardly dare speak of <em>the abuse of the powers of the local police and the gendarme authorities</em>, which in some cases renders the state of things still worse. Thus, in the government of <em>Vyatka</em>, the exiles for a long time did not receive their dress money. In February last they at length received the small allowance for summer clothes, the winter allowance being still unpaid.
+
+At <em>Tchelyabinsk</em> it appears, from a telegram sent to the Head of the Prison administration by M. Tcheidze, Deputy to the Duma, that the exiles were in the most terrible plight because the authorities had given them no food money and no dress money, and forbade them to move from one village to another.
+
+The only bright feature is that the political exiles do everything possible to maintain each other’s courage and to prevent demoralization. Everywhere they have organized their own societies for mutual help, to which every one who receives any monies from home pays a regular contribution of so much percent. With this money they start soup kitchens, small libraries, and lectures, but the difficulty of getting books and papers and the high cost of light in the northern parts during the winter is extreme, and the authorities continually put hindrances in the way of such organizations. In some places in the Far North during the long winter nights sheer despair lays hold of the exiles. In January last, in one of the remote settlements of the Obdorsk region, five exiles ended their lives by suicide. A girl took the lead, and she was followed by four men.
+
+The following extracts will give a still more concrete idea of the life of some of the exiles. One correspondent, writing from the <em>Ilga canton</em>, says:--
+
+<quote>
+
+“We are here 90 persons, mostly grouped in a big trading village. We receive absolutely nothing from the crown” (they are <em>ssylno-poselentsys</em>). “Happily enough, most of us have found some work ; only a few of us, 10 or 12, have not. We have a mutual aid society and a soup kitchen supplying food at low prices.”
+
+</quote>
+
+From the government of <em>Tobolsk</em> one of the exiles writes to our Committee of Inquiry:--
+
+<quote>
+
+“In this government we are about 2,000, Out of whom nearly 500 have been exiled by sentence of the courts (<em>ssylno-poselentsy</em>). The remainder are administrative exiles. The greater number of us are in the districts of Tura, Berezoff (64° N. lat.), and Tobolsk, and in the districts of Surgut, Tara, and Tyumen. About finding work I can say nothing bright. It is only in the summer that we get some work at the fisheries, and in the towns some students and most of the skilled workmen have well-paid work; but the great proportion of us are in very low spirits, having absolutely no work. The want of work is most severely felt by the <em>ssylno-poselentsys</em>, because the administratives cannot do much to help them. Since January 9, 1907, the administrative exiles belonging to the unprivileged classes have received only 4r. 80k. (10s. 4d.) in the Berezoff and Surgut districts, 4r. 50k. (9s. 4 1/2d.) in the Tobolsk district, and 4r. 20k. (9s. 1d.) in the others. Married people receive some assistance for wife and children. Noblemen and those who have receive university education receive 11r. 25k. (24s. 4d.) per month. There is also the dress allowance of 25r. (54s.) in August and 4r. 80k. (10s. 4d.) in May. As to the other exiles, they receive absolutely nothing. They are chiefly in the Tara district, a fertile region, but most of them know nothing about agricultural work and have great difficulty in finding anything to do.”
+
+</quote>
+
+[45] <em>Ryech</em>, No. 85, April, 1909.
+
+[46] <em>Tovarisch</em>, April 6, 1908.
+
+[47] <em>Novaya Russ</em>, 1909, date missing on our cutting.
+
+[48] <em>Russ. Véd.</em>, April 1, 1909.
+
+[49] <em>Kievskiy Vestnik</em>, December 29, 1908.
+
+** Chapter 5 : Evidence Laid Before The First And Second Duma On Courts Martial, Executions, And The Overcrowding Of Prisons
+
+On the historic day of the 10<sup>th</sup> of May, 1906, that of the opening of the first Russian Parliament, when the elected representatives of the Russian nation passed through the streets towards the Tavrida Palace, from the dense throngs which lined their passage, one great cry arose--
+
+<quote>
+
+“Amnesty ! Amnesty! Amnesty first!”
+
+</quote>
+
+And the first speech in the new-born Parliament was for amnesty. It was made by Petrunkévitch, the oldest leader of the Russian Liberals :--
+
+<quote>
+
+“Our honor, our conscience,” he said, “ ordains that our first thought, our first free word should be dedicated to those who sacrificed their freedom to that of our beloved Fatherland “ (<em>storm of applause</em>). “All the prisons in the country are overflowing” (<em>cries of indignation</em>). “Thousands of hands are stretched out to us with hope and beseeching. And conscience urges us to spare no possible effort to prevent the wasting of further lives in the victory so soon to be ours....”
+
+</quote>
+
+At the very next sitting of the first Duma the Liberal Deputy Rodicheff, in a speech of passionate eloquence, raised the question again:--
+
+<quote>
+
+“Everywhere and always during the electoral campaign,” he said, “one and the same cry was raised above all others--‘Amnesty !’ We are witnesses that this is the demand of the whole nation, not only of those who suffer in the prisons or of their friends. Blood is not shed now so often as it was three months ago; but, gentlemen, this last month 99 persons were executed in Russia.... We, here in the Duma, cannot work ; that feeling oppresses us. Those bloody specters are here--here in this very hall. They <em>must</em> be removed in order that we may do our work.”
+
+</quote>
+
+One after another member of the Duma, themselves recent sufferers from arbitrary imprisonment, told harassing tales of what they had witnessed.
+
+“I, myself,” said Father Krassoun from the rostrum, “was kept in a prison, packed with 400 people who were receiving a daily allowance of 6 kopecks ([50] 1/2d.), barely enough to escape starvation--not enough to escape perpetual hunger. I asked them, ‘Why were you beaten with nagaikas? Why were you thrown into prison?’ And the reply was always, ‘The police arrested us because we refused to bribe them!’”
+
+“You have heard here of the ghastly specters which soar above our land,” said the Deputy Miklasheffsky; “I will remind you of two victims personally known to me-the student, Grigoriev, and the barrister, Tararykin. Grigoriev was shot because another man, to save his own life, declared that Grigoriev had spoken at a certain meeting; and this declaration was enough to condemn the boy. Tararykin, the barrister, tried in vain to convince the officer, who ordered the soldiers to shoot him, that he was acting illegally. He was nevertheless shot without trial or investigation.”
+
+General Kouzmin-Karavaeff--himself a military procureur and a Deputy sitting on the Right of the Constitutional Democrats--appealed in the Duma against the horrors of official bloodshed.
+
+“Over six hundred men,’ he said, “were, during the last four months, hanged or shot, or otherwise deprived of life by most horrible methods, without trial or after mock trials. This figure is appalling, and it shows us once more that the chief motive of capital punishment here, in Russia, is sanguinary vengeance.”[51]
+
+Sitting after sitting of the Duma’s first session was devoted to appeals to the Czar and the Government for amnesty. This subject also had the first place in the Duma’s answer to the Crown Speech. It was an appeal to deaf ears. After a hopeless struggle, which lasted over a fortnight, the Duma gave way and began its legislative work. But complaints and petitions poured in upon the Deputies from every constituency, depriving them of the necessary calmness. Then the continuous interpellations to the Government began.
+
+On May 21, 1906, the following interpellation was unanimously presented by the Duma to M. Stolypin:--
+
+<quote>
+
+“Does the Minister know that the authorities have filled all prisons to overflowing? That among the prisoners are persons admitted to be innocent? That in contravention of even the exceptional and martial laws, prisoners are kept beyond the term legally ordained, no charge being brought against them, whereby they are driven to utter despair and voluntary starvation?”
+
+</quote>
+
+The Cabinet waited a full month before answering this interpellation.
+
+On May 25<sup>th</sup> the Deputies of the Duma made another attempt to stay the hand of the executioners. A telegram was received by the Duma to the effect that eight men had been condemned to death in the Baltic provinces by a summary Court Martial, that they had wished to appeal to a higher Court on the grounds of complete neglect of procedure at their trial; but that the Governor-General had refused them the right of appeal and confirmed the sentence. The Duma begged the Government to postpone the execution and to allow the appeal of the condemned to be heard. Upon this, a hasty order was sent from St. Petersburg that the eight men were to be immediately executed; and when this was done the Government informed the Duma that, unfortunately, it was now too late to discuss the matter.
+
+The numerous interpellations and requests put to the Government to postpone the executions always met with the answer--
+
+<quote>
+
+“We cannot do that. So long as the law exists we are obliged to carry it out.”
+
+</quote>
+
+The Duma decided to remove this obstacle, and, on May 31, 1906, a Bill was brought in, consisting of two paragraphs:--
+
+<quote>
+
+(1) Capital punishment to be abolished, and (2) until the revision of the penal code is done, capital punishment to be replaced by the heaviest sentence immediately preceding it on the scale of punishments.
+
+</quote>
+
+After having passed the usual legal stages, this Bill was unanimously adopted by the Duma on July 11, 1906, but it never received the Czar’s sanction, and the executions have continued at the same rate.
+
+During the debates upon the Bill the Deputy Nadvorsky told the Assembly that two hundred Warsaw barristers had sent a formal complaint to the Senate against the Governors-General of Lublin and Warsaw, by whose orders seventeen youths were shot without trial.[52] The Senate divided in its resolution upon this remonstrance. Some Senators declared that as the Governors were acting under martial law, they had the right to adopt whatever measures they might find expedient. The minority found that martial law does not give the right of indiscriminate execution, but that nevertheless this complaint must be rejected because <em>only those who were victims of illegal behavior on the part of Governors had the right to complain</em>. Owing to this disagreement the Senate adjourned the examination of the case until unanimity be arrived at. Again and again this case was debated in the Senate, the last time in May, 1909, but the Senators remained firm in their disagreement, some maintaining that, under martial law, Section 12, the Governors-General have the right to execute at their own discretion, and are responsible only before the Czar, and others repeating that the act was no doubt illegal, but that only the victims had the right to complain. As the victims were already in their graves the Governors-General, till now, continue their rule unhindered.
+
+Looking through the official shorthand reports Duma’s session one meets upon every page interpellations to the Government concerning numberless illegal and arbitrary acts, such as the exile of thousands of village schoolmasters, peasants, workmen, and intellectuals. I give a few chance quotations.
+
+The Deputies Rostovtseff and Khruscheff received the following telegram from the town Ostrogorsk, on June 1<sup>st</sup>:--
+
+<quote>
+
+“After our husbands had remained four months in prison, they sent a telegram to M. Stolypin on April 28<sup>th</sup>, asking for release or trial. On May 2<sup>nd</sup> an answer was received ordering their immediate deportation : nine to the Narym region (a desolate corner of Western Siberia) for four years, and one, a consumptive, to the Astrakhan province for three years. These prisoners were mostly members of the zemstvos, and arrested without reason, nothing suspicious being found upon them and no charge brought against them. They were not even interrogated. Signed--the wives of Dr. Shiriaeff, the engineer Andrianoff, &c.”
+
+</quote>
+
+At the same sitting another telegram was received from Voronesh, sent by the wife of Dr. Romanoffsky, who had just been sent for a three years’ exile to the Narym region.
+
+<quote>
+
+“I implore you to examine our case. My husband’s banishment is through an entire misunderstanding. In the written order of exile my husband is described as ‘teacher,’ not ‘doctor,’ and the name is given as ‘Romanoff,’ not ‘Romanoffsky.’ He was deported without being once interrogated.”
+
+</quote>
+
+From the town Uman a telegram was received by the Duma on the same day, informing the Duma that 36 peasants, driven to despair by long imprisonment without trial or accusation, had refused food for six days, requesting trial, declaring their decision to die if it were further refused.
+
+To finish with this one single sitting of the Duma, I will mention also an interpellation concerning the barbarous illegalities in the Baltic provinces, which are placed under several headings:--
+
+ 1. Execution without trial or investigation.
+
+ 1. Tortures, and flogging to the amount Of 400 strokes from the <em>nagaikas</em>.
+
+ 1. The burning of peasants’ farms and property and public buildings by the military and officials, &c.
+
+This sitting was not at all of an exceptional character. On the contrary, during almost every other sitting the quantity of interpellations with regard to various atrocities, illegal imprisonments and executions were much more numerous. The contents of those interpellations are painfully monotonous: “Prison overflowing.” “Prisoners kept for months without trial or investigation, starving themselves.” “Thirty-five prisoners in Riga threatened with execution. Immediate measures urgent.” “The barrister Pukhtinsky, of Tchernigov, has been kept for three months in prison without charge, and is now in exile in Siberia. His wife and five children are utterly destitute. Pukhtinsky’s only offense was that he, as a councilor of the Tchernigov Corporation, was disliked by the local authorities.” “The engineer Farmakovsky, of Minsk, is kept in prison in spite of his serious illness and the order of the magistrate for his release. In the same prison are Councilor Havansky, Dr. Kaminsky, the barrister Rogalevitch, many journalists, and others. They have been imprisoned for many months, and no reasons have been given for their detention.” “Two youths, aged 18 and 19, of the town of Warsaw are being court-martialed for having struck their schoolmaster. Execution threatens them.”
+
+That was on June 6<sup>th</sup>, when twenty-six interpellations concerning various atrocities and illegalities were submitted to the Duma. At the next sitting, June 9<sup>th</sup>, thirty-two interpellations of the same kind were made. This constantly increasing number made it impossible for the Duma even to debate the cases. They were simply handed over to a parliamentary Commission of 33, for transmission to the Ministry, which still remained silent upon the point. It was, however, a burning question demanding immediate and earnest attention, as may be seen from the following quotations:--
+
+<quote>
+
+“On April 11<sup>th</sup> we were imprisoned in the Iljesk prison, by order of the district chief. The soldiers robbed us of all our money, and at the order of the policeman Volokhovsky they began to strike us with the butt-ends of their rifles an kick us until they were tired. We were wounded all over and blood ran from our mouths, noses, and ears. Some of us had broken ribs, legs, and arms. Vidhovsky, an old man and a cripple, was more brutally treated than any of the others. He was dragged by the hair into a cell and lost consciousness. When he regained it he asked for the priest, but the request was refused. For the six subsequent days we were kept without food, and only on the seventh day were given 10 kopecks (2 1/2d.) each for food. Up to now no charge has been brought against us, and we have not been interrogated. Only the chief of the district explained to our wives that we had been arrested because some man named Binegraet had sent a denunciation to the effect that we had taken part in the festivities at the granting of the Constitution.”
+
+</quote>
+
+“We, peasants of the village Kitoff, beg you to protect us the police. On June 5<sup>th</sup> they killed three men and wounded three others without cause. For God’s sake investigate the case protect us!”
+
+During the debates of the 9<sup>th</sup> of June, the Deputy Rosenbaum told the Duma of the imprisonment of many innocent people in the town of Minsk.
+
+“When,” he said, “ we told our Governor, M. Kurloff, about it, he answered, ‘Perhaps there are innocent people in prison. But when once they are in prison they must not be let out.’”
+
+This governor, Kurloff, is a celebrity in Russia. He it was who, after the granting of the October Manifesto, surrounded a meeting of citizens with troops, and ordered them to shoot down the people as they left the hall. Hundreds were shot. After that exploit Kurloff was promoted to the chief directorship of all prisons in Russia. During his two years’ tenure of that office, Schlüsselburg, the famous fortress, emptied during the amnesty of 1905, was refilled tenfold, and chains, flogging, and other barbarities were introduced.
+
+The sanitary condition of the Russian prisons was brought to such a pitch that typhus and scurvy began to decimate the prison population. Yet, as we shall see from official figures, the number of prisoners is always on the increase.
+
+A few months ago Kurloff received a further promotion to that of Assistant Minister of the Interior, assistant of Stolypin.
+
+On the above-mentioned day (June 9, 1906) the Duma learned that eleven persons had been condemned to death in Riga, the accusation being exclusively based upon their own depositions, extorted from them by terrible tortures. They were flogged, the wounds being subsequently filled with salt, their hair was pulled out, and loaded revolvers were held against their foreheads.
+
+According to the Russian law, the Government has the right to adjourn its answer to interpellations of the Duma for one month, and in this case it fully availed itself of this privilege, in spite of the fact that the interpellations were of the most urgent character. But at last this month came to an end, and the members of the Government began to answer a few of the interpellations. The answers, however, completely disappointed the Duma. On the 14<sup>th</sup> of June the chief military procureur, Pavloff, while fully admitting the facts about the lawless executions and death sentences mentioned in the interpellations, contented himself with the declaration that the Governors-General received the powers to act under martial law according to their own lights ; that, when they forbid persons condemned to death by Court Martial to appeal, and order their immediate execution, they act within their rights, and that the Central Government has therefore no power to interfere (Report of the nineteenth sitting of the First Session).
+
+On the 21St of June the Minister of Justice, Scheglovitoff, answering an interpellation concerning the two Warsaw youths court-martialed for having struck their teacher, declared that the central authorities were unable to interfere because it lay within the powers of the Governors-General to deliver any offender they chose to a Court Martial instead of to a civil magistrate. Thus a possible punishment of a short term of imprisonment may be replaced by capital punishment at the discretion of a Governor-General.
+
+On the same day, however, M. Stolypin, answering interpellations in the Duma, while admitting the guilt of some officials, declared that he was not responsible for the illegalities of the previous Government, and promised to prevent their recurrence during his tenure of office.
+
+“I repeat,” he said, “that the most sacred duty of the Government is to protect peace and law, the freedom, not only of labor, but also of life. And all measures of pacification which I take do not signify the coming of reaction, but that of order, which is necessary for the introduction of the most important reforms.”
+
+More than three years have passed since that time. Not even the first step has been taken for the introduction of the reforms foreshadowed by Stolypin, while the number of prisoners and exiles kept without trial is ever increasing, according even to the official figures.
+
+The number of interpellations continued to increase, and the Ministry began to answer them wholesale.
+
+On July 16<sup>th</sup> the Assistant Minister of the Interior, Makarof, answered 33 interpellations at once. His answer was purely formal. He admitted a few cases in which persons had been imprisoned without an order even having been signed, but in the majority of cases he satisfied himself that such a had been issued; and as the Governors-General had been given the right to imprison people according to their own discretion, everything was done in observance of the law.
+
+The next sitting, July 17<sup>th</sup>, a further batch of interpellations brought their number up to 370--hardly one in ten receiving an answer. The Duma was, after that, dissolved.
+
+When, eight months later, the Second Duma came together, M. Stolypin, on March 19<sup>th</sup>, read his Ministerial Declaration, in which he stated that a special Bill would be introduced by the Ministry to the Duma, by which arrest, searching, and the opening of private correspondence would be allowed only at the written order of the judicial authorities, whose duty it would be also to verify, within twenty-four hours, the legality of any arrest ordered by the police. This was to become the immutable ordinary law, which would always be enforced, except during times of war or revolution.
+
+In spite of this promise, exceptional laws are in force now all over the country, and exiles and imprisonments by administrative order are more numerous than ever.
+
+The Second Duma understood from its first sitting that it would be a hopeless task to try to curb the Governmental innumerable abuses. The scope of interpellations was narrowed to that of the most crying cases, or to questions of self-defense, <em>i.e.</em>, when the personal inviolability of the Deputies was infringed.
+
+Here are a few instances of such cases. On April 12, 1907, the following interpellation was made :--
+
+<quote>
+
+“On December 11, 1906, the Court Martial in Moscow, having tried the case of two brothers Kabloff and two brothers Karakanikoff, on the charge of having wounded a policeman, condemned them to penal servitude for life. On the same day the Governor-General of Moscow, Hershelmann, in spite of the law and the special circulars sent to him by the Premier, quashed this sentence and ordered the four men to be tried by another Court Martial. The second trial was held at once, and the four prisoners were condemned to death and executed immediately” (Official report of Session II., Sitting 19<sup>th</sup>).
+
+</quote>
+
+On April 15, 1907, several interpellations were read in the Duma with regard to the regular practice of tortures in the various prisons of Riga, Astrakhan, Algachinsk, Akatuy, &c.
+
+The interpellation concerning the system of torture practiced regularly in the Riga and other Baltic provinces prisons became notorious all over Europe (thanks to the revelations made by the British newspaper, the <em>Tribune</em>). This interpellation was answered in the Duma by the Assistant Minister of the Interior, Makaroff, who, while admitting that the ill-treatment of prisoners had occurred in the Riga prisons, refused to apply to it the name “torture.” He said that the officials guilty of the established offenses had been already dismissed, and judicial proceedings taken against them. “At present,” he said, “we must wait to see what the law courts will say. I consider debates upon this question to be premature.”
+
+This declaration was made on April 23, 1907. On May 30<sup>th</sup> M. Makarof spoke again about the tortures in the Baltic provinces in these words :--
+
+<quote>
+
+“I am far from the desire to maintain that the police, during interrogations in the Baltic provinces, did not, in some cases, beat the prisoners. I must tell you that last year already, and partly this year, forty-two prosecutions were started against the agents of police for the use of violence. One of these cases was stopped for want of proof ; in another the accused was condemned to one year’s penal servitude. The remaining cases are still under examination.”
+
+</quote>
+
+As a matter of fact, however, the Russian newspapers affirm that all the principal organizers of torture in Riga and other Baltic towns continue in their posts. The police official Gregus, who, according to the declaration of Makaroff, was dismissed more than two years ago, is at the head of the same secret police in the same town of Riga.
+
+The Second Duma soon met the fate of the First. Thereupon the franchise was curtailed, and in the Third Duma, which was convoked in March, 1908, the majority consisted of the nominees of the Government. This majority naturally put a stop to every interpellation that might be embarrassing to the Government, and the terrible state of the prisons was touched upon only occasionally during the debates upon the budget of the Prison Department and of the Ministry of Interior, while the increasing number of executions came to light during the debates upon the Bill for the Abolition of Capital Punishment.
+
+As to the interpellations concerning the prisons which were made in the Third Duma, some of them have already been mentioned in the preceding chapters. It must only be said that the interpellations in the Third Duma, restricted as they are, and submitted to a preliminary debate, have a character of gravity which the “questions” addressed to the Ministers had not in the First and Second Dumas. The interpellations are now made in the name of whole parties, instead individual members, and before being accepted the questions asked are the subject of a preliminary discussion in the Duma, after which they are usually sent before a Commission, which sees whether there are in these questions <em>the elements of an interpellation</em>. Only when the Commission has accepted the interpellation is it submitted to the Duma, and then the respective Ministers are at liberty of either accepting the debate at once or answering it in the course of one month.
+
+[50] This chapter has been compiled for this statement by the kindness of a friend.
+
+[51] Every quotation and every figure in this and in the following pages is taken from the official shorthand reports of the sittings of the Duma.
+
+[52] The Warsaw lawyers mentioned the following cases :--
+
+On January 2, 1906, in Lublin, a boy of 17, Markovsky, was shot without any form of trial. On January 3<sup>rd</sup>, 4<sup>th</sup>, and 18<sup>th</sup> (O.S.) 16 young men-one of 15 years, two of 17, three of 18, and three of 19--were shot without judgment at Warsaw (after having been tortured).
+
+They also pointed out that the Governor-General of Kielce had issued, on January 13–26, 1906, an order according to which every one found in possession of arms should be executed; and if children under 14 years should be found possessing arms, the death penalty should be applied to their parents. The head of the Polish provinces stopped the application of that order, because it was rendered public. But how many Governors-General acted on such principles without giving them publicity?
+
+The memoir of the Warsaw lawyers was published in all leading dailies. Also in the work of V. Vladimiroff, “Sketch of Present Executions,” Moscow, 1906 (Russian).
+
+* Part 2
+
+** Chapter 6 : Provocation To Violence And The Participation Of Police Officials In Crime
+
+A painfully prominent feature of present-day Russian life is the frequency of provocaton to violence by the secret agents of the Government, which has attained an extraordinary development during the last few years, since public money is lavished upon the three or four different and rival sections of the State’s secret police : as also has the participation of various police officers in all kinds of crime, of which many striking instances have been discovered of late. The consequence is, that death sentences are continually pronounced upon young and inexperienced men who have been involved in various plots by the secret agents of the Government. This has developed lately into a widely-spread system among the secret agents and the police officers for attaining promotion and receiving handsome money rewards.
+
+Every one has been hearing lately of a certain Azeff, who was for sixteen years an agent of the Russian secret police, and at the same time the chief organizer of acts of terrorism among the Social Revolutionists, including the murder of the Minister of the Interior, Von Plehve, the Grand Duke Sergius, General Bogdanovitch at Ufa, and of several plots which he denounced at the last moment against General Trépoff, the Minister of Justice Scheglovitoff, the Grand Duke Nicholas, and the Czar.
+
+Azeff began as an informer in 1902. This is officially stated in the act of accusation against M. Lopukhin (formerly head of the Police Department, who had confirmed to the Russian refugee, Burtseff, in the autumn of 1908, that Azeff really was a paid agent of the police). In 1904 Azeff, already then in the service of the police and in regular relations with Ratchkovsky, the ex-head of the Russian secret police abroad, organized the murder of the then omnipotent arch-reactionary Minister of the Interior, Von Plehve, who had dismissed Ratchkovsky, and in May, 1905, the same Azeff was the organizer of the murder of the Grand Duke Segius.
+
+Not only is this openly stated by the heads of the Revolutionary Socialist Party, but these two events were precisely what gained Azeff the absolute confidence of the party; and it thus appears that one department of the Russian secret police--the <em>Okhrana</em>, whose special function is the protection of the Czar--did not hesitate to sacrifice Von Plehve a Grand Duke in order to retain their trusted agent in the center of the Social Revolutionary Party.
+
+All this might appear incredible, but the Russian secret police had already inaugurated such a policy in 1881.
+
+When, in the first year of the reign of Alexander III. a special police was organized under the name of <em>Okhrana</em> (Protection), for the personal protection of the Czar, the head of that special police--Colonel Sudeykin--entering into relations with one of the terrorists, Degáeff, seriously invited him to induce the terrorists of the Executive Committee to kill the then Minister of the Interior, Count Tolstoy, and the Grand Duke Vladimir, and afterwards to betray the Committee. After that Sudeykin, having thus proved the incapacity of the ordinary secret police to protect such high personages, and his own cleverness in discovering the guilty persons, would himself be nominated the head of all the police with dictatorial rights, like Count Loris Melikoff under Alexander II., and he would secure a good place for his accomplice Degáeff.
+
+Ratchkovsky and Azeff continued the Sudeykin tradition. In order to protect the Czar, the <em>Okhrana</em> allowed Azeff to import into Russia revolutionary literature printed abroad, to organize workshops for fabricating bombs, occasionally supplying some money for that; they allowed him also to organize plots against Ministers, Grand Dukes, and the Czar himself. All this time their diabolic policy was carefully to protect the terrorists marked out by Azeff against an occasional arrest by some other section of the police, so as to have them arrested by nobody but the <em>Okhrana</em>, just at the moment when the plot was going to be executed. They might thus be sure of the necessary effect being produced on the Czar, and the victims might be immediately hanged, before they had time to make compromising revelations that would given a clue to the <em>Okhrana</em> conspiracy.
+
+Even escapes were skillfully organized when it was necessary for the <em>Okhrana</em> and its agent, Azeff, to spare some active fighting leader, only to hand him over later on to a Court Martial to be hanged in twenty-four hours. After that they paraded as the real defenders of autocracy ; they obtained considerable rewards in money, proved the necessity of the <em>Okhrana</em>, obtained grants for it, and maintained the “Reinforced <em>Okhrana</em>,” with its double pay to all its officers and officials, and its “extraordinary supplementary budget,” from year to year.
+
+In order to make sure of it, they also printed a special paper, the <em>Tsarskiy Listok</em> (the <em>Czar’s Leaflet</em>), for the personal perusal of the Czar (one of the numbers of this paper, obtained from the gendarmerie Archives, was reproduced lately by Burtseff in his review, <em>Byloye</em>), every report about the activity of the revolutionists and every arrest of revolutionists being recorded there for the Czar, who read it with great interest--everything being done to confirm him in the idea of the necessity of maintaining the state of siege.
+
+Thousands of men are thus sacrificed every year, only to provide the <em>agents provocateurs</em> of the <em>Okhrana</em> with plenty of money.
+
+But Azeff was not an exception. The late M. Pergament communicated in March last (to the <em>Novoye Vremya</em>) some facts from his political experience as a lawyer, and these throw some light on the widespread system of provocation used by the Russian secret police. In one case an <em>agent provocateur</em> at Vilna, dressed in a soldier’s uniform, complained to some young boys and girls of the bad treatment he had received from his officers. He suggested that the young people should kill the officers, and offered them explosives for the purpose. Happily, they mistrusted him, and did not follow his advice.
+
+At a Court Martial at Vladimir, in February last, it was proved that Lieutenant-Colonel Zavarnitsky, head of the secret police of this city, had sent threatening letters, revolutionary proclamations, drawings of bombs, and even real bombs, to all the authorities, including himself.
+
+During the trial which took place at <em>Cracow</em>, in consequence of an accusation brought by Burtseff against Miss Brzozowski of belonging to the secret police, one of the lawyers said that in Russian Poland he had several times seen <em>agents provocateurs</em> condemned to death for murders they had organized, and known them to be liberated afterwards and to appear as witnesses in other trials.[53]
+
+During the last two or three years the newspapers made known several instances in South-Western Russia where the police of the towns have organized their own bands of so-called “expropriators.” Under pretense of being revolutionists who want the money for revolutionary purposes, these bands extorted money from wealthy people under menace of death. In one or two of such cases the fact was established before the Courts, and the respective heads of the police were dismissed.
+
+Quite lately a band of so-called expropriators was arrested at <em>Tiflis</em>, and it appeared that its headquarters were at office of the secret police of that city. In consequence the head of this office, a certain Matchansky, and three of his subordinates were arrested, while the head of the police, Tsikhotsky, ended his life by suicide. Information about this band having been given to the judicial authorities by a young man named Saparof, who had entered the secret police with the intention of finding out the center of the band of expropriators, this young man was assailed in the street by two men on March 12<sup>th</sup> last and killed.
+
+Finally, we have the Memoirs of the gendarme General Novitsky, part of which appeared last June in a Kieff paper, and was reprinted in the <em>Russkiya Védomosti</em>. M. Korolenko, the well-known author, vouches for their authenticity. General Novitsky, it appears, was perfectly well aware of all the revolutionary plans for killing Bogdanovitch, governor of Ufa. Over and over again he had reported this plot to the Minister of the Interior, Von Plehve, whose orders in reply were, “Do not hurry.” This went on till Bogdanovitch was killed by men sent for that purpose by Azeff, agent of the Government.
+
+All these facts have been related in the Russian daily Press, and widely circulated through all the leading papers of St. Petersburg and the provinces, including the semiofficial paper, <em>Novoye Vremya</em>. None of those facts has been contradicted and in no case has the accuracy of the statements even been contested.
+
+Many more similar facts, collected for us in the course of our inquiry, might be added to illustrate the <em>rôle</em> of the police agents in many affairs brought before the Courts Martial for the last two years.
+
+Thus, three men--Jolpezin, Borisoff, and Matrosoff--accused of an armed raid on Yasinsky’s factory, came before the Court Martial at Moscow. Jolpezin had already twice been sentenced to death for armed robberies, in which, as he stated at the trial, he had participated as an agent of the secret police--provocation being his object. For the raid on the factory Borisoff and Jolpezin were sentenced to death--this last for the third time.[54]
+
+At <em>Sevastopol</em> the agents of the secret police allowed themselves full liberty of action as <em>agents provocateurs</em>. In October, 1906, some shots were fired at a patrol. When those who had shot were arrested, they were found to be local spies. Thereupon Admiral Skrydloff ordered four “agents” to be expelled from the fortress ; but he had not the courage to molest the principal one.[55]
+
+At <em>Kaluga</em>[56] five men were brought before a judge on a charge of having robbed a shop. It was proved by witnesses that the instigator of the outrage was one Brovtseff, a lad of 19, who was the personal agent of Captain Nikiforoff, head of the local police. The robbery was committed on March 9<sup>th</sup>, and martial law was to be discontinued on March 30<sup>th</sup>. It was shown that the revolver used by Brovtseff had been given him by Nikiforoff, who had promised him full immunity from punishment. When arrested, Brovtseff sent Nikiforoff the following telegram : “Nikolay Mitrofanovitch! You promised me full immunity, and now I am arrested.” The jury refused to give a verdict, and insisted that a further inquiry should be made, and the judge made an order accordingly.
+
+At St. Petersburg[57] the police were informed that among the secret police were several persons belonging to revolutionary organizations, who had taken part in many robberies. This information was confirmed, and on January 4<sup>th</sup> an agent of the secret service of M. Ratchkovsky was arrested, together with some others.
+
+In <em>Kieff</em>, by a mere chance, the celebrated case known as the “Aslaniade” was brought to light.[58] A whole series of suspicious acts of the secret police in Kieff were accidentally discovered. Well-known thieves caught red-handed had been let out of prison by the director of the secret police, Aslanoff, on the mere assurance of an hotel porter that they were “all right.” The persons who had caught the thieves had been threatened by Aslanoff with prosecution for defamatory accusations. Criminals had frequently escaped from prison with the help of the secret police. It was proved that secret houses of vise which the authorities had ordered to be closed had continued to flourish with the full knowledge of the police. An inquiry into the conduct of the secret police was ordered by the Governor and is now going on. So far two policemen have been discharged by way of scapegoats. The newspaper <em>Kievlianin</em> states that Aslanoff is resigning.
+
+There is no need to give further instances which prove in what hands the liberty and the life of citizens are placed.
+
+[53] <em>Novoye Vremya</em>, February 11, 1909.
+
+[54] <em>Tovarisch</em>, No. 366, September 8, 1907.
+
+[55] <em>Put</em>, No. 56, October 21, 1906.
+
+[56] <em>Russkoe Slovo</em>, No. 216, October 21, 1907 ; <em>Tovar</em>., No. 382.
+
+[57] Ibid., No. 7, January 9, 1908.
+
+[58] <em>Ryetch</em>, No. 85, April 9, 1908.
+
+** Chapter 7 : The Union Of Russian Men
+
+The English papers often give news of the so-called Union of Russian Men, which was founded in 1906 under the presidency of a doctor, A. I. Dubrovin, to combat the movement towards freedom by all possible means, legal and illegal, and especially illegal.
+
+This Union, composed of the most heterogeneous elements, has enjoyed the special protection of the Emperor, who, up till quite lately, used to wear its badge,[59] and spoke of its members as his most loyal subjects. He lately made them a gift of £1,000, and has from time to time helped them with money. Whenever the President, Dr. Dubrovin, has applied to him in behalf of members of the Union convicted of organizing and taking part in <em>pogroms</em> and political murders, or of police officials convicted of torturing prisoners, the Emperor has pardoned them.[60]
+
+It was lately maintained that the murder of the Duma Deputy, Hertzenstein, was organized with the knowledge of the President of the Union, Dr. Dubrovin, and with the help of agents of the section of the State police known as the <em>Okhrana</em>. The evidence of this was especially strong at the second trial of one of the two murderers, at Kivenepe, in Finland, on March 13–26 of this year. One of the two murderers of Hertzenstein, Polovneff, having been already condemned by a Finnish Court, M. Prussakoff, secretary to Dr. Dubrovin, stated now before the Court on oath that the President of the Union had asked him to find somebody--preferably somebody dying from consumption--who would agree to declare himself the murderer of Hertzenstein, in exchange for a certain reward and a promise that his escape should be arranged afterwards and his family support in case of death. These revelations, which indicated that Dr. Dubrovin had helped to organize the murder of Hertzenstein, caused the Finnish Court to demand the extradition of Dr. A. I. Dubrovin as an accomplice in the murder, and induced the representatives of the Constitutional Democratic and the Social Democratic parties to make an interpellation in the Duma, of which the text is given below.
+
+The revelations summarized in the interpellation implicate also Count Buxhoevden, a high official at Moscow, and a member of the same Union, in the murder of another Deputy, M. Yollos, and in repeated attempts to kill Count Witte. These most compromising disclosures freely circulate in the St. Petersburg and Moscow leading dailies.
+
+Here is the full text of the said interpellation in the Duma, made by the representatives of the Constitutional Democratic and Social Democratic parties in the Duma to the Ministers of Justice and Interior on May 12–25 last:--
+
+<quote>
+
+“In a series of public trials (those of Leonid Andrianoff, Polovneff, Vorobieff, and Seredinsky) the following facts have been proved:--
+
+“1. E. S. Larichkin, accused of the murder of M. Ya. Hertzenstein, was a member of the Union of Russian Men, and, as such, he received from the police officer of the Schlüsselburg district a revolver, the officer explaining to him that the members of the Union of Russian Men had the right of search and of makingarrests--the former to be exercised as far as possible in the presence of the police, and the latter without the presence and help of the police. According to the testimony of Larichkin, the revolvers which were given to members of the Union of Russian Men were the property of the Government, and were distributed in the bureau of the St. Petersburg police. It also appears from the affair of Vorobieff and Seredinsky, that if St. Petersburg police officers happened to confiscate revolvers from members of the Union, the President of the Union, Dr. Dubrovin, usually ordered the revolvers to be given back, and this order was obeyed by the police.
+
+“The same Larichkin was also prosecuted for the murder of Mukhin, a working man, whom he killed in the Progonnyi Pereulok, in the presence of a crowd.
+
+“At the present time, according to a persistent rumor, the Union of Russian Men <em>have deprived Larichkin of the possibility of ever appearing before a Court.</em>[61]
+
+“2. Polovneff, now for the second time under sentence for the murder of Deputy Hertzenstein,[62] <em>was an agent of the Okhrana</em>, a member the ‘Head Council of the Union of the Russian Men,’ a head of the ‘Putiloff Fighting Legion,’ and head of the ‘Fighting Legion of the Union for Active Opposition to Revolution and Anarchy.’
+
+“3. Kazantseff, one of the accomplices in the murder of Hertzenstein, who, as it now appears, incited Fedoroff to kill Count Witte and the Duma Deputy Yollos, and was subsequently killed by Fedoroff at St. Petersburg, was also a member of the <em>Okhrana</em>, a member of the Union of Russian Men, and secretary to Count A. A. Buxhoevden, who is now in the Civil Service acting as <em>attaché</em> to the Governor-General of Moscow.[63]
+
+“The photographs of both Kazantseff and Polovneff, delivered to them as pass-cards by the <em>Okhrana</em>, and bearing the signature of the head of the St. Petersburg section of the <em>Okhrana</em>, Colonel Gerasimoff, were recognized by the gendarme Zapolsky[64] as representing Kazantseff and Polovneff.
+
+“4. Alexandroff, also sentenced by the Finnish court to months’ imprisonment for abetting the murder of Hertzenstein, had likewise shown Zapolsky his card of membership of the <em>Okhrana</em>, but Zapolsky could not satisfactorily verify it, as he was hurrying to catch a train.
+
+“After having served his term in the Finnish prison, Alexandroff remained a member of the Union of Russian Men, from which continued to receive moneys.
+
+“5. A man named Rudzik, who is still wanted by the Court as an accomplice in the murder of Hertzenstein, also described himself as a member of the <em>Okhrana</em>.”
+
+We omit three more paragraphs of less importance only to mention the last paragraph:--
+
+“8. A doctor’s assistant named Byelinsky, head of the ‘Punitive Expedition’ of the Union of Russian Men, acting upon orders received from A. I. Dubrovin, engaged men to kill P. N. Milukoff. The attempt was made, and failed for reasons beyond the control of the organizers. The fact having been made known in the newspapers, Byelinsky has now disappeared.
+
+“Limiting ourselves to a brief mention of <em>the facts already established before the Law Courts</em>, and leaving entirely aside for moment quite a series of other accusations, now under judicial investigation, or made in the Press only, the authors of this interpellation ask the following questions:--
+
+“Are the Ministers of Justice and the Interior aware--
+
+“1. That the Head Council of the Union of Russian Men, with the knowledge of the police and of the <em>Okhrana</em> Department, has organized fighting legions, and that the police have assisted them to arm these legions with revolvers and bombs?
+
+“2. That quite a number of the members of the Union of Russian Men and its fighting legions have been at the same time members of the <em>Okhrana</em>?
+
+“3. That the same persons took part in the in the murder of Hertzenstein and Yollos, and in attempts against Count Witte and P. N. Milukoff, with the support of the Head Council of the Union of Russian Men, and of its President, A. I. Dubrovin?
+
+“If these facts are known to the Ministers of Justice and of the Interior, what measures do they intend to take in order to stop criminal activity of the Union and its agents?”
+
+</quote>
+
+[59] The wearing of this badge was, however, prohibited in May last by a Ministerial order.
+
+[60] Here are a few instances in point: The President of the Volsk section of the Union of Russian Men applied to the Emperor to obtain the pardon of four townsmen--Dolgoff, Glazoff, Mironoff, and Ereméeff--condemned to hard labor for a <em>pogrom</em> in Volsk on October 20, 1905. He was informed that “His Imperial Majesty has deigned to write, on February 18, 1907, in his own hand, on the said petition: ‘I grant pardon to the four condemned,’ which decision the Prime Minister has communicated by telegram to the Governor of Saratof.” On February 7, 1908, the Russian papers announced that His Majesty had pardoned seven peasants of the province of Grodno, sentenced to imprisonment for <em>pogroms</em> of the Jews. “The head of His Majesty’s Chancery for the reception of petitions, Baron Budberg, has communicated this decree of the Monarch to the President of the Union of Russian Men, Dr. Dubrovin.” Of late such pardons have become quite usual.
+
+[61] We translate verbally this mysterious statement.
+
+[62] In Finland, by a Finnish Court, after an appeal against the first condemnation.
+
+[63] The Duma Deputy Yollos, who, like Hertzenstein, was a specialist in matters concerning the peasants and the land question, was killed at Moscow by Fedoroff. This young man afterwards expressed his repentance to the Revolutionary Socialists at Paris, and revealed to them that he had acted at the instigation of a certain Kazantseff, whom at that time he believed to be a revolutionary. Kazantseff had also incited him to murder Count Witte, and he had made an attempt to blow up Count Witte in his room by lowering infernal machines through the chimneys. The machines did not explode, and Kazantseff urged him to make another attempt, this time by throwing a bomb at the Count’s motor-car on his way to the Council of State. The bomb was to be supplied by Kazantseff; but meantime Fedoroff had learned that Kazantseff was a member of the Union of Russian Men, and had told the revolutionists about his conduct. They urged Fedoroff to kill him, which he did at St. Petersburg. Having taken refuge in France, Fedoroff recently gave himself up to the French Government, and asked to be extradited to Russia on condition of being tried by a jury, as a common law murderer, for the murders of Yollos and Kazantseff. The extradition has been granted. The text the Russian demand for the extradition of Fedoroff has appeared in Paris <em>Tribune Russe</em>. This extraordinary official document gives all details of the attempt of <em>the Union of Russian Men</em> to kill Count Witte.
+
+[64] A witness, before the Finnish Court, for the prosecution of Polovneff for the murder of Hertzenstein.
+
+** Chapter 8 : Repression
+
+Countless instances could be produced to show how the neglect of all laws has become a normal feature of the Russian Administration, and how the police officials consider themselves as the absolute rulers of the country, and therefore permit themselves the most incredible brutalities. Quite a series of such facts were last winter brought before the session of the provincial tribunal of Kazan and the High Chamber of the Kazan judicial district, several police officers being tried there for the tortures they had inflicted upon free citizens, and even for the murder of some of them.
+
+In the introductory remarks it has been mentioned that a considerable number of prosecutions have been started against persons who, during the years 1905–1907, had taken advantage of the liberties granted by the Constitution and acted upon them.
+
+Quite a series of such cases was brought before the Courts during the last few months. The most striking of them was the affair of two Odessa University professors, the Dean and his assistant, who were prosecuted and condemned for having shown leniency towards the students during the excitement and disorders that took place in the University at the very height of the first months of the Liberation Movement of 1905, and for having used all their influence upon both the students and the military to pacify them, as well as to avoid an armed conflict between the troops, the police, and the students.
+
+Writing about this affair to the <em>Moscow Weekly</em>, Prince E. Trubetskoy (who is also a lawyer) said: “To bring out such a condemnation the Court had absolutely to ignore the conditions under which the incriminating events took place,” and so it was asked to do by the prosecutor. “It is just as if the Dean of the Messina University were prosecuted for not having taken measures to prevent crumbling of the walls during the earthquake.” ... “The worst is,” Prince Obolensky writes, “that the same systematical ‘cleaning’ is going to be done in all universities.” “A series of ‘administrative dismissals’ of professors already taken place in the Odessa University, and our universities are going to be transformed into ‘tea-shops of the Union of Russian Men,’ ... all decent men will have go. And when the moral authority of the professors has been destroyed, and all students’ unions forbidden then the universities will again be ripe for the revolution.”
+
+In April last, a series of such trials took place, described by the Russian Press as “Revenge trials.” At <em>Saratov</em> a group of men were prosecuted for having held peaceful meetings in connection with a strike of railway men in September, 1907, and were condemned to imprisonment in fortresses. At Moscow the local organization of the Social Democrats prosecuted for what it did at the end of 1905--heaviest accusation being that against a Social Democratic lawyer, Roshkoff, for having edited a daily paper at that time, and inserted in it detailed reports about the progress of the Moscow insurrection of December, 1905.--A hundred and six persons, already tried once, and condemned, for the anti-Governmental meetings and the constitutional manifestations held, in November, 1905, at <em>Novorossiysk</em>, after the Sevastopol rising, were tried again last April--the Military Prosecutor having lodged an appeal against the first sentence of the Court Martial, “because it contained no death sentences!” The new Court, too, could find no means better to please the high authorities, and a third trial will probably take place. In meantime two local lawyers, who had defended the accused, have been exiled from the province; three witnesses--a local teacher, an official of the local post administration, and a military official (a lieutenant-colonel)--who spoke in Court in favor of the accused, have been dismissed. Two Justices of the Peace, who were in the same case, are being prosecuted, and complaints have been made even against officials of the secret police who had spoken before the Court favor of the accused, with the result that the ex-head of police, Kiréef, has been dismissed. Inquiries are also being held to consider the case of a gendarme officer, of the commander of the military district, and even of the President of the Court Martial himself--all of them being accused of ‘leniency towards the accused.[65]
+
+We might add a quantity of similar seemingly insignificant cases that are in reality equally important, owing to their numbers. Thus, also in April last, a lawyer was prosecuted for having spoken, on November 21, 1905, in a village of the Vladimir government about the necessity of a Constituent Assembly, and having exclaimed, “Bread, light, and liberty for the people!” And again, a Cossack woman, Davydoff, was prosecuted for having organized several Liberation meetings three years ago, while she was still a girl. The lawyer was acquitted, but the girl was sent to Siberia in exile, and <em>there are scores of thousands of people</em>--thousands of them employed in the meantime in the regular service of the State--who now live in Russia under the menace of being dragged some day to prison, and thence before a Court Martial, like the woman Davydoff, for having taken part in the strikes and the Liberation Movement of 1905.
+
+During the debates in the Duma, on March 7, 1909, the Deputy Tcheidze gave the following interesting figures. During the last four years 237 ex-Deputies of the Duma were condemned to various terms of imprisonment, eighteen being sent to the Siberian mines. At the same time 406 editors of periodicals were condemned to prison, fortress, and penal servitude; 1,085 periodicals were forbidden. During the last sixteen months 418 fines, to the amount of £29,100, were imposed by the Administration upon publishers of newspapers.
+
+“Civic freedom in Russia,” said Tcheidze, “is now confined to the hangman alone, and executions have become an everyday incident.”
+
+[65] <em>Ryech</em>, April, 1909. <em>Russkiya Védomosti</em>, February 20, 1909.
+
+** Chapter 9 : Drastic Measures For The Recovery Of Arrears Of Taxes In Famine-Stricken Provinces
+
+Last summer there was a famine in several provinces European Russia; Smolensk, Minsk, Ufa, Saratov, Simbirsk, and Tambov--the last four belonging to the fertile regions of Russia. At the present time the conditions are still worse, the crop of the year 1908 having been 35,000,000 cwts. below the average crop of the four preceding years, 1902–1906. Nevertheless, the Ministry of the Interior has given orders to levy, in the most stringent way, all the arrears which have accumulated for the last few years, both in regard to the payment of the taxes and in the repayment of famine loans.
+
+“I draw the attention of the Governors,” the Prime Minister wrote in his circular of September, 1908, “to the fact that it is absolutely necessary to take the most decisive measures to recover the famine debts--not only because this recovery would give the possibility of granting further loans in case of a future failure of crops, but still more so because it would produce a moral impression on the peasants.”
+
+This order of the Ministry was understood by the Governors of the provinces as a command to take drastic measures in levying the arrears; and in some provinces (Vyatka, Tula, and Smolensk) special punitive expeditions were sent out to collect the arrears--the Governors giving to the commanders of such expeditions full powers to resort <em>to all the measures they might find necessary.</em>[66]
+
+The result is that in these provinces a wholesale flogging of the peasants, men and women alike--although this is contrary to the existing law--has been going on in order to recover the arrears. There is no means of obtaining any redress against such treatment--those Governors being best appreciated at St. Petersburg who have taken the most drastic measures.[67]
+
+For instance, a number of peasants from the Vyatka province have written to their representative in the Duma, complaining of the most abominable instances of wholesale flogging, but no attention is paid to these complaints at the Ministry of the Interior.
+
+Acting upon commands received from superiors, the district chiefs (<em>Zemskiy natchalniks</em>), when they do not resort to flogging, order a sale of the peasants’ property. And sold it is--grain in stock, farm buildings, &c., being disposed of on account of such ridiculously small arrears as fifteen, ten, and even five shillings. Scores of such cases, with full names and Wes, are reported in the St. Petersburg and Moscow papers. The sales are said to have become the occasion of a special traffic, the net result of which will be to ruin a great number of peasants;[68] for, as there are often no ordinary buyers at the sales, the only bidders are the police authorities themelves, and they buy for five or six shillings a barn or a stock of grain, and afterwards resell the property to the peasant for three or four times the price they have paid.
+
+The worst is that these punitive expeditions are at work even in those provinces where the last year’s crop was bad, and where, indeed, relief expeditions ought to be organized. But from the Government no relief comes, and private organization of relief is strictly forbidden. At the end of the year 1908 a circular was sent out by the Minister of the Interior, ordering all the branches of the famine-relief society, known as Pirogoff’s Society, to be closed, under the pretext that the central bureau of this society had not complied with all the necessary formalities.
+
+The infliction of corporal punishment in villages and towns is in open defiance of the law. Corporal punishment was definitely abolished by law in August, 1904, yet officials of all classes freely inflict it everywhere, even on persons who were previously exemped by law from this degrading punishment. Here are a number of authenticated cases:--
+
+Two students were twice flogged by order of Reuss, the head of police in the district of Elisabethpol. For this he was condemned to a month’s imprisonment by the High Court of Tiflis.[69]
+
+Corporal punishment was inflicted on some peasants who wrecked the house of M. Kaptandikoff, in the district of Bobrovsk. This was the subject of an article in the daily paper <em>Oko</em> by General Kousmin-Karavaeff, Military Procureur-Général, and a member of the Constitutional Democratic Party in the Duma. The Governor of the province of Voronesh was questioned about the matter, and announced that it was being inquired into. After the inquiry the head of the district police was dismissed, and a prosecution instituted.[70]
+
+In the village of Demianovka, in the Melitopol district, Matnobin, the head of the district police, ordered four peasants, one of them seventy-five years old, to be brought to the manor-house, and caused the workmen of the place to flog them. After being given over one hundred strokes apiece, they went home in a cart on all fours, unable to sit or lie down, and covered with blood. Two other peasants were flogged before imprisonment.
+
+In the village of Sutkovo, district of Kolomna, a policeman named Mitin so misused a peasant who been arrested for drunkenness that a few days later he died.[71]
+
+In the village of Mayanovo (government of Podolia), Sedletsky, the village policeman, and a hundred Cossacks, went from hut to hut, flogging every one, including women and children, and carrying off all they could lay hands on. Four of the peasants were sent to a hospital half dead, and any number were wounded and disfigured.[72]
+
+The peasants of <em>Trahaniotovka</em> (Kouznetsky district) began to cut down part of a forest. Saharoff, the deputy head of the district police, who came at the head of a considerable police force to stop them, had nearly every person in the village flogged with rods and <em>nagaikas</em>, and arrested five leaders.[73] In a village named <em>Seminastosi</em> (Elisabetgrad district), Sedletz, an officer of the police force, went to the village vodka shop, flogged the keeper of it, and beat him with his fists. He then took him to the village police-court, where one policeman sat on his head, and another on his feet, while a third, by order of Sedletz, mercilessly beat him with a <em>nagaika</em>.[74] At <em>Obsharovka</em> (Samara district) the police tried to extort a confession from some men whom they suspected of being implicated in a theft, by beating them with rods. When several of the men had confessed, they were brought face to face with the owner of the shop that had been robbed, but she identified none of them, either from fear of vengeance or because they were really innocent. At this the police fell on her, and beat her so cruelly that she confirmed all they said.[75]
+
+On November 10, 1906,[76] <em>Meller Zakomelsky, Governor of the Baltic Provinces, published in all the local newspapers the repeal of the law permitting flogging, which had already been repealed by the Czar more than two years before, in August,</em> 1904! It was the fourth <em>repeal</em> of this shameful law, but he wretched inhabitants of the Baltic provinces found it only a mockery. The next day, November 11<sup>th</sup>, a punitive expedition, under the command of three officers, arrived at <em>Neu Schwanenburg</em>. They arrested ten peasants and two clerks, who were made to give evidence in the case of Julius Ruben. It was desired that they should prove that Ruben was a revolutionary, and had taken part in some secret act of incendiarism. The witnesses had nothing to tell. Ruben had been arrested in the spring and then discharged with a certificate from the police, stating his innocence. Notwithstanding this, in August the punitive column had caused him to be arrested again, and as there was no evidence against him he had been tortured. He was then sent to prison, where he still is. When the punitive column came again on Saturday, November 11<sup>th</sup>, it was determined to use whatever force might be necessary to obtain witnesses against him. Eight men, including the secretary of the canton and his assistants, were twice cruelly beaten with <em>nagaikas</em>. A man was made to lie down, and two Grenadiers were told off to stand on each side of him, and flog his bare back. Thus every stroke meant four strokes. From forty to fifty strokes--that is to say, two hundred--were inflicted and the victims were then thrown on the floor and left without medical aid. This took place at the manor-house of Neu Schwanenburg.
+
+Flogging has been revived by the rural peasant Courts, with official encouragement, and in imitation of proceedings such as have been described. In the government of <em>Kieff</em>, some peasants, suspected of incendiarism, were beaten till their bones were bared, and then shut up in unheated cells. That night another fire broke out, and the wretched prisoners were again beaten till they gave information of their <em>soidisant</em> accomplice--a girl Of 20. This girl received five hundred strokes. And so on.[77]
+
+[66] <em>Ryech</em>, January and February, 1909; detailed summary in the St. Petersburg reviews, <em>Sovremennyi Mir</em>, March, 1909, and <em>Russkoye Bogatstvo</em>.
+
+[67] About the flogging arrear expeditions in the governments of Tula and Vyatka, see the Constitutional Democrat paper, <em>Ryech</em>, February 14 and 18, 1909.
+
+[68] <em>Ryech</em>, February 18, 1909.
+
+[69] <em>Novyi Put</em>, No. 66, 1908.
+
+[70] Ibid., No. 44, 1908.
+
+[71] Ibid., No. 66.
+
+[72] <em>Tovarisch</em>, February 27, 1907, No. 203.
+
+[73] Ibid., No. 131.
+
+[74] <em>Ryech</em>, March 7, 1908, No. 57.
+
+[75] <em>Tovarisch</em>, No. 131.
+
+[76] Ibid., No. 121
+
+[77] <em>Stolitchnaia Pochta</em>, February 29, 1908, No., 250.
+
+* Part 3
+
+** Chapter 10: Conclusion
+
+I have attempted to give in the preceding pages a correct statement of the violent repression which is going on now in Russia, since the concession of representative government, contained in the Manifesto of October 30, 1905, was nullified by an under-current of organized reaction. In this statement I have done my best to avoid anything that might be a distortion, or an exaggeration of facts, and yet the picture is so terrible that it is almost shaking one’s faith in human progress.
+
+Suffering and martyrdom are certainly unavoidable in every struggle for freedom. But the amount of suffering and cruel repression now prevalent in Russia surpasses everything that is known from the lessons of modern history.
+
+Every nation is certainly bound to work out her liberty in her own way and with her own forces, however painful the way may be. But one of the greatest achievements of modern civilization is precisely the feeling of intimate kinship among all nations. It is now impossible that one nation should suffer, as Russia suffers at the present moment, without these sufferings having their effect upon all the family of civilized nations and awakening among them a general feeling of solidarity. Despotism in one part of the world reacts upon all the races of the world. And when it takes such brutal and mediæval forms as it takes in Russian prisons and in the punitive expeditions, by means of which autocracy is maintained in the Russian Empire, all mankind feels the effect of such a return to the horrors of the Dark Ages.
+
+To all those who realize the unity of mankind this exposure of the horrors of the present repression in Russia is sure to appeal.
+
+

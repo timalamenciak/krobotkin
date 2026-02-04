@@ -1,0 +1,104 @@
+TITLE: The Modern State
+AUTHOR: Peter Kropotkin
+YEAR: 1913
+SOURCE_ID: al_petr_kropotkin_the_modern_state
+SOURCE_PATH: data/raw/The_Modern_State.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-the-modern-state.muse
+RETRIEVED_UTC: 2026-02-04T16:55:31Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## High Finance
+
+All States, we said, as soon as great industry develops itself in the nation, are made to seek war. They are driven by their industrialists, and even by workers, to conquer new markets — new sources of easy riches.
+
+But there is more. In every State there exists today a class — a clique, rather — infinitely more powerful even than entrepreneurs of industry and which, too, pushes for war. It is high finance, the big bankers, who intervene in international relations and who foment wars.
+
+This is done today in a very simple manner.
+
+Towards the end of the Middle Ages most of the major city-republics of Italy had ended up by getting into debt. When their period of decay had begun, owing to their wish to conquer rich markets in the East and the conquest of such markets bringing endless wars between the city-republics, these cities began to incur immense debts to their own guilds of big merchants.
+
+The same phenomenon occurs today for States, with bankers’ syndicates very willing to lend against a mortgage on their future income.
+
+Naturally, it is mainly on the small States that this is practised. Bankers lend them money at seven, eight, ten percent, knowing that they can “realise” the loan only at seventy or eighty percent. So that, after deducting the “commissions” to banks and middlemen — which amount to ten to twenty and sometimes up to thirty percent — the State does not even receive three-quarters of the amount inscribed in its ledger.
+
+On these amounts, swollen in this way, the indebted State must now pay both interest and depreciation. And when it does not do so at the appointed time, the bankers ask for nothing better than to add the arrears of interest and depreciation to the principal of the loan. The worse the finances of the debtor State grow, the more reckless the expenditure of its leaders — and the more willingly are new loans offered to it. Whereupon the bankers, setting themselves up as a “consortium” one day, lay hands on certain taxes, certain duties, certain railway lines.
+
+This was how the big financiers ruined and later annexed Egypt by England. The more foolish the expenditure of the Khedive, the more they encouraged him. It was annexation by small doses. [66]
+
+It is the same way that they ruined Turkey to take its provinces little by little. It was also the same thing, we are told, for Greece, that a group of financiers pushed for war against Turkey to seize part of defeated Greece’s revenues.
+
+And that is how Japan was exploited by high finance in England and the United States before and during its wars against China and Russia. As for China, for several years it has been partitioned by a syndicate representing the great banks of England, France, Germany and the United States. And since the Revolution in China, [67] Russia and Japan demand to be allowed to join this syndicate. They want to profit by it to extend not only their spheres of exploitation but also their territories. The partitioning of China, prepared by bankers, is thus the order of the day.
+
+In short, there is in the lending States a complete organisation in which rulers, bankers, promoters of companies, [68] tycoons and all the shady gentlemen Zola has so well described in L’Argent lend a hand to exploit whole States. [69]
+
+Where the naive believe they have discovered deep political reasons, or national hatreds, there are only plots hatched by the buccaneers of finance. They exploit everything: political and economic rivalries, national enmities, diplomatic traditions and religious conflicts.
+
+In all the wars of the last quarter of a century we find the hand of high finance. The conquest of Egypt and the Transvaal, the annexation of Tripoli, the occupation of Morocco, the partition of Persia, the massacres in Manchuria, the massacres and international looting in China during the Boxer riots, the wars of Japan — everywhere we find great banks. Everywhere high finance has had a decisive voice. And if up till now a great European war has not yet broken out, it is because high finance hesitates. It does not quite know which way the scales will fall for the millions that will be brought into play: it does not know on which horse to put their millions.
+
+As for the hundreds of thousands of human lives that war would cost — what has finance to do with them? The mind of the financier reasons with columns of figures which balance each other. The rest is not his domain: he does not even possess the imagination to bring human lives into his calculations.
+
+What a despicable world would be unveiled if only somebody took the trouble to study high finance behind the scenes! We can guess it sufficiently, if only from the small corner of the veil lifted by “Lysis” in his articles in La Revue (published in 1908 in a volume entitled Contre l’Oligarchie Financière en France [Against the Financial Oligarchy in France (Paris: Bureaux de “La Revue,” 1908)]).
+
+From this work we can, in fact, see how four or five big banks — Crédit Lyonnais, Société Générale, Comptoir National d’Escompte, and Crédit Industriel et Commercial — have a monopoly of large financial operations in France.
+
+The bulk — nearly eight-tenths — of French savings, amounting every year to about two thousand million [of francs], is poured into these great banks; and when foreign States, great and small, railway companies, towns, industrial companies from the five parts of the globe present themselves in Paris to secure a loan, they address themselves to these four or five great banking companies. These banks have a monopoly on foreign loans and have at their disposal the necessary machinery to boost them.
+
+It is evident that it was not the skill of the directors of these banks that created their lucrative position. It was the State, the French Government in the first place, that protected and favoured these banks and created for them a privileged position, which soon became a monopoly. And then the other States, the borrowing States, strengthened this monopoly. Thus Crédit Lyonnais, which monopolises Russian loans, owes this privileged position to the financial agents of the Russian government and to the Tsar’s finance ministers.
+
+The business transacted by these four or five companies amounts to thousands of millions. Thus, in two years, 1906 and 1907, they distributed in various loans seven and a half thousand million — 7,500 million, including 5,500 million in foreign loans (“Lysis,” p. 101). And when we learn that the “commission” of these companies for organising a foreign loan is five per cent for the “syndicate of middle-men [apporteurs]” (those who “arrange” new loans), five per cent. for the underwriting syndicate, and from seven to ten per cent for the syndicate, or rather trust, of the four or five banks we have just named, we see what immense sums go to these monopolists.
+
+Thus, a single middle-man who “arranged” the loan of 1,250 million contracted by the Russian government in 1906 to crush the revolution thereby received — “Lysis” tells us — a commission of twelve million!
+
+We can therefore understand the secret influence on international politics exercised by the big directors of these financial companies, with their mysterious accounts and with the plenary powers that certain directors exact and obtain from their shareholders — because they must be discreet when paying twelve million to Monsieur So-and-So, 250,000 francs to a certain minister, and so many millions, as well as awards, to the press! There is not, says “Lysis,” a single major newspaper in France that is not paid by the banks. This is understandable. We can easily guess how much money it was necessary to distribute to the press when a series of Russian loans (State, railway, land bank loans) were being prepared during the years 1906 and 1907. How many pen-pushers [plumitifs] waxed fat on the loans can be seen from the book by “Lysis.” What a windfall, in fact! The government of a great State beleaguered! A revolution to crush! This does not happen every day!
+
+Well, everybody is more or less aware of that. There is not a single politician who does not know the ins-and-outs of all this jiggery-pokery, and who does not hear mentioned the names of the women and men who “received” large sums after each loan, great or small, Russian or Brazilian.
+
+And everyone, if he has only the slightest knowledge of business, also knows very well how all this organisation of high finance is a product of the State — an essential attribute of the State.
+
+And it would be this State — the State which is so careful not to diminish its powers or reduce its functions — which in the mind of statist reformers should become the instrument for the emancipation of the masses?! What nonsense!
+
+Whether it is stupidity, ignorance, or deceit which makes them assert this, it is equally unpardonable in people who believe themselves called to direct the fate of nations.
+
+** IX. WAR AND INDUSTRY
+
+Let us now go a little deeper and see how the State has created a whole class of men in modern industry directly interested in turning nations into military camps, ready to hurl themselves at one another.
+
+There are now, indeed, immense industries that employ millions of men and which exist for the sole purpose of producing war material: which makes the owners of these factories and their financial backers have every interest to prepare for war and to fan the fear that wars are always ready to break out.
+
+It is not a matter of the small fry — the manufacturers of low-quality firearms, shoddy swords, and revolvers that always misfire, as we have in Birmingham, Liège, etc. These barely matter, although the trade in these weapons, carried on by exporters who speculate in “colonial” wars, has already attained some importance. So we know that English merchants supplied weapons to the Matabele when they were preparing to rise against the English, who were imposing serfdom upon them. [70] Later on, French manufacturers, and even well-known English manufacturers, made fortunes by sending firearms, cannons, and ammunition to the Boers. And even now they talk of quantities of weapons imported by English merchants into Arabia — which will cause tribal uprisings, the plunder of a few merchants and English intervention, to “restore order” and make some new “annexation.”
+
+Besides, these little facts no longer count. It is well known what bourgeois “patriotism” is worth and far more serious events have been witnessed recently. Thus, during the last war between Russia and Japan, English gold was supplied to the Japanese so that they might destroy Russia’s emerging sea-power in the Pacific Ocean, which England had taken umbrage to. But at the same time the English coal companies sold 300,000 tons of coal at a very high price to Russia to enable it to send Rojdestvensky’s fleet to the East. Two birds were killed with one stone: the coal companies in Wales made a great deal of money and the financiers of Lombard Street (the centre of financial operations in London) placed their money at nine or ten percent in the Japanese loan, and mortgaged a substantial part of the income of their “dear allies”!
+
+These are but only a few facts amongst thousands of others of the same kind. We would learn fine things about all this world of our rulers if the bourgeoisie did not know how to keep their secrets! So let us move on to another category of facts.
+
+We know that all the great States have favoured, alongside their [own] arsenals, the creation of huge private factories that manufacture cannons, battleships, warships of smaller size, shells, gunpowder, cartridges, etc. Immense amounts are spent by all States to obtain these auxiliary factories, where the most skilled workers and engineers are concentrated.
+
+Now, it is obvious that it is in the direct interest of the capitalists who have invested their capital in these enterprises to constantly maintain rumours of war, to incessantly press [the need] for armaments, to sow panic if need be. Indeed, that is what they do.
+
+And if the chances of a European war sometimes grow less, if the gentlemen of the government — though themselves interested as shareholders in the great factories of this kind (Anzin, Krupp, Armstrong, etc.) as well as the great railway companies, coal mines, etc. — if the rulers sometimes require coaxing in order to make them sound the war-trumpet, they are compelled to do so by chauvinistic opinion fabricated by newspapers, or even by fermenting insurrections [to justify invention and annexation].
+
+Indeed, is there not that prostitute — the big press — to prepare minds for new wars, to hasten those that are likely [to break out] or, at least, force governments to double, to treble their armaments? Thus, did we not see in England, during the ten years preceding the Boer War, the big press, and especially its assistants in the illustrated press, skilfully prepare minds for the necessity of a war “to arouse patriotism”? To this end no stone was left unturned. With much bluster they published novels about the next war in which we were told how the English, beaten at first, made a supreme effort and ended by destroying the German fleet and establishing themselves in Rotterdam. A lord spent a great deal of money to stage a patriotic play across England. It was too stupid to break even but it was necessary for those gentlemen who intrigued with Rhodes in Africa in order to seize the Transvaal gold fields and force the blacks to work in them.
+
+Forgetting everything, they even went so far as to revive the cult — yes, cult — of England’s sworn enemy, Napoleon I. And since then work in this direction has never ceased. In 1905 they almost succeeded in driving France, governed at that time by Clemenceau and Delcassé, into a war against Germany — the Minister for Foreign Affairs of the Conservative Government, Lord Lansdowne, having promised to support the French armies by sending an English army corps to the continent! Delcassé, attaching undue importance to this ridiculous proposal, very nearly launched France into a disastrous war.
+
+In general, the more we advance with our statist bourgeois civilisation, the more the press, ceasing to be the expression of what is called public opinion, applies itself to manufacturing that opinion by the most infamous means. The press, in all great States, is already [just] two or three syndicates of financial tycoons; which manufacture the opinion needed in the interests of their businesses. The big newspapers belong to them and the rest are of no account.
+
+But this is not all: the gangrene goes even deeper.
+
+Modern wars are no longer just the massacre of hundreds of thousands of men in every battle — a massacre which those who have not followed the details of the great battles during the war in Manchuria and the horrific details of the siege and defence of Port Arthur have absolutely no idea. And yet the three great historical battles — Gravelotte, Potomac, Borodino (Moscow) — which lasted three days each and in which ninety to hundred and ten thousand men were killed and wounded on both sides, these were child’s play in comparison to modern warfare! [71]
+
+Great battles are now fought on a front of fifty, sixty kilometres; they last not three days, but seven days (Liaoyang), ten days (Mukden); [72] and the losses are one hundred, one hundred and fifty thousand men on each side.
+
+The devastation caused by shells fired with precision from a distance of five, six, seven kilometres by batteries placed in a position which cannot be discovered [by the enemy] as they use smokeless powder is unimaginable. It is no longer chance. The key positions occupied by the enemy are divided on a map into squares and the fire from all the batteries is concentrated on each square successively in order to destroy everything that is there.
+
+When the fire from several hundred cannons is concentrated on a square kilometre, as is done today, there is no area of ten square metres that has not been struck by a shell, not a bush that has not been cut down by the howling monsters sent from nobody knows where. Seven or eight days of this terrible fire drives the soldiers to madness; and when the attacking columns — after having been repelled eight to ten times, but gaining a few more metres every time — finally reach the enemy’s trenches, a hand-to-hand struggle begins. After throwing hand-grenades and pieces of pyroxyline at each other (two pieces of pyroxyline tied together with a string were used by the Japanese as a sling [73] ), Russian and Japanese soldiers rolled in the trenches of Port Arthur like wild beasts, striking each other with their rifle-butts, knives, tearing each other’s flesh with their teeth…
+
+The western workers still have no idea about this terrible return to the most dreadful savagery that is modern warfare, and the bourgeois who do know are careful not to tell them.
+
+But modern wars are not just the slaughter, the madness of massacre, the return to savagery. They are also the destruction of human labour on a colossal scale; and we continually feel the effect of this destruction in time of peace by an increase in the misery amongst the poor, parallel to the enrichment of the wealthy.
+
+Every war is the destruction of a formidable [amount of] material, which includes not only the war material itself but also things most necessary for everyday life, to society as a whole: bread, meat, vegetables, foodstuffs of all kind, draught animals, leather, coal, metal, clothing. All this represents the useful work of millions of men over decades; and all this will be wasted, burnt or scrapped in a few months. But that is already wasted even now, in anticipation of war.
+
+And as this war material, these metals, these provisions must be prepared beforehand, the mere possibility of a new war in the near future brings about in all our industries shocks and crises that affect us all. You, me, we all feel the effects in every detail of our life. The bread we eat, the coal we burn, the railway ticket we buy, the price of everything depends on the rumours spread by speculators, on the likelihood of war [breaking out] in the near future.
+

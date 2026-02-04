@@ -1,0 +1,20 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:21Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## The Tsars Alexis and Peter I.
+
+Towards the end of the seventeenth century — on the eve, so to speak, of the reforms of Peter I. — a strong desire to introduce Western habits of life was felt in certain small circles at Moscow, and the father of Peter, the Tsar Alexis, was not hostile to it. He took a liking to theatrical representations, and induced some foreigners residing at Moscow to write pieces for representation at the palace. A certain GREGORY undertook this task and, taking German versions of plays, which used to be called at that time “English Plays,” he adapted them to Russian tastes. The Comedy of Queen Esther and the Haughty Haman, Tobias, Judith, etc., were represented before the Tsar. A high functionary of the Church, SIMEON PÓLOTSKIY, did not disdain to write such mysteries, and several of them have come down to us; while a daughter of Alexis, the princess Sophie (a pupil of Simeon), breaking with the strict habits of isolation which were then obligatory for women, had theatrical representations given at the palace in her presence.
+
+This was too much for the old Moscow Conservatives, and after the death of Alexis the theatre was closed; and so it remained a quarter of a century, i.e., until 1702, when Peter I., who was very fond of the drama, opened a theatre in the old capital. He had a company of actors brought for the purpose from Dantsig, and a special house was built for them within the holy precints of the Kremlin. More than that, another sister of Peter I., Nathalie, who was as fond of dramatic performances as the great reformer himself, a few years later took all the properties of this theatre to her own palace, and had the representations given there — first in German, and later on in Russian. It is also very probable that she herself wrote a few dramas — perhaps in collaboration with one of the pupils of a certain Doctor Bidlo, who had opened another theatre at the Moscow Hospital, the actors being the students. Later on the theatre of Princess Nathalie was transferred to the new capital founded by her brother on the Neva.
+
+The répertoire of this theatre was pretty varied, and included, besides German dramas , like Scipio the African, Don Juan and Don Pedro, and the like, free translations from Molière, as also German farces of a very rough character. There were, besides a few original Russian dramas (partly contributed, apparently, by Nathalie), which were compositions drawn from the lives of the Saints, and from some Polish novels, widely read at that time in Russian manuscript translations.
+
+It was out of these elements and out of West European models that the Russian drama evolved, when the theatre became, in the middle of the eighteenth century, a permanent institution. It is most interesting to note, that it was not in either of the capitals, but in a provincial town, Yarosláv, under the patronage of the local tradesmen, that the first permanent Russian theatre was founded, in 1750, and also that it was by the private enterprise of a few actors: the two brothers Vólkoff, Dmitrévsky, and several others. The Empress Elisabeth — probably following the advice of Sumarókoff, who himself began about that time to write dramasordered these actors to move to St. Petersburg, where they became “artists of the Imperial Theatre,” in the service of the Crown. Thus, the Russian theatre became, in 1756, an institution of the Government.
+

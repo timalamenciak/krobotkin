@@ -1,0 +1,20 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:26Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Historical Dramas — A. K. Tolstóy.
+
+At a later period of his life Ostróvskiy turned to historical drama, which he wrote in excellent blank verse. But, like Shakespeare’s plays from English history, and Púshkin’s Borís Godunóff, they have more the character of dramatised chronicles than of dramas properly speaking. They belong too much to the domain of the epic, and the dramatic interest is too often sacrificed to the desire of introducing historical colouring.
+
+The same is true, though in a lesser degree, of the historical dramas of Count ALEXÉI KONSTANTÍNOVITCH TOLSTÓY (1817–1875). A. K. Tolstóy was above all a poet; but he also wrote a historical novel from the times of John the Terrible, Prince Serébryanyi, which had a very great success, partly because in it for the first time censorship had permitted fiction to deal with the half-mad Tsar who played the part of the Louis XI. of the Russian Monarchy, but especially on account of its real qualities as a historical novel. He also tried his talent in a dramatic poem, Don Juan, much inferior, however, to Púshkin’s drama dealing with the same subject, but his main work was a trilogy of three tragedies from the times of John the Terrible and the imposter Demetrius: The Death of John the Terrible, The Tsar Theódor Ivánovitch, and Borís Godunóff.
+
+These three tragedies have a considerable value; in each the situation of the hero is really highly dramatic, and treated in a most impressive way, while the settings in the palaces of the old Moscow Tsars are extremely decorative and impressive in their sumptuous originality. But in all three tragedies the development of the dramatic element suffers from the intrusion of the epical descriptive element, and the characters are either not quite correct historically (Boris Godunóff is deprived of his rougher traits in favour of a certain quiet idealism which was a personal feature of the author), or they do not represent that entireness of character which we are accustomed to find in Shakespeare’s dramas. Of course, the tragedies of Tolstóy’s are extremely far from the romanticism of the dramas of Victor Hugo; they are, all things considered, realistic dramas; but in the framing of the human characters some romanticism is felt still, and this is especially evident in the construction of the character of John the Terrible.
+
+An exception must, however, be made in favour of The Tsar Theódor Ivánovitch. A. K. Tolstóy was a devoted personal friend of Alexander Il. and, refusing all administrative posts of honour which were offered him, he preferred the modest position of a Head of the Imperial Hunt, which permitted him to retain his independence, while remaining in close contact with the Emperor. Owing to this intimacy he must have had the best opportunities for observing, especially in the later years of Alexander II.’s reign, the struggles to which a good-hearted man of weak character is exposed when he is a Tsar of Russia. Of course the Tsar Theódor is not in the least an attempt at portraying Alexander II. — this would have been beneath an artist — but the weakness of Alexander’s character must have suggested those features of reality in the character of Theódor which makes it so much better painted than either John the Terrible or Boris Godunóff. The Tsar Theódor is a really living creation.
+

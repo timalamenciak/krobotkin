@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:34Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Mihailóvskiy
+
+The time has not yet come to fully appreciate the work of MIHAILÓVSKIY (1842–1904), who in the seventies became the leading critic, and remained so till his death. Moreover, his proper position could not be understood without my entering into many details concerning the character of the intellectual movement in Russia for the last thirty years, and this movement has been extremely complex. Suffice it to say that with Mihailóvskiy literary criticism took a philosophical turn. Within this period Spencer’s philosophy had produced a deep sensation in Russia, and Mihailóvskiy submitted it to a severe analysis from the anthropological standpoint, showing its weak points and working out his own Theory of Progress, which will certainly be spoken of with respect in Western Europe when it becomes known outside Russia. His very remarkable articles on Individualism, on Heroes and the Crowd, on Happiness, have the same philosophical value; while even from the few quotations from his Left and Right Hand of Count Tolstóy, which were given ina preceding chapter, it is easy to see which way his sympathies go.
+
+Of the other critics of the same tendencies I shall only name SKABITCHÉVSKIY (born 1838), the author of a very well written history of modern Russian literature, already mentioned in these pages; K. ARSÉNIEFF (born 1837), whose Critical Studies (1888) are the more interesting as they deal at some length with some of the less known poets and the younger contemporary writers; and P. POLEVÓY (1839–1903), the author of many historical novels and of a popular and quite valuable History of the Russian Literature; but I am compelled to pass over in silence the valuable critical work done by DRUZHÍNIN (1824–1864) after the death of Byelínskiy, as also A. GRIGÓRIEFF ( 1822–1864), a brilliant and original critic from the Slavophile camp. They both took the “æsthetical” point of view and combated the utilitarian views upon Art, but had no great success.
+

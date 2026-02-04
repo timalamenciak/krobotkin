@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:23Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## The First Years of the Nineteenth Century
+
+During the first thirty years of the nineteenth century the Russian theatre developed remarkably. The stage produced, at St. Petersburg and at Moscow, a number of gifted and original actors and actresses, both in tragedy and in comedy. The number of writers for the stage became so considerable that all the forms of dramatic art were able to develop at the same time. During the Napoleonic wars patriotic tragedies, full of allusions to current events, such as Dmítri Donskói (1807), by Ozeroff, invaded the stage. However, the pseudo-classical tragedy continued to hold its own. Better translations and imitations of Racine were produced (KATÉNIN, KOKÓSHKIN) and enjoyed a certain success, especially at St. Petersburg, owing to good tragic actors of the declamatory school. At the same time translations of KOTZEBUE had an enormous success, as also the Russian productions of his sentimental imitators.
+
+Romanticism and pseudo-classicalism were, of course, at war with each other for the possession of the stage, as they were in the domains of poetry and the novel; but, owing to the spirit of the time, and patronised as it was by KARAMZÍN and ZHUKÓVSKIY, romanticism triumphed. It was aided especially by the energetic efforts of Prince SHAHOVSKÓY, who wrote, with a good knowledge of the stage, more than a hundred varied pieces-tragedies, comedies, operas, vaudevilles and ballets — taking the subjects for his dramas from Walter Scott, Ossian, Shakespeare, and Púshkin. At the same comedy, and especially satirical comedy, as also the vaudeville (which approached comedy by a rather more careful treatment of characters than is usual in that sort of literature on the French stage), were represented by a very great number of more or less original productions. Besides the excellent translations of HMELNÍTZKIY from Molière, the public enjoyed also the pieces of ZAGÓSKIN, full of good-hearted merriment, the sometimes brilliant and always animated comedies and vaudevilles of Shahovskóy, the vaudevilles of A. I. PÍSAREFF, and so on. True, all the comedies were either directly inspired by Molière or were adaptations from the French into which Russian characters and Russian manners had been introduced, but as there was still some original creation in these adaptions, which was carried a step further on the stage by gifted actors of the natural, realist school, it all prepared the way for the truly Russian comedy, which found its embodiment in Griboyédoff, Gógol and Ostróvskiy.
+

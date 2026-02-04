@@ -4,7 +4,7 @@ YEAR: 1892
 SOURCE_ID: pg_23428
 SOURCE_PATH: data/raw/23428-0.txt
 SOURCE_URL: https://www.gutenberg.org/ebooks/23428
-RETRIEVED_UTC: 2026-02-03T20:58:16Z
+RETRIEVED_UTC: 2026-02-04T16:55:24Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

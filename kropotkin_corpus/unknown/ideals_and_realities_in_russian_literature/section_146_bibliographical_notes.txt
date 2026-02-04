@@ -1,0 +1,74 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:37Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Bibliographical Notes
+
+While this book was being prepared for print a work of great value for all the English-speaking lovers of Russian literature appeared in America. I mean the Anthology of Russian Literature from the earliest Period to the present Time, by Leo Wiener, assistant professor of Slavic languages at Harvard University, published in two stately volumes by Messrs. Putnam’s Sons at New York. The first volume (400 pages) contains a rich selection from the earliest documents of Russian literature — the annals, the epic songs, the lyric folk-songs, etc., as also from the writers of the seventeenth and the eighteenth centuries. It contains, moreover, a general short sketch of the literature of the period and a mention is made of all the English translations from the early Russian literature. The second volume (500 pages) contains abstracts, with short introductory notes and a full bibliography, from all the chief authors of the nineteenth century, beginning with Karamzín and ending with Tchéhoff, Górkiy, and Merezhkóvskiy. All this has been done with full knowledge of Russian literature and of every author; the choice of characteristic abstracts hardly could be better, and the many translations which Mr. Wiener himself has made are very good. In this volume, too, all the English translations of Russian authors are mentioned, and we must hope that their number will now rapidly increase. Very many of the Russian authors have hardly been translated at all, and in such cases there is nothing else left but to advise the reader to peruse French or German translations. Both are much more nu merous than the English, a considerable number of the German translations being embodied in the cheap editions of Reklam.
+
+A work concerning Malo-Russian (Little-Russian) litera ture, on lines similar to those followed by Mr. Wiener, has appeared lately under the title, Vik; the Century, a Collection of Malo-Russian Poetry and Prose published from 1708 to 1898, 3 vols. (Kiev, Peter Barski) ; (analysed in Atheneum, January 1o, 1903.)
+
+Of general works which may be helpful to the student of Russian literature I shall name Ralston’s Early Russian History, Songs of the Russian People, and Russian Folk Tales (1872–1874), as also his translation of Afanásieff’s Legends; Rambaud’s La Russie épique (1876) and his excellent History of Russia (Engl. trans.) ; Le roman russe, by Vogue; Impressions of Russia, by George Brandes (translated by Eastman ; Boston, 1889), and hís Moderne Geister, which contains an admirable chapter on Turguéneff.
+
+Of general works in Russian, the following may be named: History of Russian Literature in Biographies and Sketches, by P. Polevóy, 2 vols., illustrated (1883; new edition, enlarged, in 1903) ; and history of the New Russian Literature from 1848 to 1898, by A. Skabitchévskiy, 4th ed., 1900, with 52 portraits. Both are reliable, well written, and not bulky works — the former being rather popular in character, while the second is a critical work which goes into the analysis of every writer. The recently published Gallery of Russian Writers, edited by I. Ignátoff (Moscow, 1901), contains over 250 good portraits of Russian authors, accompanied by one page notices, quite well written, of their work. A very exhaustive work is History of the Russian Literature by A. Ppin, in 4 vols., (1889), beginning with the earliest times and ending with Púshkin, Lérmontoff, Gógol, and Koltsóff. The same author has written a History of Russian Ethnography, also in 4 vols. Among works dealing with portions only of the Russian literature the following may be mentioned: Tchernyshévskiy’s Critical Articles, St. Petersburg, 1893 ; Annenkoff’s Púshkin and His Time; 0. Miller’s Russian Writers after Gógol; Merezhkóvskiy’s books on Púshkin and another on Tolstóy; and Arsénieff’s Critical Studies of Russian Literature, 2 vols., 1888 (mentioned in the text) ; and above all, of course, the collections of Works of our critics: Byelínskiy (12 vols.) ; Dobrolúboff (4 vols.), Písareff (6 vols.), and Mihailóvskiy (6 vols.), completed by his Literary Reminiscences.
+
+A work of very great value, which is still in progress, is the Biographic Dictionary of Russian Writers, published and nearly entirely written by S. Venguéroff, who is also the editor of new, scientifically prepared editions of the complete works of several authors (Byelínskiy is now published). Excellent biographies and critical sketches of all Russian writers will be found in the Russian Encyclopædia Dictionary of Brockhaus-Efron. The first two volumes of this Dictionary (they will be completed in an Appendix) were brought out as a translation of the Lexikon of Brockhaus; but the direction was taken over in good time by a group of Russian men of science, including Mendeléeff, Woiéikoff, V. Solovióff, etc., who have made of the 82 volumes of this Dictionary, completed in 1904 (at 6 sh. the volume) — one of the best encyclopædias in Europe. Suffice it to say that all articles on chemistry and chemical technics have been either written or carefully revised by Mendeléeff.
+
+Complete editions of the works of most of the Russian writers have lately been published, some of them by the editor Marks, in connection with his weekly illustrated paper, at astoundingly low prices, which can only be explained by a circulation which exceeds 200,000 copies every year. The work of Gógol, Turguéneff, Gontcharóff, Ostróvskiy, Boborykin, Tchéhoff, and some minor writers, like Danilévskiy and Lyeskóff, are in this case.
+
+[1] Pronounce Ook-ra-ee-nian.
+
+[2] English readers will find the translation of this poem in full the excellent anthology of Russian Literature from the Early Period to the Present Time, by Leo Wiener, published in two volumes in 1902, by G. P. Putnam & Sons, at New York. Professor Wiener knows Russian literature perfectly well, and has made a very happy choice of a very great number of the most characteristic passages from Russian writers, beginning with the oldest period (911), and ending with our contemporaries, Górkiy and Merezhkóvskiy.
+
+[3] The Russian name of the first capital of Russia is Moskvá. However, “Moscow,” like “Warsaw,” etc., is of so general a use that it would be affectation to use the Russian name.
+
+[4] In all names the vowels a, e, i, o, u have to be pronounced as in Italian (father, then, in, on, push).
+
+[5] In the years 1730–1738 he was ambassador at London.
+
+[6] In 1775–1782 she spent a few years at Edinburgh for the education of her son.
+
+[7] Two free editions of it were made, one by Herzen at London: Prince Scherbátoff and A. Radischeff, 1858; and another at Leipzig: Journey, in 1876. See A. Pypin’s History of Russian Literature, vol. iv.
+
+[8] Pronounce Zh as a French j (Joukóvskiy in French).
+
+[9] It is now know how much of the prepartory work which rendered Karamzín’s History possible was done by the Academicians Schlötzer, Müller, and Stritter, as well as by the above-mentioned historian Scherbátoff, who had thoroughly studied the annals and whose views Karamzín closely followed in his work.
+
+[10] The great composer Glínka has made of this fairy tale a most beautiful opera (Rustán I Ludmíla), in which Russian, Finnish, Turkish, and Oriental music are intermingled in order to characterise the different heroes.
+
+[11] For all translations, not otherwise mentioned, it is myself who is responsible.
+
+[12] There is a good English translation of The Inspector-General, from which, with slight fevision, I take the following passage.
+
+[13] [This was in those times an expression which meant “without paying.”]
+
+[14] The only exception to be made is the scene with the two old people in Virgin Soil. It is useless and out of place. To have introduced it was simply “a literary whim.”
+
+[15] Taken from the excellent translation by Mrs. Constance Garnett, in Heinemann’s edition of Turguéneff’s works.
+
+[16] This has struck most critics. Thus, speaking of War and Peace, Pílsareff wrote: “The images he has created have their own life, independently of the intentions of the author; they enter into direct relations with the readers, speak for themselves, and unavoidably bring the reader to such thoughts and conclusions as the author never had in view and of which he, perhaps, would not approve.” (Works, V1. P. 420.)
+
+[17] Introduction to the Criticism of Dogmatic Theology and to an Analysis of the Christian Teaching, or Confession; Vol. I of Tchertkoff’s edition of Works prohibited by the Russian Censorship (in Russian), Christchurch, 1902, p. 13.
+
+[18] “That which some people told me, and of which I sometimes had tried to persuade myself — namely, that a man should desire happiness, not for himself only, but for others, his neighbours, and for all men as well: this did not satisfy me. Firstly, I could not sincerely desire happiness for others as much as for myself; secondly, and chiefly, others, in like manner as myself, were doomed to unhappiness and death, and therefore all my efforts for other people’s happiness were useless. I despaired.” The understanding that personal happiness is best found in the happiness of all did not appeal to him, and the very striving towards the happiness of all, and an advance towards it, he thus found insufficient as a purpose in life.
+
+[19] See Anabaptism from its Rise at Zwickau to its Fall at Münister, 1521–1536, by Richard Heath (Baptist Manuals, 1, 1895).
+
+[20] The Christian Teaching, Introduction, p. vi. In another similar passage he adds Marcus Aurelius and Lao-tse to the above-mentioned teachers.
+
+[21] What is my Belief, ch. X, p. 145 of Tchertkoff’s edition of Works prohibited by Russian Censorship. On pp. 18 and 19 of the little work, What is Religion and What is its Substance. Tolstóy expresses himself even more severely about “Church Christianity.” He also gives us in this remarkable little work his ideas about the substance of religion altogether, from which one can deduct its desirable relations to science, to synthetic philosophy, and to philosophical ethics.
+
+[22] Shakespeare has always been a great favourite in Russia, but his dramas require a certain wealth of scenery not always at the disposal of the Small Theatre.
+
+[23] Taken from the excellent translation of Mrs. C. Garnett (The Storm, London, Duckworth & Co., 1899).
+
+[24] I borrow these remarks about the predecessors of Byelínskiy from an article on Literary Criticism in Russia, by Professor Ivánoff, in the Russian Encyclopædic Dictionary, Vol. 32, 771.
+
+[25] The speech of Homyakóff is reproduced in Skabitchévskiy’s History (1. c.). I was very anxious to get Tolstóy’s speech, because I think that the ideas he expressed about “the permanent in Art, the universal” hardly did exclude the denunciation of the ills from which a society suffers at a given moment. Perhaps he meant what Nekrásoff also meant when he described the literature to which Schédrin’s Provincial Sketches had given origin as “a flagellation of the petty thieves for the pleasure of the big ones.” Unfortunately, this speech was not printed, and the manuscript of it could not be found.
+

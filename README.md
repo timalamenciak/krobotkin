@@ -19,6 +19,15 @@ This repository contains cleaned and compiled text from public-domain works by K
 
 **compileCorpus.R** – R script to clean and compile the dataset
 
+### Training data summary
+
+- Works: **88**
+- Units (chapter/section files): **320**
+- Total words (unit bodies): **1,411,187**
+- Total characters (unit bodies): **8,318,162**
+- Unit words (min/median/mean/max): **199 / 1431 / 4410 / 204074**
+- Unit chars (min/median/mean/max): **1227 / 8679 / 25994.3 / 1205630**
+
 ## Usage
 
 The compiled corpus is suitable for:

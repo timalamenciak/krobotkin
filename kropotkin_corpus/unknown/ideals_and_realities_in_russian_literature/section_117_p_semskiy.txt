@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:28Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Písemskiy
+
+A considerable step in advance was made by the folknovel in A. TH. PÍSEMSKIY (1820–1881), and A. A. POTYEKHIN (born 18 29), although neither of them was exclusively a folk-novelist. Písemskiy was a contemporary of Turguéneff, and at a certain time of his career it seemed as if he were going to take a place by the side of Turguéneff, Tolstóy and Gontcharóff. He undoubtedly possessed a great talent. There was power and real life in whatever he wrote, and his novel, A Thousand Souls, appearing on the eve of the emancipation of the serfs (1858), produced a deep impression. It was fully appreciated in Germany as well, where it was translated the next year. But Písemskiy was not a man of principle, and this novel was his last serious and really good production. When the great Radical and Nihilist movement took place (1858–1864), and it became necessary to take a definite position amidst the sharp conflict of opinions, Písemskiy, who was deeply pessimistic in his judgment of men and ideas, and considered “opinions” as a mere cover for narrow egotism of the lowest sensual sort, took a hostile position towards this movement, and wrote such novels as The Unruly Sea, which were mere libels upon the young generation. This was, of course, the death of his by no means ordinary talent.
+
+Písemskiy wrote also, during the early part of his literary career, a few tales from the life of the peasants (The Carpenters’ Artel, The St. Petersburg Man, etc.), and a drama, from village life, A Bitter Fate, all of which have a real literary value. He displayed in them a knowledge of peasant life and a mastery of the spoken, popular Russian language, together with a perfectly realistic perception of peasant character. There was no trace of the idealisation which is so strongly felt in the later productions of Grigoróvitch, written under the influence of George Sand. The steady, commonsense peasant characters that Písemskiy pictured are taken from a real, sound observation of life, and rival the best peasant characters of Turguéneff. As to the drama of Písemskiy (he was, by the way, a very good actor), it loses nothing from comparison with the best dramas of Ostróvskiy, and is more tragic than any of them, while in powerful realism it is by no means inferior to Tolstóy’s Power of Darkness, with which it has much in common, and which it perhaps surpasses in its stage qualities.
+

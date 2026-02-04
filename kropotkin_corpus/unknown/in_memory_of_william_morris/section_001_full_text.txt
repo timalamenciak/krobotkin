@@ -1,0 +1,26 @@
+TITLE: In Memory Of William Morris
+AUTHOR: Peter Kropotkin
+YEAR: 1896
+SOURCE_ID: al_petr_kropotkin_in_memory_of_william_morris
+SOURCE_PATH: data/raw/In_Memory_Of_William_Morris.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-in-memory-of-william-morris.muse
+RETRIEVED_UTC: 2026-02-04T16:54:38Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+WILLIAM MORRIS was such a grand figure in the Socialist movement, and he occupied in it such a unique position, that I am afraid not to be able to do full justice to his memory in the few lines which I can write now, in my present state of health.
+
+As a poet, he stood quite alone in modern poetry. Amidst the whining and morbid poets of our own time, who are plunged into self-analysis and self-complaint, and are utterly devoid of energy for struggle, he was almost the only poet of the joys of life–the joys which may finds in the conquest of freedom, in the full exercise of all his powers, in work–the work of his hands and his brain. No modern poet has been known to inspire men with a like love of liberty, and labour with the like vigour, like hope and trust in human nature, like confidence in the happiness that men can find in conquering full freedom and freely associating with their equals. A true poet of the Norse vikings, of the free labourers, of free men.
+
+These same elements he brought into the Socialist movement.
+
+When he joined it, he, like all really powerful men did not seek in it the position of a wire-puller or a leader. Not even that of a teacher. He simply undertook to express what the masses think and what they vaguely aspire to. He joined the ranks, and brought with him his hatred of oppression in all possible forms, and his love of equality and freedom–which he understood in its broadest sense.
+
+This is why, when he undertook to write his own romance of the future–“News from Nowhere”–he produced perhaps the most thouroughly and deeply Anarchistic conception of future society that has ever been written. As he combined in himself the broad view of the thinker with a wonderful personification of the good practical sense of collective thought (the mood of thought of the masses when they occasionally, in revolutionary times, set free to work)-his ideal society is undoubtedly the one which is most free of all our State and monastic traditions; the most imbued with the feelings of equality and humanitarian love; the. most spontaneously growing out of a spirit of free understanding.
+
+Two tendencies struggle in present society. On one side, the tradition of the centralised State of Imperial Rome and of the Church, built up on the same plan–the tradition of slavery, submission, oppression, military and canonic discipline; and, on the other side, the tradition of the masses who endeavoured to build up their society outside the State–the tradition of the customary law, as opposed to Roman law; of free guilds and fraternities; of the free cities revolted against the bishop and the king; of the artisans and peasants revolted against Church and Empire. Morris entirely and unreservedly belonged to this second tradition. He was the bearer of that Scandinavian, Celtic, Teutonic, Slavonic spirit which for the last ten years has struggled against the Roman tradition. And this is why he was so little understood by all the unconscious followers of the Church-and-State tradition. For the last few years of his life, Morris had abandoned the Socialist movement, and he frankly explained his reasons in a lecture which he delivered for the Anarchists at Grafton Hall in 1893. If the movement had gone on developing and bringing England to a Socialist Revolution, Morris undoubtedly would have gone under the red flag as far as the masses would have carried it. But the endurability of the workers, who patiently support any amount of capitalist oppression, deeply affected him.
+
+Moreover, Morris, who would have gone any way with the masses, could not go with parties; and when the Socialist movement in England became a party warfare, with all its wire-pulling and petty ambitions, which he hated so deeply, he did as Garibaldi did after he felt wounded in the fight between his Italian volunteers and the Italian royal troops. He retired to his Caprera.
+
+But the love of the masses has followed him in his retreat; and the deep traces of his activity remain with us. If the Socialist movement in England did not take that authoritarian and functionarist character which it took in Germany, Morris’s influence was immense to prevent that disaster; and this influence will be felt more and more in proportion as his Socialist writings and his writings altogether are read more and more by the masses of Socialist workers.
+

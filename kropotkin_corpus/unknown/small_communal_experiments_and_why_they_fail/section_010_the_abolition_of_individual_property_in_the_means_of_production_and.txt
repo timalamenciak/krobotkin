@@ -1,0 +1,19 @@
+TITLE: Small Communal Experiments And Why They Fail
+AUTHOR: Peter Kropotkin
+YEAR: 1893
+SOURCE_ID: al_petr_kropotkin_small_communal_experiments_and_why_they_fail
+SOURCE_PATH: data/raw/Small_Communal_Experiments_And_Why_They_Fail.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-small-communal-experiments-and-why-they-fail.muse
+RETRIEVED_UTC: 2026-02-04T16:55:10Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+2. The abolition of individual property in the means of production, and
+ 3. The emancipation of the individual and of society from the political machinery, the State, which helps to maintain economic slavery.
+
+On these three points all are agreed, and even those who advocate “labour notes” or who, like Brousse, wish all “to be functionaries,” that is employees of the State or the commune, admit that if they advocate either of these proposals it is only because they do not see an immediate possibility for Communism. They accept this compromise as an expedient, but their aim always remains Communism. And, as to the State, even the bitterest partisans of the State, of authority, even of dictatorship, recognise that with the disappearance of the classes of today the State will also cease to exist.
+
+Hence we may say without exaggerating the importance of our section of the Socialist movement — the Anarchist section — that in spite of all differences between the various sections of Socialism (which differences are, before all, based upon the more or less revolutionary character of the means of action of each section), we may affirm that all sections, by the voice of their thinkers, recognise the evolution towards Free Communism as the aim of Socialist evolution. All the rest, as they themselves confess, are only stepping-stones towards this end.
+
+It would be idle to discuss these stepping-stones without an examination of the tendencies of development of modern society.
+

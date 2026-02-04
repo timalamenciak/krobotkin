@@ -1,0 +1,66 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:57Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Evghéniy Onyéghin
+
+The most popular work of Púshkin is his novel in verse, Evghéniy Onyéghin. In its form it has much in common with Byron’s Childe Harold, but it is thoroughly Russian, and contains perhaps the best description of Russian life, both in the capitals and on the smaller estates of noblemen in the country, that has ever been written in Russian literature. Tchaykóvsky, the musician, has made of it an opera which enjoys a great success of the Russian stage. The hero of the novel, Onyéghin, is a typical representative of what society people were at that time. He has received a superficial education, partly from a French émigré, partly from a German teacher, and has learned “something and anyhow.” At the age of nineteen he is the owner of a great fortune — consisting, of course, of serfs, about whom he does not care in the least — and he is engulfed in the “high-life” of St Petersburg. His day begins very late, with reading scores of invitations to tea-parties, evening parties, and fancy balls. He is, of course, a visitor at the theatre, in which he prefers ballet to the clumsy productions of the Russian dramatists; and he spends a good deal of his day in fashionable restaurants, while his nights are given to balls, where he plays the part of a disillusioned young man, who is tired of life, and wraps himself in the mantle of Byronism. For some reason or other he is compelled to spend a summer on his estate, where he has for a neighbour a young poet, educated in Germany and full of German romanticism. They become great friends, and they make acquaintance with a squire’s family in their neighbourhood. The head of the family — the old mother — is admirably described. Her two daughters, Tatiána and Olga, are very different in nature: Olga is a quite artless girl, full of the joy of living, who worries herself with no questions, and the young poet is madly in love with her; they are going to marry. As to Tatiána, she is a poetical girl, and Púshkin bestows on her all the wonderful powers of his talent, describing her as an ideal woman: intelligent, thoughtful, and inspired with vague aspirations towards something better than the prosaic life which she is compelled to live. Onyéghin produces upon her, from the first, a deep impression: she falls in love with him; but he, who has made so many conquests in the high circles of the capital, and now wears the mask of disgust of life, takes no notice of the naïve love of the poor country girl. She writes to him and tells him her love with great frankness and in most pathetic words; but the young snob finds nothing better to do than to lecture her about her rashness, and seems to take great pleasure in turning the knife in her wound. At the same time, at a small country ball Onyéghin, moved by some spirit of mischief, begins to flirts in the most provoking way with the other sister, Olga. The young girl seems to be delighted with the attention paid to her by the gloomy hero, and the result is that the poet provokes his friend to a duel. An old retired officer, a true duelist, is mixed up in the affair, and Onyéghin, who cares very much about what the country gentlemen, whom he pretends to despise, may say about him, accepts the provocation and fights the duel. He kills his poet friend and is compelled to leave the country. Several years pass. Tatiána, recovered from an illness, goes one day to the house where formerly Onyéghin stayed and, making friends with an old keeper, spends days and months reading in his library; but life has no attraction for her. After insistent supplication from her mother, she goes to Moscow, and there she marries an old general. This marriage brings her to St Petersburg, where she plays a prominent part in the Court circles. In these surroundings Onyéghin meets her once more, and hardly recognises his Tánya in the worldly lady whom he sees now; he falls madly in love with her. She takes no notice of him, and his letter remain unanswered. At last one day he goes, at an unseemly hour, into her house. He finds her reading his letters, her eyes full of tears, and makes a passionate declaration of his love. To this Tatiána replies by a monologue which is so beautiful that it ought to be quoted here, if there existed an English translation which rendered at least the touching simplicity of Tatiána’s words, and consequently the beauty of the verses. A whole generation of Russian women have cried over this monologue, as they were reading these lines:
+
+“Onyéghin, I was younger then, and better looking, I suppose; and I loved you” ... but the love of a country girl offered nothing new to Onyéghin. He paid no attention to her.... “Why then does he follow her now at every step? Why such display of his attention? Is it because she is now rich and belongs to the high society, and is well received at Court?”
+
+“Because my fall, in such condition,
+
+Would be well noted ev’rywhere,
+
+And bring to you an envied reputation?”
+
+And she continues:
+
+“For me, Onyéghin, all this wealth,
+
+This showy tinsel of Court life,
+
+All my successes in the world,
+
+My well-appointed house and balls ...
+
+For me are nought! — I gladly would
+
+Give up these rags, this masquerade,
+
+And all the brilliancy and din,
+
+For a small shelf of books, a garden wild,
+
+Our weather-beaten house so poor —
+
+Those very places where I met
+
+With you, Onyéghin, that first time;
+
+And for the churchyard of our village,
+
+Where now a cross and shady trees
+
+Stand on the grave of my poor nurse.
+
+And happiness was possible then!
+
+It was so near!”
+
+She supplicates Onyéghin to leave her. “I love you,” she says:
+
+“Why should I hide from you the truth?
+
+But I am given to another,
+
+And true to him I shall remain.”[11]
+
+How many thousands of young Russian women have later on repeated these same verses, and said to themselves: “I would gladly give up all these rags and all this masquerade of luxurious life for a small shelf of books, for life in the country, amidst the peasants, and for the grave of my old nurse in our village.” How many have done it! And we shall see how this same type of Russian girl was developed still further in the novels of Turguéneff — and in Russian life. Was not Púshkin a great poet to have foreseen and predicted it?
+

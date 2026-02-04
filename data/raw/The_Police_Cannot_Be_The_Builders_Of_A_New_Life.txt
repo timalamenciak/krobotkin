@@ -1,0 +1,105 @@
+
+#title “The Police Cannot Be the Builders of a New Life”
+#subtitle Letter from Kropotkin to Lenin dated September 17, 1918
+#author Pëtr Kropotkin
+#LISTtitle Police Cannot Be the Builders of a New Life
+#date 1918 September 17
+#source Reconstructed from a variety of sources (see bibliography).
+#lang en
+#authors Pëtr Kropotkin
+#topics abolition, police, Authoritarian Left, Bolshevism, Vladimir Ilyich Lenin, Soviet Union, Russian Revolution, soviets French Revolution, letter
+#notes Primarily reconstructed by Čestmír Pelikán with additions by Simoun Magsalin.
+#notoc 1
+
+; Translation corrected by unfantasma.
+
+; ### OLD TRANSLATION BASED ON THE PIRUMOVA FRAGMENT
+; (this is commented out but preserved, just in case)
+
+; #source Translated from [[https://www.rusproject.org/comment/7860#comment-7860][<rusproject.org/comment/7860#comment-7860]>]]. Retrieved on 2023-10-27.
+; #notes Source was in Russian and was machine translated and then corrected. Edited and abridged by the Soviet historian [[/mikhail-tsovma-remembering-natalia-pirumova][Natalia Mikhailovna Pirumova]], first published in the journal <em>Rodina</em> (“Homeland”), 1989, No. 1.
+
+; I asked you for a date in order to talk about a very serious question — the “Red Terror”.
+
+; I am sure that you yourself have thought a great deal about it and have not lightly decided on it, but nevertheless I have ventured to tell you what my attitude to terror is, after all that I have experienced and thought about it, as a lover of Russia and the revolution.
+
+; The anger caused in the ranks of your comrades after the attempt on your life and the murder of Uritsky is quite understandable....
+
+; But what is understandable for the masses is inexcusable for the “leaders” of your party. Their calls for mass red terror; their orders to take hostages; mass shootings of people who were kept in prisons specifically for this purpose — indiscriminate revenge.... This is unworthy of the leaders of the social revolution ...
+
+; All political rulers, all those brought to the crest of the revolutionary wave, must know that they daily, constantly, run the risk of falling victim to political assassination — it is as much a feature of their lives as the risk of a machinist on a locomotive. You have lived abroad and you know, of course, how calmly political people take it. In America, in the heat of passion, it’s the way all the major party leaders live.
+
+; ...In 1794, as you certainly know, the terrorists of the Committee of Public Safety turned out to be the gravediggers of the people’s revolution.
+
+; I do not know whether, amidst the anxieties of party life, you have been able to familiarize yourself with the new works on the Great French Revolution; but here are the facts as they appear now. The force of the popular revolution which began on 31 May 1793, ... was constituted by the Sections in the large cities and the Popular Societies in the provinces — the same “Councils” — and their spokesmen were the Committee of Public Salvation and especially the Paris Commune.
+
+; But next to this revolutionary and partly building force, another force arose — a police force, in the person of the Committee of Public Safety and its police departments in all the sections. And this police force, terribly strengthened when the terror began, ate up first the Sections, then the Commune, and then the Committee of Public Salvation. It pushed the Committee to all the extremes of terror, to all the atrocities in the provinces; it decomposed the Sections, turning them from organs of the Revolution into organs of full police power, and filled them with the worst elements. And in July 1794, the bourgeoisie, taking advantage of the fact that the people, disgusted with blood, had turned away from the Jacobins, that the Commune had been destroyed by terrorists, and that the Sections were flooded with trashy elements, made a coup d’état in favor of the Girondists.
+
+; Without realizing what they are doing, your comrades are are preparing the same thing in the Soviet Republic.
+
+; The Russian people have a great reserve of creative, constructive forces. And hardly had these forces begun to establish life on new, socialist principles... as the duties of police investigation, entrusted to them by terror, began their corrupting, corrosive work, paralyzing all construction and putting forward people completely incapable of it. The police cannot be the builders of a new life. And meanwhile it is now becoming the supreme power in every town and village.
+
+; Where is this leading Russia? To the most vicious reaction...
+
+; ---------------
+
+
+Dear Vladimir Ilyich!
+
+I am asking you for a date in order to talk about a very serious question — the “Red Terror.”
+
+I am sure that you yourself have thought a great deal about it and have not lightly decided on it, but nevertheless I have ventured to tell you what my attitude to terror is, after all that I have experienced and thought about it, as a lover of Russia and the revolution.
+
+The anger caused in the ranks of your comrades after the attempt on your life and the murder of Uritsky is quite understandable. And, as one would expect from the mass of people who know little and think little about such matters, they inevitably spoke of the past and thought of retaliatory terror.
+
+But what is understandable for the masses is inexcusable for the “leaders” of your party. Their calls for mass red terror; their orders to take hostages; mass shootings of people who were kept in prisons specifically for this purpose — indiscriminate revenge.... This is unworthy of the leaders of the social revolution ...
+
+All political rulers, all those brought to the crest of the revolutionary wave, must know that they daily, constantly, run the risk of falling victim to political assassination — it is as much a feature of their lives as the risk of a machinist on a locomotive. You have lived abroad and you know, of course, how calmly political people take it. In America, in the heat of passion, it’s the way all the major party leaders live.
+
+[...]
+
+In 1794, as you certainly know, the terrorists of the Committee of Public Safety turned out to be the gravediggers of the  people’s Revolution.
+
+I do not know whether, amidst the anxieties of party life, you have been able to familiarize yourself with the new works on the Great French Revolution; but here are the facts as they appear now. The force of the popular revolution, which began on May 31, 1793, consisted of Sections in the big cities and Popular Societies in the provinces — the same “Soviets,” and their spokesmen were the Committee of Public Safety and especially the Paris Commune.
+
+
+But next to this revolutionary and partly building force, another force arose — a police force, in the person of the Committee of Public Safety and its police departments in all the sections. And this police force, terribly strengthened when the terror began, ate up first the Sections, then the Commune, and then the Committee of Public Safety. It pushed the Committee to all the extremes of terror, to all the atrocities in the provinces; it decomposed the Sections, turning them from organs of the Revolution into organs of full police power, and filled them with the worst elements. And in July 1794, the bourgeoisie, taking advantage of the fact that the people, disgusted with blood, had turned away from the Jacobins, that the Commune had been destroyed by terrorists, and that the Sections were flooded with trashy elements, made a coup d’état in favor of the bourgeois party of the Girondists.
+
+[...]
+
+Without realizing what they are doing, your terrorist comrades are preparing the same thing in the Soviet Republic.
+
+The Russian people have a great reserve of creative, constructive forces. And as soon as these forces began to establish life on new, socialist principles in the midst of the terrible devastation brought about by the war and the revolution, the duties of police investigation, entrusted to them by terror, began their decomposing, frictionless work, paralyzing all construction and putting forward people completely incapable of it. The police cannot be the builders of a new life, and meanwhile, they are now becoming the power in every town and village.
+
+Where is this leading Russia? To the most vicious reaction...
+
+To open the era of the Red Terror means to recognize the impotence of the revolution to go further along the path it has set itself...
+
+*** Bibliography
+
+These are the sources for the reconstructed letter.
+
+<biblio>
+
+Bordjugov 1997 — Gennadij A. Bordjugov, Чрезвычайные меры и « чрезвычайщина » в Советской Республике и других государственных образованиях на территории России в 1918–1920 гг, <em>Cahiers du Monde Russe</em> 38, no. 1–2 (1997), p. 29–43. [[https://www.persee.fr/doc/cmr_1252-6576_1997_num_38_1_2482][<persee.fr/doc/cmr_1252-6576_1997_num_38_1_2482>]]
+
+Damier 2018 — V. Damier, Петр Кропоткин: судьба революционера, [[https://aitrus.info/node/5151][<aitrus.info/node/5151>]]. Published in abridged form as a preface to the book P. Kropotkin <em>Записки революционера.</em> <em>ПРОЗАиК,</em><em></em> <em>Москва</em> <em>2018</em>, <em>p.</em> <em>.5–34.</em>
+
+Leontiev 2012 — J. V. Leontiev, Кропоткин как правозащитник, in: «Сборник материалов IV Международных Кропоткинских чтений» к 170-летию со дня рождения П.А. Кропоткина, Dmitrov 2012, p. 130–139.
+
+Markin 2002 — V. A. Markin, Неизвестный Кропоткин, ОЛМА-ПРЕСС, Москва 2002.
+
+Markin 2012 — V. A. Markin, Возвращение П. А. Кропоткина в Россию (1917–1921), in: I. I. Blauberg (ed.), Петр Алексеевич Кропоткин, РОССПЭН, Москва 2012, p. 11–36.
+
+Pirumova 1972 — N. M. Pirumova, Петр Алексеевич Кропоткин, Наука, Москва 1972.
+
+Pirumova 1989 — N. M. Pirumova, Письма и встречи, Родина 1, но.1 (1989), p. 26–31.
+
+Pirumova 1989a — N. M. Pirumova, Diktatur und weiße Handschuhe.” <em>Sowjetliteratur</em> 41, no. 8 (1989), p. 104–112.
+
+Pirumova 1991 — Н.М. Пирумова, Письма И Встречи // Путь Ильича (Дмитров). 1991. 23 Мая. С. 3. [[https://oldcancer.narod.ru/anarchism/KROPOTKIN/NMP-PAK91Dmitr.htm][<oldcancer.narod.ru/anarchism/KROPOTKIN/NMP-PAK91Dmitr.htm>]]
+
+Richter 1992 — Gudrun Richter, “The Police Cannot Be the Constructor of the New Life”: Petr A. Kropotkin and the October Revolution, publikovaný v <em>Nature, Society, and Thought, a Journal of Dialectical and Historical Materialism</em> 5, no. 4 (1992), p. 293–306. [[https://conservancy.umn.edu/handle/11299/149709][<conservancy.umn.edu/handle/11299/149709>]]
+
+</biblio>
+

@@ -1,0 +1,18 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:35Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Merzhkóvskiy
+
+DMITRIY MERZHKÓVSKIY (born 1866) may be taken to illustrate the difficulties which a writer, even when endowed with a by no means ordinary talent, found in reaching his full development under the social and political conditions which prevailed in Russia during the period just mentioned. Leaving aside his poetry — although it is also very characteristic — and taking only his novels and critical articles, we see how, after having started with a certain sympathy, or at least with a certain respect, for those Russian writers of the previous generation who wrote under the inspiration of higher social ideals, Merezhkóvskiy gradually began to suspect these ideals, and finally ended by treating them with contempt. He found that they were of no avail, and he began to speak more and more of “the sovereign rights of the individual,” but not in the sense in which they were understood by Godwin and other eighteenth century philosophers, nor in the sense which Písareff attributed to them when he spoke of the “thoughtful realist”; Merezhóvskiy took them in the sense — desperately vague, and narrow when not vague — attributed to them by Nietzsche. At the same time he began to speak more and more of “Beauty” and “the worship of the Beautiful,” but again not in the sense which idealists attributed to such words, but in the limited, erotic sense in which “Beauty” was understood by the “Æsthetics” of the leisured class in the forties.
+
+The main work which Merezhkóvskiy undertook offered great interest. He began a trilogy of novels in which he intended to represent the struggle of the antique pagan world against Christianity: on the one hand, the Hellenic love and poetic comprehension of nature, and its worship of sound, exuberant life; and on the other, the life-depressing influences of Judaic Christianity, with its condemnation of the study of nature, of poetry, art, pleasure, and sound, healthy life altogether. The first novel of the trilogy was Julian the Apostate, and the second, Leonardo da Vinci (both have been translated into English). They were the result of a careful study of the antique Greek world and the Renaissance, and notwithstanding some defects (absence of real feeling, even in the glorification of the worship of Beauty, and a certain abuse of archeological details), both contained really beautiful and impressive scenes; while the fundamental idea — the necessity of a synthesis between the poetry of nature of the antique world and the higher humanising ideals of Christianity — was forcibly impressed upon the reader.
+
+Unfortunately, Merezhkóvskiy’s admiration of antique “Naturism” did not last. He had not yet written the third novel of his trilogy when modern “Symbolism” began to penetrate into his works, with the result that notwithstanding all his abilities the young author seems now to be drifting straight towards a hopeless mysticism, like that into which Gógol fell towards the end of his life.
+

@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:57Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Púshkin: Beauty of form
+
+Púshkin is not quite a stranger to English readers. In a valuable collection of review articles dealing with Russian writers which Professor Coolidge, of Cambridge, Massachusetts, put at my disposal, I found that in 1832, and later on in 1845, Púshkin was spoken of as a writer more or less familiar in England, and translations of some of his lyrics were given in the reviews. Later on Púshkin was rather neglected in Russia itself, and the more so abroad, and up to the present time there is no English translation, worthy of the great poet, of any of his works. In France, on the contrary — owing to Turguéneff and Prosper Mérimée, who saw in Púshkin one of the great poets of mankind — as well as in Germany, all the chief works of the Russian poet are known to literary men in good translations, of which some are admirable. To the great reading public the Russian poet is, however, nowhere well known outside his own mother country.
+
+The reason why Púshkin has not become a favourite with West European readers is easily understood. His lyric verse is certainly inimitable: it is that of a great poet. His chief novel in verse, Evghéniy Onyéghin, is written with an easiness and a lightness of style, and a picturesqueness of detail, which makes it stand unique in European literature. His renderings in verses of Russian popular tales are delightful reading. But, apart from his very latest productions in the dramatic style, there is in whatever Púshkin wrote none of the depth and elevation of ideas which characterised Goethe and Schiller, Shelley, Byron, and Browning, Victor Hugo and Barbier. The beauty of form, the happy ways of expression, the incomparable command of verse and rhyme, are his main points — not the beauty of his ideas. And what we look for in poetry is always the higher inspiration, the noble ideas which can help to make us better. In reading Púshkin’s verses the Russian reader is continually brought to exclaim: “How beautifully this has been told! It could not, it ought not, to be told in a different way.” In this beauty of form Púshkin is inferior to none of the greatest poets. In his ways of expressing even the most insignificant remarks and describing the most insignificant details of everyday life; in the variety of human feeling that he has expressed, and the delicate expression of love under a variety of aspects which is contained in his poetry; and finally, in the way he deeply impressed his own personality upon everything he wrote — he is certainly a great poet.
+

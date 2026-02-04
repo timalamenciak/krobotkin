@@ -4,7 +4,7 @@ YEAR: 1908
 SOURCE_ID: al_letter_to_berkman
 SOURCE_PATH: data/raw/Letter_Berkman.txt
 SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-letter-to-berkman
-RETRIEVED_UTC: 2026-02-03T20:59:00Z
+RETRIEVED_UTC: 2026-02-04T16:54:41Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

@@ -1,0 +1,46 @@
+TITLE: An Open Letter Of Peter Kropotkin To The Western Workingmen
+AUTHOR: Unknown
+YEAR: 1917
+SOURCE_ID: al_an_open_letter_of_peter_kropotkin_to_the_western_workingmen
+SOURCE_PATH: data/raw/An_Open_Letter_Of_Peter_Kropotkin_To_The_Western_Workingmen.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/an-open-letter-of-peter-kropotkin-to-the-western-workingmen.muse
+RETRIEVED_UTC: 2026-02-04T16:53:27Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+Dear Comrades and Friends, — After having worked in your midst for 40 years I cannot leave Western Europe without sending you a few words of farewell.
+
+From the depths of my heart, I thank you for the reception — more than fraternal — that I found in your midst. The International Workingmen’s Association was not for me a mere abstract word. Amidst the workingmen of Switzerland, France, Britain, Spain, Italy, the United States I was in a society of brothers and friends. And in your struggles, each time I had the opportunity to take part in them, I lived the best moments of my life. I deeply felt that wave of human solidarity and oneness of men, disregarding all frontiers, which represents one of the greatest promises for man in the future.
+
+We are now living through terribly sad times. Men kill one another with unprecedented ferocity, not in a struggle between exploited and exploiters, or between democracy and aristocracy, but in a struggle between nations. And the more I think of the causes of this catastrophe the more I see that the cause lay not only in the existence of separate States but also in our having not foreseen that whole nations may bo dragged by their Governments and their intellectual leaders into the conquest of neighbouring territories and nations with the outspoken purpose of national enrichment or under the pretext of fulfilling a historical mission. We thought that impossible, but it is proved now that we were wrong. Besides, we have not sufficiently insisted upon the following fundamental duty of every Internationalist, the duty of opposing with all his forces, including the force of arms, every attempt of every nation to invade foreign territories.
+
+Without the recognition of such an obligation no International will be possible. So long as this is not recognised the International will remain a mean formula, as sterile and as liable to misrepresentation as the Christian formula of “love your neighbour.” However, the formidable extension and the brutality of this war have awakened mankind. They have reminded it of the great social problems indicated by the Socialists of the years in the eighteen-forties and the first International, but neglected since, a neglect which is paid now by all the nameless sufferings inflicted upon us by the war.
+
+“You did not want to have Socialism,” Alexandre Herzen wrote in 1848. “Well, then, you will have the Seven Years’ War, the Thirty Years’ War.” He was right. We live through the beginnings of such a war, and we shall have it in full if all men and women of energy, knowledge, and experience do not unite all their energies to prevent it by joining in social reconstruction.
+
+If the Russian nation has succeeded in driving away her autocrats with their bureaucratic sequel, and if it has managed to conquer in a few days the first basis of all social reconstruction — political equality of all citizens — it was the reconstruction work which was going on all over Russia since the beginning of the war which has helped to do so. It was due to voluntary effort and free initiative, and it was this work which rendered the revolution possible and actually unavoidable.
+
+It was the necessity of freely, spontaneously reorganising the consumption of all that is necessary for life on communist and federative principles, as well as the necessity of reorganising production in the same direction and the efforts made by scores of thousands of people in that direction, which prepared the revolution and led to it. And the same necessity begins to be strongly felt in the West as well.
+
+All of us have now had the opportunity to realise and to convince ourselves of the truth of what was long since preached by the Communists and the Socialists, namely, that neither the production of all that is necessary for a nation nor the distribution of what is produced can be abandoned to the hazards of competition or to the lust for enrichment of private individuals. We all have had the opportunity to convince ourselves during the war that these two fundamental branches of man’s activity must at any price be organised so as to satisfy the needs of all, and that, therefore, the capital that is required for that must be socialised.
+
+Three years ago such a programme was described as a dangerous Utopia. Even the more advanced Socialist workers found it impossible to apply it at the time being; they left to the generations to come the task of such a reorganisation of society. But now a widely spread feeling is arising which considers that an immediate solution of those first portions of the social problem is imperative. The difficulties lived through by the nations during the war have opened the eyes of a great number.
+
+Consequently an immense work of social reconstruction has become unavoidable. It can no more be brushed away as a Utopia. People feel the need of reconstruction, and everyone can already distinguish its main lines. And it is high time for the workers to hesitate no more; to take this work in hand without waiting for the State or the upper classes to do it for them. Life itself has indicated the main lines of reconstruction:— The production of all that is necessary for the nation as well as the distribution of the produced wealth must be organised in the direct interest of all.
+
+It is no more a matter of struggling for adding to the wages a few shillings, which usually are soon swallowed by all sorts of exploiting intermediaries. The workers, the producers, must become the managers of the producing concerns. They must settle the aims and the means of production, and society must recognise their right of disposing of the capital that is needed for that.
+
+As soon as the war will come to an end you will see yourselves compelled, comrades and friends, to set to work in order to accomplish that immense task. The history of mankind imposes it upon you; you are bound to accept it.
+
+But, above all, let us not forget, friends, that at this moment the war has not yet come to an end. We are rapidly nearing the decisive moment which will settle the final events of the war, and every moment of weakness may, therefore, bear fatal consequences for all the future of mankind.
+
+All of us want peace. All should like to put an end to the slaughter of men. But for that a pious desire will not do. One must have the force to impose an end to the slaughter upon those who have begun it. But until now the German nation does not show that it sees the foolishness of the adventure into which it was lured and the blind alley into which it was driven by its rulers.
+
+The German nation does not yet see that the leading scheme of this war — the hope of enriching Germany by a sudden well-prepared attack of its western and eastern neighbours — did not succeed. Foreign territories were occupied by surprise. It appears now that it is not possible to keep them without having obtained a great military victory over the Allies. But this victory has not yet been won, and every day renders it less and less possible.
+
+It is sad to say so, but so it is, the majority of the German nation does not yet recognise the hopelessness of a continued war. It wants it to be proved in the battlefield, while its Government supports this illusion and does everything to sow discord among the Allies. There is thus only one issue left, to make a great final military effort to prove to the Germans that their rulers have committed both a great crime in preparing and beginning this war and have rushed into an act of madness.
+
+And as soon as the war is over you must seriously study and resolutely take in hand the fundamental reconstruction on the lines of socialisation, of the social wealth, socialised production, and socialised distribution of produced riches. If these fundamental principles are kept in view be sure that the combined efforts of all — the wisdom of the nations — will find the means of accomplishing the badly needed reconstruction with the least amount of conflict and disturbance. Russia will join you in the same work.— Most fraternally and heartily yours,
+
+PETER KROPOTKIN.
+

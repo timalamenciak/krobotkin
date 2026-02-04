@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:29Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Potyékhin
+
+The chief work of Potyékhin was his comedies, memtioned in the preceding chapter. All of them are from the life of the educated classes, but he wrote also a few less known dramas from the peasant life, and twice — in his early career in the fifties, and later on in the seventies — he turned to the writing of short stories and novels from popular life.
+
+These stories and novels are most characteristic of the evolution of the folk-novel during those years. In his earlier tales Potyékhin was entirely under the spell of the then prevailing manner of idealising the peasants; but in his second period, after having lived through the years of realism in the sixties, and taken part in the above-mentioned ethnographic expedition, he changed his manner. He entirely got rid of benevolent idealisation, and represented the peasants as they were. In the creation of individual characters he was undoubtedly successful, but the life of the village — the mir — without which Russian village-life cannot be represented, and which so well appears in the works of the later folk-novelists, is yet missing. Altogether one feels that Potyékhin knew well the outer symptoms of the life of the Russian peasants, including their way of talking, but that he had not yet grasped the real soul of the peasant. This came only later on.
+

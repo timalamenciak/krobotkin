@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:28Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Marko Vovtchók
+
+Another writer of the same school, who also produced a deep impression on the very eve of the liberation of the serfs, was Mme. MARIE MÁRKOVITCH, who wrote under the pseudonym of MARKO VOVTCHÓK. She was a Great Russian — her parents belonged to the nobility of Central Russia — but she married the Little-Russian writer, MÁRKOVITCH, and her first book of stories from peasant-life (1857–58) was written in excellent Little Russian. (Turguéneff translated them into Great Russian.) She soon returned, however, to her native tongue, and her second book of peasant stories, as well as her subsequent novels from the life of the educated classes, were written in Great Russian.
+
+At the present time the novels of Márko Vovtchók may seem to be too sentimental — the world-famed novel of Harriett Beecher Stowe produces the same impression nowadays — but in those years, when the great question for Russia was whether the serfs should be freed or not, and when all the best forces of the country were needed for the struggle in favour of their emancipation — in those years all educated Russia read the novels of Márko Vovtchók with delight, and wept over the fate of her peasant heroines. However, apart from this need of the moment — and art is bound to be at the service of society in such crises — the sketches of Márko Vovtchók had serious qualities. Their “sentimentalism” was not the sentimentalism of the be. ginning of the nineteenth century, behind which was concealed an absence of real feeling. A loving heart throbbed in them; and there is in them real poetry, inspired by the poetry of the Ukrainian folklore and its popular songs. With these, Mme. Maacute;rkovitch was so familiar that, as has been remarked by Russian critics, she supplemented her imperfect knowledge of real popular life by introducing in a masterly manner many features inspired by the folklore and the popular songs of Little Russia. Her heroes were invented, but the atmosphere of a Little-Russian village, the colours of local life, are in these sketches; and the soft poetical sadness of the Little-Russian peasantry is rendered with the tender touch of a woman’s hand.
+

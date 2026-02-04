@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:35Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Boborykin
+
+It may seem strange to the West Europeans, and especially to English readers, to hear of such a rapid succession of different moods of thought in Russian society, sufficiently deep to exercise such an influence upon the novels as has just been mentioned. And yet so it is, in consequence of the historical phase which Russia is living through. There is evena very gifted novelist, BOBORYKIN (born 1836), who has made it his peculiar work to describe in novels the prevailing moods of Russian educated society in their rapid succession for the last thirty years. The technique of his novels is always excellent (he is also the author of a good critical work, just published, on the influences of Western romance upon the Russian novel). His observations are always correct; his personal point of view is that of an honest advanced progressive; and his novels can always be taken as true and good pictures of the tendencies which prevailed at a given moment amongst the Russian “intellectuals.” For the history of thought in Russia they are simply invaluable; and they must have helped many a young reader to find his or her way amidst the various facts of life; but the variety of currents which have been chronicled by Boborykin would appear simply puzzling to a Western reader.
+
+Boborykin has been reproached by some critics with not having sufficiently distinguished between what was important in the facts of life which he described and what was irrelevant or only ephemeral, but this is hardly correct. The main defect of his work lies perhaps elsewhere; namely, in that the individuality of the author is hardly felt in it at all. He seems to record the kaleidoscope of life without living with his heroes, and without suffering or rejoicing with them. He has noticed and perfectly well observed those persons whom he describes; his judgment of them is that of an intelligent, experienced man; but none of them has impressed him enough to become part of himself. Therefore they do not strike the reader with any sufficient depth of impression.
+

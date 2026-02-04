@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:07Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## A Sportsman’s NoteBook
+
+The full force of Turguéneff’s talent appeared already in his earlier productions — that is, in the series of short sketches from village life, to which the misleading title of A Sportsman’s NoteBook was given in order to avoid the rigours of censorship. Notwithstanding the simplicity of their contents and the total absence of the satirical element, these sketches gave a decided blow to serfdom. Turguéneff did not describe in them such atrocities of serfdom as might have been considered mere exceptions to the rule; nor did he idealise the Russian peasant; but by giving life-portraits of sensible, reasoning, and loving beings, bent down under the yoke of serfdom, together with life-pictures of the shallowness and meanness of the life of the serf-owners — even the best of them — he awakened the consciousness of the wrong done by the system. The social influence of these sketches was very great. As to their artistic qualities, suffice it to say that in these short sketches we find in a few pages most vivid pictures of an incredible variety of human characters, together with most beautiful sketches of nature.
+
+Contempt, admiration, sympathy, or deep sadness are impressed in turns on the reader at the will of the young author — each time, however, in such a form and by such vivid scenes that each of these short sketches is worth a good novel.
+

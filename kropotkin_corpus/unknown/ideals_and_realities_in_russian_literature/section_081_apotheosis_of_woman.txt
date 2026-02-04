@@ -1,0 +1,20 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:19Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Apotheosis of Woman
+
+The best poem of Nekrásoff is Red-nosed Frost. It is the apotheosis of the Russian peasant woman. The poem has nothing sentimental in it. It is written, on the contrary, in a sort of elevated epic style, and the second part, where Frost personified passes on his way through the wood, and where the peasant woman is slowly freezing to death, while bright pictures of past happiness pass through her brain — all this is admirable, even from the point of view of the most aesthetic critics, because it is written in good verses and in a succession of beautiful images and pictures.
+
+The Peasant Children is a charming village idyll. The “Muse of Vengeance and Sadness” — one of our critics remarks — becomes wonderfully mild and gentle as soon as she begins to speak of women and children. In fact, none of the Russian poets has ever done so much for the apotheosis of women, and especially of the mother-woman, as this supposedly severe poet of Vengeance and Sadness. As soon as Nekrásoff begins to speak of a mother he grows powerful; and the strophes he devoted to his own mother — a woman lost in a squire’s house, amidst men thinking only of hunting, drinking, and exercising their powers as slave owners in their full brutality — these strophes are real pearls in the poetry of all nations.
+
+His poem devoted to the exiles in Siberia and to the Russian women — that is, to the wives of the Decembrists — in exile, is excellent and contains really beautiful passages, but it is inferior to either his poems dealing with the peasants or to his pretty poem, Sasha, in which he describes, contemporaneously with Turguéneff, the very same types as Rúdin and Natasha.
+
+It is quite true that Nekrásoff’s verses often bear traces of a painful struggle with rhyme, and that there are lines in his poems which are decidedly inferior; but he is certainly one of our most popular poets amidst the masses of the people. Part of his poetry has already become the inheritance of all the Russian nation. He is immensely read — not only by the educated classes, but by the poorest peasants as well. In fact, as has been remarked by one of our critics, to understand Púshkin a certain more or less artificial literary development is required; while to understand Nekásoff it is sufficient for the peasant simply to know reading; and it is difficult to imagine, without having seen it, the delight with which Russian children in the poorest village schools are now reading Nekásoff and learning full pages from his verses by heart.
+

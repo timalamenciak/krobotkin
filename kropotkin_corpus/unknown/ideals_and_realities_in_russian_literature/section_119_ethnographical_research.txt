@@ -1,0 +1,26 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:29Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Ethnographical Research
+
+Serfdom was abolished in 1861, and the time for mere lamentation over its evils was gone. Proof that the peasants were human beings, accessible to all human feelings, was no longer needed. New and far deeper problems concerning the life and ideals of the Russian people rose before every thinking Russian. Here was a mass of nearly fifty million people, whose manners of life, whose creed, ways of thinking, and ideals were totally different from those of the educated classes, and who at the same time were as unknown to the would-be leaders of progress as if these millions spoke a quite different language and belonged to a quite different race.
+
+Our best men felt that all the future development of Russia would be hampered by that ignorance, if it continued — and literature did its best to answer the great questions which besieged the thinking man at every step of his social and political activity.
+
+The years 1858–1878 were years of the ethnographical exploration of Russia on such a scale that nowhere in Europe or America do we find anything similar. The monuments of old folklore and poetry; the common law of different parts and nationalities of the Empire; the religious beliefs and the forms of worship, and still more the social aspirations characteristic of the many sections of dissenters; the extremely interesting habits and customs which prevail in the different provinces; the economical conditions of the peasants; their domestic trades; the immense communal fisheries in southeastern Russia; the thousands of forms taken by the popular coöperative organisations (the Artels) ; the “inner colonisation” of Russia, which can only be compared with that of the United States; the evolution of ideas of landed property, and so on — all these became the subjects of extensive research.
+
+The great ethnographical expedition organised by the Grand Duke Constantine, in which a number of our best writers took part, was only the forerunner of many expeditions, great and small, which were organised by the numerous Russian scientific societies for the detailed study of Russia’s ethnography, folklore, and economics. There were men like YAKÚSHKIN (1820–1872), who devoted all his life to wandering on foot from village to village, dressed like the poorest peasant, and without any sort of thought of to-morrow; drying his wet peasant cloth on his shoulders after a day’s march under the rain, living with the peasants in their poor huts, and collecting folk-songs or ethnographic material of the highest value.
+
+A special type of the Russian “intellectuals” developed in the so-called “Song-Collectors,” and “Zemstvo Statisticians,” a group of people, old and young, who during the last twenty-five years have as volunteers and at a ridiculously small price, devoted their lives to house-to-house inquiry in behalf of the County Councils. (A. Oertel has admirably described these “Statisticians” in one of his novels.)
+
+Suffice it to say that, according to A. N. PÝPIN, the author of an exhaustive History of Russian Ethnography (4 vols.), not less than 4000 large works and bulky review articles were published during the twenty years, 1858–1878, half of them dealing with the economical conditions of the peasants, and the other half with ethnography in its wider sense; and research still continues on the same scale. The best of all this movement has been that it has not ended in dead material in official publications. Some of the reports, like MAXíMOFF’s A Year in the North, Siberia and Hard Labour, and Tramping Russia, AFANÁSIEFF (Legends), ZHELEZNÓFF’S Ural Cossacks, MÉLNIKOFF’S (PETCHÉRSKY), In the Woods and On the Mountains, or MORDÓVTSEFF’S many sketches, were so well written that they were as widely read as the best novels; while the dry satistical reports were summed up in lively review articles (in Russia the reviews are much more bulky, and the articles much longer than in England), which were widely read and discussed all over the country. Besides, admirable researches dealing with special classes of people, regions, and institutions were made by men like PRUGÁVIN, ZASÓDIMSKIY, PYZHÓFF (History of the Public Houses, which is in fact a popular history of Russia).
+
+Russian educated society, which formerly hardly knew the peasants otherwise than from the balcony of their country houses, was thus brought in a few years into a close inter course with all divisions of the toiling masses; and it is easy to understand the influence which this intercourse exercised, not only upon the development of political ideas, but also upon the whole character of Russian literature.
+

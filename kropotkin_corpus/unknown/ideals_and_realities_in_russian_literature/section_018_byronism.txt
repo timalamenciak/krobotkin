@@ -1,0 +1,20 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:57Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## “Byronism”
+
+In Russia Púshkin has sometimes been described as a Russian Byron. This appreciation, however, is hardly correct. He certainly imitated Byron in some of his poems, although the imitation became, at least in Evghéniy Onyéghin, a brilliant original creation. He certainly was deeply impressed by Byron’s spirited protest against the conventional life of European society, and there was a time when, if he only could have left Russia, he probably would have joined Byron in Greece.
+
+But, with his light character, Púshkin could not fathom and still less share, the depth of hatred and contempt towards post-revolutionary Europe which consumed Byron’s heart. Púshkin’s “Byronism” was superficial; and, while he was ready to defy “respectable” society, he knew neither the longings for freedom nor the hatred of hypocrisy which inspired Byron.
+
+Altogether, Púshkin’s force was not in his elevating or freedom-inspiring influence. His epicureanism, his education received from French emigrés, and his life amidst the high and frivolous classes of St Petersburg society, prevented him from taking to heart the great problems which were already ripening in Russian life. This is why, towards the end of his short life, he was no longer in touch with those of his readers who felt that to glorify the military power of Russia, after the armies of Nicholas I had crushed Poland, was not worthy of a poet; and that to describe the attractions of a St Petersburg winter-season for a rich and idle gentleman was not to describe Russian life, in which the horrors of serfdom and absolutism were being felt more and more heavily.
+
+Púshkin’s real force was in his having created in a few years the Russian literary language, and having freed literature from the theatrical, pompous style which was formerly considered necessary in whatever was printed in black and white. He was great in his stupendous powers of poetical creation: in his capacity of taking the commonest things of everyday life, or the commonest feelings of the most ordinary person, and of so relating them that the reader lived them through; and, on the other side, constructing out of the scantiest materials, and calling to life, a whole historical epoch — a power of creation which, of those coming after him, only Tolstóy has to the same extent. Púshkin’s power was next in his profound realism — that realism, understood in its best sense, which he was the first to introduce in Russia, and which, we shall see, became afterwards characteristic of the whole of Russian literature. And it is in the broadly humanitarian feelings with which his best writings are permeated, in his bright love of life, and his respect for women. As to beauty of form, his verses are so “easy” that one knows them by heart after having read them twice or thrice. Now that they have penetrated into the villages, they are the delight of millions of peasant children, after having been the delight of such refined and philosophical poets as Turguéneff.
+

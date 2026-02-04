@@ -4,7 +4,7 @@ YEAR: 1890
 SOURCE_ID: al_action_masses
 SOURCE_PATH: data/raw/Action_of_Masses.txt
 SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-the-action-of-the-masses-and-the-individual
-RETRIEVED_UTC: 2026-02-03T20:58:54Z
+RETRIEVED_UTC: 2026-02-04T16:55:16Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

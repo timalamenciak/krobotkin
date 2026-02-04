@@ -1,0 +1,21 @@
+TITLE: Small Communal Experiments And Why They Fail
+AUTHOR: Peter Kropotkin
+YEAR: 1893
+SOURCE_ID: al_petr_kropotkin_small_communal_experiments_and_why_they_fail
+SOURCE_PATH: data/raw/Small_Communal_Experiments_And_Why_They_Fail.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-small-communal-experiments-and-why-they-fail.muse
+RETRIEVED_UTC: 2026-02-04T16:55:10Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## ** Written: July, 1901
+First Published: Freedom: July (p30)/August (p38) 1901
+Transcription/Markup: Dana Ward/Brian Basgen
+Online Version: Peter Kropotkin Reference Archive (marxists.org) 2001; editorial changes made to structure the document in 4 sections. The original does not have any section breaks nor section headers, these have been introduced to make reading/referencing the document easier.
+
+Many Anarchists and thinkers in general, whilst recognising the immense advantages which Communism may offer to society, yet consider this form of social organisation a danger to the liberty and free development of the individual. This danger is also recognised by many Communists, and, taken as a whole, the question is merged in that other vast problem which our century has laid bare to its fullest extent: the relation of the individual to society. The importance of this question need hardly be insisted upon.
+
+The problem became obscured in various ways. When speaking of Communism, most people think of the more or less Christian and monastic and always authoritarian Communism advocated in the first half of this century and practised in certain communities. These communities took the family as a model and tried to constitute “the great Communist family” to “reform man”. To this end, in addition to working in common, they imposed the living closely together like a family, as well as the isolation or separation of the colony from present civilisation. This amounted to nothing less than the total interference of all “brothers” and “sisters” with the entire private life of each member.
+
+In addition to this, the difference was not sufficiently noted as between isolated communities, founded on various occasions during the last three or four centuries, and the numerous federated communes which are likely to spring up in a society about to inaugurate the social revolution. Five aspects of the subject thus require to be considered separately:
+

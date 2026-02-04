@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:16Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## General Character of his Work
+
+Dostoyévskiy was a rapid writer, and even before his arrest he had published ten novels, of which The Double was already a forerunner of his later psycho-pathological novels, and Nétochka Nezvánova showed a rapidly maturing literary talent of the highest quality. On his return from Siberia he began publishing a series of novels which produced a deep impression on the reading public. He opened the series by a great novel, The Downtrodden and Offended, which was soon followed by Memoirs from a Dead-House, in which he described his hard-labour experience. Then came an extremely sensational novel, Crime and Punishment, which lately was widely read all over Europe and America. The Brothers Karamázoff, which is considered his most elaborate work, is even more sensational, while The Youth, The Idiot, The Devils are a series of shorter novels devoted to the same psycho-pathological problems.
+
+If Dostoyévskiy’s work had been judged from the purely aesthetic point of view, the verdict of critics concerning its literary value would have been anything but flattering. Dostoyévskiy wrote with such rapidity and he so little cared about the working out of his novels, that, as Dobrolúboff has shown, the literary form is in many places almost below criticism. His heroes speak in a slipshod way, continually repeating themselves, and whatever hero appears in the novel (especially is this so in The Downtrodden), you feel it is the author who speaks. Besides, to these serious defects one must add the extremely romantic and obsolete forms of the plots of his novels, the disorder of their construction, and the unnatural succession of their events — to say nothing of the atmosphere of the lunatic asylum with which the later ones are permeated. And yet, with all this, the works of Dostoyévskiy are penetrated with such a deep feeling of reality, and by the side of the most unreal characters one finds characters so well known to every one of us, and so real, that all these defects are redeemed. Even when you think that Dostoyévskiy’s record of the conversations of his heroes is not correct, you feel that the men whom he describes — at least some of them — were exactly such as he wanted to describe them.
+

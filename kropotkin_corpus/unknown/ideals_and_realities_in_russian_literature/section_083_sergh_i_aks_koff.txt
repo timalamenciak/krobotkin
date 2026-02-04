@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:19Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Serghéi Aksákoff
+
+A writer of great power, quite unknown in Western Europe, who occupies a quite unique position in Russian literature, is SERGHÉI TIMOFÉEVITCH AKSÁKOFF (1791–1859), the father of the two Slavophile writers, Konstantín and Iván Aksákoff. He is in reality a contemporary of Púlshkin and Lérmontoff, but during the first part of his career he displayed no originality whatever, and lingered in the fields of pseudo-classicism. It was only after Gógol had written — that is, after 1846 — that he struck a quite new vein, and attained the full development of his by no means ordinary talent. In the years 1847–1855 he published his Memoirs of Angling, Memoirs of a Hunter with his Fowling Piece in the Government of Orenbúrg, and Stories and Remembrances of a Sportsman; and these three works would have been sufficient to conquer for him the reputation of a first-rate writer. The Orenbúrg region, in the Southern Uráls, was very thinly inhabited at that time, and its nature and physiognomy are so well described in these books that Aksákoff ‘s work reminds one of the Natural History of Selbourne. It has the same accuracy; but Aksákoff is moreover a poet and a first-rate poetical landscape painter. Besides, he so admirably knew the life of the animals, and he so well understood them, that in this respect his rivals could only be Krylóff on the one hand, and Brehm the elder and Audubon among the naturalists.
+
+The influence of Gógol induced S. T. Aksákoff to entirely abandon the domain of pseudo-classical fiction. In 1846 he began to describe real life, and the result was a large work, A Family Chronicle and Remembrances (1856), soon followed by The Early Years of Bagróff-the-Grandchild (1858), which put him in the first ranks among the writers of his century. Slavophile enthusiasts described him even as a Shakespeare, nay, as a Homer; but all exaggeration apart, S. T. Aksákoff has really succeeded not only in reproducing a whole epoch in his Memoirs, but also in creating real types of men of that time, which have served as models for all our subsequent writers. If the leading idea of these Memoirs had not been so much in favour of the “good old times” of serfdom, they would have been even much more widely read than they are now. The appearance of A Family Chronicle — in 1856 — was an event, and the marking of an epoch in Russian literature.
+

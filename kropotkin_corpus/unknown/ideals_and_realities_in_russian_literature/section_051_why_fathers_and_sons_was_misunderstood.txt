@@ -1,0 +1,20 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:09Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Why Fathers and Sons was misunderstood
+
+The next novel of Turguéneff was Fathers and Sons. It was writen in 1859 when, instead of the sentimentalists and “aesthetical” people of old, quite a new type of man was making its appearance in the educated portion of Russian society — the nihilist. Those who have not read Turguéneff’s works will perhaps associate the word “nihilist” with the struggle which took place in Russia in 1879–1881 between the autocratic power and the terrorists; but this would be a great mistake. “Nihilism” is not “terrorism,” and the type of the nihilist is infinitely deeper and wider than that of a terrorist. Turguéneff’s Fathers and Sons must be read in order to understand it. The representative of this type in the novel is a young doctor, Bazároff — “a man who bows before no authority, however venerated it may be, and accepts of no principle unproved.” Consequently he takes a negative attitude towards all the institutions of the present time and he throws overboard all the conventionalities and the petty lies of ordinary society life. He comes on a visit to his old parents and stays also at the country house of a young friend of his, whose father and uncle are two typical representatives of the old generation. This gives to Turguéneff the possibility of illustrating in a series of masterly scenes the conflict between the two generations — “the fathers” and “the sons.” That conflict was going on in those years with bitter acrimony all over Russia.
+
+One of the two brothers, Nikolái Petróvitch, is an excellent, slightly enthusiastic dreamer who in his youth was fond of Schiller and Púshkin, but never took great interest in practical matters; he now lives, on his estate, the lazy life of a landowner. He would like, however, to show to the young people that he, too, can go a long way with them: he tries to read the materialistic books which his son and Bazároff read, and even to speak their language; but his entire education stands in the way of a true “realistic” comprehension of the real state of affairs.
+
+The elder brother, Peter Petróvitch, is, on the contrary, a direct descendant from Lérmontoff’s Petchórin — that is, a thorough, well-bred egotist. Having spent his youth in high society circles, he, even now in the. dulness of the small country estate, considers it as a “duty” to be always properly dressed “as a perfect gentleman,” strictly to obey the rules of “Society,” to remain faithful to Church and State, and never to abandon his attitude of extreme reserve — which he abandons, however, every time that he enters into a discussion about “principles” with Bazároff. The “nihilist” inspires him with hatred.
+
+The nihilist is, of course, the out-and-out negation of all the “principles” of Peter Petróvitch. He does not believe in the established principles of Church and State, and openly professes a profound contempt for all the established forms of society-life. He does not see that the wearing of a clean collar and a perfect necktie should be described as the performance of a duty. When he speaks, he says what he thinks. Absolute sincerity — not only in what he says, but also towards himself — and a common sense standard of judgments, without the old prejudices, are the ruling features of his character. This leads, evidently, to a certain assumed roughness of expression, and the conflict between the two generations must necessarily take a tragical aspect. So it was everywhere in Russia at that time. The novel expressed the real tendency of the time and accentuated it, so that — as has been remarked by a gifted Russian critic, S. Venguéroff — the novel and the reality mutually influenced each other.
+

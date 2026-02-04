@@ -1,0 +1,255 @@
+TITLE: The Terror In Russia
+AUTHOR: Peter Kropotkin
+YEAR: 1909
+SOURCE_ID: al_petr_kropotkin_the_terror_in_russia
+SOURCE_PATH: data/raw/The_Terror_In_Russia.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-the-terror-in-russia.muse
+RETRIEVED_UTC: 2026-02-04T16:55:39Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+153. In St. Petersburg, an imprisoned soldier, Iliin, jumped out of the window.
+
+154. In St. Petersburg, a young peasant, Reichstin, arrested as a criminal, broke his head on a wall.
+
+155. In the province of Kieff, in the Loukoyanoff prison, a former village school teacher, Prisiajnina, condemned to death, poisoned herself.
+
+156–158. In Kieff, in the same prison, on three successive days three men poisoned themselves--Kravchenko and Sinuchenko, who were condemned to death, and Captain Lipovskii, who was condemned to exile for taking part in the Union of Officers. The last died, but the other two were executed.
+
+159. In Odessa, in solitary confinement, Novikoff set fire to himself by means of kerosene.
+
+160. In Tomsk, in the solitary confinement cell of the reformatory prison, Volkoff burned himself to death with kerosene.
+
+** Chapter 3 : Executions
+
+It may be remembered that the Russian Prime Minister, M. Stolypin, interviewed last year by Mr. W. T. Stead, and asked about the executions, which were going on then at that time in very great numbers, said that he had no exact figures, but he thought that 15 a month would be a near approach to truth (the Times, August 3, 1908). I contested these figures in the Times of August 14, 1908, and maintained that the number of executions during the first six months of 1908 had been from 4 to 15 every day--there being, however, no executions on Sundays and other holidays--and that it reached the figure of 60 to 90 every month.
+
+We have now the official figures of the executions for the last four years. The Law Committee of the Duma having asked the exact figures from the Ministry of Interior, the Police Department of that Ministry communicated them to the Duma on February 6, 1909. But as they are still incomplete--they apply only to civilians, as the Department of Police mentions in his communication to the Duma--I also place by their side our own figures. These figures have been obtained as follows : Several leading St. Petersburg and Moscow papers till lately gave telegrams every day from the provincial towns, stating how many persons have been condemned on that day and giving their names, what were the crimes imputed to them, and how many, and who, had been executed. The daily figures were added up, and the monthly and yearly items were published by several papers, including the well-known Law Review, Pravo, together with all other statistics of prosecutions. These were the figures communicated by the Russian refugees to the London Press, and given in the above-mentioned letter of mine to the Times. Besides, I have now before me a carefully-prepared memorial, in which, besides matter concerning the exiles, all the executions mentioned in the leading Russian newspapers since 1905 till November 1, 1908, have been carefully tabulated, according to the age, the social standing, and the supposed crime of the executed persons. The cases of ill-treatment in prisons and administrative executions, mentioned in these papers, up to the same date (November 1, 1908), are also enumerated in special chapters.[39]
+
+Here are both sets of figures, of which the official figures apply only to civilians:--
+
+|+ Courts Martial-- +|
+| | OFFICIAL FIGURES. | | OUR FIGURES. | |
+| | Death Sentences. | Executions. | Death Sentences. | Executions. |
+| 1905 | 72 | 10+ | 96 | 32 |
+| 1906 | 450 | 144+ | 773 | 280 |
+| 1907 | 1,056 | 456* | 1,432 | 508 |
+| 1908 | 1,741 | 825+ | 1,835 | 802** |
+| Field Courts Martial, acting from August 19, 1906, to April 20, 1907 | — | 683 | — | 676 |
+| Total | — | 2,118 | — | 2,298*** |
+
+ * To this figure of 456 executions, 84 soldiers must be added, out of whom 19 were hanged and 65 shot, thus raising the yearly total to 540.
+
+ ** First 10 months only.
+
+ *** Two months, November and December, 1908, missing.
+
++ How many military must be added to these figures remains unknown.
+
+No official figures for the year 1909 have yet been published, but the figures compiled from the daily papers produced before the Duma in a recent discussion are:--
+
+|+ +|
+| 1909 | Death Sentences. | Executions. |
+| January | 121 | 107 |
+| February | 132 | 76 |
+| March | 143 | 52 |
+| Total (3 months) | 396 | 235 |
+
+The discrepancies between the two tables as regards the death sentences are easily explained. Our figures give the death sentences that were pronounced, and telegraphed the same day to the papers, while the official figures probably give the death sentences confirmed later on by the Governors-General of the respective districts.
+
+As regards the difference between our figures of executions in 1907 and the official figures (508 and 456 respectively), it arises from the fact that the official figures do not include the executions of the military. There having been, according to an official statement, 84 executions of soldiers in the course of the year 1907, the official figure for that year becomes 540, and is consequently higher than our figure (by 32 cases). That our figures would be possibly below the real ones was foreseen, as some executions may not find their way to the Press. The same remark very probably applies to the years 1906 and 1908, for which years we have no official figures of executions among the military.
+
+Now, it must be borne in mind that the above figures do not include those who were shot in the streets (in the Gapon manifestation, during the rejoicings after the promulgation of the Constitution of October 30,1905, or during uprisings in the Baltic provinces, in the Caucasus, and in the Russian villages), nor do they include those who have been executed during their transfers from one prison to another (attempts at escape, true or alleged), nor those who have been executed by simple administrative orders of the military commanders--these last cases being not uncommon--as it appeared from several discussions which took place in the First Department of the Senate (see Chapter V.), when the Senate recognized (by a small majority) that executions without even a trial before a Field Court Martial were not illegal under the State of Siege law, such as it was promulgated by the Emperor. For these executions, the Senate decided, the military authorities are directly responsible to the Emperor, whose orders they execute.
+
+There being no official figures concerning the different categories of executions without any trial, all we can do is to give the figures which have been compiled for us in the above-mentioned inquiry with the same desire of arriving at the truth as the above row of figures. They run as follows : Shot without sentence--376 in 1905, 864 in 1906, 59 in 1907, and 32 in 1908 (first 10 months).
+
+In trying to excuse the large number of executions which take place in Russia, in consequence of verdicts of Courts Martial now active in more that two-thirds of the Russian Empire, the present ministry usually point to the considerable number of murders and attempts to murder which stand in the official statistics. These figures run as follows :--
+
+|+ +|
+| | Murdered. | Wounded. |
+| 1905 (2 1/2 months) | 222 | 217 |
+| 1906 | 1,126 | 1,506 |
+| 1907 | 3,001 | 1,076 |
+| 1908 | 1,820 | 2,083 |
+
+These are the figures which were communicated to Duma Commission on the abolition of capital punishment when it came together on June 3, 1909. And in communicating them, the Department of Police added : “In these included all crimes committed in all the localities placed under the law of siege (extraordinary and increased Okhrana”).
+
+However, in order to get any correct idea, these figures must be compared with the numbers of murders and persons wounded in ordinary times; and when this is done, it appears that in the numbers that are mentioned in the above figures there is absolutely no extraordinary increase which might in any way excuse the suspension of ordinary justice, and the surrender of Russia to the laws that Prevail in times of war and to the summary justice of the Military Courts.
+
+Here are the figures for ordinary times:--
+
+|+ NUMBERS OF MURDERS IN EUROPEAN RUSSIA ALONE. +|
+| During these periods the Population gradually increased from 65 to 70 Millions. | Average Yearly number of Prosecutions for Murder Begun. | EXECUTIONS. | | By Ordinary Courts. | By Courts Martial. |
+| | | | | Common | Political |
+| 1874–1878 | 3,599 | none | (from 1856 to 1890) | 211 | 70 |
+| 1879–1883 | 4,161 | none |
+| 1884–1888 | 5,170 | none |
+| 1889–1893 | 5,137 | none | (from 1891 to 1900) | 102 | 24 |
+| 1894 | 4,991 | none |
+
+Taking the number of acts of violence immediately before the revolution, we find that, in 1904, there were, in a population of 142,700,000, no less than 2,800 persons condemned for murder, and 3,778 for wounding (Official Report of the Ministry of justice for 1904). It thus appears that in 1907 there was indeed a sudden increase of acts of violence--provoked by the countless executions, without any form of trial, during punitive expeditions, especially in Siberia, the Caucasus, and the Baltic provinces, and the terrible brutalities of the police officers in the villages. But there was no increase whatever in the year 1908. Therefore the maintenance of the state of siege in two-thirds of the Empire cannot be defended on this ground This has been also forcibly demonstrated during the debates in the Duma on the law of siege, on February 11th to 14th (O.S.).
+
+Under the military law which is now in action in most of the Russian territory, the smallest agrarian disorders, and even the setting fire to a landlord’s barn or stack are treated as implying the death penalty. The Military Courts themselves most reluctantly pronounce the death sentence in such cases, their members loudly condemning afterwards in private the obligation under which they are to apply military law, and the orders of the Emperor who wishes them to apply that law in in all its severity.
+
+Thus, at Ufa, the Court Martial sitting on March 3rd last, pronounced the following sentences on five local peasants who had robbed another peasant of 1 ruble 40 kopecks (3 sh.): Pavel Abramoff, death ; Petr Abramoff and Stepan Antonoff, 10 years’ hard labor ; Mihail Bagunoff, 8 years’ imprisonment; and Kuzma Antonoff, [40] months’ imprisonment.
+
+The Court pronounced that ferocious verdict because such is the law in time of war; but it immediately had the courage to ask the Governor-General not to confirm their sentence, but to mitigate it. Most Courts, however, have not that courage, and men are hanged for what, under ordinary conditions, would imply a few months, or even a few weeks of imprisonment.
+
+Many similar cases could be quoted: At Moscow, a Court Martial sentenced a peasant from one of the districts of the government of Moscow to death, for having set fire to a stack of hay on the property of a member of the State’s Council, Herr Schlippe.
+
+At Novocherkask, the Court Martial condemned within a few days twenty men to the death penalty--one of them for having spoken to another prisoner about making an attempt to kill a policeman.2 In the government of Tambov, eighteen persons were condemned last March to be hanged, and out of them three prostitutes for having given shelter to some robber, and one peasant for having set fire to an empty barn.[41]
+
+The executions in Novockerkask were carried on by volunteer convicts in such a terrible way that the agony of some of the executed lasted from a quarter of an hour to half an hour, the executioner strangling the men with his own hands. As the executions took place in a remote suburb of that city, in the midst of winter, the condemned men were brought to the place of execution half frozen.[42]
+
+Owing to the haste with which all the affairs are conducted before the Courts Martial, judicial errors are much frequent than is usually the case. Thus it appeared that out of the prisoners who were hanged at Odessa on February 1st last, the men Orenbach, Greyerman, and two brothers Truger were condemned by mistake. They not only took no part in the defense of a house in which some anarchists had locked themselves, receiving the police and military with shots, they ran away from this house, together with other people, and had absolutely no knowledge of the men who had locked themselves in the house.
+
+After the death sentence has been pronounced it continually happens that the condemned men wait for the execution for whole months, and the scenes which take place at the executions are such as might be expected only in Persia or Turkey.[43]
+
+Men executed without any form of trial.--The worst is that the question about the right of the Governors-General to execute people even without sending them before a Court Martial, by simple administrative orders, having been contested by several members of the Senate, this High Court of Russia has again decided a few weeks ago that such right of summary execution results from the Imperial Decree by which the rules of the state of siege were determined, and that therefore the Governors-General, in inflicting the death penalty by simple administrative order, are responsible exclusively to the Emperor in person.[44]
+
+If all this be taken into account, one can easily see how it happens that, the action of the regular laws being suspended, military justice, designed exclusively for time of war, has taken the place of the civil administration and is covering Russia with gallows.
+
+The demoralizing effect of such a substitution upon the habits and life of the country needs no commentary.
+
+It is also needless to say that this large number of executions is provoking general discontent among the educated classes. Thus, in December last, at a general meeting of the lawyers of the St. Petersburg judicial district it was unanimously resolved to express sympathy with the interpellation in the Duma against the steadily increasing number of condemnations to death and executions which have been taking place lately.
+
+Besides, a society was formed lately among influential persons, to work for the abolition of capital punishment in Russia. But the authorities have refused the registration of this society under the pretext that capital punishment being recognized by law, any agitation against it would be unlawful.
+
+As to the degrading influence of these wholesale executions upon the population, it is simply terrible, and many facts, simply awful, relating what is happening at night, during the executions, in what is now called by the cabmen “The Slaughter Yard” at Moscow, could be added in support of the ideas so forcibly developed by Leo Tolstoy in his pamphlet, “I Cannot be Silent.”
+
+[39] According to a decision of the Ministry, the papers were forbidden a few months ago to publish in full the crimes for which the death sentences were pronounced, and a short time ago the Moscow Courts Martial stopped communicating even the numbers of the executions which took place. The executions are carried out in great secrecy at night, and in May last it was learned that fifteen executions had taken place at Moscow, of which no information had been supplied to the papers.
+
+[40] Ryech, April, 1909.
+
+[41] Russkiya Védomosti, March 22, 1909.
+
+[42] Ryech, April, 1909.
+
+[43] See with reference to this subject the interpellation made in the Duma on April 8 and 21, 1909.
+
+[44] See page 50.
+
+** Chapter 4 : The Exiles
+
+On the date referred to in the previous chapter (August, 1908, some correspondence appeared in the Times concerning the numbers of administrative exiles in Siberia and Northern Russia. The Russian Prime Minister, M. Stolypin, in an interview with Mr. Stead, told him that the number of administrative exiles was only about 12,000. The Assistant Minister of the Interior, M. Makaroff, also interviewed a fortnight later by Mr. Stead, explained, however, that this figure could only apply to those who had been exiled in virtue of a decision given by the Ministry of the Interior; but there were also, he added, a considerable number of persons who had been exiled by mere orders of the local Governors, and about whom the Ministry of the Interior had no information. I wrote at that time to the Times that, according to our estimates, the number of exiles in Siberia and Northern Russia reached the figure of about 78,000. We have now the exact figures, which have been communicated by the Department of Police to the Law Committee of the Duma. The Police Department, probably taking into account the considerable number who have escaped, puts the figure at 74,000 ; but does not state how many of these have been tried, and how many exiled by administrative order. (Some information about this matter will be found further on in this chapter.)
+
+Attempts made privately to give the exact figures an distribution of the exiles in different parts of the Russian Empire have failed; but the total given by the Police Department (October, 1908), must be correct, as it was based upon the numbers of men and women sent out to Siberia a Northern Russia from the chief transfer prisons.
+
+According to documents communicated to the State Council, the number of persons exiled by order of the Ministry of the Interior has now reached the figure of 15,500, and the greater part of these have been classified as follows : Workmen, 6,362 ; peasants, 3,879; students, 540; teachers, 792 ; tradesmen, 755 ; officials of the Zemstvos, 315 ; unknown, 2,857. It will thus be seen that while formerly the administrative exiles chiefly consisted of students and “intellectuals,” the main bulk of them is now composed of workmen and peasants deported either for strikes, for agrarian disorders, or simply because they are considered by the local police authorities to be a disturbing element.
+
+The conditions under which these exiles live are as bad as when they were described twenty years ago by Kennan, Stepniak, and myself, with the only difference that at the present time exiles are also sent to regions quite unsuitable for habitation, such as Turukhansk in the far north, at the mouth of the Yenisei. The conditions there are described by a reliable person writing from the district to the St. Petersburg newspaper Ryech[45]:--
+
+“All the exiles are settled in the Turukhansk district, which borders the River Yenisei, from Turukhansk to Yeniseisk, a distance of 720 miles, in which there are only 64 small villages. The main bulk of the exiles are in 30 villages, in the largest of which, Sumarokovo, there are only 20 houses, while in the others there are only from 5 to 7 houses, with from 30 to 40 inhabitants. In some villages the total number of the inhabitants does not exceed 20 persons. Below Turukhansk, in a tract of country 670 miles long, there are only 37 villages, the largest of which, Dudinka, contains only 10 houses, the others being mere post stations of 1, 2, or 3 houses. It is quite easy to see that when 15 or 20 exiles are settled in such small villages they are a burden to the population, and can find absolutely no work to live upon. The result is that lately a band of men, 10 at first, and later on 25, went along the river plundering the houses of some of the residents. Sixty-five men are now being prosecuted, and have been marched on foot from Turukhansk to Yeniseisk in order to be brought before a court martial.”
+
+Information of the most heartrending description as to the conditions under which the administrative exiles live, has been communicated by reliable persons, including several deputies of the first and second Duma, and published in the Russian Press. We have, moreover, before us large numbers of letters giving much information, and will give extracts from a few of them. A mother, an absolutely trustworthy person, who has gone into exile to accompany her young daughter, writes as follows to the British Committee in Aid of Administrative Exiles:--
+
+“I have followed my daughter, condemned by the Court to exile for life in Siberia, with the intention of softening the conditions of her long journey.... Most of the exiles, having spent something like two years or more in prison, before coming before a Court, are quite exhausted by the hard prison treatment. They are dressed in long rough coats and heavy, ill-fitting shoes, and have to carry all the rest of their clothing on their backs, in sacks weighing about 30 lb. During the part of the journey which is made by train, men and women are put to travel together in the carriages, under the supervision of warders and soldiers. These men are accustomed to consider the prisoners as without rights of any kind, and therefore permit themselves to treat them as they choose. For women this journey is especially terrible. In one railway carriage there were three women among a lot of ordinary criminals, and when the commanding officer wanted to chain them in pairs, he did not hesitate to fetter one of the women to a man, and to keep them thus for a great part of the journey. In the carriage where my daughter was, there was a party of women exiled for having no passports. Most of them were prostitutes. The soldiers of the guard drank with them, and my daughter, being in their company, had to witness the most abominable scenes.
+
+“Still worse things are to be seen in the transfer prisons, where the politicals are kept with the ordinary criminals, under abominable conditions. When they come to the place of exile, they are left in some small village, usually hundreds of miles from the small district town. More than 100 persons are often left in a small village, and all that the police authorities do is to see that they do not run away. Sometimes an exile has been to give up all his winter clothing, in order to rent a room in a peasant’s house; and many would have died from hunger and cold were it not for the help given them by their brother exiles. The prices in such villages are very high, owing to the numbers of the exiles; and it is absolutely impossible for exiles to find any work, or to earn anything, however little. Every kind of work suitable to intellectuals is forbidden by law.
+
+“I have spent one month with my daughter in one of these villages, and I have seen nothing but worn faces of men vainly going about in search of work. They tried to open a laundry, but there was nobody to give linen to be washed-every one did their own washing. And the same was found with all sorts of workshops. In the infirmary there was neither doctor nor medicine, and yet it was strictly forbidden to leave the village and go to the nearest district town. The village of which I speak and in which my daughter is kept, is one of the best in respect of climate and other conditions of life, and I asked myself : I ‘Does the Government know the lot it is preparing for the people whom it sends to exile in this way? Does it know that in the conditions which prevail it is condemning men to a slow death?’”
+
+Some idea of the conditions under which the administrative live may be given by the following statement, which has been prepared for us in the Narym district of the Government of Tobolsk :--
+
+This district belongs to that immense region of marsh and wood which is marked on the maps of Western Siberia as a marsh, and covers hundreds of miles from north to south and from west to east. The only access to it is by the rivers, on the banks of which are a few dry spots, while the country between the rivers is covered with almost impenetrable forests, and until lately was quite uninhabited, except for a few small villages. A dozen little settlements of a few small have recently appeared along some of the rivers draining this great marsh. Last year there were, however, no less than 700 administrative exiles in this region.
+
+The Government allowance to these exiles was, until January, 1908, 3r. 30k. (7s. 1d.) per month. But since then it has been reduced to 1r. 80k. (3s.) per month. However, it is only the administrative exiles who receive that allowance. Those who have been exiled by sentence of the Courts (the ssylno-poselentsy) receive nothing. The communes of the villages to which they are sent are bound to give them some land, but as the exiles have no tools and no cattle, and most of them are townspeople, they simply starve. In the larger villages the exiles have organized their own soup kitchens, which supply one meal a day for 2 1/2d. or 3d. The money granted by the Government to the adminitstrative exiles for their winter and summer dress, i.e., 60s. 8d. a year, is evidently used for food, because the high prices of flour and salt make the monthly allowance of 3s. absolutely insufficient to keep body and soul together, notwithstanding the cheapness of meat. Very few are happy enough to earn a few shillings by their work.
+
+Near Tchelyabinsk there are about a thousand exiles, mostly in awful misery.[46]
+
+The Social Democratic Deputies in the Duma have received lately the report of a detailed inquiry into the condition of political exiles sent to Siberia by sentence of the Courts (ssylno-poselentsy). They have detailed information about 110 persons who have passed through the transfer prison of Krasnoyarsk. The greater number of them (77) are workmen, and only 24 are intellectuals ; 58 of them are Russians, 19 Poles, 20 Jews, and 2 Germans. In fifteen cases it has been established that these men have been exiled owing to having trusted agents provocateurs, and in three cases testimony against them was obtained from witnesses under physical torture.[47]
+
+Even those who are sent to the more fertile and favored southern parts of Siberia are not better off than the others. Those who are not noblemen--and they are the great majority--receive in Southern Siberia only from 2r. 40k. (5s. 2d.) to 6r. (13s.) a month, but in the latter case they have to pay from 4s. to 6s. a month for their lodgings. In the small district towns of Southern Siberia there is exactly the same want of employment as in the Far North.
+
+Those who are exiled to the most thinly populated parts of Northern Siberia are confined to the encampments of the natives. It is well known that skin diseases are terribly prevalent in Siberia. Nearly all the natives are infected, as also many families of Russian peasants ; but the exiles are compelled to lodge with the natives in their tiny huts and tents, and are happy if they are given a corner in the log hut of a Russian settler.
+
+The presence of the exiles is generally felt as a heavy burden by the native population, which is becoming more and more hostile to them, and the feeling of hostility is increased by the presence of criminals among them. For persons sentenced for theft and other breaches of the ordinary law are being sent to Siberia in company with administrative exiles transported for rebellion or other political offenses. Perhaps the authorities do this from considerations of economy, perhaps for other reasons.
+
+Those who have been exiled to the northern provinces of European Russia, namely, to Archangel, are in no better plight than those who have been transported to Siberia. A number of them have written to complain to M. Bulat, Deputy to the Duma, about the intolerable conditions under which they live. Having been exiled, not by administrative order, but by sentence of the Courts, these people receive no support from the Government; and they get nothing from the village communities; being themselves short of arable land, they do not give them allotments. “Save us from starvation and unavoidable death from hunger,” they wrote to their Deputy to the Duma.[48]
+
+Altogether, the peasants who have been exiled for agrarian disturbances--and they are very numerous by this time--are in the most precarious condition. In Tsarev (government of Astrakhan), where two hundred administrative exiles are kept, typhus is raging among them. No medical assistance is given, and the typhus patients are sleeping by the side of the healthy men in the common doss-houses of Tsarev, because the owners of private houses have sent them away from fear of infection.[49]
+
+In the face of such misery, which is an unavoidable result of the system, we hardly dare speak of the abuse of the powers of the local police and the gendarme authorities, which in some cases renders the state of things still worse. Thus, in the government of Vyatka, the exiles for a long time did not receive their dress money. In February last they at length received the small allowance for summer clothes, the winter allowance being still unpaid.
+
+At Tchelyabinsk it appears, from a telegram sent to the Head of the Prison administration by M. Tcheidze, Deputy to the Duma, that the exiles were in the most terrible plight because the authorities had given them no food money and no dress money, and forbade them to move from one village to another.
+
+The only bright feature is that the political exiles do everything possible to maintain each other’s courage and to prevent demoralization. Everywhere they have organized their own societies for mutual help, to which every one who receives any monies from home pays a regular contribution of so much percent. With this money they start soup kitchens, small libraries, and lectures, but the difficulty of getting books and papers and the high cost of light in the northern parts during the winter is extreme, and the authorities continually put hindrances in the way of such organizations. In some places in the Far North during the long winter nights sheer despair lays hold of the exiles. In January last, in one of the remote settlements of the Obdorsk region, five exiles ended their lives by suicide. A girl took the lead, and she was followed by four men.
+
+The following extracts will give a still more concrete idea of the life of some of the exiles. One correspondent, writing from the Ilga canton, says:--
+
+“We are here 90 persons, mostly grouped in a big trading village. We receive absolutely nothing from the crown” (they are ssylno-poselentsys). “Happily enough, most of us have found some work ; only a few of us, 10 or 12, have not. We have a mutual aid society and a soup kitchen supplying food at low prices.”
+
+From the government of Tobolsk one of the exiles writes to our Committee of Inquiry:--
+
+“In this government we are about 2,000, Out of whom nearly 500 have been exiled by sentence of the courts (ssylno-poselentsy). The remainder are administrative exiles. The greater number of us are in the districts of Tura, Berezoff (64° N. lat.), and Tobolsk, and in the districts of Surgut, Tara, and Tyumen. About finding work I can say nothing bright. It is only in the summer that we get some work at the fisheries, and in the towns some students and most of the skilled workmen have well-paid work; but the great proportion of us are in very low spirits, having absolutely no work. The want of work is most severely felt by the ssylno-poselentsys, because the administratives cannot do much to help them. Since January 9, 1907, the administrative exiles belonging to the unprivileged classes have received only 4r. 80k. (10s. 4d.) in the Berezoff and Surgut districts, 4r. 50k. (9s. 4 1/2d.) in the Tobolsk district, and 4r. 20k. (9s. 1d.) in the others. Married people receive some assistance for wife and children. Noblemen and those who have receive university education receive 11r. 25k. (24s. 4d.) per month. There is also the dress allowance of 25r. (54s.) in August and 4r. 80k. (10s. 4d.) in May. As to the other exiles, they receive absolutely nothing. They are chiefly in the Tara district, a fertile region, but most of them know nothing about agricultural work and have great difficulty in finding anything to do.”
+
+[45] Ryech, No. 85, April, 1909.
+
+[46] Tovarisch, April 6, 1908.
+
+[47] Novaya Russ, 1909, date missing on our cutting.
+
+[48] Russ. Véd., April 1, 1909.
+
+[49] Kievskiy Vestnik, December 29, 1908.
+
+** Chapter 5 : Evidence Laid Before The First And Second Duma On Courts Martial, Executions, And The Overcrowding Of Prisons
+
+On the historic day of the 10th of May, 1906, that of the opening of the first Russian Parliament, when the elected representatives of the Russian nation passed through the streets towards the Tavrida Palace, from the dense throngs which lined their passage, one great cry arose--
+
+“Amnesty ! Amnesty! Amnesty first!”
+
+And the first speech in the new-born Parliament was for amnesty. It was made by Petrunkévitch, the oldest leader of the Russian Liberals :--
+
+“Our honor, our conscience,” he said, “ ordains that our first thought, our first free word should be dedicated to those who sacrificed their freedom to that of our beloved Fatherland “ (storm of applause). “All the prisons in the country are overflowing” (cries of indignation). “Thousands of hands are stretched out to us with hope and beseeching. And conscience urges us to spare no possible effort to prevent the wasting of further lives in the victory so soon to be ours....”
+
+At the very next sitting of the first Duma the Liberal Deputy Rodicheff, in a speech of passionate eloquence, raised the question again:--
+
+“Everywhere and always during the electoral campaign,” he said, “one and the same cry was raised above all others--‘Amnesty !’ We are witnesses that this is the demand of the whole nation, not only of those who suffer in the prisons or of their friends. Blood is not shed now so often as it was three months ago; but, gentlemen, this last month 99 persons were executed in Russia.... We, here in the Duma, cannot work ; that feeling oppresses us. Those bloody specters are here--here in this very hall. They must be removed in order that we may do our work.”
+
+One after another member of the Duma, themselves recent sufferers from arbitrary imprisonment, told harassing tales of what they had witnessed.
+
+“I, myself,” said Father Krassoun from the rostrum, “was kept in a prison, packed with 400 people who were receiving a daily allowance of 6 kopecks ([50] 1/2d.), barely enough to escape starvation--not enough to escape perpetual hunger. I asked them, ‘Why were you beaten with nagaikas? Why were you thrown into prison?’ And the reply was always, ‘The police arrested us because we refused to bribe them!’”
+
+“You have heard here of the ghastly specters which soar above our land,” said the Deputy Miklasheffsky; “I will remind you of two victims personally known to me-the student, Grigoriev, and the barrister, Tararykin. Grigoriev was shot because another man, to save his own life, declared that Grigoriev had spoken at a certain meeting; and this declaration was enough to condemn the boy. Tararykin, the barrister, tried in vain to convince the officer, who ordered the soldiers to shoot him, that he was acting illegally. He was nevertheless shot without trial or investigation.”
+
+General Kouzmin-Karavaeff--himself a military procureur and a Deputy sitting on the Right of the Constitutional Democrats--appealed in the Duma against the horrors of official bloodshed.
+
+“Over six hundred men,’ he said, “were, during the last four months, hanged or shot, or otherwise deprived of life by most horrible methods, without trial or after mock trials. This figure is appalling, and it shows us once more that the chief motive of capital punishment here, in Russia, is sanguinary vengeance.”[51]
+
+Sitting after sitting of the Duma’s first session was devoted to appeals to the Czar and the Government for amnesty. This subject also had the first place in the Duma’s answer to the Crown Speech. It was an appeal to deaf ears. After a hopeless struggle, which lasted over a fortnight, the Duma gave way and began its legislative work. But complaints and petitions poured in upon the Deputies from every constituency, depriving them of the necessary calmness. Then the continuous interpellations to the Government began.
+
+On May 21, 1906, the following interpellation was unanimously presented by the Duma to M. Stolypin:--
+
+“Does the Minister know that the authorities have filled all prisons to overflowing? That among the prisoners are persons admitted to be innocent? That in contravention of even the exceptional and martial laws, prisoners are kept beyond the term legally ordained, no charge being brought against them, whereby they are driven to utter despair and voluntary starvation?”
+
+The Cabinet waited a full month before answering this interpellation.
+
+On May 25th the Deputies of the Duma made another attempt to stay the hand of the executioners. A telegram was received by the Duma to the effect that eight men had been condemned to death in the Baltic provinces by a summary Court Martial, that they had wished to appeal to a higher Court on the grounds of complete neglect of procedure at their trial; but that the Governor-General had refused them the right of appeal and confirmed the sentence. The Duma begged the Government to postpone the execution and to allow the appeal of the condemned to be heard. Upon this, a hasty order was sent from St. Petersburg that the eight men were to be immediately executed; and when this was done the Government informed the Duma that, unfortunately, it was now too late to discuss the matter.
+
+The numerous interpellations and requests put to the Government to postpone the executions always met with the answer--
+
+“We cannot do that. So long as the law exists we are obliged to carry it out.”
+
+The Duma decided to remove this obstacle, and, on May 31, 1906, a Bill was brought in, consisting of two paragraphs:--
+
+(1) Capital punishment to be abolished, and (2) until the revision of the penal code is done, capital punishment to be replaced by the heaviest sentence immediately preceding it on the scale of punishments.
+
+After having passed the usual legal stages, this Bill was unanimously adopted by the Duma on July 11, 1906, but it never received the Czar’s sanction, and the executions have continued at the same rate.
+
+During the debates upon the Bill the Deputy Nadvorsky told the Assembly that two hundred Warsaw barristers had sent a formal complaint to the Senate against the Governors-General of Lublin and Warsaw, by whose orders seventeen youths were shot without trial.[52] The Senate divided in its resolution upon this remonstrance. Some Senators declared that as the Governors were acting under martial law, they had the right to adopt whatever measures they might find expedient. The minority found that martial law does not give the right of indiscriminate execution, but that nevertheless this complaint must be rejected because only those who were victims of illegal behavior on the part of Governors had the right to complain. Owing to this disagreement the Senate adjourned the examination of the case until unanimity be arrived at. Again and again this case was debated in the Senate, the last time in May, 1909, but the Senators remained firm in their disagreement, some maintaining that, under martial law, Section 12, the Governors-General have the right to execute at their own discretion, and are responsible only before the Czar, and others repeating that the act was no doubt illegal, but that only the victims had the right to complain. As the victims were already in their graves the Governors-General, till now, continue their rule unhindered.
+
+Looking through the official shorthand reports Duma’s session one meets upon every page interpellations to the Government concerning numberless illegal and arbitrary acts, such as the exile of thousands of village schoolmasters, peasants, workmen, and intellectuals. I give a few chance quotations.
+
+The Deputies Rostovtseff and Khruscheff received the following telegram from the town Ostrogorsk, on June 1st:--
+
+“After our husbands had remained four months in prison, they sent a telegram to M. Stolypin on April 28th, asking for release or trial. On May 2nd an answer was received ordering their immediate deportation : nine to the Narym region (a desolate corner of Western Siberia) for four years, and one, a consumptive, to the Astrakhan province for three years. These prisoners were mostly members of the zemstvos, and arrested without reason, nothing suspicious being found upon them and no charge brought against them. They were not even interrogated. Signed--the wives of Dr. Shiriaeff, the engineer Andrianoff, &c.”
+
+At the same sitting another telegram was received from Voronesh, sent by the wife of Dr. Romanoffsky, who had just been sent for a three years’ exile to the Narym region.
+
+“I implore you to examine our case. My husband’s banishment is through an entire misunderstanding. In the written order of exile my husband is described as ‘teacher,’ not ‘doctor,’ and the name is given as ‘Romanoff,’ not ‘Romanoffsky.’ He was deported without being once interrogated.”
+
+From the town Uman a telegram was received by the Duma on the same day, informing the Duma that 36 peasants, driven to despair by long imprisonment without trial or accusation, had refused food for six days, requesting trial, declaring their decision to die if it were further refused.
+
+To finish with this one single sitting of the Duma, I will mention also an interpellation concerning the barbarous illegalities in the Baltic provinces, which are placed under several headings:--
+

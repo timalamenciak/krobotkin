@@ -4,7 +4,7 @@ YEAR: 1897
 SOURCE_ID: al_anarchist_morality
 SOURCE_PATH: data/raw/Anarchist_Morality.txt
 SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-anarchist-morality
-RETRIEVED_UTC: 2026-02-03T20:58:53Z
+RETRIEVED_UTC: 2026-02-04T16:53:28Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

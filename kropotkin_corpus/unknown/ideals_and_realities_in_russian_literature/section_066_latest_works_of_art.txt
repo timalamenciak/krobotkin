@@ -1,0 +1,20 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:13Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Latest works of Art
+
+The disturbed conditions of the civilised world, and especially of Russia, have evidently more than once attracted the attention of Tolstóy, and induced him to publish a considerable number of letters, papers, and appeals on various subjects. In all of them he advocates, first of all, and above all, an attitude of negation towards Church and State. Never enter the service of the State, even in the provincial and urban institutions, which are granted by the State only as a snare. Refuse to support exploitation in any form. Refuse to perform military service, whatever the consequences may be: for this is the only method of being truly anti-militarist. Never have anything to do with Courts, even if you are offended or assailed; — nothing but evil results from them. Such a negative and eminently sincere attitude, he maintains, would better promote the cause of true progress than any revolutionary means. As a first step, however, towards the abolition of modern slavery, he also recommends the nationalisation, or rather the municipalisation, of land.
+
+It is manifest that the works of art which he wrote during the last five-and-twenty years, after 1876, must bear deep traces of his new point of view. He began, first, by writing for the people, and although most of his small stories for popular reading are spoiled to some extent by the too obvious desire of drawing a certain moral, and a consequent distortion of facts, there are a few among them — especially How much Land is required for a Man — which are wonderfully artistic. The Death of Iván Illýtch need only be named to recall the profound impression produced by its appearance.
+
+In order to speak to a still wider audience in the theatres for the people, which began to be started in Russia about that time, he wrote The Power of Darkness, — a most terrible drama from the life of the peasants, in which he aimed at producing a deep impression by means of a Shakespearian or rather Marlowian realism. His other play — The Fruits of Civilisation — is in a comical vein. The superstitions of the “upper classes” as regards spiritualism are ridiculed in it. Both plays (the former — with alterations in the final scene) are played with success on the Russian stage.
+
+However, it is not only the novels and dramas of this period which are works of Art. The five religious works which have been named on a preceding page are also works of art in the best sense of the word, as they contain descriptive pages of a high artistic value; while the very ways in which Tolstóy explains the economical principles of Socialism, or the No-Government principles of Anarchism, are as much masterpieces as the best socialistic and anarchistic pages of William Morris — far surpassing the latter in simplicity and artistic power.
+

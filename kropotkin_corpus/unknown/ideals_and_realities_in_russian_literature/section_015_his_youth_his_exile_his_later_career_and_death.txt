@@ -1,0 +1,24 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:57Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## His youth; his exile; his later career and death
+
+Púshkin was born in an aristocratic family at Moscow. Through his mother he had African blood in his veins: she was a beautiful creole, the granddaughter of a negro who had been in the service of Peter I. His father was a typical representative of the noblemen of those times: squandering a large fortune, living all his life anyhow and anyway, amidst feasts, in a house half-furnished and half-empty; fond of the lighter French literature of the time, fond of entering into a discussion upon anything that he had just learned from the encyclopædists, and bringing together at his house all possible notabilities of literature, Russian and French, who happened to be at Moscow.
+
+Púshkin’s grandmother and his old nurse were the future poet’s best friends in his childhood. From them he got his perfect mastership of the Russian language; and from his nurse, with whom he used to spend, later on, the long winter nights at his country house, when he was ordered by the State police to reside on his country estate, he borrowed that admirable knowledge of Russian folk-lore and Russian ways of expression which rendered his poetry and prose so wonderfully Russian. To these two women we thus owe the creation of the modern, easy, pliable Russian language which Púshkin introduced into our literature.
+
+He was educated at St Petersburg, at the Tsárskoe Seló Lyceum, and even before he left school he became renowned as a most extraordinary poet, in whom Derzhávin recognised more than a mere successor, and whom Zhukóvsky presented was his portrait bearing the following inscription: “To a pupil, from his defeated teacher.” Unfortunately, Púshkin’s passionate nature drew him away from both the literary circles and the circles of his best friends — the Decembrists Púshkin and Küchelbecker — into the circles of the lazy, insignificant aristocrats, amongst whom he spent his vital energy in orgies. Something of the shallow, empty sort of life he lived then he has himself described in Evghéniy Onyéghin.
+
+Being friendly with the political youth who appeared six or seven years later, on the square of Peter I at St Petersburg, as insurgents against autocracy and serfdom, Púshkin wrote an Ode to Liberty, and numbers of small pieces of poetry expressing the most revolutionary ideas, as well as satires against the rulers of the time. The result was that in 1820, when he was only twenty years old, he was exiled to Kishinyóff, a very small town at the time, in newly annexed Bessarabia, where he led the most extravagant life, eventually joining a party of wandering gypsies. Happily enough he was permitted to leave for some time this dusty and uninteresting little spot, and to make, in company with the charming and educated family of the Rayévskys, a journey to the Crimea and the Caucasus, from which journey brought back some of his finest lyrical works.
+
+In 1824, when he had rendered himself quite impossible at Odessa (perhaps also from fear that he might escape to Greece, to join Byron), he was ordered to return to Central Russia and to reside at his small estate, Mikháilovskoye, in the province of Pskov, where he wrote his best things. On December 14, 1825, when the insurrection broke out at St Petersburg, Púshkin was at Mikháilovskoye; otherwise, like so many of his Decembrist friends, he would most certainly have ended his life in Siberia. He succeeded in burning all his papers before they could be seized by the secret police.
+
+Shortly after that he was allowed to return to St Petersburg: Nicholas I undertaking to be himself the censor of his verses, and later on making Púshkin a chamberlain of his Court. Poor Púshkin had thus to live the futile life of a small functionary of the Winter Palace, and this life he certainly hated. The Court nobility and bureaucracy could never pardon him that he, who did not belong to their circle, was considered such a great man in Russia, and Púshkin’s life was full of little stings to his self-respect, coming from these classes. He had also the misfortune to marry a lady who was very beautiful but did not in the least appreciate his genius. In 1837 he had to fight on her account a duel, in which he was killed, at the age of thirty-five.
+

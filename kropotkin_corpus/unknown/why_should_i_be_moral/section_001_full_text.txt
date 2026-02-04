@@ -1,0 +1,30 @@
+TITLE: Why Should I Be Moral
+AUTHOR: Peter Kropotkin
+YEAR: NA
+SOURCE_ID: al_petr_kropotkin_why_should_i_be_moral
+SOURCE_PATH: data/raw/Why_Should_I_Be_Moral.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-why-should-i-be-moral.muse
+RETRIEVED_UTC: 2026-02-04T16:55:48Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+Years ago the youth of Russia were passionately agitated by this very question. “I will be immoral!” a young nihilist came and said to his friend, thus translating into action the thoughts that gave him no rest. “I will be immoral, and why should I not? Because the Bible wills it? But the Bible is only a collection of Babylonian and Hebrew traditions, traditions collected and put together like the Homeric poems, or as is being done with Basque poems and Mongolian legends. Must I go back to the state of mind of the half civilized peoples of the East?
+
+Must I be moral because Kant tells me of a categoric imperative, of a mysterious command which comes to me from the depths of my own being and bids me be moral? But why should this ‘categoric imperative’ exercise a greater authority over my actions than that other imperative, which at times may command me to get drunk. A word, nothing but a word, like the words ‘Providence,’ or ‘Destiny,’ invented to conceal our ignorance.
+
+“Or perhaps because such has been my education? Because my mother taught me morality? Shall I then go and kneel down in a church, honor the Queen, bow before the judge I know for a scoundrel, simply because our mothers, our good ignorant mothers, have taught us such a pack of nonsense?
+
+“I am prejudices, — like everyone else. I will try to rid myself of prejudice! Even though immortality be distasteful, I will yet force myself to be immoral, as when I was a boy I forced myself to give up fearing the dark, the churchyard, ghosts and dead people — all of which I had been taught to fear.
+
+“It will be immoral to snap a weapon abused by religion; I will do it, were it only to protect against the hypocrisy imposed on us in the name of a word to which the name morality has been given!”
+
+Such was the way in which the youth of Russia reasoned when they broke with old-world prejudices, and unfurled this banner of nihilist or rather anarchist philosophy: to bend the knee to no authority whatsoever, however respected, to accept no principle so long as it is unestablished by reason.
+
+Need we add, that after pitching into the waste-paper basket the teachings of their fathers, and burning all systems of morality, the nihilist youth developed in their midst a nucleus of moral customs, infinitely superior to anything that their fathers had practised under the control of the “Gospel,” of the “Conscience,” of the “Categoric Imperative,” or of the “Recognized Advantage” of the utilitarian...
+
+...Take the employer who cheats his workmen to buy jewels for his wife or his mistress. Take any petty scoundrel you like. He again only obeys an impulse. He seeks the satisfaction of a craving, or he seeks to escape what would give him trouble.
+
+We are almost ashamed to compare such petty scoundrels with one who sacrifices his whole existence to free the oppressed, and like a Russian nihilist mounts the scaffold. So vastly different for humanity are the results of these two lives; so much do we feel ourselves drawn towards the one and repelled by the other.
+
+And yet were you to talk to such a martyr, to the woman who is about to be hanged, even just as she nears the gallows, she would tell you that she would not exchange either her life or her death for the life of the petty scoundrel who lives on the money stolen from his work-people. In her life, in the struggle against monstrous might, she finds her highest joys. Everything else outside the struggle, all the little joys of the bourgeois and his little troubles seem to her so contemptible, so tiresome, so pitiable! “You do not live, you vegetate,” she would reply; “I have lived.”
+

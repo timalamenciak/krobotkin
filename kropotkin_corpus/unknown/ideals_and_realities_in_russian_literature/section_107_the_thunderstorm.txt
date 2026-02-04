@@ -1,0 +1,128 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:24Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## The Thunderstorm
+
+One of the best dramas of Ostróvskiy is The Thunderstorm (translated by Mrs. Constance Garnett as The Storm). The scene is laid in a small provincial town, somewhere on the upper Vólga, where the manners of the local tradespeople have retained the stamp of primitive wildness. There is, for instance, one old merchant, Dikóy, very much respected by the inhabitants, who represents a special type of those tyrants whom Ostróvskiy has so well depicted. When. ever Dikóy has a payment to make, even though he knows perfectly well that pay he must, he stirs up a quarrel with the man to whom he is in debt. He has an old friend, Madame Kabanóva, and when he is the worse for drink, and in a bad temper , he always goes to her: “I have no business with you,” he declares, “but I have been drinking.” Following is a scene which takes place between them:
+
+Kabanóva: I really wonder at you; with all the crowd of folks in your house, not a single one can do anything to your liking.
+
+Dikóy: That’s so!
+
+Kabanóva: Come, what do you want of me?
+
+Dikóy: Well, talk me out of my temper. You’re the only person in the whole town who knows how to talk to me.
+
+Kabanóva: How have they put you into such a rage?
+
+Dikóy: I’ve been so all day since the morning.
+
+Kabanóva: I suppose they’ve been asking for money.
+
+Dikóy: As if they were in league together, damn them! One after another, the whole day long they’ve been at me.
+
+Kabanóva: No doubt you’ll have to give it them, or they wouldn’t persist.
+
+Dikóy: I know that; but what would you have me do, since I’ve a temper like that? Why, I know that I must pay, still I can’t do it with a good will. You’re a friend of mine, and I’ve to pay you something, and you come and ask me for it — I’m bound to swear at you! Pay I will, if pay I must, but I must swear too. For you’ve only to hint at money to me, and I feel hot all over in a minute; red-hot all over, and that’s all about it. You may be sure at such times I’d swear at anyone for nothing at all.
+
+Kabanóva: You have no one over you, and so you think you can do as you like.
+
+Dikóy: No, you hold your tongue! Listen to me! I’ll tell you the sort of troubles that happen to me. I had fasted in Lent, and was all ready for Communion, and then the Evil One thrusts a wretched peasant under my nose. He had come for money, for wood he had supplied us. And, for my sins, he must needs show himself at a time like that! I fell into sin, of course; I pitched into him, pitched into him finely, I did, all but thrashed him. There you have it, my temper! Afterwards I asked his pardon, bowed down to his feet, upon my word I did. It’s the truth I’m telling you, I bowed down to a peasant’s feet. That’s what my temper brings me to: on the spot there, in the mud I bowed down to his feet; before everyone, I did.[23]
+
+Madame Kabanóva is well matched with Dikoóy. She may be less primitive than her friend, but she is an infinitely more tyrannical oppressor. Her son is married and loves, more or less, his young wife; but he is kept under his mother’s rule just as if he were a boy. The mother hates, of course, the young wife, Katerína, and tyrannises over her as much as she can; and the husband has no energy to step in and defend her. He is only too happy when he can slip away from the house. He might have shown more love to his wife if they had been living apart from his mother; but being in this house, always under its tyrannical rule, he looks upon his wife as part of it all. Katerína, on the contrary, is a poetical being. She was brought up in a very good family, where she enjoyed full liberty, before she married the young Kabanóff, and now she feels very unhappy under the yoke of her terrible mother-in-law, having nobody but a weakling husband to occasionally say a word in her favour. There is also a little detail — she has a mortal fear of thunderstorms. This is a feature which is quite characteristic in the small towns on the upper Vólga: I have myself known well educated ladies who, having once been frightened by one of these sudden storms — they are of a terrific grandeur — retained a life-long fear of thunder.
+
+It so happens that Katerína’s husband has to leave his town for a fortnight. Katerína, in the meantime, who has met occasionally on the promenade a young man, Borís, a nephew of Dikóy, and has received some attention from him, partly driven to it by her husband’s sister — a very flighty girl, who is wont to steal from the back garden to meet her sweethearts — has during these few days one or two interviews with the young man, and falls in love with him. Borís is the first man who, since her marriage, has treated her with respect; he himself suffers from the opression of Dikóy, and she feels half-sympathy, half-love towards him. But Borís is also of weak, irresolute character, and as soon as his uncle Dikóy orders him to leave the town he obeys and has only the usual words of regret that “circumstances” so soon separate him from Katerína. The husband returns. and when he, his wife, and the old mother Kabanóva are caught by a terrific thunderstorm on the promenade along the Vólga, Katerína, in mortal fear of sudden death, tells in the presence of the crowd which has taken refuge in a shelter on the promenade what has happened during her husband’s absence. The consequences will best be learned from the following scene, which I quote from the same translation. It also takes place on the high bank of the Vólga. After having wandered for some time in the dusk on the solitary bank, Katerína at last perceives Borís and runs up to him.
+
+Katerina: At last I see you again! (Weeps on his breast. Silence.)
+
+Borís: Well, God has granted us to weep together.
+
+Katerina: You have not forgotten me?
+
+Borís: How can you speak of forgetting?
+
+Katerina: Oh, no, it was not that, not that! You are not angry?
+
+Borís: Angry for what?
+
+Katerina: Forgive me! I did not mean to do you any harm. I was not free myself. I did not know what I said, what I did.
+
+Borís: Don’t speak of it! Don’t.
+
+Katerina: Well, how is it with you? What are you going to do?
+
+Borís: I am going away.
+
+Katerina: Where are you going?
+
+Borís: Far away, Kátya, to Siberia.
+
+Katerina: Take me with you, away from here.
+
+Borís: I cannot, Kátya. I am not going of my free will; my uncle is sending me, he has the horses waiting for me already; I only begged for a minute, I wanted to take a last farewell of the spot where we used to see each other.
+
+Katerina: Go, and God be with you! Don’t grieve over me. At first your heart will be heavy, perhaps, poor boy, but then you will begin to forget.
+
+Borís: Why talk of me! I am free at least; how about you? what of your husband’s mother?
+
+Katerina: She tortures me, she locks me up. She tells everyone, even my husband: “Don’t trust her, she is sly and deceitful.” They all follow me about all day long, and laugh at me before my face. At every word they reproach me with you.
+
+Borís: And your husband?
+
+Katerina: One minute he’s kind, one minute he’s angry, but he’s drinking all the while. He is loathsome to me, loathsome; his kindness is worse than his blows.
+
+Borís: You are wretched, Kátya?
+
+Katerina: So wretched, so wretched, that it were better to die!
+
+Borís: Who could have dreamed that we should have to suffer such anguish for our love! I’d better have run away them),
+
+Katerina: It was an evil day for me when I saw you. Joy I have known little of, but of sorrow, of sorrow, how much! And how much is still before me! But why think of what is to be! I am seeing you now, that much they cannot take away from me; and I care for nothing more. All I wanted was to see you. Now my heart is much easier; as though a load had been taken off me. I kept thinking you were angry with me, that you were cursing me...
+
+Borís: How can you! How can you!
+
+Katerina: No, that is not what I mean; that is not what I wanted to say! I was sick with longing for you, that’s it; and now, I have seen you...
+
+Borís: They must not come upon us here!
+
+Katerina: Stay a minute! Stay a minute! Something I meant to say to you! I’ve forgotten! Something I had to say! Everything is in confusion in my head, I can remember nothing.
+
+Borís: It’s time I went, Kátya!
+
+Katerina: Wait a minute, a minute!
+
+Borís: Come, what did you want to say?
+
+Katerina: I will tell you directly. (Thinking a moment.) Yes! As you travel along the highroads, do not pass by one beggar, give to everyone, and bid them pray for my sinful soul.
+
+Borís: Ah, if these people knew what it is to me to part from you! My God! God grant they may one day know such bitterness as I know now. Farewell, Kátya! (Embraces her and tries to go away.) Miscreants! monsters! Ah, if I were strong!
+
+Katerina: Stay, stay! Let me look at you for the last time (gazes into his face). Now all is over with me. The end is come for me. Now, God be with thee. Go, go quickly!
+
+Borís: (Moves away a few steps and stands still.) Kátya, I feel a dread of something! You have something fearful in your mind? I shall be in torture as I go, thinking of you.
+
+Katerina: No, no! Go in God’s name! (Borís is about to go up to her.) No, no, enough.
+
+Borís: (Sobbing.) God be with thee! There’s only one thing to pray God for, that she may soon be dead, that she may not be tortured long! Farewell!
+
+Katerina: Farewell!
+
+(Borís goes out. Katerina follows him with her eyes and stands for some time, lost in thought.)
+
+SCENE IV
+
+Katerina: (alone) Where am I going now? Home? No, home or the grave — it is the same. Yes, home or the grave! ... the grave! Better the grave. A little grave under a tree ... how sweet ... The sunshine warms it, the sweet rain falls on it ... in the spring the grass grows on it, soft and sweet grass ... the birds will fly in the tree and sing, and bring up their little ones, and flowers will bloom; golden, red and blue ... all sorts of flowers, (dreamingly) all sorts of flowers ... how still! how sweet! My heart is as it were lighter! But of life I don’t want to think! Live again! No, no, no use ... life is not good! ... And people are hateful to me, and the house is hateful, and the walls are hateful! I will not go there! No, no, I will not go! If I go to them, they’ll come and talk, and what do I want with that? Ah, it has grown dark! And there is singing again somewhere! What are they singing? I can’t make out... To die now... What are they singing? It is just the same whether death comes, or of myself ... but live I cannot! A sin to die so! ... they won’t pray for me! If anyone loves me, he will pray ... they will fold my arms crossed in the grave! Oh, yes ...I remember. But when they catch me, and take me home by force... Ah, quickly, quickly! (Goes to the river bank. Aloud) My dear one! My sweet! Farewell! (Exit.)
+
+(Enter Mme. Kabanóva, Kabanóv, Kulíghin and workmen with torches.)
+
+The Thunderstorm is one of the best dramas in the modern répertoire of the Russian stage. From the stage point of view it is simply admirable. Every scene is impressive, the drama develops rapidly, and everyone of the twelve characters introduced in it is a joy to the dramatic artist. The parts of Dikóy, Varvára, (the frivolous sister), Kabanóff, Kudryásh (the sweetheart of Varvára), an old artisan-engineer, nay even the old lady with two male — servants, who appears only for a couple of minutes — each one will be found a source of deep artistic pleasure by the actor or actress who takes it; while the parts of Katerína, and Mme. Kabanóva are such that no great actress would neglect them.
+
+Concerning the main idea of the drama, I shall have to repeat here what I have already said once or twice in the course of these sketches. At first sight it may seem that Mme. Kabanóva and her son are exclusively Russian types — types which exist no more in Western Europe. So it was said, at least, by several English critics. But such an assertion seems to be hardly correct. The submissive Kabanóffs may be rare in England, or at least their sly submissiveness does not go to the same lengths as it does in The Thunderstorm. But even for Russian society Kabanóff is not very typical. As to his mother, Mme. Kabanóva, every one of us must have met her more than once in English surroundings. Who does not know, indeed, the old lady who for the mere pleasure of exercising her power will keep her daughters at her side, prevent their marrying, and tyrannise over them till they have grown grey-haired? or in thousands or other ways exercise her tyranny over her household? Dickens knew Mme. Kabanóva well, and she is still alive in these Islands, as everywhere else.
+

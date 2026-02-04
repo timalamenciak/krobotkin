@@ -1,0 +1,118 @@
+TITLE: The Direct Action Of Environment And Evolution
+AUTHOR: Peter Kropotkin
+YEAR: NA
+SOURCE_ID: al_petr_kropotkin_the_direct_action_of_environment_and_evolution
+SOURCE_PATH: data/raw/The_Direct_Action_Of_Environment_And_Evolution.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-the-direct-action-of-environment-and-evolution.muse
+RETRIEVED_UTC: 2026-02-04T16:55:27Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## VIII
+
+The idea of Natural Selection apparently did not occur to Lamarck, although several passages in his works suggest that he had noticed the struggle for existence. As to the modern Lamarckians, while nearly all of them indicate the limitations of Natural Selection, they do not exclude its action form their schemes of Evolution. The only object to the exaggerated part attributed to it by those whose conceptions of descent are influenced by their sociological or super-natural considerations; and they understand that Natural Selection surely gives stability to the effects of the Direct Action of Environment. Most of them also recognize that by the side of these two main factors of Evolution one must take into consideration the two aspects — individual and social — of the struggle for life, the development of protective instincts in the higher animals, and the effects of use and disuse of organs, crossing, and the occasional appearance of more or less sudden variations — all these having their part in the evolution of the unfathomable variety of organic forms.
+
+Among the modern biologists, Professor [Ludwig] Plate has perhaps best understood the necessity of a synthetic view of the factors of Evolution, which he has developed in his elaborate work, now known under the title of Selektionsprinzip [Selection Principle]. He examined first in detail the scope and the possibilities of Natural Selection under the different forms of the struggle for life; and after having shown that Natural Selection steps in where the Lamarckian direct adaptation fails, and that single-handed it would not be sufficient to solve the problem of the origin of species, Professor Plate sums up his opinions in the following lines, which, in the present writer’s opinion, are a fair statement of the case:
+
+The only real difficultly for Darwinism is [he writes] that the variations must attain a certain amplitude before they are ‘selection-worth’ — that is, before they give to selection the opportunity to step in. Minimal individual differences can call forth no selection. However, I have shown already at some length (pp. 109–179) that after a careful study of the problem this difficulty proves to be illusory, because, on the one hand, it is impossible to deny that there are variations worthy of being selected,[43] and on the other hand there are in Nature different ways for increasing the minimal differences, so that they do become worthy of selection. Of these different ways, the modification of function, the changes in the conditions of life, use and disuse, and orthogenesis enter into the category of the factors indicated by Lamarck, and therefore the Selection theory cannot refuse the collaboration of the Lamarckian factors. Darwinism and Lamarckism,[44] taken together, give a satisfactory explanation of the growing up of species, including the origin of adaptation, while neither of these two theories, taken separately, gives it. (Selektionsprinzip, pp. 602–603.)
+
+Let me only add, to avoid misunderstandings, that the Lamarckism of which I have spoken in these pages, and which Plate has in view in the just-given quotation, means the teachings of Lamarck as they appeared in his Philosophie zoologique [Zoological Philosophy], his remarkable Discours d’ouverture de l’an X et de l’an XI [Opening speech of year X and year XI], delivered at the Academy of Sciences at Paris, and his Systeme analytique des connaissances positives de l’homme [Analytical system of positive knowledge of man] — of which the last two are entirely ignored in this country, and the first is frequently misquoted. These teachings show that Lamarck had not the least leaning toward a metaphysical Natur-Philosophie [Natural Philosophy], and they have nothing to do with the vitalist and other theories of the German Neo-Lamarckians, of whom France (a distinguished botanist) and Dr. Adolph Wagner are prominent representatives.[45]
+
+A synthesis of the views of Darwin and Lamarck, or rather of Natural Selection and the Direct Action of Environment, described by Spencer as Direct and Indirect Adaptation, was thus the necessary outcome of the researches in biology which have been carried on for the last-thirty or forty years. If considerations lying outside the true domain of biology, such as those which inspire the Neo-Lamarckians and inspired Weismann, cease to interfere, a synthetic view of Evolution (in which Natural Selection will be understood as a struggle for life carried on under both its individual and its still more important social aspect) will probably rally most biologists. And if this really takes place, then it will be easy to free ourselves from the reproach which has been addressed to nineteenth-century science: the reproach that while it has aided men to liberate themselves from superstitions, it has ignored those aspects of Nature which ought to have been, in a naturalistic conception of the universe, the very foundations of human Ethics, and of which Bacon and Darwin have already had a glimpse.[46]
+
+Unfortunately the vulgarisers of the teachings of Darwin, speaking in the name of Science, have succeeded in eliminating this deeply philosophical idea from the naturalistic conception of the universe worked out in the nineteenth century. They have succeeded in persuading men that the last word of Science was a pitiless individual struggle for life. But the prominence which is now beginning to be given to the direct action of environment in the evolution of species, by eliminating the Malthusian idea about the necessity of a competition to the knife between all the individuals of a given species for evolving new species, opens the way for quite different comprehension of struggle for life, and of Nature altogether.
+
+P. Kropotkin
+
+[1] Nineteenth Century and After, January 1910
+
+[2] ‘The Direct Action of Environment in Plants,’ July 1910; and ‘The Response of Animals to their Environment,’ November and December 1910.
+
+[3] ‘Inheritance of Acquired Characters: Theoretical Difficulties,’ March 1912.
+
+[4] ‘Inherited Variations [???] ober 1914, and “inherited variations in Animals,” November 191[??]
+
+[5] The Foundations of t [???] Species, a sketch written in 1842. Edited by his son Francis [??] bridge 1909.
+
+[6] In Sylva Sylvarum [????] 1824, section 526) the great founder of inductive science wrote: [???]fore, you must make account, that if you will have one plant [???] another, you must have the nourishment overrule [the inherited dispositions]...You shall do well, therefore, to take marsh-herbs, and plant them upon tops of hills and champaigns; and such plants as require much moisture, upon sandy and very dry grounds...This is the first rule for transmutation of plants.’
+
+[7] Origin of Species, 6th edition, p.72; the italics are mine.
+
+[8] See Variation in Domesticated Animals and Plants, vol. ii. Pp. 289, 291, 300, 321, 322, 347, and so on, of the 1905 popular edition of Mr. Murray.
+
+[9] See his Letters
+
+[10] Nineteenth Century and After, March 1912.
+
+[11] ‘Ueb[????] Ursachen der Transmutationen,’ in Studien zur Descendenz[???] 1876, chapter “Mechanismus und Teleologia.’ I don’t know [???] exists an English translation of this chapter.
+
+[12] ‘The Fundamental Principles of Heredity,’ in Natural Science, xi. October and November 1897. Reproduced in Professor Marcus Hartog’s Problems of Life and Reproduction, London 1913.
+
+[13] Oscar Hertwig, Der Kampf un Kerntragen der Entwickelungs und Vererbungslehre, Jena 1909, pp. 44–45 and 107–108. See also Nineteenth Century, March 1912, p. 520.
+
+[14] To a review of this question in his capital work, Heredity (London 1908, p. 64), Professor J. Arthur Thomson added the following words: ‘Holding firmly to the view which we have elsewhere expressed, that life is a function of inter-relations, we confess to hesitation in accepting without saving clauses any attempt to call this or that part of the germinal matter the exclusive vehicle of the hereditary qualities.’
+
+[15] Rabl, Ueber Organ-bildende ‘Substanzen und ihre Bedeutung fur die Vererbung; E. Godlewski jun., in Roux’s Archive, vol. xxviii. 1908, pp. 278–378. The connexion between all the cells in plants has been proved by observation, and now it begins to be proved for animals. The lively intercourse between the cells of the animal’s body by means of the wandering cells, which was observed during regeneration processes, seems not to be limited to these processes.’ The researches of His, Kupffer, Loeb, Roux, and Herbst are tending to prove that the same cells also take part in the ontogenetic processes. (See the articles of Herbst in Biologisches Centralblatt, vols. xiv. And xv.) As to Nussbaum, whose work is suggested to Weismann the ‘continuity’ of the germplasm, his idea is that the germ-cells are exposed to the same modifying agencies as the body-cells (Archiv fur mikroskopische Anatomie, xviii. 1908, quoted by Professor Rignano in La transmissibilite des caracteres acquis, p. 169.) Many other biologists come to the same conclusion.
+
+[16] Experiments of Ignaz Schiller on Cyclops and Tadpoles; preliminary report in Roux’s Archiv, xxxiv. Pt. 3, pp. 469–470.
+
+[17] Essays, ii.190.
+
+[18] [...]
+
+[19] Cf. L. Plate, Selekionsprinzip, 4th edition, 1913, pp.441–442. The same view, as it was pointed out by Professor Hartog, is held by E.B Wilson, the author of a standard work on the cell: ‘Whether the variations [he writes] first arise in the idioplasm [the germ-plasm] of the germ-cells, or whether they may arise in the body-cells, and then be reflected back upon the idioplasm, is a question to which the study of the cell has thus far given no certain answer’ (The Cell in Development and Inheritance, 2nd edition 1900, p.433, quoted by Marcus Hartog in his work, Problems of Life and Reproduction, London, Murray, 1913, p. 198, chapter on the inheritance of acquired characters).
+
+[20] Darwin knew it and mentioned it in several places in Variation; but when the fact was established by the experiments of Merrifield, Standfuss, and so on, it was received as a new discovery.
+
+[21] All this has been proved by experiment, and this is why a good-sized book would be required to record the results obtained lately by Experimental Morphology. Cf. T.H. Morgan’s Experimental Morphology, New York 1907; Przibram’s Experimental-Zoologie, Vienna 1910; Yves Delage and M. Goldsmith, Les theories de l’evolution, Paris 1909; and so on.
+
+[22] That time was an important element in the problem was emphatically asserted by both Lamarck and Darwin, and even by Bacon. But there are Weismannians who overlook it. Thus Lamarck was reproached with having enunciated two contradictory statements in his first and second law. But such a reproach could only be made by overlooking the time that is required to produce the changes. To use Lamarck’s own words, time is needed ‘both in gradually fortifying, developing, and increasing an organ which is active, and in undoing that, effect by imperceptibly weakening and deteriorating it, and diminishing its faculties, if the organ performs no work’ (first law; italics mine). All that the second law says is, that what has been acquired or lost in this way is transmitted to the new individuals born from the former; but it says not a word about the length of time that the new character is going to be maintained, if the new-born individuals are placed again in new conditions or returned to the old ones. These individuals evidently fall in such case under the action of the slow changes mentioned in the first law. Nineteenth Century and After, October 1914, pp. 821–825.
+
+[23] Nineteenth Century and After, October 1914, pp. 821–825
+
+[24] Vortrage, 2nd edition, vol. ii. pp. 1 and 29.
+
+[25] Weismann is thus no longer responsible for those who go on repeating his opinions of 1888, when he believed that in vegetative reproduction we have only a subdivision of the same individual, and added: ‘But no one will doubt that one and the same individual can be gradually changed during the course of its life, by the direct action of external influences.’ (Essays, i. 429.)
+
+[26] Darwin probably would have described them only as ‘incipient species.’ Professor Plate considers them as habitus modifications. They differ, he says, from the mother, plant in many organs, but in each of them in an insignificant degree.
+
+[27] Cf. Die Mutationstheorie, vol. i., Leipzig 1901, pp. 93, 97–100, and in fact all the fouth chapter. Also his earlier articles, L’unite dans la variation and Alimentation et selection summed up in Mutationstheorie.
+
+[28] Many important data concerning variation in Oenotheras will be found in the monograph of Messrs. D. T. MacDougal, A. M. Vail, and G. H. Shull, Mutation, Variation and Relationships of Oenatheras, Washington (Carnegie Publications) 1907.
+
+[29] ‘Monstrosities graduate so insensibly into mere variations that it is impossible to separate them’ (Variation, ii. 297–298). He considered that ‘variability of every kind is directly or indirectly caused by changed conditions of life’ (p. 300); and ‘of all causes which induce variability, excess of food, whether or not changed in nature, is probably the most powerful’ (p. 302)
+
+[30] Thus, fully recognising that ‘de Vries has established in the domain of heredity a mass of facts, the theoretical value of which still remains in some respects to be established by further research,’ Professor Plate, in analyzing the Mutation theory in his monumental critical work (Selektionsprinzip, pp. 384–435), wrote: ‘The mutation theory obtained an apparent temporary success because it introduced new words for well-known facts and conceptions, and thus awakened the idea that a new knowledge had been won. It is evident that for the theory of descent no real progress in advance of Darwin had been won in that direction.’ In another, very elaborate work, Vererbungslehre (vol. ii. of his Handbucher der Abstammungslehre, Leipzig 1913, pp. 430–475), Plate returned once more to this subject, and after a careful examination of the whole question (including Mendelism) he worded his final conclusion as follows: ‘Those thoughts in it [the Mutations theory] which are correct are not new, and its new components cannot be accepted’ (p.473).
+
+[31] ‘Les nouveaux problemes de l’heredite: la theorie de la mutation,’ in Biologica, ii. 1912.
+
+[32] The latter is the opinion of Mr. Boulenger, an authority on the subject; and the former is the view taken by Davy and several other botanists.
+
+[33] De Vries, Gruppenweise Artbildung, pp. 342–343; also Species and Varieties: their Origin by Mutations, Lectures before the University of California, edited by D.T MacDougal, Chicago, 1906, p.451.
+
+[34] Erwin Baur, Einfurhrung in die experimentelle Vererbungslehre, Berlin 1911, pp. 202–204. In a recently published work by R. Ruggles Gates, The Mutation Factor in Evolution, with particular reference to Oenothera (London 1915), we have an important contribution to this subject. Its chief interest is in the researches made by the author to discover the changes which take place in the germ-cells when an inherited variation takes place in the extremely variable complexus of species and varieties represented by the Oenothera. These researches have not yet brought the author to a definite conclusion as to the causes of mutations (p. 321); but they open an interesting branch of investigations in the great question of Heredity.
+
+[35] ‘Studien uber Variation,’ in Roux’s Archiv, vol. xxiv. pp. 29–113; review in Annee biologique, xiv. p. 357
+
+[36] With all the respect I have for the always most accurate work of Professor J. Arthur Thomson, I confess that, whatever his other reasons in favour of discontinuous variation may be, the facts he mentions in Heredity (London 1908, pp. 86–89) hardly prove that ‘Variation leads by leaps and bounds.’ The very words with which Professor Thomson accompanies, with his habitual, fairness, each of the examples he mentions, suggest that there is no reason to affirm, and some reason to doubt, that the new characters appeared suddenly. About the wonder-horse with an extremely long mane we are told that ‘the parents and grandparents had unusually long hair’; about the Shirley poppy, that the ‘single discontinuous variation’ from which it was obtained ‘may have occurred often before Mr. Wilks saved it from elimination,’ but no reason is given to suggest that it was a ‘sudden’ variation; the same applies to the Star Primrose, the Moth Amphidasys, and the Medusoid Pseudoclitia pentata, which is said to be ‘remarkably variable.’
+
+[37] M. Standfuss, ‘Zur Frage der Gestaltung und Vererbung,’ lecture before the Zurich Naturalists’ Society , in January 1902. Zurich 1905 (separate reprint).
+
+[38] Handback der systematischen Botanik, Vienna 1901 seq. I quote from Adolpha Wagner’s Geschichte des Lamarckismus, Stuttgart 1909, p. 215.
+
+[39] Vorlesungen uber Descendenztheorien, vol. ii., Jena 1908.
+
+[40] ‘The Inheritance of Habitat Effects in Plants,’ in Plant World, xiv. 1911; analysed in Botanisches Centralblatt, Bd. Exxii. 1913, p.134.
+
+[41] Elemente der Exakten Erlichkeistslehre, Jena 1909, pp. 308, 449 etc.
+
+[42] ‘The Genotype Conception of Heredity’ in American Naturalist, xlv. 1911, quoted by Semon in Verhandlungen des Naturforschers-Verein in Brunn, vol. lxix.
+
+[43] One must however ask whether such sudden variations appear in sufficient numbers? — P.K
+
+[44] ‘I mean, of course [he adds in a footnote], only the causal-mechanical part of Lamarckism, not its auto-genetical and psychical ideas. See pp. 501, 504.’
+
+[45] See R.H France, Der heutige Stand der Darwin’schen Fragen, Leipzig 1907; and Dr. Adolf Wagner, Geschichte des Lamarckismus, Stuttgart 1909.
+
+[46] Cf. ‘The Morality of Nature,’ in Nineteenth Century, March 1905.
+

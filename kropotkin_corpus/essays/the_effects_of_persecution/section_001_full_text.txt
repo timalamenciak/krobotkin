@@ -4,7 +4,7 @@ YEAR: 1895
 SOURCE_ID: al_effects_persecution
 SOURCE_PATH: data/raw/Effects_Persecution.txt
 SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-the-effects-of-persecution
-RETRIEVED_UTC: 2026-02-03T20:58:59Z
+RETRIEVED_UTC: 2026-02-04T16:55:27Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

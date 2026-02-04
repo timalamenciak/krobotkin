@@ -1,0 +1,14 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:21Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Dahl
+
+V. DAHL (1801–1872) cannot be omitted even from this short sketch. He was born in Southeastern Russia, of a Danish father and a Franco-German mother, and received his education at the Dorpat university. He was a naturalist and a doctor by profession, but his favourite study was ethnography, and he became a remarkable ethnographer, as well as one of the best connoisseurs of the Russian spoken language and its provincial dialects. His sketches from the life of the people, signed KOZAK LUGANSKIY (about a hundred of them are embodied in a volume, Pictures from Russian Life, 1861), were very widely read in the forties and the fifties, and were highly praised by Turguéneff and Byelínskiy. Although they are mere sketches and leaflets from a diary, without real poetical creation, they are delightful reading. As to the ethnographical work of Dal it was colossal. During his continual peregrinations over Russia, in his capacity of a military doctor attached to his regiment, he made most wonderful collections of words, expressions, riddles, proverbs, and so on, and embodied them in two large works. His main work is An Explanatory Dictionary of the Russian Language, in four quarto volumes (first edition in 1861–68, second in 1880–1882). This is really a monumental work and contains the first and very successful attempt at a lexicology of the Russian language, which, notwithstanding some occasional mistakes, is of the greatest value for the understanding and the etymology of the Russian tongue as it is spoken in different provinces. It contains at the same time a precious and extremely rich collection of linguistic material for future research, part of which would have been lost by now if Dal had not collected it, fifty years ago, before the advent of railways. Another great work of Dal , only second to the one just mentioned, is a collection of proverbs, entitled The Proverbs of the Russian People (second edition in 1879).
+

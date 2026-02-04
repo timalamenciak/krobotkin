@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:35Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Korolénko
+
+KOROLÉNKO was born (in 1853) in a small town of West ern Russia, and there he received his first education. In 1872 he was at the Agricultural Academy of Moscow, but was compelled to leave after having taken part in some students’ movement. Later on he was arrested as a “political,” and exiled, first to a small town of the Uráls, and then to Western Siberia, and from there, after his refusal to take the oath of allegiance to Alexander III., he was transported to a Yakút encampment several hundred miles beyond Yakútsk. There he spent several years, and when he returned to Russia in 1886, not being allowed to stay in University towns, he settled at Nízhniy Nóvgorod.
+
+Life in the far north, in the deserts of Yakútsk, in a small encampment buried for half the year in the snow, produced upon Korolénko an extremely deep impression, and the little stories which he wrote about Siberian subjects (The Dream of Makár, The Man from Sakhalin, etc.), were so beautiful that he was unanimously recognised as a true heir to Turguéneff. There is in the little stories of Korolénko a force, a sense of proportion, a mastery in depicting the characters, and an artistic finish, which not only distinguish him from most of his young contemporaries, but reveal in him a true artist. What the Forest Says, in which he related a dramatic episode from serfdom times in Lithuania, only further confirmed the high reputation which Korolénko had already won. It is not an imitation of Turguéneff, and yet it at once recalled, by its comprehension of the life of the forest, the great novelist’s beautiful sketch, The Woodlands (Polyesie). In Bad Society is evidently taken from the author’s childhood, and this idyll among tramps and thieves who concealed themselves in the ruins of some tower is of such beauty, especially in the scenes with children, that everyone found in it a truly “Turguéneff charm.” But then Korolénko came to a halt. His Blind Musician was read in all languages, and admired — again for its charm; but it was felt that the over-refined psychology of this novel is hardly correct; and no greater production worthy of the extremely sympathetic and rich talent of Korolénko has appeared since, while his attempts at producing a larger and more elaborate romance were not crowned with success.
+

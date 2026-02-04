@@ -4,7 +4,7 @@ YEAR: 1887
 SOURCE_ID: pg_31104
 SOURCE_PATH: data/raw/31104.txt
 SOURCE_URL: https://www.gutenberg.org/ebooks/31104
-RETRIEVED_UTC: 2026-02-03T20:58:50Z
+RETRIEVED_UTC: 2026-02-04T16:55:34Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

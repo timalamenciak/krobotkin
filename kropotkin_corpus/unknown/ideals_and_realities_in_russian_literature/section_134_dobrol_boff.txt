@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:34Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Dobrolúboff
+
+DOBROLÚBOFF (1836–1861) was born in Nízhniy Nóvgorod, where his father was a parish priest, and he received his education first in a clerical school, and after that in a seminarium. In 1853 he went to St. Petersburg and entered the Pedagogical Institute. His mother and father died the next year, and he had then to maintain all his brothers and sisters. Lessons, for which he was paid ridiculously low prices, and translations, almost equally badly paid — all that in addition to his student’s duties — meant working terribly hard, and this broke down his health at an early age. In 1855 he made the acquaintance of Tchernyshévskiy and, having finished in 1857 his studies at the Institute, he took in hand the critical department of The Contemporary, and again worked passionately. Four years later, in November, 1861, he died, at the age of twenty-five, having literally killed himself by overwork, leaving four volumes of critical essays, each of which is a serious original work. Such essays as The Kingdom of Darkness, A Ray of Light, What is Oblómovism? When comes the Real Day? had especially a profound effect on the development of the youth of those times.
+
+Not that Dobrolúboff had a very definite criterion of literary criticism, or that he had a very distinct programme as to what was to be done. But he was one of the purest and the most solid representatives of that type of new men — the realist-idealist, whom Turguéneff saw coming by the end of the fifties. Therefore, in whatever he wrote one felt the thoroughly moral and thoroughly reliable, slightly ascetic “rigourist” who judged all facts of life from the standard of — “What good will they bring to the toiling masses?” or, “How will they favour the creation of men whose eyes are directed that way?” His attitude towards professional aesthetics was most contemptuous, but he felt deeply himself and enjoyed the great works of art. He did not condemn Púshkin for his levity, or Gógol for his absence of ideals. He did not advise anyone to write novels or poems with a set purpose: he knew the results would be poor. He admitted that the great geniuses were right in creating unconsciously, because he understood that the real artist creates only when he has been struck by this or that aspect of reality. He asked only from a work of art, whether it truly and correctly reproduced life, or not? If not, he passed it by; but if it did truly represent life, the he wrote essays about this life; and his articles were essays on moral, political or economical matters — the work of art yielding only the facts for such a discussion. This explains the influence Dobrolúboff exercised upon his contemporaries. Such essays written by such a personality were precisely what was wanted in the turmoil of those years for preparing better men for the coming struggles. They were a school of political and moral education.
+

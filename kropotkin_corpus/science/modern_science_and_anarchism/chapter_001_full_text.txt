@@ -4,7 +4,7 @@ YEAR: 1903
 SOURCE_ID: al_modern_science_and_anarchism
 SOURCE_PATH: data/raw/Modern_Science_and_Anarchism.txt
 SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-modern-science-and-anarchism
-RETRIEVED_UTC: 2026-02-03T20:58:52Z
+RETRIEVED_UTC: 2026-02-04T16:54:53Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

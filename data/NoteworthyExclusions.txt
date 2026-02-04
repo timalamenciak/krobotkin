@@ -1,0 +1,10 @@
+For reasons of capacity and clarity, we have excluded several texts authored by Kropotkin. Those are detailed below:
+
+Title: Expropriation: An Anarchistic Essay
+Source: https://www.katesharpleylibrary.net/r22b2t#:~:text=Expropriation%3A%20An%20Anarchistic%20Essay%20by,R%C3%A9volt%C3%A9%20London%3A%20International%20Publishing%20Company%2C%C2%A01886
+Reason: This is a PDF that is not cleanly in plaintext. 
+
+Title: Manifesto of the Sixteen
+Source: https://en.wikipedia.org/wiki/Manifesto_of_the_Sixteen#:~:text=The%20Manifesto%20of%20the%20Sixteen,by%20eminent%20anarchists%20Peter
+Reason: This was a multi-authored work. While it may represent Kropotkin's opinion, I did not feel it merited inclusion.
+

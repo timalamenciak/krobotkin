@@ -1,0 +1,11 @@
+work_id,title,genre,unit_id,unit_title,out_path,body_words,body_chars
+al_petr_kropotkin_the_great_french_revolution_1789_1793,The Great French Revolution 1789 1793,unknown,unit_001,full_text,kropotkin_corpus/unknown/the_great_french_revolution_1789_1793/section_001_full_text.txt,204074,1205630
+al_petr_kropotkin_ethics_origin_and_development,Ethics Origin And Development,unknown,unit_002,Introduction by the Russian Editor,kropotkin_corpus/unknown/ethics_origin_and_development/section_002_introduction_by_the_russian_editor.txt,124195,748463
+pg_73882,Memoirs of a Revolutionist,memoir,unit_005,WESTERN EUROPE                                         352,kropotkin_corpus/memoir/memoirs_of_a_revolutionist/chapter_005_western_europe_352.txt,95093,545503
+al_petr_kropotkin_in_russian_and_french_prisons,In Russian And French Prisons,unknown,unit_001,full_text,kropotkin_corpus/unknown/in_russian_and_french_prisons/section_001_full_text.txt,70682,411174
+pg_73882,Memoirs of a Revolutionist,memoir,unit_006,"All three had entirely won the hearts of the Paris workers, and",kropotkin_corpus/memoir/memoirs_of_a_revolutionist/chapter_006_all_three_had_entirely_won_the_hearts_of_the_paris_workers_and.txt,36971,210590
+pg_73882,Memoirs of a Revolutionist,memoir,unit_007,"All shades of revolutionary opinion--Blanquists, Jacobinists,",kropotkin_corpus/memoir/memoirs_of_a_revolutionist/chapter_007_all_shades_of_revolutionary_opinion_blanquists_jacobinists.txt,31721,183045
+ws_state_historic_role,The State: Its Historic Role,essays,unit_001,full_text,kropotkin_corpus/essays/the_state_its_historic_role/section_001_full_text.txt,20965,122357
+al_modern_science_and_anarchism,Modern Science and Anarchism,science,unit_001,full_text,kropotkin_corpus/science/modern_science_and_anarchism/chapter_001_full_text.txt,20444,123055
+pg_64353,"Fields, Factories and Workshops",science,unit_025,chapter,kropotkin_corpus/science/fields_factories_and_workshops/chapter_025_chapter.txt,18265,111359
+pg_64353,"Fields, Factories and Workshops",science,unit_020,chapter,kropotkin_corpus/science/fields_factories_and_workshops/chapter_020_chapter.txt,16824,99524

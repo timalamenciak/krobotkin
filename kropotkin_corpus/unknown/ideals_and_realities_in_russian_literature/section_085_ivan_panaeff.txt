@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:21Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Ivan Panaeff
+
+A writer who occupies a prominent place in the evolution of the Russian novel, but has not yet been sufficiently appreciated, is IVAN PANAEFF (1812–1862), who was a great friend of all the literary circle of the Sovreménnik (Contemporary). Of this review he was co-editor with Nekrásoff, and he wrote for it a mass of literary notes and feuilletons upon all sorts of subjects, extremely interesting for characterising those times. In his novels Panáeff, like Turguéneff, took his types chiefly from the educated classes, both at St. Petersburg and in the provinces. His collection of “Swaggerers” (hlyschí), both from the highest classes in the capitals, and from provincials, is not inferior to Thackeray’s collection of “snobs.” In fact, the “swaggerer,” as Panáeff understood him, is even a much broader and much more complicated type of man than the snob, and cannot easily be described in a few words. The greatest service rendered by Panáeff was, however, the creation in his novels of a series of such exquisite types of Russian women that they were truly described by some critics as “the spiritual mothers of the heroines of Turguéneff.”
+
+A. HERZEN (1812- 1870) also belongs to the same epoch, but he will be spoke of in a subsequent chapter.
+

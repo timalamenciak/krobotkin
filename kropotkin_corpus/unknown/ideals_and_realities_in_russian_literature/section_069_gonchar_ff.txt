@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:14Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Goncharóff
+
+Goncharóff occupies in Russian literature the next place after Turguéneff and Tolstóy, but this extremely interesting writer is almost entirely unknown to English readers. He was not a prolific writer and, apart from small sketches, and a book of travel (The Frigate Pallas), he has left only three novels: A Common Story (translated into English by Constance Garnett), Oblómoff, and The Precipice, of which the second, Oblómoff, has conquered for him a position by the side of the two great writers just named.
+
+In Russia Goncharóff is always described as a writer of an eminently objective talent, but this qualification must evidently be taken with a certain restriction. A writer is never entirely objective — he has his sympathies and antipathies, and do what he may, they will appear even through his most objective descriptions. On the other hand, a good writer seldom introduces his own individual emotions to speak for his heroes: there is none of this in either Turguéneff or Tolstóy. However, with Turguéneff and Tolstóy you feel that they live with their heroes, that they suffer and feel happy with them — that they are in love when the hero is in love, and that they feel miserable when misfortunes befall him; but you do not feel that to the same extent with Goncharóff. Surely he has lived through every feeling of his heroes, but the attitude he tries to preserve towards them is an attitude of strict impartiality — an attitude, I hardly need say, which, properly speaking, a writer can never maintain. An epic repose and an epic profusion of details certainly characterise Goncharóff’s novels; but these details are not obtrusive, they do not diminish the impression, and the reader’s interest in the hero is not distracted by all these minutiae, because, under Goncharóff’s pen, they never appear insignificant. One feels, however, that the author is a person who takes human life quietly, and will never give way to a burst of passion, whatsoever may happen to his heroes.
+

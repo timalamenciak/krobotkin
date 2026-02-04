@@ -1,0 +1,17 @@
+TITLE: Small Communal Experiments And Why They Fail
+AUTHOR: Peter Kropotkin
+YEAR: 1893
+SOURCE_ID: al_petr_kropotkin_small_communal_experiments_and_why_they_fail
+SOURCE_PATH: data/raw/Small_Communal_Experiments_And_Why_They_Fail.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-small-communal-experiments-and-why-they-fail.muse
+RETRIEVED_UTC: 2026-02-04T16:55:10Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+4. The federated communes of the future, and
+ 5. Does Communism necessarily lessen individuality? In other words, the Individual in a Communist society.
+
+An immense movement of ideas took place during this century under the name of Socialism in general, beginning with Babeuf, St. Simon, Fourier, Robert Owen and Proudhon who formulated the predominating currents of Socialism, and continued by their numerous successors (French) Considerant, Pierre Lerous, Louis Blanc; (German) Marx, Engels; (Russian) Chernychevski, Bakunin; etc, who worked either at popularising the ideas of the founders of modern Socialism or at establishing them on a scientific basis.
+
+These ideas, on taking precise shape, gave birth to two principal currents: Authoritarian Communism and Anarchist Communism; also to a number of intermediary schools bent on finding a way between, such as State Capitalism, Collectivism, Co-operation; among the working masses they created a formidable workers’ movement which strives to organise the whole mass of the workers by trades for the struggle against Capital, and which becomes more international with the frequent intercourse between workers of different nationalities. The following three essential points were gained by this immense movement of ideas and of action, and these have already widely penetrated the public conscience:
+

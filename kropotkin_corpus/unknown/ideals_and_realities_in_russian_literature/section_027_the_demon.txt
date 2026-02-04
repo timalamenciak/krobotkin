@@ -1,0 +1,14 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:00Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## The Demon
+
+Lérmontoff’s demonism or pessimism was not the pessimism of despair, but a militant protest against all that is ignoble in life, and in this respect his poetry has deeply impressed itself upon all our subsequent literature. His pessimism was the irritation of a strong man at seeing others round him so weak and so base. With his inborn feeling of the Beautiful, which evidently can never exist without the True and the Good, and at the same time surrounded — especially in the worldly spheres he lived in, and on the Caucasus — by men and women who could not or did not dare to understand him, he might of easily have arrived at a pessimistic contempt and hatred of mankind; but he always maintained his faith in the higher qualities of man. It was quite natural that in his youth — especially in those years of universal reaction, the thirties — Lérmontoff should have expressed his discontent with the world in such a general and abstract creation as The Demon. Something similar we find even with Schiller. But gradually his pessimism took a more concrete form. It was not mankind altogether, and still less heaven and earth, that he despised in his latter productions, but the negative features of his own generation. In his prose novel, The Hero of our Own Time, in his Thoughts (Duma), etc., he perceived higher ideals, and already in 1840 — ie, one year before his death — he seemed ready to open a new page in his creation, in which his powerfully constructive and critical mind would have been directed towards the real evils of actual life, and real, positive good would apparently have been his aim. But it was at this very moment that , like Púshkin, he fell in a duel.
+

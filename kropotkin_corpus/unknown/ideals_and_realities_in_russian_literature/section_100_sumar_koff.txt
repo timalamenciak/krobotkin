@@ -1,0 +1,14 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:21Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Sumarókoff
+
+SUMARÓKOFF (1718–1777), who wrote, besides verses and fables (the latter of real value), a considerable number of tragedies and comedies, played an important part in the development of the Russian drama. In his tragedies he imitated Racine and Voltaire. He followed strictly their rules of “unity,” and cared even less than they did for historical truth; but as he had not the great talent of his French masters, he made of his heroes mere personifications of certain virtues or vices, figures quite devoid of life, and indulging in endless pompous monologues. Several of his tragedies (Hórev, written in 1747, Sináv and Trúvor, Yaropólk and Dílitza, Dmítri the Impostor) were taken from Russian history; but after all their heroes were as little Slavonian as Racine’s heroes were Greek and Roman. This, however, must be said in favour of Sumarókoff, that he never failed to express in his tragedies the more advanced humanitarian ideas of the times — sometimes with real feeling, which pierced through even the conventional forms of speech of his heroes. As to his comedies, although they had not the same success as his serious dramas, they were much nearer to life. They contained touches of the real life of Russia, especially of the life of the Moscow nobility, and their satirical character undoubtedly influenced Sumarókoff’s followers.
+

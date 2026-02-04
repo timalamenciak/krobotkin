@@ -4,7 +4,7 @@ YEAR: 1902
 SOURCE_ID: pg_4341
 SOURCE_PATH: data/raw/4341.txt
 SOURCE_URL: https://www.gutenberg.org/ebooks/4341
-RETRIEVED_UTC: 2026-02-03T20:58:04Z
+RETRIEVED_UTC: 2026-02-04T16:55:00Z
 LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
 ----
 

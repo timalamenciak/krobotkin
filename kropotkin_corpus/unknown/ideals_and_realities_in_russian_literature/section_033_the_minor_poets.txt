@@ -1,0 +1,36 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:01Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## The minor poets
+
+Several minor poets, contemporary of Púshkin and Lérmontoff, and some of them their personal friends, must be mentioned in this place. The influence of Púshkin was so great that he could not but call to life a school of writers who should try to follow inn his steps. None of them reached such a height as to claim to be considered a world poet; but each of them has made his contribution in one way or another to the development of Russian poetry, each one has had his humanising and elevating influence.
+
+KOZLÓFF (1779–1840) has reflected in his poetry the extremely sad character of his life. At the age of about forty he was stricken with paralysis, losing the use of his legs, and soon after that his sight; but his poetical gift remained with him, and he dictated to his daughter some of the saddest elegies which Russian literature possesses, as also a great number of our most perfect translations. His Monk made everyone in Russia shed tears, and Púshkin hastened to acknowledge the strength of the poem. Endowed with the most wonderful memory — he knew by heart all Byron, all the poems of Walter Scott, all Racine, Tasso, and Dante, — Kozlóff, like Zhukóvskiy, with whom he had much in common, made a great number of translations from various languages, especially from the English idealists, and some of his translations from the Polish, such as The Crimean Sonnets of Mickiewicz, are real works of art.
+
+DÉLWIG (1798–1831) was a great personal friend of Púshkin, whose comrade he was at the Lyceum. He represented in Russian literature the tendency towards reviving ancient Greek forms of poetry, but happily enough he tried at the same time to write in the style of the Russian popular songs, and the lyrics which he wrote in this manner especially contributed to make of him a favourite poet of his own time. Some of his romances have remained popular till now.
+
+BARATÝNSKIY (1800–1844) was another poet of the same group of friends. Under the influence of the wild nature of Finland, where he spend several years in exile, he became a romantic poet, full of the love of nature, and also of melancholy, and deeply interested in philosophical questions, to which he could find no reply. He thus lacked a definite conception of life, but what he wrote was clothed in a beautiful form, and in very expressive, elegant verses.
+
+YAZÝKOFF (1803–1846) belongs to the same circle. He was intimate with Púshkin, who much admired his verses. It must be said, however, that the poetry of Yazýkoff had chiefly an historical influence in the sense of perfecting the forms of poetical expression. Unfortunately, he had to struggle against almost continual illness, and he died just when he had reached the full development of his talent.
+
+VENEVÍTINOFF (1805–1822) died at a still younger age; but there is no exaggeration in saying that he promised to become a great poet, endowed with the same depth of philosophical conception as was Goethe, and capable of attaining the same beauty of form. The few verses he wrote during the last year of his life revealed the suddenly attained maturity of a great poetical talent, and may be compared with the verses of the greatest poets.
+
+PRINCE ALEXANDER ODÓEVSKIY (1803–1839) and POLEZHÁEFF (1806–1838) are two other poets who died very young, and whose lives were entirely broken by political persecution. Odóevskiy was a friend of the Decembrists. After the 14 th of December, 1825, he was arrested, taken to the fortress of St Peter and St Paul and then sentenced to hard labour in Siberia, whence he was not released till twelve years later, to be sent as a soldier to the Caucasus. There he became the friend of Lérmontoff, one of whose best elegies was written on Odóevskiy’s death. The verses of Odóevskiy (they were not printed abroad while he lived) lack finish, but he was a real poet and a patriot too, as is seen from his Dream of a Poet, and his historical poem, Vasilkó.
+
+The fate of POLEZHÁEFF was even more tragic. He was only twenty years old — a brilliant student of the Moscow University — when he wrote an autobiographical poem, Sáshka, full of allusions to the evils of autocracy and of appeals for freedom. This poem was shown to Nicholas I, who ordered the young poet to be sent as a soldier to an army regiment. The duration of service was then twenty-five years, and Polezháeff saw not the slightest chance of release. More than that: for an unauthorised absence from his regiment (he had gone to Moscow with the intention of presenting a petition of release to the Tsar) he was condemned to receive one thousand strokes with the sticks, and only by mere luck escaped the punishment. He never succumbed to his fate, and in the horrible barracks of those times he remained what he was: a pupil of Byron, Lamartine, and Macpherson, never broken, protesting against tyranny in verses that were written in tears and blood. When he was dying from consumption in a military hospital at Moscow Nicholas I pardoned him: his promotion to the grade of officer came when he was dead.
+
+A similar fate befell the Little Russian poet SHEVCHÉNKO (1814–1861), who, for some of his poetry, was sent in 1847 to a battalion as a common soldier. His epical poems from the life of the free Cossacks in olden times, heart rendering poems from the life of the serfs, and lyrics, all written in Little Russian and thoroughly popular in both form and content, belong to the fine specimens of poetry of all nations.
+
+Of prose writers of the same epoch only a few can be mentioned in this book, and these in a few lines. ALEXANDER BESTÚZHEFF (1797–1837), who wrote under the nom de plume of MARLÍNSKIY — one of the “Decembrists,” exiled to Siberia, and later on sent to the Caucasus as a soldier — was the author of widely-read novels. Like Púshkin and Lérmontoff he was under the influence of Byron, and described “titanic passions” in Byron’s style, as also striking adventures in the style of the French novelists of the Romantic school; but he deserves at the same time to be regarded as the first to write novels from Russian life in which matters of social interest were discussed.
+
+Other favourite novelists of the same epoch were: ZAGÓSKIN (1789–1852), the author of extremely popular historical novels, Yúriy Miloslávskiy, Róslavleff, etc., all written in a sentimentally patriotic style; NARYÉZHNYI (1780–1825), who is considered by some Russian critics as a forerunner of Gógol, because he wrote already in the realistic style, describing, like Gógol, the dark sides of Russian life; and LAZHÉCHNIKOFF (1792–1868), the author of a number of very popular historical novels of Russian life.
+
+** Chapter 3: Gógol
+

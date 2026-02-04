@@ -1,0 +1,22 @@
+TITLE: Small Communal Experiments And Why They Fail
+AUTHOR: Peter Kropotkin
+YEAR: 1893
+SOURCE_ID: al_petr_kropotkin_small_communal_experiments_and_why_they_fail
+SOURCE_PATH: data/raw/Small_Communal_Experiments_And_Why_They_Fail.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-small-communal-experiments-and-why-they-fail.muse
+RETRIEVED_UTC: 2026-02-04T16:55:14Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+4. They were isolated instead of federated,
+ 5. They required of their members so much labour as to leave them no leisure time, and
+ 6. They were modelled on the form of the patriarchal family instead of having for an aim the fullest possible emancipation of the individual.
+
+Communism, being an eminently economic institution, does not in any way prejudice the amount of liberty guaranteed to the individual, the initiator, the rebel against crystallising customs. It may be authoritarian, which necessarily leads to the death of the community, and it may be libertarian, which in the twelfth century even under the partial communism of the young cities of that age, led to the creation of a young civilisation full of vigour, a new springtide of Europe.
+
+The only durable form of Communism, however, is one under which, seeing the close contact between fellow men it brings about, every effort would be made to extend the liberty of the individual in all directions.
+
+Under such conditions, under the influence of this idea, the liberty of the individual, increased already by the amount of leisure secured to him, will be curtailed in no other way than occurs today by municipal gas, the house to house delivery of food by great stores, modern hotels, or by the fact that during working hours we work side by side with thousands of fellow labourers.
+
+With Anarchy as an aim and as a means, Communism becomes possible. Without it, it necessarily becomes slavery and cannot exist.
+

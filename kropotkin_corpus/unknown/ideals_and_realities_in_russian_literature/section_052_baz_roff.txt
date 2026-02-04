@@ -1,0 +1,18 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:09Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Bazároff
+
+Fathers and Sons produced a tremendous impression. Turguéneff was assailed on all sides: by the old generation, which reproached him with being “a nihilist himself”; and by the youth, which was discontented at being identified with Bazároff. The truth is that, with a very few exceptions, among whom was the great critic, Písaareff, we do not properly understand Bazároff. Turguéneff had so much accustomed us to a certain poetical halo which surrounded his heroes, and to his own tender love which followed them, even when he condemned them, that finding nothing of the sort in his attitude towards Baxároff, we saw in the absence of these features a decided hostility of the author towards the hero. Moreover, certain features of Bazároff decidedly displeased us. Why should a man of his powers display such a harshness towards his old parents: his loving mother and his father — the poor old village-doctor who has retained, to old age, faith in his science. Why should Bazároff fall in love with that most uninteresting, self-admiring lady, Madame Odintsóff, and fail to be loved, even by her? And then why, at a time when in the young generation the seeds of a great movement towards freeing the masses were already ripening, why make Bazároff say that he is ready to work for the peasant, but if somebody comes and says to him that he is bound to do so, he will hate that peasant? To which Bazároff adds, in a moment of reflection: “And what of that? Grass will grow out of me when this peasant acquires wellbeing!” We did not understand this attitude of Turguéneff’s nihilist, and it was only on re-reading Fathers and Sons much later on, that we noticed, in the very words that so offended us, the germs of a realistic philosophy of solidarity and duty which only now begins to take a more or less definite shape. In 1860 we, the young generation, looked on it as Turguéneff’s desire to throw a stone at a new type with which he did not sympathise.
+
+And yet, as Písareff understood at once, Bazároff was a real representative of the young generation. Turguéneff, as he himself wrote later on, merely did not “add syrup” to make his hero appear somewhat sweeter.
+
+“Bazároff,” he wrote, “puts all the other personalities of my novel in the shade. He is honest, straightforward, and a democrat of the purest water, and you find no good qualities in him! The duel with Petr Petróvitch is only introduced to show the intellectual emptiness of the elegant, noble knighthood; in fact, I even exaggerated and made it ridiculous. My conception of Bazároff is such as to make him appear throughout much superior to Petr Petróvitch. Nevertheless, when he calls himself nihilist you must read revolutionist. To draw on one side a functionary who takes bribes, and on the other an ideal youth — I leave it to others to make such pictures. My aim was much higher than that. I conclude with one remark: If the reader is not won by Bazároff, notwithstanding his roughness, absence of heart, pitiless dryness and terseness, then the fault is with me — I have missed my aim; but to sweeten him with syrup (to use Bazároff’s own language), this I did not want to do, although perhaps through that I would have won Russian youth at once to my side.”
+

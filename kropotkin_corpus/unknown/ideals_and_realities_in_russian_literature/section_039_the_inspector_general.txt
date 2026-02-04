@@ -1,0 +1,96 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:03Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## The Inspector-General
+
+Gógol’s prose-comedy, The Inspector-General (Revizór), has become, in its turn, a starting point for the Russian drama — a model which every dramatic writer after Gógol has always kept before his eyes. “Revizór,” in Russian, means some important functionary who has been sent by the ministry to some provincial town to inquire into the conditions of the local administration — an Inspector-General; and the comedy takes place in a small town, from which “you may gallop for three years and yet arrive nowhere.” The little spot — we learn it at the rising of the curtain — is going to be visited by an Inspector-General. The local head of the Police (in those times the head of the Police was also the head of the town) — the Gorodníchiy or Governor-has convoked the chief functionaries of the place to communicate to them an important news. He has had a bad dream; two rats came in, sniffed and then went away; there must he something in that dream, and so there is: he has just got this morning a letter from a friend at St. Petersburg, announcing that an inspector-general is coming, and — what is still worse — is coming incognito! Now, the honourable Governor advises the functionaries to put some order in their respective offices. The patients in the hospital walk about in linen so dirty that you might take them for chimney sweeps. The chief magistrate, who is a passionate lover of sport, has his hunting appareI hanging about inthe Court, and his attendants have made a poultry-yard of the entrance hall. In short, everything has to be put in order. The Governor feels very uncomfortable. Up to the present day he has freely levied tribute upon the merchants, pocketed the money destined for building a church, and within a fortnight he has flogged the wife of a non-commissioned officer, which he had no right to do; and now, there’s the Inspector-General coming! He asks the postmaster “just to open a little” the letters which may be addressed from this town to St. Petersburg and, if he finds in them some reports about town matters, to keep them. The postmaster — a great student of human character — has always indulged, even without getting this advice, in the interesting pastime of reading the letters, and he falls in with the Governor’s proposal.
+
+At that very moment enter Petr Iványch Dóbchinsky and Petr Iványch Bóbchinsky. Everyone knows them, you know them very well: they play the part of the town Gazette. They go about the town all day long, and as soon as they have learnt something interesting they both hurry to spread the news, interrupting each other in telling it, and hurrying immediately to some other place to be the first to communicate the news to someone else. They have been at the only inn of the town, and there they saw a very suspicious person: a young man, “who has something, you know, extraordinary about his face.” He is living there for a fortnight, never paying a penny, and does not journey any further. “What is his object in staying so long in town like ours?” And then, when they were taking their lunch he passed them by and looked so inquisitively in their plates — who may he be? Evidently, the Governor and all present conclude, he must be the Inspector-General who stays there incognito... A general confusion results from the suspicion. The Governor starts immediately for the inn, to make the necessary enquiries. The womenfolk are in a tremendous excitement.
+
+The stranger is simply a young man who is travelling to rejoin his father. On some post-station he met with a certain captain — a great master at cards — and lost all he had in his pocket. Now he cannot proceed any farther, and he cannot pay the landlord, who refuses to credit him with any more meals. The young man feels awfully hungry — no wonder he looked so inquisitively into the plates of the two gentlemen — and resorts to all sorts of tricks to induce the landlord to send him something for his dinner. Just as he is finishing some fossil-like cutlet enters the Gorodníchiy; and a most comic scene follows, the young man thinking that the Governor came to arrest him, and the Governor thinking that he is speaking to the Inspector-General who is trying to conceal his identity. The Governor offers to remove the young man to some more comfortable place. “No, thank you, I have no intent to go to a jail,” sharply retorts the young man... But it is to his own house that the Governor takes the supposed Inspector, and now an easy life begins for the adventurer. All the functionaries appear in turn to introduce themselves, and everyone is only too happy to give him a bribe of a hundred roubles or so. The merchants come to ask his protection from the Governor; the widow who was flogged comes to lodge a complaint....In the meantime the young man enters into a flirtation with both the wife and the daughter of the Governor; and, finally, being caught at a very pathetic moment when he is kneeling at the feet of the daughter, without further thought he makes a proposition of marriage. But, having gone so far, the young man, well-provided now with money, hastens to leave the town on the pretext of going to see an uncle; he will be back in a couple of days...
+
+The delight of the Governor can easily be imagined. His Excellency, the Inspector-General, going to marry the Governor’s daughter! He and his wife are already making all sorts of plans. They will remove to St. Petersburg, the Gorodníchiy will soon be a general, and you will see how he will keep the other Gorodníchies at his door! ... The happy news spreads about the town, and all the functionaries and the society of the town hasten to offer their congratulations to the old man. There is a great gathering at his house-when the postmaster comes in. He has followed the advice of the Governor, and has opened a letter which the supposed Inspector-General had addressed to somebody at St. Petersburg. He now brings this letter. The young man is no inspector at all, and here is what he writes to a Bohemian friend of his about his adventures in the provincial town:[12]
+
+The Postmaster (reads) I hasten to inform you, my dear friend, of the wonderful things which have happened to me. On my way hither an infantry captain had cleared me out completely, so that the innkeeper here intended to send me to jail, when, all of a sudden, thanks to my St. Petersburg appearance and costume, all the town took me for a Governor-General. Now I am staying at the Gorodníchiy’s! I have a splendid time, and flirt awfully with both his wife and his daughter... Do you remember how hard up we were, taking our meals where we could get them, without paying for them, and how one day, in a tea-shop, the pastry-cook collared me for having eaten his pastry to the account of the king of England?[13] It is quite different now. They all lend me money, as much as I care for. They are an awful set of originals: you would split of laughter. I know you write sometimes for the papers — put them into your literature. To begin with, the Governor is as stupid as an old horse...
+
+The Governor (interrupting): That cannot be there! There is no such thing in the letter.
+
+Postmaster (showing the letter) — Read it then, yourself.
+
+Governor (reads) An old horse”...impossible! You must have added that.
+
+Postmaster: How could I?
+
+The Guests: Read! read!
+
+The Postmaster (continues to read) “The governor is as stupid as an old horse”...
+
+Governor: The deuce! Now he must repeat it — as if it were not standing there already!
+
+Postmaster (continues reading): Hm, Hm, yes! “an old horse. The postmaster is also a good man”....Well he also makes an improper remark about me....
+
+Governor: Read it then.
+
+Postmaster: Is it necessary?
+
+Governor: The deuce! once we have begun to read it, we must read it all through.
+
+Artémy Filípovitch (head of the philanthropic institutions): Permit me, please, I shall read (puts on his spectacles and reads): The postmaster is quite like the old porter in our office, and the rascal must drink equally hard.”...
+
+Postmaster: A naughty boy, who ought to be flogged-that’s all!
+
+Art. Fil. (continues reading) The head of the philanthropic in-in ...
+
+Korobki: Why do you stop now?
+
+Art. Fil. Bad writing. But, after all, it is quite evident that he is a scoundrel.
+
+Korobkin: Give me the letter, please. I think, I have better eyes (tries to take the letter).
+
+Art. Fil. (does not give it) : No use at all. This passage can be omitted. Further on everything is quite readable.
+
+Korobkin: Let me have it. I shall see all about it.
+
+Art. Fil: I also can read it. I tell you that after that passage everything is readable.
+
+Postm.: No, no, read it all. Everything was read so far.
+
+The Guests: Artémy Filípovitch, pass the letter over. (To Korobkin) Read it, read it!
+
+Art. Fil.: All right, all right. (He passes the letter.) There it is; but wait a moment (he covers a part of it with his finger). Begin here (all surround. him).
+
+Postman: Go on. Nonsense, read it all.
+
+Korobkin (reads) “The head of the philanthropic institutions resembles a pig that wears a cap”...
+
+Art. Fil. (to the audience): Not witty at all! A pig that wears a cap! Have you ever seen a pig wearing a cap?
+
+Korobkin (continues reading) “The inspector of the schools smells of onions all through!”
+
+The Inspector (to the audience): Upon my honour, I never touch onions.
+
+The Judge (apart): Thank God, there is nothing about me.
+
+Korobkin (reading): “The judge”.....
+
+The Judge: There! ...(aloud): Well, gentlemen, I think the letter is much too long, and quite uninteresting — why the deuce should we go on reading that nonsense?
+
+Insp. of Schools: No! no!
+
+Postm: No!-go on!
+
+Art. Fil.: No, it must be read.
+
+Korobkin: (continues) “The judge Lyápkin-Tyápkin is extremely mauvais ton.” (Stops.) That must be a French word?
+
+The Judge. The deuce knows what it means. If it were only “a robber,” then it would be all right, but it may be something worse.
+
+In short, the letter produces a great sensation. The friends of the Governor are delighted to see him and his family in such straits, all accuse each other, and finally fall upon the two gentlemen, when a police soldier enters the room and announces in a loud voice: “A functionary from St. Petersburg, with Imperial orders, wants to see you all immediately. He stays at the hotel.” Thereupon the curtain drops over a living picture of which Gógol himself had made a most striking sketch in pencil, and which is usually reproduced in his works; it shows how admirably well, with what a fine artistic sense, he represented to himself his characters.
+

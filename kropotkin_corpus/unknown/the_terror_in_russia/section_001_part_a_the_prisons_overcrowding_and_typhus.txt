@@ -1,0 +1,106 @@
+TITLE: The Terror In Russia
+AUTHOR: Peter Kropotkin
+YEAR: 1909
+SOURCE_ID: al_petr_kropotkin_the_terror_in_russia
+SOURCE_PATH: data/raw/The_Terror_In_Russia.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-the-terror-in-russia.muse
+RETRIEVED_UTC: 2026-02-04T16:55:38Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Part A : The Prisons, Overcrowding and Typhus
+
+Numbers of Prisoners. Overcrowding.--From an official document communicated to the State Council on March 15, 1909, by the administration of the prisons, it appears that on February 1, 1909, there were in the lock-ups of the Empire 181,137 inmates. This figure, however, does not include those prisoners who are in transportation, and the numbers of whom are estimated officially at about 30,000. Nor does it include an immense number of persons detained at the police lock-ups, both in the towns and in the villages. No approximate idea as to the number of this last category can be obtained, but it has been suggested in the Russian Press that it may be anything between 50,000 and 100,000. The worst is that it is especially in the Police lock-ups that the ill-treatment of the prisoners is the most awful. The famous torture chambers of Grinn at Warsaw, and Gregus at Riga (both condemned by courts) were precisely police lock-ups.
+
+The number of inmates in the prisons has been growing steadily for the last four years. In 1905 the average daily figure for all the prisons of the Empire was 85,000 ; it reached 111,000 in 1906 ; 138,000 in 1907 ; 170,000 in 1908, and on February 1, 1909, it was 181,137. The holding capacity of all the prisons of the Empire being only 107,000 persons, overcrowding is the necessary result, and in some places there are from three to four times more inmates than the prison could possibly contain under normal conditions. The result of this overcrowding is that scurvy and typhus have developed in an alarming proportion, and that, as has been said in the Introduction, nothing is done to prevent the epidemic from spreading over all the prisons of Russia. Unfortunately, it must also be said that the leniency with which countless complaints about brutal treatment in prisons has been met by the Ministry, and the continual release, by personal orders of the Emperor, of those prison officials who have been condemned by the Russian Courts to imprisonment for the brutal treatment of the prisoners, seem to have created among the prison authorities the idea that in tormenting the prisoners they act in accordance with the wishes of the Government. The Ministry of the Interior, as seen from the debates in the Duma, is fully aware, through the official reports addressed to it by the prison governors, of the terrible overcrowding in some of the lock-ups and of the resulting epidemics. But it takes no measures to prevent either the overcrowding or the spread of these epidemics among the prisoners.
+
+Even in the great prisons like the Butyrki prison of Moscow, within a few hours of the Ministry of the Interior, even in this prison we are informed by the members of the Duma who have served their time in it, the dress and the linen delivered to the prisoners are falling to pieces ; even in the pillows, which are filled with straw, the straw is changed only once a year. No mattresses are delivered, not even pieces of felt to lie upon, and no blankets ; fresh new linen is delivered only when the visit of a member of the superior administration is expected.[2]
+
+In this prison, which contains 1,300 hard-labor convicts, one-half of whom are politicals, the rooms, which are each twelve paces long by five wide, contain twenty-five prisoners, and the time allowed for taking fresh air is only minutes. Out of the inmates placed on the sick list, 65 percent. are attacked by scurvy ; they remain in the common rooms, all in chains, and are continually beaten and thrashed by the warders. After having beaten a man they will put him into the Black Hole; and the deputies of the Duma imprisoned in this place write about a man Chertetsoff, who, after being beaten for seven days in succession, went mad and died three days later.[3]
+
+The same prison has become such a nest of infection that at a special meeting of the Committee of the Sanitary Inspectors of Moscow on the 2nd of March, 1909, it was stated that during the week, from the 15th to the 20th of February, no less than 70 men were taken ill with recurrent typhus. The illness has been spread to the barracks of the sappers by the men who kept guard in the prison, and ten deaths have already taken place there. The Committee concluded that it was absolutely necessary to improve the food of the prisoners ; but this is precisely what the prison authorities will not admit.
+
+The lock-up of the First Don District (province of Don Cossacks) was built for 50 inmates--it contains 205 ; a room, 14 feet long, 10 feet wide, and 8 feet high, with only two windows, contains 26 prisoners. In the Kostroma prison, which was built for 200 persons, there are 400 prisoners. Each prisoner has, as a rule, less than 170 cubic feet of air space, and the allowance has never attained 240 cubic feet (which would mean 3 feet by 8 feet in a room 10 feet high. The rooms are full of parasites. In the Kamenetz prison, built for 400 persons, there are 800 inmates. Each room, calculated for 20 persons, contains 40.
+
+From the Vyatka Transfer prison, one of the chief transfer prisons on the highway to Siberia, a prisoner writes as follows:--
+
+“We are kept, from 60 to 70 of us, in rooms calculated to hold 30 to 40 persons only. There are no beds, not even those sleeping platforms which formerly were used instead of beds in Russian prisons. We all sleep on the bare floor, and no blankets are supplied. The damp is awful, and the rooms are full of parasites. The politicals are kept together with the common law convicts. The food [which is described in full] is execrable. All meals are served within the space of four hours, and for 20 hours we remain without food, shut up in our rooms, with windows tightly fastened, and are not allowed to go out of our rooms for any reason whatever.”[4]
+
+At the Ekaterinodar prison in the Caucasus, as has been stated by the town authorities at a meeting held on the 5th of April last, there is room for 360 prisoners ; but the jail contains 1,200 inmates, out of whom 500 are ill with eruptive typhus. The hospital accommodation is for 80 persons only, the remainder continue to lie with the others in the common rooms. The governor of the prison also fell ill with eruptive typhus.[5]
+
+With regard to the Tiflis central prison in the Mehteh Castle, 403 political and common law prisoners detained there have lately written to the Duma deputy, M. Tcheidze, in the name of 840 inmates of that terrible fortress, complaining of the most abominable sanitary conditions and the unlimited brutality of the prison authorities. Four men been shot during the last month by the sentinels for having approached the windows, the order issued by the commander of the castle in January last being : “Shoot without any warning at the slightest uproar, and as soon as a prisoner approaches the window aim at the head so as to occasion death.”[6]
+
+Last year it became known that several prisons were nests of typhus infection. Thus the Ekaterinoslav zemstvo repo that the Lugansk prison was a breeding-place of typhus for the city and the whole district. In the Kieff prison, which was built for 500 inmates but contains 2,000, the typhus epidemic began already in 1908, and soon in this old building, renowned for its typhus epidemics since 1882, hundreds of men were laid down with typhus. The infirmary, which has accommodation for 95 persons only, contained 339 sick prisoners, the average space which the patients were enjoying being only 210 cubic feet per person (3 feet by 7 feet by 10 feet). The mortality was appalling. From the prison the epidemic spread to the city of Kieff, with the result that the official figures for Kieff for the year 1908 were 9,150 cases of typhus, out of which 2,188 were in the prison.[7]
+
+The head of the prison administration, M. Hruleff, having sent his special commissioner, M. Von Bötticher, to report about the condition of the prisons in the provinces of Kieff, Podolia, and Volhynia, the Commissioner has now sent in a report concerning the Lukoyanoff prison of the province of Kieff. Nearly 2,500 prisoners have died from typhus alone in this old prison--about five hundred every year. In January last there were 222 typhus cases in this prison and 423 in February.[8] The great development of typhus is due to over-crowding, the prison, which has been built for 600 inmates, containing regularly 1,800.[9]
+
+During last winter the epidemic appeared almost everyhere. In Pyatigorsk it appeared in January ; in Perm in February. It was eruptive typhus, and the chief doctor of the zemstvo infirmary, M. Vinográdoff, died on February 2nd, after having been infected while he received in the infirmary 18 typhus patients brought from the local prison.[10] In February 70 persons had already died, but the prison administration, as the ex-member of the Duma, M. Polétaeff, writes to the St. Petersburg papers, refused even to permit the prisoners to improve their food at their own expense.[11] Many soldiers and warders were infected in their turn, and another prison doctor, Pilipin, and two warders, as also several soldiers of the military garrison, died from typhus.
+
+In the government of Ekaterinoslav the prisons of Lugan and Bakhmut (a prison which was built for 50 persons, but had 350 inmates) soon were infected. In a few weeks the number of typhus patients in this last prison reached 54, and 100 a few days later.[12] In the capital of the province, at Ekaterinoslav, where 1,317 persons were kept in a building that had been built for 300 inmates, typhus was raging. There were 130 patients in February, 235 in March. There appeared also cholera, which was due to the rotten food distributed to the prisoners and to contaminated water.[13]
+
+In Poltava typhus has raged since November last, and continues still. In the province of Kursk the typhus epidemic broke out in seven different jails ; in the provincial prison all sick continued to be kept in chains, and they were transported in this way to the zemstvo infirmary ; 16 warders all fell ill. In Simpheropol there were in February 86 cases of recurrent typhus and 3 of eruptive typhus ; in March there were 200 cases, and the epidemic showed no signs of abatement.
+
+The same ravages were apparent in the prisons of Kherson, Zenkoff, Radomysl, Berdichef, and several other towns of South-West Russia.[14]
+
+The same in Warsaw (where the prison of the Praga suburb was built for 150 inmates but contained 400 and all the prisoners slept on the bare floor),[15] at Minsk, in Vyazma, government of Smolensk, where 37 prisoners out of 139 and 3 warders out of 10 were stricken by typhus.[16]
+
+Orel, Nijni-Novgorod, Totma, &c., &c., are now in the same condition, and finally in the great Butyrki prison of Moscow there were 70 new typhus cases during one week, from February 22nd to March 1st. Only later in March an abatement of the epidemic was reported.[17]
+
+At Simpheropol 30 typhus patients are reported; in the children’s reformatory of Ekaterinoslav, 14 boys out of 19 are stricken with typhus. At the Uman and Berdichef jails, no more prisoners are received on account of the terrible epidemic which is raging in these prisons.[18]
+
+The relatives of the political inmates of the Perm prison wrote to the Duma deputy of that province, asking him to do something for them. The prison administration does not allow any additional food to be given to the typhus patients.
+
+There are three cases on record--two of them at Kharkoff and one at Ekaterinoslav--of persons ill with typhus who have been brought before the Courts during their illness. Thus, in the first days of April last, two men accused of robbery were brought before the Court Martial of Kharkoff. Seeing that one of them was quite unable to answer the questions, having not yet recovered from a second attack of recurrent typhus--he was looking like a corpse--the President of the Court asked the Prosecutor to postpone the prosecution, and added : “There is no need to call a doctor ; you have only to look yourself at that man.” The Public Prosecutor, after having approached the prisoner, withdrew his accusation, and the man was returned to the prison.[19]
+
+On February 26th the Court Martial, sitting at Ekaterinoslav, was also compelled to interrupt its sitting because one of the lawyers drew the attention of the Court to the fact that one of the prisoners brought before them was ill with typhus. A doctor was called in, the temperature of the prisoner was 104°, and he was returned to the prison.
+
+In St. Petersburg it happened in the beginning of March last, that when a party Of 75 prisoners was brought by rail to this city, several of them were ill with typhus. They were sent to the transfer prison, but there being no room to receive the new-comers, they had to lie all the night on the floor in the passages.[20] Equally bad accounts are given of the typhus epidemic in the Kursk, Penza, Tver, Tchembar, and several other prisons. In this last prison the typhus patients were kept together with all the others in the common rooms. The prison doctor, M. Jimsen, died from typhus.[21]
+
+Private persons and societies for the aid of prisoners are prevented from doing anything to improve the food of the prisoners, and according to the paper Novaya Russ, the Minister of Justice has forbidden the prison authorities to give any information concerning the health of their inmates.
+
+Mode of Transfer of Typhus Patients to an Infirmary.--The following statement, made by a lady in Central Russia and published in the Review Russkoye Bogatstvo, edited by Korolenko, is typical :--
+
+“Last summer we were occasionally in the yard of the infirmary of our zemstvo. I saw two carts entering the yard, accompanied by soldiers. Approaching these carts, I saw that they contained typhoid patients who had been brought to the infirmary from the prison. It was a dreadful sight, and made my hair stand on end. One can hardly believe that in the twentieth century, with our present civilization, men could be treated in such a way and brought in such a condition. The men, all unconscious, laid like logs in the cart, knocking their heads against its wooden frame. They had not even put a handful of straw under their heads. The men were lying almost one upon the other. Some were in the last agony ; two of them died an hour or one and a half hours later. All of them were in chains. I saw how the two dead were carried to the chapel--both were fettered. I asked why the chains had not been taken from the dead; it would have been done if they were dogs. They replied that the chains can be taken off only after the death certificate has been signed by the prison doctor. Later on I learned that the typhus patients were kept in the very same room with the others. In our infirmary special rooms were prepared for the typhus prisoners, and warders were brought from the prison to watch them. Accustomed continually to beat the prisoners, these warders began to do the same in the infirmary, so that the zemstvo authorities had to interfere, but, I am afraid, in vain ; they continued to do on a small scale what they had been used to do on a large scale in the prison.”[22]
+
+[2] Ryech, January 24, 1909.
+
+[3] Sovremennoye Slovo, January 30, 1909.
+
+[4] Long letter from one of the inmates in Russkoye Bogatstvo, April, 1909, pp. 89–90.
+
+[5] Meeting of the Prison Committee of Ekaterinodar, April 5, 1909, reported in Ryech.
+
+[6] Russkiya Vedomosti, February, 1909.--As might have been foreseen, the above conditions ended in a tragedy. A Tiflis telegram to the Russian dailies says that on May 22nd, at 6.30 p.m., as several prisoners, condemned to be executed, were taken to the scaffold, the other prisoners became uproarious. “There are five killed among them,” laconically adds the telegram.
+
+[7] See the St. Petersburg dailies for January 30, 1909.
+
+[8] Kievskiy Vestnik, March 12, 1909.
+
+[9] Novaya Russ, May 21, 1909.
+
+[10] Ryech, February 4, 1909.
+
+[11] Russkiya Védomosti, February 25, 1909.
+
+[12] Ryech, January 17, February 14, 1909.
+
+[13] Ibid., January 27, February 22, 25, and 26, March 7 and 13, 1909.
+
+[14] Kievskiy Vestnik, February 22 March 3, 4, 9, 12, 1909.
+
+[15] Warsaw Echo, reproduced in Ryech, February 19,1909.
+
+[16] See St. Petersburg papers for March 22nd.
+
+[17] Russkiya Véd., March 1, 22, April 8, 1909.
+
+[18] This information is taken from the daily telegrams communicated to the St. Petersburg papers during the months of March and April, 1909.
+
+[19] Ryech, April, 1909.
+
+[20] Ryech, March 4, 1909.
+
+[21] Russ. Véd., March 4 1909 (signed article).
+
+[22] Russkoye Bogatstvo, April, 1909, pp. 90, 91.
+

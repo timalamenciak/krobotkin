@@ -1,0 +1,36 @@
+TITLE: Words Of A Rebel 1
+AUTHOR: Peter Kropotkin
+YEAR: 1885
+SOURCE_ID: al_petr_kropotkin_words_of_a_rebel_1
+SOURCE_PATH: data/raw/Words_Of_A_Rebel_1.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-words-of-a-rebel-1.muse
+RETRIEVED_UTC: 2026-02-04T16:55:54Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## 2.
+
+In the preceding pages we saw the deplorable and indeed horrifying situation to which the cultivators of the soil, the peasants, have been con- demned in Ireland, Spain, Italy, and Russia. There can no longer be any doubt on this question; agrarian revolt is on the order of the day in such countries. But in the nations that flatter themselves in their civilization, like England, Germany, France, or even Switzerland, the situation of the farmers also becomes more and more untenable.
+
+Take England as an example. Two centuries ago it was still a country where the farmer, working on land that belonged to him, enjoyed a cer- tain well-being. Today it is a land of great, fabulously rich proprietors, and a rural proletariat reduced to destitution. Four-fifths of all the arable land, some 23,976,000 hectares, are the property of 2,340 great land- owners; 710 lords own the third of England; one marquess makes jour- neys of thirty leagues without quitting his lands, and one earl owns a whole county. The rest of the landowners, a half-million families, must be content with less than a third of a hectare each, enough for a house and a smalljjarden.
+
+2,340 families receive fabulous revenues, from 100,000 to 10,000,000 francs per annum; the Marquess of Westminster and the Duke of Bedford get 15,000 francs a day -- more than 1,000 francs an hour! -- more than a worker in a whole year, while hundreds of thousands of farm labouring families earn from their hard labours only between 300 and 1,000 francs a year. The labourer who makes the land produce, thinks himself lucky if, after 14 and 15 hour working days, he manages to earn 12 to 15 francs a week -- just enough not to die of hunger.
+
+Writers of books indeed tell us that thanks to this concentration of property in a few hands, England has become the land of the most inten- sive and productive agriculture. The great lords, not wishing to cultivate the land themselves, lease it in large lots to tenant farmers, and these tenants, we are told, have made their farms into models of rational agriculture.
+
+Once this was true. It is no longer true today.
+
+First of all, immense areas of land remain absolutely uncultivated or are transformed into parks, so that, when autumn comes, the lord can stage monstrous hunts with his guests. Thousands of people could gain their nourishment from such lands! The landlord pays no heed to that fact; he does not know how to spend his fortune, so he gives himself the pleasure of having a park of several square leagues and he takes that area out of cultivation.
+
+Thousands and thousands of farmers have been evicted, chased away by the landlords, and their fields, which nourish the people, have been transformed into pastures which nowadays serve to raise beef cattle -- in other words, meat, the food of the rich. The area of land devoted to crops is constantly diminishing. In 1869, England sowed 1,600,000 hectares with wheat; no more than 1,200,000 hectares are sown today.[40] Fifteen years ago it produced 26 hectolitres per hectare, but today it produces only 22 hectolitres per hectare.[41]
+
+Even those farmers who cultivate areas of 50 or 100 hectares or more, middle class men seeking to become gentlemen in their turn and enjoy the good life through the toil of others, are now being ruined. Crushed with rents by the landlords' greed, they can no longer improve their farming and hold their heads up against American and Australian competition; the newspapers in fact are loaded with notices of farm auctions.
+
+Thus the agrarian situation presents itself. The great mass of the people are driven from the land and into the large cities and the manufac- turing centres, where these starving folk compete frantically with each other. The land is held by a handful of noblemen who enjoy fabulous revenues and spend them at will on lives of extravagant and unproduc- tive luxury. The people in between, the farmers who have been hoping to transform themselves into lesser gentlemen, are ruined by the excessive rents, are ready to make common cause with the people so as to take the land out of the hands of the great proprietors. The whole country feels the effects of this abnormal situation regarding landed property.
+
+Is it surprising that "nationalization of the land" should have be- come today the rallying cry of all the malcontents? Already in 1869 the great Land and Work League demanded that all the estates of the great nobles should be confiscated by the whole nation, and each day that idea gains more support. The League of Landworkers, with its 150,000 members, had but a single aim twenty years ago, which was to raise wages by means of strikes, but now it also is demanding the disposses- sion of the landlords.
+
+Finally, the Irish Land League[42] is beginning to extend its ramifica- tions into Scotland and England, and everywhere it is arousing sym- pathy. But we know how the League operates. It will begin by declaring that the rents to be paid to the great landlords are henceforward reduced by a quarter, according to the League's decree. By all kinds of petty means and in the last resort by force it will prevent the eviction of those who pay only three quarters of their rent. Later, when its forces are organized, it will declare that nothing at all must be paid to the landlord, and it will arm the farm population to put its will into operation. When the right moment comes it will do as the French peasants did between 1789 and 1793; it will force the landlords, by iron and fire, to abdicate their rights to the land.
+
+What will be the new kind of property arrangement as a result of the revolution in England? It would be difficult to foretell that at the present moment, for the outcome of the revolution will depend on the length of the revolutionary period, and especially on the strength of the opposition which revolutionary ideas will encounter on the part of the aristocracy and the bourgeoisie. One thing is certain, that England is proceeding in the direction of the abolition of individual property in land, and that the opposition encountered by that idea on the part of the landowners will prevent the transformation from taking place in a peaceful manner; to make its wishes prevail, the people of England will have to resort to force.
+

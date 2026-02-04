@@ -1,0 +1,18 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:00Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Krylóff
+
+The fable-writer KRYLÓFF (1786–1844) is perhaps the Russian writer who is best known abroad. English readers know him through the excellent work and translations of so great a connoisseur of Russian literature and language as Ralston was, and little can be added to what Ralson has said of this eminently original writer.
+
+He stands on the boundary between two centuries, and reflects both the end of the one and the beginning of the other. Up to 1807, he wrote comedies which, even more than the other comedies of the time, were mere imitations from the French. It was only in 1807–1809 that he found his true vocation and began writing fables, in which domain he attained the first rank, not only in Russia, but among the fable-writers in all modern literatures. Many of his fables — at any rate, the best known ones — are translations from Lafontaine; and yet they are entirely original productions. Lafontaine’s animals are academically educated French gentlemen; even the peasant in his fables come from Versailles. There is nothing of the sort in Krylóff. Every animal in his fables is a character — wonderfully true to life. Nay, even the cadence of his verses changes and takes a special aspect each time a new animal is introduced — that heavy simpleton, the Bear, or the fine and cunning Fox, or the versatile Monkey. Krylóff knew every one of them intimately; he knew each of their movements, and above all he had noticed and enjoyed long since in his own self the humorous side of every one of the dwellers of the forests or the companions of Man, before he undertook to put them in his fables. This is why Krylóff may be taken as the greatest fable-writer not only of Russia — where he had a not to be neglected rival in DMÍTREFF (1760–1837) — but also of all nations of modern times. True, there is no depth, no profound and cutting irony, in Krylóff’s fables. Nothing but a good0natured, easy-going irony, which made the very essence of his heavy frame, his lazy habits, and his quiet contemplation. But, is this not the true domain of fable, which must not be confounded with satire?
+
+At the same time there is no writer who has better possessed and better understood the true essence of the really popular Russian language, the language spoken by the men and women of the people. At a time when the Russian litérateurs hesitated between the elegant, Europeanised style of Karamzín, and the clumsy, half-Slavonic style of the nationalists of the old school, Krylóff, even in his very first fables, written in 1807, had already worked out a style which at once gave him a quite unique position in Russian literature, and which has not been surpassed even by such masters of the popular Russian language as was Ostróvskiy and some of the folk-novelists of a later epoch. For terseness, expressiveness and strict adherence to the true spirit of the popularly-spoken Russian, Krylóff had no rivals.
+

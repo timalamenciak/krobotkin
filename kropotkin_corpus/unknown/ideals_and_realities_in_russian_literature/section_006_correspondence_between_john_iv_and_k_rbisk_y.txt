@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:53Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Correspondence between John IV. and Kúrbiskíy
+
+One of them is the letters exchanged between the Tsar John the Terrible (John IV.), and one of his chief vassals, Prince Kúrbskiy, who had left Moscow for Lithuania. From beyond the Lithuanian border he addressed to his cruel, half lunatic ex-master Iong letters of reproach, which John answered, developing in his epistles the theory of the divine origin of the Tsar’s authority. This correspondence is most characteristic of the political ideas that were current then, and of the learning of the period.
+
+After the death of John the Terrible (who occupies in Russian history the same position as Louis XI. in French, since he destroyed by fire and sword — but with a truly Tartar cruelty — the power of the feudal princes), Russia passed, as is known, through years of great disturbance. The pretender Demetrius who proclaimed himself a son of John, came from Poland and took possession of the throne at Moscow. The Poles invaded Russia, and were the masters of Moscow, Smolénsk, and all the western towns; and when Demetrius was overthrown, a few months after his coronation, a general revolt of the peasants broke out, while all Central Russia was invaded by Cossack bands, and several new pretenders made their appearance. These “Disturbed Years” must have left traces in popular songs, but all such songs entirely disappeared in Russia during the dark period of serfdom which followed, and we know of them only through an Englishman, Richard James, who was in Russia in 1619, and who wrote down some of the songs relating to this period. The same must be said of the folk-literature, which must have come into existence during the later portion of the seventeenth century. The definite introduction of serfdom under the first Romanoff (Mikhail, 1612–1640); the wide-spread revolts of the peasants which followed — culminating in the terrific uprising of Stepán Rázin, who has become since then a favourite hero with the oppressed peasants; and finally the stern and cruel persecution of the Non-conformists and their migrations eastward into the depths of the Uráls — all these events must have found their expression in folk-songs; but the State and the Church so cruelly hunted down everything that bore trace of a spirit of rebellion that no works of popular creation from that period have reached us. Only a few writings of a polemic character and the remarkable autobiography of an exiled priest have been preserved by the Non-conformists.
+

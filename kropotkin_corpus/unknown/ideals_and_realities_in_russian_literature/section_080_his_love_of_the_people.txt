@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:19Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## His Love of the People
+
+The mass of the Russian people, the peasants and their sufferings, are the main themes of our poet’s verses. His love to the people passes as a red thread through all his works; he remained true to it all his life. In his younger years that love saved him from squandering his talent in the sort of life which so many of his contemporaries have led; later on it inspired him in his struggle against serfdom; and when serfdom was abolished he did not consider his work terminated, as so many of his friends did: he became the poet of the dark masses oppressed by the economical and political yoke; and towards the end of his life he did not say: “Well, I have done what I could,” but till his last breath his verses were a complaint about not having been enough of a fighter. He wrote: “Struggle stood in the way of my becoming a poet, and songs prevented me from becoming a fighter,” and again: “Only he who is serviceable to the aims of his time, and gives all his life to the struggle for his brother men — only he will live longer than his life.”
+
+Sometimes he sounds a note of despair; however, such a note is not frequent in Nekrásoff. His Russian peasant is not a man who only sheds tears. He is serene, sometimes humourous, and sometimes an extremely gay worker. Very seldom does Nekrásoff idealise the peasant: for the most part he takes him just as he is, from life itself; and the poet’s faith in the forces of that Russian peasant is deep and vigorous. “A little more freedom to breathe — he says — and Russia will shew that she has men, and that she has a future.” This is an idea which frequently recurs in his poetry.
+

@@ -1,0 +1,14 @@
+TITLE: Small Communal Experiments And Why They Fail
+AUTHOR: Peter Kropotkin
+YEAR: 1893
+SOURCE_ID: al_petr_kropotkin_small_communal_experiments_and_why_they_fail
+SOURCE_PATH: data/raw/Small_Communal_Experiments_And_Why_They_Fail.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-small-communal-experiments-and-why-they-fail.muse
+RETRIEVED_UTC: 2026-02-04T16:55:10Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Editor’s Preface
+
+Peter Kropotkin (1842–1921) was one of the greatest anarchist theoreticians of his time. Although he admired the directly democratic and non-authoritarian practices of the traditional peasant village commune, he was never an advocate of small and isolated communal experimentalism. Many people, upon reading his works, have been inspired to found such communities, both in his own time as well as the hippies of the 1960s (a period when Kropotkin’s major works were published and influential). Kropotkin did not consider such ventures were likely to be successful or useful in achieving wider revolutionary goals. His friend, Elisee Reclus, who had been involved in such a venture in South America in his youth, was even more hostile to small communal experiments. It is a pity that some of the founders of the many hippy communes in the 1960s (nearly all of which faded rather quickly) did not read Kropotkin more carefully. Unfortunately, they made the same mistakes as many anarchists, communists and socialists had made a century before them. In the anarchist press today one still finds adverts for prospective small and isolated anarchist colonies. Also, many commentaries about Kropotkin still misrepresent him as having had a vision of society consisting of unfederated and independent village-like settlements and of advocating small communal experiments as a means of achieving an anarchist society. The following speech and two ‘open’ letters, which have not been in print for a century, clearly show, that although not emotionally opposed to such ventures, he was highly sceptical about their chances of success and generally believed them to be a drain upon the energies of the anarchist movement. Despite his warnings, these articles also contain much good and practical advice to those who are still tempted to found small experimental communes in the wilderness, or perhaps, those tempted in some future era to colonise space.
+

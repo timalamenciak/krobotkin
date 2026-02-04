@@ -1,0 +1,22 @@
+TITLE: The Direct Action Of Environment And Evolution
+AUTHOR: Peter Kropotkin
+YEAR: NA
+SOURCE_ID: al_petr_kropotkin_the_direct_action_of_environment_and_evolution
+SOURCE_PATH: data/raw/The_Direct_Action_Of_Environment_And_Evolution.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-the-direct-action-of-environment-and-evolution.muse
+RETRIEVED_UTC: 2026-02-04T16:55:25Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## VI
+
+‘Mutations,’ we have just seen, were described as ‘congenital variations.’ But every variation of form and structure, once it is inherited, implies a ‘congenital variation’: some change must have taken place in the germ-cells, whatsoever the origin of the variation, or the position of the germ-cells in the organism may be. We learn, it is true, from the experiments of MacDougal and Tower that certain inheritable changes may be obtained by a direct action of external agencies (temperature and so on) upon the germ-cells. Of course, they may. But nobody has yet proved that changes produced in the body-cells cannot affect the germ-cells; while modern research tends to prove quite the contrary.
+
+Consequently, we are not astonished to learn that de Vries, having recognised in his last work, Gruppenweise Artbildung [Groupwise Speciation], that every mutation must have ‘not only an inner cause, but also an exterior case,’ and that the high variability of the Oenotheras must be ‘to some extent a consequence of the special conditions of the soil,’[33] has thus given a hard blow to the idea of a fundamental distinction between ‘mutations’ and ordinary variation. Both are inherited, the difference being only one of degree in the modifying cause.
+
+It may be added the Erwin Baur, who also has carefully studied the subject, comes to a similar conclusion in his ‘Introduction to the Experimental Theory of Heredity.’ As a rule (he writes) mutations are rare (one in a thousand individuals, or less); and ‘what are their causes in most cases we don’t know.’ Only lately experiments were made showing that mutations, i.e. inheritable variations, can be provoked by exterior influences, depending on our will. Such are the experiments on the Colorado beetle made by Tower, who used high temperatures, dryness of the air and low atmospheric pressure, those of Blaringhem who provoked inherited variations by mutilations of plants, and MacDougal who acted directly on the reproductive cells.[34]
+
+Finally we learn from another most careful and gifted experimentator, Professor Klebs, that those characters of a plant which belong to the most constant ones under the ordinary conditions of culture can become most variable under properly chosen conditions; and that both the so-called continuous and the discontinuous variations (the mutations) can be obtained in the same individual, according to the external conditions into which it is placed.[35]
+
+The consensus of opinion is thus against attributing to mutations an origin quite different from the origin of habitus-variations. But once it is so, we have in the so-called ‘mutations’ another vast category of characters ‘acquired’ under the influence of a changed nutrition in a new environment, and inherited.[36]  And these two vast categories immensely reduce the part that Natural Selection may have to play in the evolution of new species. With this reduced function it becomes quite comprehensible.
+

@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:58Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Mtsýri
+
+Mtsýri is the cry of a young soul longing for liberty. A boy, taken from a Circassian village, from the mountains, is brought up in a small Russian monastery. The monks think that they have killed in him all human passions and longings; but the dream of his childhood is — be it only once, be it only for a moment — to see his native mountains where his sisters sang round his cradle, and to press his burning bosom against the heart of one who is not a stranger. One night, when a storm rages and the monks are praying for fear in their church, he escapes from the monastery, and wanders for three days in the woods. For once in his life he enjoys a few moments of liberty; he feels all the energy and all the forces of his youth: “As for me, I was like a wild beast,” he says afterwards, “and I was ready to fight with the storm, the lightning , the tiger of the forest.” But, being an exotic plant, weakened by education, he does not find his way to his native country. He is lost in the forests which spread for hundreds of miles round him, and is found a few days later, exhausted, not far from the monastery. He dies from the wounds which he has received in a fight with a leopard.
+
+“The grave does not frighten me,” he says to the old monk who attends him. “Suffering, they say, goes to sleep there in the eternal cold stillness. But I regret to part with life....I am young, still young....hast thou ever known the dreams of youth? Or hast thou forgotten how thou once lovedst and hatedst? Maybe, this beautiful world has lost for thee its beauty. Thou art weak and grey; thou hast lost all desires. No matter! Thou hast lived once; thou hast something to forget in this world. Thou hast lived — I might have lived, too!” And he tells about the beauty of the nature which he saw when he had run away, his frantic joy at feeling free, his running after the lightning, his fight with a leopard. “thou wishest to know what I did while I was free?” — I lived, old man! I lived! And my life, without these three happy days, would have been gloomier and darker than thy powerless old age!” But it is impossible to tell all the beauties of this poem. It must be read, and let us hope that a good translation of it will be published some day.
+

@@ -1,0 +1,20 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:52Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## The Annals
+
+And finally, whilst speaking of the early Russian literature, a few words, at least, must be said of the Annals.
+
+No country has a richer collection of them. There were, in the tenth, eleventh and twelfth centuries, several centres of development in Russia, Kíeff, Nóvgorod, Pskov, the land of Volhýnia, the land of Súzdal (Vladímir, Moscow[3]) Ryazán, etc., represented at that time independent republics, linked together only by the unity of language and religion, and by the fact that all of them elected their Princes — military defenders and judges — from the house of Rúrik. Each of these centers had its own annals, bearing the stamp of local life and local character. The South Russian and Volhýnian annals-of which the so-called Nestor’s Annals are the fullest and the best known, are not merely dry records of facts: they are imaginative and poetical in places. The annals of Nóvgorod bear the stamp of a city of rich merchants: they are very matter-of-fact, and the annalist warms to his subject only when he describes the victories of the Nóvgorod republic over the Land of Súzdal. The Annals of the sister-republic of Pskov, on the contrary, are imbued with a democratic spirit, and they relate with democratic sympathies and in a most picturesque manner the struggles between the poor of Pskov and the rich — the “black people” and the “white people.” Altogether, the annals are surely not the work of monks, as was supposed at the outset; they must have been written for the different cities by men fully informed about their political life, their treaties with other republics, their inner and outer conflicts.
+
+Moreover, the annals, especially those of Kíeff, or Nestor’s Annals, are something more than mere records of events; they are, as may be seen from the very name of the latter (From whence and How came to be the Land of Russia), attempts at writing a history of the country, under the inspiration of Greek models. Those manuscripts which have reached us — and especially is this true of the Kíeff annals — have thus a compound structure, and historians distinguish in them several superposed “layers” dating from different periods. Old traditions; fragments of early historical knowledge, probably borrowed from the Byzantine historians; old treaties; complete poems relating certain episodes, such as Igor’s raid; and local annals from different periods, enter into their composition. Historical facts, relative to a very early period and fully confirmed by the Constantinople annalists and historians, are consequently mingled together with purely mythical traditions. But this is precisely what makes the high literary value of the Russan annals, especially those of Southern and South-western Russia, which contain most precious fragments of early literature.
+
+Such, then, were the treasuries of literature which Russia possessed at the beginning of the thirteenth century.
+

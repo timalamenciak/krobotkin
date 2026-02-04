@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:05Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Its influence
+
+The Inspector-General marks a new era in the development of dramatic art in Russia. All the comedies and dramas which were being played in Russia at that time (with the exception, of course, of Misfortune from Intelligence, which, however, was not allowed to appear on the stage) hardly deserved the name of dramatic literature: so imperfect and puerile they were. The Inspector-General, on the contrary, would have marked at the time of its appearance (1835) an epoch in any language. Its stage qualities, which will be appreciated by every good actor; its sound and hearty humour; the natural character of the comical scenes, which result from the very characters of those who appear in this comedy; the sense of measure which pervades it — all these make it one of the best comedies in existence. If the conditions of life which are depicted here were not so exclusively Russian, and did not so exclusively belong to a bygone stage of life which is unknown outside Russia, it would have been generally recognised as a real pearl of the world’s literature. This is why, when it was played a few years ago in Germany, by actors who properly understood Russian life, it achieved such a tremendous success.
+
+The Inspector-General provoked such a storm of hostile criticism of the part of all reactionary Russia, that it was hopeless to expect that the comedy which Gógol began next, concerning the life of the St. Petersburg functionaries (The Vladimir Cross), could ever be admitted on the stage, and Gógol never finished it, only publishing a few striking scenes from it: The Morning of a Busy Man, The Law Suite, etc. Another comedy, Marriage, in which he represented the hesitation and terror through which an inveterate bachelor goes before a marriage, which he finally eludes by jumping out of a window a few moments before the begining of the ceremony, has not lost its interest even now. It is so full of comical situations, which fine actors cannot but highly appreciate, that it is still a part of the current repertoire of the Russian stage.
+

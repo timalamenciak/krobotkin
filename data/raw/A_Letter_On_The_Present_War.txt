@@ -1,0 +1,95 @@
+#title A Letter on the Present War
+#author Pëtr Kropotkin
+#LISTtitle Letter on the Present War
+#date October 1914
+#source Retrieved on 7<sup>th</sup> October 2024 from [[https://freedomnews.org.uk/wp-content/uploads/2018/02/Freedom-1914-10.pdf][freedomnews.org.uk]]
+#lang en
+#pubdate 2024-10-07T21:37:43
+#topics World War I, letter, Freedom: A Journal of Anarchist Communism, anti-imperialism
+#notes Published in <em>Freedom</em> vol. XXVIII, no. 306.
+
+
+
+<em>[Our comrade P. Kropotkin, having been asked by the Swedish Professor G. Steffen[1] to give his opinion upon the present war, gave it in a letter which we reproduce, with the additions he made to it in the three last paragraphs.]</em>
+
+----
+
+DEAR STEFFEN, — You ask my opinion about the war. I have expressed it on several occasions in France, and the present events, unfortunately, only reinforce it. I consider that the duty of every one who cherishes the ideals of human progress altogether, and especially those that were inscribed by the European proletarians on the banner of the International Working Men’s Association, is to do everything in one’s power, according to one’s capacities, to crush down the invasion of the Germans into Western Europe.
+
+The cause of this war was <em>not</em> Russia’s attitude towards the Austrian ultimatum, as the German Government, true to Bismarck’s traditions, has tried to represent it. <em>Already on July 19</em> it was known among the West-European Continental statesmen that the German Government had definitely made up their mind to declare war. The Austrian ultimatum was the <em>consequence,</em> not the cause, of that decision. We thus had a repetition of Bismarck’s well-known trick of 1870.[2]
+
+The cause of the present war lies in <em>the consequences of</em> <em>the</em> <em>war of 1870–71</em>. These consequences were foreseen already in 1871 by Liebknecht and Bebel, when they protested against the annexation of Alsace and parts of Lorraine to the German Empire, for which protest they went to prison for two years. They foresaw that, this annexation, would be the cause of new wars, the growth of Prussian militarism, the militarisation of all Europe, and the arrest of all social progress. The same was foreseen by Bakunin,[3] by Garibaldi, who came with his volunteers to fight for France as soon as the Republic was proclaimed, and, in, fact, by all the representatives of advanced thought in Europe.
+
+We, who have worked in the different fractions, Social Democratic and Anarchist, of the great Socialist movement in Europe, know perfectly well how the menace of a German invasion paralysed all advanced movements in Belgium, France, and Switzerland, as the workers knew that the moment an internal struggle should begin in these countries, German invasion would immediately follow. <em>Belgium</em> <em>had been warned of that.</em> France knew it perfectly well without warning.
+
+The French knew that Metz, of which the Germans had made, <em>not</em> a fortress for the defence of the territory they had appropriated, but <em>a fortified camp ‘for aggressive purposes</em>, was within less than ten days’ march from Paris, and that on the day of a declaration of War (or even before that day) an army of 250,000 men could march out of Metz against Paris, with all its artillery and train.
+
+<em>Under such conditions a country cannot be free, and France w</em><em>as</em> <em>not free in her development</em>, just as Warsaw is not free under the guns of the Russian citadel and the surrounding fortresses, and Belgrade was not free under the Austrian guns of Zemlin.
+
+Since 1871 Germany had become a standing menace to European progress. All countries were compelled to introduce obligatory military service on the lines it had been introduced in Germany, and to keep immense standing armies. All were living under the menace of a sudden invasion.
+
+More than that, for Eastern Europe, and especially for Russia, Germany was the chief support and protection of reaction. Prussian militarism, the mock institution of popular representation offered by the German Reichstag and the feudal Landtags of the separate portions of the German Empire, and the- ill-treatment of the subdued nationalities in Alsace, and especially in Prussian Poland, where the Poles were treated lately as badly as in Russia — without protest from the advanced political parties — these fruits of German Imperialism were the lessons that modern Germany, the Germany of Bismarck, taught her neighbours and, above all, Russian absolutism. Would absolutism have , maintained itself so long in Russia, and would that absolutism ever have dared to ill-treat Poland and Finland as it has ill-treated them, if it could not produce the example of “cultured Germany,” and if it were not sure of Germany’s protection?
+
+Let us not be so forgetful of history as to forget the intimacy that existed between Alexander II. and Wilhelm I., the common hatred they displayed for France, on account of her efforts to free Italy, and their opposition to the Italians themselves when in 1860 they sent away the Austrian riders of Florence, Parma, and Modena, and Florence became the capital of Italy. Let us not forget the reactionary advices which Wilhelm I. gave to Alexander III. in 1881, and the support his son gave to Nicholas II. in 1905. Let us not forget either that if France granted to the Russian autocracy the loan of 1906, it was because she saw that unless Russia succeeded in reforming her armies after the Manchurian defeat, she would be doomed to be torn to pieces by Germany, Italy, and Austria leagued against her. The events of the last few weeks have proved already how well-founded were these apprehensions.
+
+<br>
+
+The last forty-three years were a confirmation of what Bakunin wrote in 1871, namely, that if French influence disappeared from Europe, Europe would be thrown back in her development for half a century. And now it is self-evident that if the present invasion of Belgium and France is not beaten back by the common effort of all nations of Europe, we shall have another half-century or more of general reaction.
+
+During the last forty years, a Franco-German war was all the time-hanging over Europe. Bismarck was not satisfied with the crushing defeat inflicted upon France. He found that she was recovering too rapidly from her wounds. He regretted not having annexed the province of Champagne, and not having taken an indemnity of fifteen thousand million francs instead of five thousand million. On three different occasions Alexander II. and Alexander III. had to interfere in order to prevent the German Imperialists from assailing France once more. And the moment they began to feel themselves strong as a sea-power, the Germans took it into their heads to destroy the maritime power of Britain, to take a strong footing on the Southern shores of the Channel, and to menace England with an invasion. The German “reptile Press” is saying now that by sending their wild hordes to sack and burn the cities of Belgium and France they are fighting Russia; but I hope there is nobody stupid enough to believe this absurdity. They conquer Belgium and France, and they fight England.
+
+Their purpose is, to force Holland to become part of the German Empire, so that the passages leading from the Indian Ocean into the Pacific, which are now held by the Dutch, should pass into German hands; to take possession of Antwerp and Calais; to annex the Eastern portion of Belgium, as well as the French province of Champagne, so as to be within a couple of days only from the capital of France. This has been the dream of the German “Kaiserists” since the times of Bismarck, long before there was a <em>rapprochement</em> between France and Russia, and this remains their dream.
+
+It was not to fight Russia that Germany in 1866 laid her hands upon Denmark and annexed the province of Schleswig-Holstein. It was not against Russia, but against France and England, that Germany has built her enormous navy, that she dug and fortified the Kiel Canal, and established the military seaport of Wilhelmshafen, where an invasion of England or a raid upon Brest and Cherbourg can be prepared in full security and secrecy. The tale of fighting Russia on the plains of France and Belgium, which is now repeated by the German Press, has been concocted for export to Sweden and the United States; but there is not a single intelligent man in Germany itself who does not know that the foes who were aimed at lately were Britain and France. The Germans themselves made no secrecy of it in their conversations and their works on the coming war.
+
+The decision of declaring the present war was taken in Germany as soon as the works on the enlargement and the fortification of the Kiel Canal had been terminated in a great hurry this summer, on June 20. But the war nearly broke out in June, 1911 — we knew it well here. It would have broken out last summer, if Germany had been ready. Last February, the coming of the present war was so evident that, being it Bordighera, I told my French friends that it was foolish of them to oppose the three years’ military law, while Germany was busily preparing for war; and I advised my Russian friends not to remain too late in the German watering-places, because war would begin as soon as the crops would be ready in France and in Russia. In fact, only those who buried their heads in the sand, like ostriches, could go on without seeing it themselves.
+
+Now we have learned what Germany wants, how extensive are her pretensions, how immense and detailed were her preparations for this war, and what sort of “evolution” we have to expect from the Germans if they are victorious. What their dreams of conquest are, we have been told by the German Emperor himself, his son, and his Chancellor. And now we have heard, not only what a drunken German lieutenant or general can say to justify the atrocities committed in Belgium by the German hordes, but what a leader of the German Social Democratic Party, Dr. Sudekum, <em>delegated by his own party</em> to the workers of Sweden and Italy, had the impudence to say to excuse the barbarities committed by the German Huns in the Belgian villages and cities. They committed these atrocities because civilian inhabitants had fired upon the invaders in defence of their territory!! For a German Social-Democrat this is quite enough! When Napoleon III. gave the same excuse to account for the shooting of the Parisians on the day of his <em>c</em><em>oup d’état</em>, all Europe named him a scoundrel. Now the same excuse is produced to account for infinitely more abominable atrocities, by a German pupil of Marx!
+
+This gives us the measure of the degradation of the nation during the last forty years.
+
+And now let every one imagine for himself what would be the consequences if Germany came victorious out of this war.
+
+<br>
+
+Holland — compelled to join the German Empire, because she holds the passages from the Indian Ocean to the Pacific, and “the Germans need them.”
+
+Most of Belgium annexed to Germany — <em>it is already annexed</em>. An immense, ruinous contribution levied, in addition to the already accomplished pillage.
+
+Antwerp and Calais becoming military parts of Germany, in addition to Wilhelmshafen. Denmark — at the mercy of Germany, to be annexed the moment she would dare not to serve the aggressive plans of the Germans, which plans are bound to extend, as they have extended since the successes of 1871.
+
+Eastern France — annexed to Germany, whose new fortresses will then he within two or three days’ march from Paris. France will be thus at the mercy of Germany for the next fifty years. All French colonies — Morocco, Algiers, Tonkin — taken by Germany: “We have no colonies worth twopence: we must have them,” said the elder son of Wilhelm the other day. It is so simple — and so candid!
+
+Having opposite her shores a string of German military ports along the south coast of the Channel and the North Sea, what can be the life of the United Kingdom but a life entirely ruled by the idea of a new war to be fought, in order to get rid of the standing menace of an invasion — an invasion being no longer impossible now, as the aggressor would have at his service big liners, submarine boats, and the aircraft.
+
+Finland — becoming a German province. <em>Germany has been working at that since 188</em><em>3</em>, and her first steps in the present campaign show where she is aiming at. Poland — compelled definitively to abandon all dreams of national independence. Are not the rulers of Germany now treating the Poles of Pozen as badly as, if not worse than, the Russian autocrat? And are not the German Social Democrats already considering the Polish dreams of national revival as stupid bosh! <em>Deutschland ube</em><em>r</em> <em>Alles!</em> Germany above all!
+
+But enough! Every one who has any knowledge of European affairs and the turn they have taken during the last twenty years will himself complete the picture.
+
+<br>
+
+“But what about the danger of Russia?” my readers will probably ask.
+
+To this question, every serious person will probably answer, that when you are menaced by a great, very great danger, the first thing to do is to combat this danger, and then see to the next. Belgium and a good deal of France are conquered by Germany, and the whole civilisation of Europe is menaced by its iron fist. Let us cope first with this danger.
+
+As to the next, Is there anybody who has not thought himself that the present war, in which all parties in Russia have risen unanimously against the common enemy, will render a return to the autocracy of old materially impossible? And, then, those who have seriously followed the revolutionary movement of Russia in 1905 surely know what were the ideas which dominated in the First and Second, approximately freely elected Dumas. They surely know that complete home-rule for all the component parts of the Empire was a fundamental point of all the Liberal and Radical parties. More than that: Finland then actually <em>accomplished</em> her revolution in the form of a democratic autonomy, and the Duma approved it.
+
+And finally, those who know Russia and her last movement certainly feel that <em>autocracy will never more be re-established in the form</em><em>s</em> <em>it had before 190</em><em>5</em><em>, and that a</em> <em>Ru</em><em>ssian Constitution</em> <em>coul</em><em>d never take the</em> <em>I</em><em>mperialist forms and spirit</em> <em>which</em> <em>Parliamentary rule has taken in Germany.</em> As to us, who know Russia, from the inside, we are sure that the Russians never will be capable of becoming the aggressive, warlike nation Germany is. Not only the whole history of the Russians shows it, but with the Federation Russia is <em>bound</em> to be become in the very near future, such a warlike spirit would be absolutely incompatible.
+
+But even if I were wrong in all these previsions, although every intelligent Russian would confirm them, — well, then there would be time to fight Russian Imperialism in the same way as all freedom-loving Europe is ready at this moment to combat that vile warlike spirit which has taken possession of Germany since it abandoned the traditions of its former civilisation and adopted the tenets of the Bismarckian Imperialism.
+
+It is certain that the present war will be a great lesson to all nations. It will have taught them that war cannot be combatted by pacifist dreams and all sorts of nonsense about war being so murderous now that it will be impossible in the future. Nor can it be combatted by that sort of antimilitarist propaganda which has been carried on till now. Something much deeper than that is required.
+
+The causes of war must be attacked at the root. And we have a great hope that the present war will open the eyes of the masses of workers and of a number of men amidst the educated middle classes. They will see the part that Capital and State have played in bringing about the armed conflicts between nations.
+
+But for the moment we must not lose sight of the main work of the day. <em>The territories of both France and Belgium</em> <em>MUST</em> <em>be freed of the invaders.</em> The German invasion <em>must</em> be repulsed — no matter how difficult this may be. All efforts must be directed that way.
+
+[1] Gustaf Steffen contributed to <em>Freedom</em> in 1891, when he gave us a very good analysis of Value in Use and Value in Exchange, in the May to August numbers.
+
+[2] I mean the falsified “Ems telegram,” which he published to make people believe it was the French who were the cause of the war. Later on, he himself boasted of that trick.
+
+[3] In his “Lettres á un Français” and “L’Empire Knouto-Germanique et la Révolution Sociale,” published now in Vol. II. of his “Œuvres” Paris: (P.-V. Stock).
+
+
+
+

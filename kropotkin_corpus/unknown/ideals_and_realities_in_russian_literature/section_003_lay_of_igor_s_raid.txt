@@ -1,0 +1,44 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:51Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Lay of Igor’s Raid
+
+And yet Russia has not her Iliad. There has been no poet to inspire himself with the expolits of Iliyá’, Dobrýnia, Sádko, Tchúrilo, and the others, and to make out of them a poem similar to the epics of Homer, or the “Kalevála” of the Finns. This has been done with only one cycle of traditions: in the poem, The Lay of Igor’s Raid (Slóvo o Polkú Igoreve).
+
+This poem was composed at the end of the twelfth century, or early in the thirteenth (its full manuscript, destroyed during the conflagration of Moscow in 1812, dated from the fourteenth or the fifteenth century). It was undoubtedly the work of one author, and for its beauty and poetical form it stands by the side of the Song of the Nibelungs, or the Song 0f Roland. It relates a real fact that did happen in 1185. Igor, a prince of Kíeff; starts with his druacute;zhina (schola) of Warriors to make a raid on the Pólovtsi, who occupied the prairies of South-eastern Russia, and continually railded the Russian villages. All sorts of bad omens are seen on the march through the prairies — the sun is darkened and casts its shadow on the band of Russian warriors; the animals give different warnings; but Igor exclaims: “Brothers and friends: Better to fall dead than be prisoners of the Pólovtsi! Let us march to the blue waters of the Don. Let us break our lances against those of the Pólovtsi. And either I leave there my head, or I will drink the water of the Don from my golden helmet.” The march is resumed, the Pólovtsi are met with, and a great battle is fought.
+
+The description of the battle, in which all Nature takes part — the eagles and the wolves, and the foxes who bark after the red shields of the Russians — is admirable. Igor’s band is defeated. “From sunrise to sunset, and from sunset to sunrise, the steel arrows flew, the swords clashed on the helmets, the lances were broken in a far-away land — the land of the Pólovtsi.” “The black earth under the hoofs of the horses was strewn with bones, and out of this sowing affliction will rise in the land of the Russians.”
+
+Then comes one of the best bits of early Russian poetry — the lamentations of Yaroslávna, Igor’s wife, who waits for his return in the town of Putívl:
+
+“The voice of Yaroslávna resounds as the complaint of a cuckoo; it resounds at the rise of the sunlight.
+
+“I will fly as a cuckoo down the river. I will wet my beaver sleeves in the Káyala; I will wash with them the wounds of my prince — the deep wounds of my hero.”
+
+“Yaroslávna laments on the walls of Putívl.
+
+Oh, Wind, terrible Wind! Why dost thou, my master, blow so strong? Why didst thou carry on thy light wings the arrows of the Khan against the warriors of my hero? Is it not enough for thee to blow there, high up in the clouds? Not enough to rock the ships on the blue sea? Why didst thou lay down my beloved upon the grass of the Steppes?
+
+“Yaroslávna laments upon the walls of Putívl.
+
+“Oh, glorious Dniéper, thou hast pierced thy way through the rocky hills to the land of Póovtsi. Thou hast carried the boats of Svyatosláv as they went to fight the Khan Kobyák. Bring, oh, my master, my husband back to me, and I will send no more tears through thy tide towards the sea.
+
+“Yaroslávna laments upon the walls of Putívl.
+
+“Brilliant Sun, thrice brilliant Sun! Thou givest heat to all, thou shinest for all. Why shouldest thou send thy burning rays upon my husband’s warriors? Why didst thou, in the waterless steppe, dry up their bows in their hands? Why shouldest thou, making them suffer from thirst, cause their arrows to weigh so heavy upon their shoulders?
+
+This little fragment gives some idea of the general charter and beauty of the Saying ahout Igor’s Raid.[2]
+
+Surely this poem was not the only one that was composed and sung in those times. The introduction itself speaks of bards, and especially of one, Bayán, whose recitations and songs are compared to the wind that blows in the tops of the trees. Many such Bayáns surely went about and sang similar “Sayings” during the festivals of the princes and their warriors. Unfortunately, only this one has reached us. The Russian Church, especially in the fifteenth, sixteenth and seventeenth centuries, pitilessly proscribed the singing of all the epic songs which circulated among the people: it considered them “pagan,” and inflicted the heaviest penalties upon the bards and those who sang old songs in their rings. Consequently, only small fragments of this early folk-lore have reached us.
+
+And yet even these few relics of the past have exercised a powerful influence upon Russian literature, ever since it has taken the liberty of treating other subjects than purely religious ones. If Russian versification took the rhythmical form, as against the syllabic, it was because this form was imposed upon the Russian poets by the folk-song. Besides, down to quite recent times, folk-songs constituted such an important item in Russian country life, in the homes alike of the landlord and the peasant, that they could not but deeply influence the Russian poets; and the first great poet of Russia, Púshkin, began his career by re-telling in verse his old nurse’s tales to which he used to listen during the long winter nights. It is also owing to our almost incredible wealth of most musical popular songs that we have had in Russia, since so early a date as 1835, an opera (Verstóvskiy’s Askóld’s Grave), based upon popular tradition, of which the purely Russian melodies at once catch the ear of the least musically-educated Russian. This is also why the operas of Dargomýzhsky and the younger composers are now successfully sung in the villages to peasant audiences and with local peasant choirs.
+
+The folk-lore and the folk-song have thus rendered to Russia an immense service. They have maintained a certain unity of the spoken language all over Russia, as also a unity between the literary language and the language spoken by the masses; between the music of Glínka, Tchaykóvoky, Rímsky Kórsakoff, Borodín, etc., and the music of the peasant choir — thus rendering both the poet and the composer accessible to the peasant
+

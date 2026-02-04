@@ -1,0 +1,14 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:58Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Poetry of Nature
+
+All these natural beauties of the Caucasus have been reflected in Lérmontoff’s poetry, in such a way that in no other literature are there descriptions of nature so beautiful, or so impressive and correct. Bodenstedt, his German translator and personal friend, who knew the Caucasus well, was quite right in observing that they are worth volumes of geographical descriptions. The reading of many volumes about the Caucasus does not add any concrete features to those which are impressed upon the mind by reading the poems of Lérmontoff. Turguéneff quotes somewhere Shakespeare’s description of the sea as seen from the cliffs of Dover (in King Lear), as a masterpiece of objective poetry dealing with nature. I must confess, however, that the concentration of attention upon small details in this description does not appeal to my mind. It gives no impression of the immensity of the sea as seen from the Dover cliffs, nor of the wonderful richness of colour displayed by the waters on a sunny day. No such reproach could ever be made against Lérmontoff’s poetry of nature. Bodenstedt truly says that Lérmontoff has managed to satisfy at the same time both the naturalist and the lover of art. Whether he describes the gigantic chain, where the eye loses itself — her in snow clouds, there in the unfathomable depths of narrow gorges; or whether he mentions some detail: a mountain stream, or the endless woods, or the smiling valleys of Georgia covered wit flowers, or the strings of light clouds floating in the dry breezes of Northern Caucasia, — he always remains so true to nature that his picture rises before the eye in life-colours, and yet it is imbued with a poetical atmosphere which makes one feel the freshness of these mountains, the balm of their forests and meadows, the purity of the air. And all this is written in verses wonderfully musical. Lérmontoff’s verses, though not so “easy” as Púshkin’s, are very often even more musical. They sound like a beautiful melody. The Russian language is always rather melodious, but in the verses of Lérmontoff it becomes almost as melodious as Italian.
+

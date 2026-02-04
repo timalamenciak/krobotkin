@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:53:57Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Drama
+
+Púshkin also tried his hand at the drama; and so far as may be judged from his latest productions, Don Juan and The Miser-Knight, he surely would have achieved great results had he lived to continue them. His Mermaid (Rusálka) unfortunately remained unfinished, but its dramatic qualities can be judged from what Darmýzhsky has made of it in his opera. His historical drama, Boris Godunóff, taken from the times of the pretender Demetrius, is enlivened here and there by most beautiful scenes, some of them very amusing, and some of them containing a delicate analysis of the sentiments of love and ambition; but it remains rather a dramatic chronicle than a drama. As to The Miser-Knight, it shows an extraordinary power of mature talent, and contains passages undoubtedly worthy of Shakespeare; while Don Juan, imbued with a true Spanish atmosphere, gives a far better comprehension of the Don Juan type than any other representation of it in any literature, and has all the qualities of a first-rate drama.
+
+Towards the end of his very short life a note of deeper comprehension of human affairs began to appear in Púshkin’s writings. He had had enough of the life of the higher classes; and, when he began to write a history of the great peasant uprising which took place under Pugatchóff during the reign of Catherine II, he began also to understand and to feel the inner springs of the life of the Russian peasant-class. National life appeared to him under a much broader aspect than before. But at this stage of the development of his genius his career came to a premature end. He was killed, as already stated, in a duel with a society man.
+

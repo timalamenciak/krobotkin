@@ -1,0 +1,54 @@
+TITLE: The Modern State
+AUTHOR: Peter Kropotkin
+YEAR: 1913
+SOURCE_ID: al_petr_kropotkin_the_modern_state
+SOURCE_PATH: data/raw/The_Modern_State.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-the-modern-state.muse
+RETRIEVED_UTC: 2026-02-04T16:55:31Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## Industrial Rivalries
+
+As long ago as 1882, when England, Germany, Austria, and Romania, taking advantage of the isolation of France, leagued themselves against Russia and a terrible European war was about to break out, we showed in Le Révolté what were the real motives for rivalry between States and the wars that would result. [61]
+
+The cause of modern wars is always competition for markets and the right to exploit nations backward in industry. In Europe we no longer fight for the honour of kings. Armies are pitted against each other so that the revenues of Your Most Powerful Rothschild or Schneider, the Most Worshipful Company of Anzin or the most Holy Catholic Bank of Rome may remain unimpaired. Kings no longer count.
+
+In fact, all wars waged in Europe during the last hundred and fifty years were wars for commercial interests, rights of exploitation.
+
+Towards the end of the eighteenth century great industry and world commerce, supported by a navy and colonies in America (Canada) and Asia (in India), began to develop in France. Thereupon England, which had already crushed its competitors in Spain and Holland, anxious to keep for itself alone the monopoly of maritime commerce, of sea-power, and of a colonial empire, took advantage of the revolution in France to begin a whole series of wars against it. Since then it understood what [riches] the monopolised outlet for her growing industry would bring it.
+
+Finding itself rich enough to pay for the armies of Prussia, Austria, and Russia, it waged during a quarter of a century a succession of terrible and disastrous wars against France. France had to bleed itself dry to sustain these wars; and only at this price was it able to uphold its right to remain a “great power.” That is to say, it retained its right not to submit to all the conditions that the English monopolists wished to impose upon it to the advantage of their commerce. It retained its right to have a navy and military ports. Frustrated in its plans for expansion in North America (it had lost Canada) and in India (it had to abandon its colonies), it obtained in return permission to create a colonial empire in Africa — on condition that it did not touch Egypt — and to enrich its monopolists by pillaging the Arabs in Algeria.
+
+Later on, in the second half of the nineteenth century, it was the turn of Germany. When serfdom was abolished as a consequence of the uprisings in 1848, and the abolition of communal property forced young peasants in mass to leave the country for the town, where they offered their “idle hands” at starvation wages to the entrepreneurs of industry — great industry began to flourish in various German States. German industrialists soon realised that if the people were given a good practical education they would quickly catch up with great industrial countries like France and England — on condition, needless to say, of procuring for Germany advantageous outlets beyond its frontiers. They knew what Proudhon had so well demonstrated: [62] that the industrialist can only succeed in substantially enriching himself if a large portion of his products is exported to countries where it can be sold at prices they could never obtain in the country of origin.
+
+So in all the social strata of Germany, that of the exploited as well as of the exploiters, there was a passionate desire to unify Germany at any price: to build a powerful empire capable of supporting an immense army, a strong navy, and capable of conquering ports in the North Sea, in the Adriatic, and — one day — in Africa and the East — an empire which could dictate economic law in Europe.
+
+For this [to succeed], it was evidently necessary to break the strength of France, which would have opposed it and which then had, or seemed to have, the power to prevent it.
+
+Hence — the terrible war of 1870, with all its sad consequences for universal progress which we suffer from even today.
+
+By this war and this victory over France, a German Empire, that dream of radicals, socialists and, in part, German conservatives since 1848, was at last constituted and soon made itself felt and its political power and its right to dictate the law in Europe recognised.
+
+Germany, on entering a striking period of youthful activity, indeed quickly succeeded in increasing its industrial productivity by double, treble, tenfold and at this moment the German bourgeoisie covets new sources of enrichment throughout the plains of Poland, the steppes of Hungary, the plateaus of Africa, and especially around the railway line to Bagdad — in the rich valleys of Asia Minor which can provide German capitalists with a hardworking population to exploit under one of the most beautiful skies in the world; perhaps, one day, also Egypt.
+
+Therefore, it is ports for export and especially military ports in the Mediterranean Adriatic and in the Adriatic of the Indian Ocean — the Persian Gulf — as well as on the African coast in Beira, and later in the Pacific Ocean, that these German colonial tycoons wish to conquer. Their faithful servant, the German Empire with its armies and battleships, is at their service.
+
+But everywhere these new conquerors encountered a formidable rival, the English who bar their way.
+
+Jealous of keeping its supremacy on the seas, jealous above all of holding its colonies for exploitation by its [own] monopolists; frightened by the success of German Empire’s colonial policy and the rapid development of its navy, England redoubled its efforts to have a fleet capable of definitely crushing the German fleet. It also looks everywhere for allies to weaken the military power of Germany on land. And when the English press sows alarm and terror by pretending to fear a German invasion, it knows very well that danger does not lie there. What it needs is the power to launch the regular army to where Germany, in accord with Turkey, might attack some colony of the British Empire (Egypt, for instance). And for that it must be able to retain at home a strong “territorial” army that can drown in blood, if necessary, any workers’ revolt. It is for this reason, predominantly, that military science is taught to young bourgeois, grouped in squads of “scouts.” [63]
+
+The English bourgeoisie of today wants to act towards Germany as it twice acted towards Russia in order to halt, for fifty years or more, the development of that country’s sea-power: once in 1855, with the help of Turkey, France, and Piedmont; and again in 1904 by hurling Japan against the Russian fleet and against its military port in the Pacific. [64]
+
+That is why for the past two years we have been living on the alert, expecting a colossal European war to break out at any time.
+
+Besides, we must not forget that the industrial wave, in rolling from West to East, has also invaded Italy, Austria and Russia. And these States are in their turn asserting their “right” — the right of their monopolists to the feeding frenzy in Africa and Asia.
+
+Russian brigandage in Persia, Italian brigandage against the desert Arabs around Tripoli, and French brigandage in Morocco are the consequences.
+
+The consortium of brigands, at the service of the monopolists who govern Europe, has “allowed” France to seize Morocco, as it “allowed” England to seize Egypt. It has “allowed” Italy to seize a part of the Ottoman Empire to prevent it being seized by Germany, and it has allowed Russia to take Northern Persia so that England might seize a substantial strip of land on the shores of the Persian Gulf before the German railway reached it!
+
+And for this the Italians disgracefully massacre harmless Arabs, the French massacre Moors, and the hired assassins of the Tsar hang Persian patriots who endeavour to regenerate their country by a little political liberty.
+
+Zola was right to say: “What scoundrels respectable people are!” [65]
+

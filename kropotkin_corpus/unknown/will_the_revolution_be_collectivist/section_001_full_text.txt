@@ -1,0 +1,50 @@
+TITLE: Will The Revolution Be Collectivist
+AUTHOR: Peter Kropotkin
+YEAR: 1913
+SOURCE_ID: al_petr_kropotkin_will_the_revolution_be_collectivist
+SOURCE_PATH: data/raw/Will_The_Revolution_Be_Collectivist.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-will-the-revolution-be-collectivist.muse
+RETRIEVED_UTC: 2026-02-04T16:55:49Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+Very often we hear, from anarchists themselves, that Anarchy is a very distant ideal; that it has no chance of being realized any time soon; that very probably the next revolution will be collectivist, and that we will have to go through a Workers’ State, before arriving at a communist society, without government.
+
+This reasoning seems to us absolutely erroneous. It contains a fundamental error of judgment, concerning the march of history in general and the role of the ideal in history.
+
+The individual can be guided in his actions by a single ideal. But a society consists of millions of individuals, each having his ideal, more or less clear, more or less conscious and fixed; so that at a given moment we find in society the most varied conceptions — that of the reactionary, the Catholic, the monarchist, the admirer of serfdom, the bourgeois “free contract”, the socialist, the anarchist. However, none of these conceptions will be fully realized, precisely because of the variety of conceptions existing at a given moment, and of the new conceptions which arise, long before any of the old ones have reached their realization in life.
+
+Every step forward of society is a resultant of all the currents of ideas which exist at a given moment. And to affirm that society will first realize this ideal, then that other, is to misunderstand the whole march of history. The progress accomplished always bears the stamp of all the conceptions which exist in society, in proportion to the energy of thought and especially of action of each party. This is why the society that will result from the Revolution will be neither a Catholic society, nor a bourgeois society (too many forces and the whole history of humanity working to demolish these two types of societies), nor a Workers’ State, by the very fact that there exists an anarchist current of ideas and anarchists, quite powerful, both as a force of action and as a force of initiative.
+
+See, in fact, history. The Republicans of 1793 dreamed of a Republic built on the model of the republics of antiquity. They dreamed of a universal republic, and to make this new Rome or Sparta triumph in France, they got themselves killed in the snows of the Alps, on the plains of Belgium, Italy and Germany.
+
+Have they achieved this Republic? — No! Not only did the old regime, weighing on them with all its weight, pull them back. But new ideas have pushed society forward. And when their dream of the universal Republic comes true one day, this Republic will be more socialist than anything they had dared to dream, and more anarchist than anything Diderot had dared to conceive in his writings. It will no longer be a Republic: it will be a union of more or less anarchist peoples.
+
+Why? — But because long before the Republicans had achieved their ideal of an egalitarian republic (of citizens equal before the law, free and bound by bonds of fraternity), new conceptions, almost imperceptible before 1789, arose and grew. Because this very ideal of liberty, equality and fraternity is unrealizable as long as there is economic servitude and misery, as long as there are Republics — States — necessarily driven to rivalries, to divisions outside and inside.
+
+Because the ideal of the Republicans of 1793 was only a small part of the ideal of Equality and Liberty that reappears today under the name of Anarchy.
+
+Or, take the Communists of the thirties and forties of the nineteenth century.
+
+Their ideal was a Christian communism, governed by an elected hierarchy of elders and scholars. This ideal had an immense impact. But this communism was not realized — and will never again be realized. The ideal was false, incomplete, outdated. And when communism begins to develop during the next revolution, it will no longer be Christian or statist. It will at least be a libertarian communism, based — no longer on the gospel, no longer on hierarchical submission, but on the understanding of the individual’s need for freedom. It will be more or less anarchist, for the simple reason that at the time when the current of ideas expressed by Louis Blanc was working to create a Jacobin state with socialist tendencies — new currents of ideas, anarchists, were already emerging — the currents of which Godwin, Proudhon, Bakunin, Cœurderoy and even Max Stirner were the spokesmen.
+
+And it will be the same for the ideal of the Workers’ State of the social democrats. This ideal can no longer be realized: it is already outdated.
+
+This ideal was born of Jacobinism. It inherited from the Jacobins its confidence in a governmental principle. It still believes in representative government. It still believes in the centralization of the different functions of human life in the hands of a government.
+
+But long before this ideal had come even a little closer to its practical realization, a conception of society—the anarchist conception—presented itself, announced itself, developed itself. A conception that sums up the popular distrust of governments, that awakens individual initiative and proclaims this principle, which has become more and more evident: “No free society without free individuals,” and this other principle, proclaimed by our entire century: “Temporary free agreement, as the basis of all organization, of all grouping.”
+
+And whatever society will arise from the European Revolution, it will no longer be republican in the sense of 1793, it will no longer be communist in the sense of 1848, and it will no longer be a workers’ state in the sense of social democracy.
+
+The number of anarchists is constantly increasing. And even today, social democracy is obliged to reckon with them. The diffusion of anarchist ideas is taking place not only through the action of anarchists, but—what is more—independently of our action. Witnesses—Guyau’s anarchist philosophy, Tolstoy’s philosophy of history, and the anarchist ideas that we encounter every day in literature and of which the Supplement to La Révolte and Les Temps Nouveaux is a living testimony.
+
+Finally, the action of the anarchist conception on the ideal of social democracy is obvious; and this action depends only in part on our propaganda: it results above all from the anarchist tendencies that are emerging in society and of which we are only the spokesmen.
+
+Let us only recall the centralizing, rigidly Jacobin ideal of the Social Democrats before the Paris Commune. At that time it was the anarchists who had to speak of the possibility of the independent Commune, of the communalization of wealth, of the independence of crafts, internationally organized. Well, these points are today acquired for the Social Democrats themselves. Today the communalization of the instruments of production — not nationalization — is a recognized thing, and we see even politicians seriously discussing the question of municipalizing the London docks. “Public services,” that other idea, for which the anarchists once had to sustain so many battles against the centralizing Jacobins in the Congresses of the International, — today it makes the possibilists pale. Or take the general strike, for which we are called mad, and the anti-militarism that made us be called criminals by the revolutionaries of social democracy!...
+
+What is now ancient history for us, and which evokes in us only a dreamy smile, like an old faded flower found in an old book, — is the cost of the current programs of social democracy. So much so that one can say without exaggeration that all the progress of ideas accomplished over the last twenty years by social democracy has been nothing more than collecting the ideas that anarchy dropped on its path, as it continued to develop. Just reread the Jura reports on public services, the Ideas on social organization, etc., for which the learned scholars of socialism treated the “Bakunits” as rabid madmen. It is from these sources that social democracy drinks at this time.
+
+Thus Anarchy has already modified the ideal of the social democrats. It modifies it every day. It will modify it again during the Revolution. And, whatever comes out of the Revolution — it will no longer be the workers’ state of the collectivists. It will be something else — a result of our efforts, combined with those of all socialists.
+
+And this result will be all the more anarchist as the anarchists develop more energy — more living force, as they say in mechanics — in their direction. The more they put individual and collective energy, cerebral and muscular, will and devotion, into the service of their pure and simple ideal; the less they seek compromises, the more clearly they affirm by word and by their lives the communist ideal and the pure and simple anarchist ideal, — all the more the result will lean on their side, towards Communism, towards Anarchy.
+

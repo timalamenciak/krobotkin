@@ -1,0 +1,16 @@
+TITLE: Ideals And Realities In Russian Literature
+AUTHOR: Peter Kropotkin
+YEAR: 1915
+SOURCE_ID: al_petr_kropotkin_ideals_and_realities_in_russian_literature
+SOURCE_PATH: data/raw/Ideals_And_Realities_In_Russian_Literature.txt
+SOURCE_URL: https://theanarchistlibrary.org/library/petr-kropotkin-ideals-and-realities-in-russian-literature.muse
+RETRIEVED_UTC: 2026-02-04T16:54:23Z
+LICENSE_NOTE: Public domain source (see metadata/manifest.csv)
+----
+
+## First Comedies
+
+At the same time comedies also began to be written by the same authors (The Brawler, Strange People, by Knyazhnín) and their followers, and although they were for the most part imitations of the French, nevertheless subjects taken from Russian everyday life began to be introduced. Sumarókoff had already done something in this direction, and he had been seconded by CATHERINE II., who contributed a couple of satirical comedies, taken from her surroundings, such as The Fête of Mrs. Grumbler, and a comic opera from Russian popular life. She was perhaps the first to introduce Russian peasants on the stage; and it is worthy of note that the taste for a popular vein on the stage, rapidly developed — the comedies, The Miller by ABLESÍMOFF, Zbítenshik (The Hawker), by Knyazhnín, and so on, all taken from the life of the people, being for some time great favourites with the playgoers.
+
+VON-WIZIN has already been mentioned in a previous chapter, and it is sufficient here to recall the fact, that by his two comedies, The Brigadier (1768) and Nédorosl (1782), which continued to be played up to the middle of the nineteenth century he became the father of the realistic satirical comedy in Russia. Denunciation (Yábeda), by KAPNIST, and a few comedies contributed by the great fablewriter KRYLÓFF belong to the same category.
+
