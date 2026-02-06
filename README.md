@@ -1,3 +1,4 @@
+# ⋈ krobotkin
 A curated text corpus of writings by Pyotr Kropotkin, prepared for computational and language-model–based analysis.
 
 This repository contains cleaned and compiled text from public-domain works by Kropotkin, organized as a machine-readable dataset.
