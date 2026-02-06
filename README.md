@@ -4,22 +4,55 @@ This repository contains cleaned and compiled text from public-domain works by K
 
 ## Contents
 ```
-/
-├── data/
-│   ├── raw/                  # Source text files
-│   └── kropotkin_corpus/     # Cleaned and compiled corpus
-├── compileCorpus.R           # Script used to build the corpus
-├── krobotkin.Rproj
-└── README.md
+⋈ krobotkin
+|   AL_Downloader.R #Downloads texts from Anarchist Library
+|   compileCorpus.R #Compiles the corpus into chunks
+|   goldInstructionJSON.r #Creates instruction training set for SFT
+|   goldPassages.R #Extracts passages for the creation of instruction training set 
+|   krobotkin.Rproj #R Project file
+|   LICENSE
+|   README.md #You are here
+|
++---data
+|   |   NoteworthyExclusions.txt #I left a couple things out - here's why
+|   |   sources.csv #All sources
+|   |   sources_back.csv #A backup of the original sourcelist
+|   |
+|   \---raw     #Raw texts are here
+|
++---instruction_data
+|       gold_manifest.csv
+|       instructions.jsonl #Final instruction tuning data
+|       instructions_metadata.csv
+|
++---kropotkin_corpus
+|   |   kropotkin_cpt.jsonl #Final corpus file
+|   |   prep_corpus_from_manifest.py
+|   \---Many subfolders of the corpus
+|
+\---training_data_bundle #Ready to go bundle for uploading to a data center
+    |   pythia_cpt_sft.slurm.sh
+    |   train_cpt.py
+    |   train_sft.py
+    |
+    \---data
+            instructions.jsonl
+            kropotkin_cpt.jsonl
 ```
+
+#### Important locations
 
 **data/raw** – Original source texts (public domain)
 
-**data/kropotkin_corpus** – Normalized plain-text corpus
+**kropotkin_corpus** – Normalized plain-text corpus
 
-**compileCorpus.R** – R script to clean and compile the dataset
+**instruction_data** - Instruction dataset generated mainly with Claude
+
+**training_data_bundle** - All the stuff to train
 
 ### Training data summary
+
+#### Corpus
 
 - Works: **88**
 - Units (chapter/section files): **320**
@@ -27,6 +60,14 @@ This repository contains cleaned and compiled text from public-domain works by K
 - Total characters (unit bodies): **8,318,162**
 - Unit words (min/median/mean/max): **199 / 1431 / 4410 / 204074**
 - Unit chars (min/median/mean/max): **1227 / 8679 / 25994.3 / 1205630**
+
+#### Instructions
+
+|Example type  | n  |
+|--------------|----|
+| contrastive | 150 |
+| grounded    |1485| 
+| modern_synthesis |30|
 
 ## Usage
 
