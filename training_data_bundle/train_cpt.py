@@ -18,6 +18,9 @@ Example:
 
 import argparse
 import os
+# FIX 1: Removed bogus import `from pyexpat import model`
+#         This shadows the `model` variable later and imports an
+#         unrelated XML parser symbol.
 import random
 
 import torch
@@ -25,10 +28,10 @@ from datasets import load_dataset
 from transformers import (
     AutoTokenizer,
     AutoModelForCausalLM,
+    BitsAndBytesConfig,          # FIX 2: Missing import (used when --use_4bit)
     TrainingArguments,
     Trainer,
-    DataCollatorForLanguageModeling,
-    BitsAndBytesConfig,
+    DataCollatorForLanguageModeling
 )
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 
@@ -66,6 +69,12 @@ def main():
     ap.add_argument("--logging_steps", type=int, default=25)
     ap.add_argument("--save_steps", type=int, default=500)
     ap.add_argument("--save_total_limit", type=int, default=3)
+
+    ap.add_argument("--smoke", action="store_true", help="Run a tiny 1-step sanity train and exit.")
+    ap.add_argument("--max_train_samples", type=int, default=None)
+    ap.add_argument("--max_eval_samples", type=int, default=None)
+    ap.add_argument("--max_steps", type=int, default=-1, help="Override Trainer max_steps (e.g., 1 for smoke).")
+    ap.add_argument("--no_save", action="store_true", help="Do not save model/tokenizer (useful for smoke).")
 
     args = ap.parse_args()
     os.makedirs(args.out, exist_ok=True)
@@ -110,6 +119,24 @@ def main():
     )
     model = get_peft_model(model, lora)
 
+    # ---- REQUIRED for PEFT + gradient checkpointing ----
+    model.config.use_cache = False
+
+    # FIX 3 (THE CRASH FIX): enable_input_require_grads() is REQUIRED when
+    # using gradient_checkpointing with PEFT/LoRA *without* QLoRA.
+    # prepare_model_for_kbit_training() does this internally, but when
+    # --use_4bit is NOT passed (as in your SLURM script), nothing sets it,
+    # causing "element 0 of tensors does not require grad" at backward().
+    model.enable_input_require_grads()
+
+    trainable = sum(p.numel() for p in model.parameters() if p.requires_grad)
+    total = sum(p.numel() for p in model.parameters())
+    print(f"trainable params: {trainable:,} / {total:,}")
+    if trainable == 0:
+        raise RuntimeError("No trainable parameters; aborting.")
+
+    # FIX 4: Removed duplicate trainable-param print block that was here.
+
     # Load dataset
     if os.path.exists(args.data):
         ext = os.path.splitext(args.data)[1].lower().lstrip(".")
@@ -130,6 +157,16 @@ def main():
     # Train/eval split
     split = ds.train_test_split(test_size=args.eval_ratio, seed=args.seed)
     train_ds, eval_ds = split["train"], split["test"]
+
+    if args.max_train_samples:
+        train_ds = train_ds.select(range(min(len(train_ds), args.max_train_samples)))
+    if args.max_eval_samples:
+        eval_ds = eval_ds.select(range(min(len(eval_ds), args.max_eval_samples)))
+
+    if args.smoke:
+        # keep it fast
+        train_ds = train_ds.select(range(min(len(train_ds), 64)))
+        eval_ds  = eval_ds.select(range(min(len(eval_ds), 16)))
 
     # Tokenize
     def tokenize(batch):
@@ -158,8 +195,7 @@ def main():
     eval_ds = eval_ds.map(group_texts, batched=True)
 
     collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
-
-    training_args = TrainingArguments(
+    ta_kwargs = dict(
         output_dir=args.out,
         num_train_epochs=args.epochs,
         learning_rate=args.lr,
@@ -168,8 +204,8 @@ def main():
         per_device_train_batch_size=args.per_device_batch,
         per_device_eval_batch_size=1,
         gradient_accumulation_steps=args.grad_accum,
-        evaluation_strategy="steps",
         eval_steps=args.save_steps,
+        eval_strategy="steps",
         save_strategy="steps",
         save_steps=args.save_steps,
         save_total_limit=args.save_total_limit,
@@ -177,10 +213,24 @@ def main():
         bf16=args.bf16,
         fp16=args.fp16 and not args.bf16,
         gradient_checkpointing=True,
+        # FIX 5: Pass gradient_checkpointing_kwargs to silence the
+        # "use_reentrant" deprecation warning from torch checkpoint.
+        gradient_checkpointing_kwargs={"use_reentrant": False},
         optim="paged_adamw_8bit" if args.use_4bit else "adamw_torch",
         lr_scheduler_type="cosine",
         report_to="none",
     )
+
+    if args.max_steps and args.max_steps > 0:
+        ta_kwargs["max_steps"] = args.max_steps
+
+    if args.smoke:
+        ta_kwargs["max_steps"] = 1
+        ta_kwargs["save_steps"] = 999999
+        ta_kwargs["eval_steps"] = 999999
+        ta_kwargs["logging_steps"] = 1
+
+    training_args = TrainingArguments(**ta_kwargs)
 
     trainer = Trainer(
         model=model,
@@ -191,8 +241,9 @@ def main():
     )
 
     trainer.train()
-    trainer.save_model(args.out)
-    tokenizer.save_pretrained(args.out)
+    if not args.no_save and not args.smoke:
+        trainer.save_model(args.out)
+        tokenizer.save_pretrained(args.out)
     print(f"Saved CPT LoRA adapters + tokenizer to: {args.out}")
 
 
